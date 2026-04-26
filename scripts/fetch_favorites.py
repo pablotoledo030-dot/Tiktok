@@ -101,7 +101,7 @@ def iter_items(
 
 
 def main() -> int:
-    username = os.environ.get("TIKTOK_USERNAME", "").lstrip("@")
+    username = os.environ.get("TIKTOK_USERNAME", "pablotoledo02").lstrip("@")
     source = os.environ.get("TIKTOK_SOURCE", "likes").lower()
     cookies = os.environ.get("TIKTOK_COOKIES", "")
 

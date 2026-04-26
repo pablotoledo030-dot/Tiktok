@@ -9,8 +9,9 @@ Pasos:
   3. Para cada video nuevo:
         - descarga .mp4 con yt-dlp
         - transcribe con faster-whisper -> .txt + .json
-        - escribe metadata.json
-        - sube a Drive con rclone
+        - escribe transcripts/<id>/{transcript.txt, transcript.json,
+          metadata.json} en el propio repo (commit-able)
+        - opcionalmente sube el .mp4 (+ los txt) a Drive con rclone
   4. Actualiza data/index.json y deja todo listo para commit.
 """
 from __future__ import annotations
@@ -25,6 +26,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 INDEX_FILE = ROOT / "data" / "index.json"
+TRANSCRIPTS_DIR = ROOT / "transcripts"
 WORK = ROOT / "work"
 SCRIPTS = ROOT / "scripts"
 
@@ -62,8 +64,16 @@ def fetch_from_manual_urls() -> list[dict]:
         return []
     items = []
     for url in [u.strip() for u in raw.split(",") if u.strip()]:
-        # Acepta URLs cortas y largas; yt-dlp resolverá metadata.
-        items.append({"id": url.rsplit("/", 1)[-1].split("?")[0], "url": url, "author": "", "desc": "", "create_time": None, "duration": None})
+        items.append(
+            {
+                "id": url.rsplit("/", 1)[-1].split("?")[0],
+                "url": url,
+                "author": "",
+                "desc": "",
+                "create_time": None,
+                "duration": None,
+            }
+        )
     return items
 
 
@@ -104,6 +114,25 @@ def rclone_upload(local_dir: Path, remote_subdir: str) -> None:
     run(["rclone", "copy", str(local_dir), target, "--transfers=2", "--checkers=4"])
 
 
+def write_repo_transcript(item: dict, work_dir: Path, video_path: Path,
+                          txt_path: Path, json_path: Path) -> Path:
+    """Copia .txt + .json + metadata.json a transcripts/<id>/ del repo."""
+    vid = item["id"]
+    repo_dir = TRANSCRIPTS_DIR / vid
+    repo_dir.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(txt_path, repo_dir / "transcript.txt")
+    shutil.copy2(json_path, repo_dir / "transcript.json")
+    metadata = {
+        **item,
+        "video_file": video_path.name,
+        "processed_at": datetime.now(timezone.utc).isoformat(),
+    }
+    (repo_dir / "metadata.json").write_text(
+        json.dumps(metadata, ensure_ascii=False, indent=2)
+    )
+    return repo_dir
+
+
 def process(item: dict, idx: dict) -> bool:
     vid = item["id"]
     if vid in idx:
@@ -129,30 +158,21 @@ def process(item: dict, idx: dict) -> bool:
         print(f"[sync] error transcripción en {vid}: {e}", file=sys.stderr)
         return False
 
-    metadata = {
-        **item,
-        "video_file": video_path.name,
-        "txt_file": txt_path.name,
-        "json_file": json_path.name,
-        "processed_at": datetime.now(timezone.utc).isoformat(),
-    }
-    (work_dir / "metadata.json").write_text(
-        json.dumps(metadata, ensure_ascii=False, indent=2)
-    )
+    write_repo_transcript(item, work_dir, video_path, txt_path, json_path)
 
-    if os.environ.get("RCLONE_UPLOAD", "1") == "1":
+    if os.environ.get("RCLONE_UPLOAD", "0") == "1":
         ts = datetime.now(timezone.utc).strftime("%Y-%m")
         try:
-            rclone_upload(work_dir, ts)
+            rclone_upload(work_dir, f"{ts}/{vid}")
         except subprocess.CalledProcessError as e:
             print(f"[sync] error rclone en {vid}: {e}", file=sys.stderr)
-            return False
+            # No abortamos: la transcripción ya está en el repo.
 
     idx[vid] = {
         "url": item["url"],
         "author": item.get("author", ""),
         "desc": item.get("desc", ""),
-        "processed_at": metadata["processed_at"],
+        "processed_at": datetime.now(timezone.utc).isoformat(),
     }
 
     if os.environ.get("KEEP_LOCAL", "0") != "1":
@@ -162,6 +182,7 @@ def process(item: dict, idx: dict) -> bool:
 
 def main() -> int:
     WORK.mkdir(exist_ok=True)
+    TRANSCRIPTS_DIR.mkdir(exist_ok=True)
     idx = load_index()
 
     items = fetch_from_manual_urls() or fetch_from_tiktok()
@@ -171,7 +192,7 @@ def main() -> int:
     for item in items:
         if process(item, idx):
             new_count += 1
-            save_index(idx)  # guarda incremental por si falla a mitad
+            save_index(idx)
 
     print(f"[sync] añadidos {new_count} nuevos", file=sys.stderr)
     return 0
