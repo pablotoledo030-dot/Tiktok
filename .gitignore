@@ -1,0 +1,11 @@
+work/
+*.mp4
+*.wav
+*.m4a
+*.webm
+__pycache__/
+*.pyc
+.venv/
+.env
+rclone.conf
+cookies.txt

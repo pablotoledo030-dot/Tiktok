@@ -1,0 +1,97 @@
+name: Sync TikTok favorites
+
+on:
+  schedule:
+    # Cada hora en el minuto :15 (UTC). Ajusta a gusto.
+    - cron: "15 * * * *"
+  workflow_dispatch:
+    inputs:
+      manual_urls:
+        description: "URLs sueltas separadas por coma (opcional, salta el fetch automático)"
+        required: false
+        default: ""
+  repository_dispatch:
+    types: [tiktok-share]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tiktok-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Install rclone
+        run: |
+          curl -fsSL https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone
+        env:
+          RCLONE_CONF_BASE64: ${{ secrets.RCLONE_CONF_BASE64 }}
+        run: |
+          mkdir -p ~/.config/rclone
+          printf '%s' "$RCLONE_CONF_BASE64" | base64 -d > ~/.config/rclone/rclone.conf
+          rclone listremotes
+
+      - name: Cache faster-whisper model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-${{ env.WHISPER_MODEL }}
+        env:
+          WHISPER_MODEL: ${{ vars.WHISPER_MODEL || 'small' }}
+
+      - name: Install python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Determine manual URLs
+        id: manual
+        run: |
+          MANUAL=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MANUAL="${{ github.event.inputs.manual_urls }}"
+          fi
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            MANUAL="${{ github.event.client_payload.url }}"
+          fi
+          echo "manual=$MANUAL" >> "$GITHUB_OUTPUT"
+
+      - name: Run sync
+        env:
+          TIKTOK_USERNAME: ${{ vars.TIKTOK_USERNAME }}
+          TIKTOK_SOURCE:   ${{ vars.TIKTOK_SOURCE || 'likes' }}
+          TIKTOK_COOKIES:  ${{ secrets.TIKTOK_COOKIES }}
+          WHISPER_MODEL:   ${{ vars.WHISPER_MODEL || 'small' }}
+          WHISPER_LANGUAGE: ${{ vars.WHISPER_LANGUAGE || 'es' }}
+          RCLONE_REMOTE:   ${{ vars.RCLONE_REMOTE || 'drive' }}
+          RCLONE_BASE_DIR: ${{ vars.RCLONE_BASE_DIR || 'TikTok-Favoritos' }}
+          MANUAL_URLS:     ${{ steps.manual.outputs.manual }}
+        run: python scripts/sync.py
+
+      - name: Commit index updates
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config user.name  "tiktok-sync-bot"
+            git config user.email "tiktok-sync-bot@users.noreply.github.com"
+            git add data/
+            git commit -m "chore: update index $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No changes to data/index.json"
+          fi
