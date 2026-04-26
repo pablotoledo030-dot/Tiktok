@@ -76,7 +76,7 @@ Copia ese string.
 |---|---|
 | `TIKTOK_USERNAME` | `pablotoledo02` |
 | `TIKTOK_SOURCE` | `likes` *(o `favorites` si haces el plan B)* |
-| `WHISPER_MODEL` | `small` *(equilibrio velocidad/calidad)* |
+| `WHISPER_MODEL` | `base` *(rápido, calidad razonable; sube a `small`/`medium` si no es suficiente)* |
 | `WHISPER_LANGUAGE` | `es` |
 | `RCLONE_REMOTE` | `drive` |
 | `RCLONE_BASE_DIR` | `TikTok-Favoritos` |

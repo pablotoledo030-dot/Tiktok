@@ -53,7 +53,7 @@ jobs:
           path: ~/.cache/huggingface
           key: whisper-${{ env.WHISPER_MODEL }}
         env:
-          WHISPER_MODEL: ${{ vars.WHISPER_MODEL || 'small' }}
+          WHISPER_MODEL: ${{ vars.WHISPER_MODEL || 'base' }}
 
       - name: Install python deps
         run: |
@@ -77,7 +77,7 @@ jobs:
           TIKTOK_USERNAME: ${{ vars.TIKTOK_USERNAME }}
           TIKTOK_SOURCE:   ${{ vars.TIKTOK_SOURCE || 'likes' }}
           TIKTOK_COOKIES:  ${{ secrets.TIKTOK_COOKIES }}
-          WHISPER_MODEL:   ${{ vars.WHISPER_MODEL || 'small' }}
+          WHISPER_MODEL:   ${{ vars.WHISPER_MODEL || 'base' }}
           WHISPER_LANGUAGE: ${{ vars.WHISPER_LANGUAGE || 'es' }}
           RCLONE_REMOTE:   ${{ vars.RCLONE_REMOTE || 'drive' }}
           RCLONE_BASE_DIR: ${{ vars.RCLONE_BASE_DIR || 'TikTok-Favoritos' }}
