@@ -1,0 +1,10 @@
+; Plantilla mínima para Google Drive con tu cuenta personal.
+; Genera la real con `rclone config` y luego codifícala con:
+;   base64 -w0 ~/.config/rclone/rclone.conf
+; Pega el resultado en el secret RCLONE_CONF_BASE64 del repo.
+
+[drive]
+type = drive
+scope = drive
+token = {"access_token":"...","token_type":"Bearer","refresh_token":"...","expiry":"..."}
+team_drive =
