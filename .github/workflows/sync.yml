@@ -75,21 +75,22 @@ jobs:
 
       - name: Run sync
         env:
-          TIKTOK_USERNAME:  ${{ vars.TIKTOK_USERNAME  || 'pablotoledo02' }}
-          TIKTOK_SOURCE:    ${{ vars.TIKTOK_SOURCE    || 'likes' }}
-          TIKTOK_COOKIES:   ${{ secrets.TIKTOK_COOKIES }}
-          WHISPER_MODEL:    ${{ vars.WHISPER_MODEL    || 'base' }}
+          TIKTOK_USERNAME: ${{ vars.TIKTOK_USERNAME || 'pablotoledo02' }}
+          TIKTOK_SOURCE: ${{ vars.TIKTOK_SOURCE || 'likes' }}
+          TIKTOK_COOKIES: ${{ secrets.TIKTOK_COOKIES }}
+          TIKTOK_SEC_UID: ${{ vars.TIKTOK_SEC_UID }}
+          WHISPER_MODEL: ${{ vars.WHISPER_MODEL || 'base' }}
           WHISPER_LANGUAGE: ${{ vars.WHISPER_LANGUAGE || 'es' }}
-          RCLONE_REMOTE:    ${{ vars.RCLONE_REMOTE    || 'drive' }}
-          RCLONE_BASE_DIR:  ${{ vars.RCLONE_BASE_DIR  || 'TikTok-Favoritos' }}
-          RCLONE_UPLOAD:    ${{ env.RCLONE_CONF_BASE64 != '' && '1' || '0' }}
-          MANUAL_URLS:      ${{ steps.manual.outputs.manual }}
+          RCLONE_REMOTE: ${{ vars.RCLONE_REMOTE || 'drive' }}
+          RCLONE_BASE_DIR: ${{ vars.RCLONE_BASE_DIR || 'TikTok-Favoritos' }}
+          RCLONE_UPLOAD: ${{ env.RCLONE_CONF_BASE64 != '' && '1' || '0' }}
+          MANUAL_URLS: ${{ steps.manual.outputs.manual }}
         run: python scripts/sync.py
 
       - name: Commit transcripts and index
         run: |
           if [ -n "$(git status --porcelain data/ transcripts/)" ]; then
-            git config user.name  "tiktok-sync-bot"
+            git config user.name "tiktok-sync-bot"
             git config user.email "tiktok-sync-bot@users.noreply.github.com"
             git add data/ transcripts/
             git commit -m "chore: nuevas transcripciones $(date -u +%Y-%m-%dT%H:%MZ)"
