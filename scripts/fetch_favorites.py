@@ -52,14 +52,40 @@ def extract_sec_uid(html: str) -> str | None:
     return m.group(1) if m else None
 
 
+def diagnose_html(html: str) -> str:
+    """Devuelve una pista de por qué falla el HTML de perfil."""
+    low = html.lower()
+    if len(html) < 500:
+        return f"respuesta sospechosamente corta ({len(html)} bytes)"
+    if "captcha" in low or "verify" in low and "human" in low:
+        return "TikTok devolvió un challenge/captcha (típico desde IP datacenter)"
+    if "blocked" in low or "access denied" in low:
+        return "TikTok ha bloqueado la IP del runner"
+    if "couldn't find this account" in low or "no se encontró" in low:
+        return "username no existe o perfil eliminado"
+    if "<title>tiktok</title>" in low and "secuid" not in low:
+        return "TikTok devolvió la página genérica (sin datos del perfil) — anti-bot"
+    return "razón desconocida; revisa el snippet de HTML que sigue"
+
+
 def fetch_sec_uid(session: requests.Session, username: str) -> str:
-    r = session.get(PROFILE_URL.format(username=username), timeout=30)
+    url = PROFILE_URL.format(username=username)
+    r = session.get(url, timeout=30)
+    print(f"[fetch] perfil GET {url} -> HTTP {r.status_code} ({len(r.text)} bytes)",
+          file=sys.stderr)
     r.raise_for_status()
     sec_uid = extract_sec_uid(r.text)
     if not sec_uid:
+        diag = diagnose_html(r.text)
+        snippet = r.text[:400].replace("\n", " ")
         raise RuntimeError(
-            "No se encontró secUid en el HTML del perfil. Causas comunes: "
-            "perfil privado, anti-bot de TikTok, o username incorrecto."
+            "No se encontró secUid en el HTML del perfil.\n"
+            f"  Diagnóstico: {diag}\n"
+            f"  Primeros 400 chars: {snippet!r}\n"
+            "  Soluciones:\n"
+            "    1. Asegúrate de que la pestaña 'Me gusta' está PÚBLICA en TikTok.\n"
+            "    2. Añade el secret TIKTOK_COOKIES con tus cookies del navegador.\n"
+            "    3. Si ya tienes cookies, regenéralas (caducan cada 30-60 días)."
         )
     return sec_uid
 
@@ -80,16 +106,28 @@ def iter_items(
             "secUid": sec_uid,
         }
         r = session.get(f"{api_url}?{urlencode(params)}", timeout=30)
+        print(f"[fetch] api GET cursor={cursor} -> HTTP {r.status_code} "
+              f"({len(r.text)} bytes)", file=sys.stderr)
         if r.status_code != 200:
-            print(f"[fetch] HTTP {r.status_code}: {r.text[:200]}", file=sys.stderr)
+            print(f"[fetch] cuerpo: {r.text[:300]}", file=sys.stderr)
             r.raise_for_status()
         try:
             data = r.json()
         except json.JSONDecodeError:
-            print(f"[fetch] respuesta no-JSON: {r.text[:200]}", file=sys.stderr)
+            print(f"[fetch] respuesta no-JSON (probable challenge anti-bot):"
+                  f" {r.text[:300]}", file=sys.stderr)
             return
 
-        for it in data.get("itemList") or []:
+        items = data.get("itemList") or []
+        if not items and cursor == "0":
+            status_code = data.get("statusCode") or data.get("status_code")
+            status_msg = data.get("statusMsg") or data.get("status_msg") or ""
+            print(f"[fetch] itemList vacío en primera página. "
+                  f"statusCode={status_code} statusMsg={status_msg!r}. "
+                  "Causas típicas: pestaña 'Me gusta' no es pública, "
+                  "cookies caducadas, o IP del runner bloqueada por TikTok.",
+                  file=sys.stderr)
+        for it in items:
             yield it
 
         if not data.get("hasMore"):
