@@ -1,18 +1,18 @@
 """Orquestador del pipeline.
 
 Pasos:
-  1. Lee data/index.json (videos ya procesados).
-  2. Obtiene la lista actual de favoritos/likes desde TikTok
-     (scripts/fetch_favorites.py) — opcionalmente, acepta URLs sueltas
-     pasadas por la variable MANUAL_URLS (separadas por coma) para el
-     flujo "compartir desde Android".
-  3. Para cada video nuevo:
-        - descarga .mp4 con yt-dlp
-        - transcribe con faster-whisper -> .txt + .json
-        - escribe transcripts/<id>/{transcript.txt, transcript.json,
-          metadata.json} en el propio repo (commit-able)
-        - opcionalmente sube el .mp4 (+ los txt) a Drive con rclone
-  4. Actualiza data/index.json y deja todo listo para commit.
+1. Lee data/index.json (videos ya procesados).
+2. Obtiene la lista actual de favoritos/likes desde TikTok
+   (scripts/fetch_favorites.py) — opcionalmente, acepta URLs sueltas
+   pasadas por la variable MANUAL_URLS (separadas por coma) para el
+   flujo "compartir desde Android".
+3. Para cada video nuevo:
+     - descarga .mp4 con yt-dlp
+     - transcribe con faster-whisper -> .txt + .json
+     - escribe transcripts/<id>/{transcript.txt, transcript.json,
+       metadata.json} en el propio repo (commit-able)
+     - opcionalmente sube el .mp4 (+ los txt) a Drive con rclone
+4. Actualiza data/index.json y deja todo listo para commit.
 """
 from __future__ import annotations
 
@@ -50,12 +50,27 @@ def save_index(idx: dict) -> None:
 def fetch_from_tiktok() -> list[dict]:
     out = subprocess.run(
         [sys.executable, str(SCRIPTS / "fetch_favorites.py")],
-        check=True,
+        check=False,
         capture_output=True,
         text=True,
         env=os.environ,
     )
-    return json.loads(out.stdout or "[]")
+    if out.stderr:
+        print(out.stderr, file=sys.stderr, end="")
+    if out.returncode != 0:
+        print(
+            f"[sync] fetch_favorites.py salio con codigo {out.returncode}",
+            file=sys.stderr,
+        )
+        if out.stdout:
+            print(f"[sync] STDOUT capturado: {out.stdout[:500]}", file=sys.stderr)
+        return []
+    try:
+        return json.loads(out.stdout or "[]")
+    except json.JSONDecodeError as e:
+        print(f"[sync] no se pudo parsear stdout como JSON: {e}", file=sys.stderr)
+        print(f"[sync] STDOUT crudo: {out.stdout[:500]}", file=sys.stderr)
+        return []
 
 
 def fetch_from_manual_urls() -> list[dict]:
@@ -85,9 +100,12 @@ def yt_dlp_download(url: str, dest_dir: Path) -> Path:
         "--no-playlist",
         "--no-warnings",
         "--restrict-filenames",
-        "-f", "mp4/best",
-        "-o", out_tpl,
-        "--print", "after_move:filepath",
+        "-f",
+        "mp4/best",
+        "-o",
+        out_tpl,
+        "--print",
+        "after_move:filepath",
         url,
     ]
     cookies = os.environ.get("TIKTOK_COOKIES")
@@ -103,7 +121,8 @@ def yt_dlp_download(url: str, dest_dir: Path) -> Path:
 def transcribe(video: Path, txt_out: Path, json_out: Path) -> None:
     run([
         sys.executable, str(SCRIPTS / "transcribe.py"),
-        str(video), str(txt_out), "--json", str(json_out),
+        str(video), str(txt_out),
+        "--json", str(json_out),
     ])
 
 
@@ -114,8 +133,7 @@ def rclone_upload(local_dir: Path, remote_subdir: str) -> None:
     run(["rclone", "copy", str(local_dir), target, "--transfers=2", "--checkers=4"])
 
 
-def write_repo_transcript(item: dict, work_dir: Path, video_path: Path,
-                          txt_path: Path, json_path: Path) -> Path:
+def write_repo_transcript(item: dict, work_dir: Path, video_path: Path, txt_path: Path, json_path: Path) -> Path:
     """Copia .txt + .json + metadata.json a transcripts/<id>/ del repo."""
     vid = item["id"]
     repo_dir = TRANSCRIPTS_DIR / vid
@@ -138,43 +156,36 @@ def process(item: dict, idx: dict) -> bool:
     if vid in idx:
         return False
     print(f"[sync] nuevo video {vid} ({item.get('author','?')})", file=sys.stderr)
-
     work_dir = WORK / vid
     if work_dir.exists():
         shutil.rmtree(work_dir)
     work_dir.mkdir(parents=True)
-
     try:
         video_path = yt_dlp_download(item["url"], work_dir)
     except subprocess.CalledProcessError as e:
         print(f"[sync] error yt-dlp en {vid}: {e.stderr or e}", file=sys.stderr)
         return False
-
     txt_path = work_dir / f"{vid}.txt"
     json_path = work_dir / f"{vid}.json"
     try:
         transcribe(video_path, txt_path, json_path)
     except subprocess.CalledProcessError as e:
-        print(f"[sync] error transcripción en {vid}: {e}", file=sys.stderr)
+        print(f"[sync] error transcripcion en {vid}: {e}", file=sys.stderr)
         return False
-
     write_repo_transcript(item, work_dir, video_path, txt_path, json_path)
-
     if os.environ.get("RCLONE_UPLOAD", "0") == "1":
         ts = datetime.now(timezone.utc).strftime("%Y-%m")
         try:
             rclone_upload(work_dir, f"{ts}/{vid}")
         except subprocess.CalledProcessError as e:
             print(f"[sync] error rclone en {vid}: {e}", file=sys.stderr)
-            # No abortamos: la transcripción ya está en el repo.
-
+            # No abortamos: la transcripcion ya esta en el repo.
     idx[vid] = {
         "url": item["url"],
         "author": item.get("author", ""),
         "desc": item.get("desc", ""),
         "processed_at": datetime.now(timezone.utc).isoformat(),
     }
-
     if os.environ.get("KEEP_LOCAL", "0") != "1":
         shutil.rmtree(work_dir, ignore_errors=True)
     return True
@@ -184,17 +195,14 @@ def main() -> int:
     WORK.mkdir(exist_ok=True)
     TRANSCRIPTS_DIR.mkdir(exist_ok=True)
     idx = load_index()
-
     items = fetch_from_manual_urls() or fetch_from_tiktok()
     print(f"[sync] {len(items)} videos en la fuente, {len(idx)} ya procesados", file=sys.stderr)
-
     new_count = 0
     for item in items:
         if process(item, idx):
             new_count += 1
-            save_index(idx)
-
-    print(f"[sync] añadidos {new_count} nuevos", file=sys.stderr)
+    save_index(idx)
+    print(f"[sync] anadidos {new_count} nuevos", file=sys.stderr)
     return 0
 
 
