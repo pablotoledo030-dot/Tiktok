@@ -1,0 +1,43 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 35.3189375,
+  "text": "Aquí me preguntan qué si le gais que casi nadie lo sabe. En derecho penal hay un principio que se llama el principio de la insignificancia, que en donde una conducta es considerada un delito, sin embargo, su realización socialmente es aceptada y por eso no se castiga. Hay muchas situaciones la que se me ocurre ahora es por ejemplo el hecho de que los funcionarios públicos reciban esos regalos que le dan los usuarios al momento de atender segones ellos, eso viene haciendo una goima o un coche pero es socialmente aceptado.",
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 4.66,
+      "text": "Aquí me preguntan qué si le gais que casi nadie lo sabe. En derecho penal hay un"
+    },
+    {
+      "start": 4.66,
+      "end": 7.78,
+      "text": "principio que se llama el principio de la insignificancia, que en donde una"
+    },
+    {
+      "start": 7.78,
+      "end": 13.52,
+      "text": "conducta es considerada un delito, sin embargo, su realización socialmente es"
+    },
+    {
+      "start": 13.52,
+      "end": 20.82,
+      "text": "aceptada y por eso no se castiga. Hay muchas situaciones la que se me ocurre ahora"
+    },
+    {
+      "start": 20.82,
+      "end": 26.14,
+      "text": "es por ejemplo el hecho de que los funcionarios públicos reciban esos regalos"
+    },
+    {
+      "start": 26.14,
+      "end": 30.66,
+      "text": "que le dan los usuarios al momento de atender segones ellos, eso viene haciendo"
+    },
+    {
+      "start": 30.66,
+      "end": 36.7,
+      "text": "una goima o un coche pero es socialmente aceptado."
+    }
+  ]
+}

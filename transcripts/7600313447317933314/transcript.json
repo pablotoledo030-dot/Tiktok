@@ -1,0 +1,213 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 173.7563125,
+  "text": "ChaGPT acaba de lanzar Pritz, una nueva plataforma gratuita que te ayuda a redactar artículos científicos pero con inteligencia artificial integrada. Quédate porque te voy a enseñar qué es pero antes guardaste el vídeo para no perderlo y sí que me para más. Para probar esta nueva plataforma solo tienes que ir a OpenApp.com barradpritz. Y aquí vais a acceder a esta página web. Le podéis clica aquí directamente para acceder a la plataforma pero si vais estroleando hacia abajo vais a ver algunas de las funcionalidades de esta plataforma. Desde proofreading de toda vuestra información de la artículo científico hasta invitar a otra gente para colaborar en el mismo documento y muchísimo más. Así que si volvemos arriba y le dais al botor de Exploral Pritz se os va a abrir esta pantalla donde podréis ver por defecto los proyectos que se han compartido contigo para colaborar y tus propios proyectos. Aquí por defecto os va a salir uno que es el proyecto que han utilizado los de OpenAI como ejemplo para la demo y aquí vais a ver diferentes cosas. Para entender un poco que estamos viendo la pantalla vamos a empezar por la derecha. Aquí lo que podemos ver es una previsualización de nuestro documento científico y el cual es interactivo y podemos descargar en pdf. Aquí si le damos clic en alguno de los textos nos va a llevar directamente al código donde este texto está escrito. Aquí en la parte del medio vais a ver todas las pestañas de todos los documentos o archivos que tenéis abierto. Aquí por ejemplo tengo Unchart abierto con OpenAI para pedirle cambios en nuestro documento. Por último aquí en el menu lateral izquierdo vais a ver todos los archivos que tenéis subidos para este artículo científico, todos los chats que tenéis abierto con chá GBT, le podéis dar al botón de share para pedir a otra gente que colabore con vuestro artículo científico y también muy importante aquí en settings podéis cambiar muchas de las opciones de esta plataforma. Y evidentemente como disponemos de chats con chat gpt este artículo científico o cualquiera lo podemos mejorar de mil formas. Aquí por ejemplo le estamos pidiendo que añada una imagen en un sitio muy específico de una gráfica que hemos hecho a mano. Así que la añadimos y le vamos a dar a intro. Y aquí vemos como ya lo ha hecho pero no somos capaces de verlo aquí porque primero tenemos que compilar otra vez el código. Así que le damos aquí y podemos ver como ya ha añadido la gráfica en el punto que queríamos. Y otra funcionalidad muy importante es esta que tenemos aquí de tools que si le dais vais a ver los logs del código y podéis pedir que los arregle en caso que haya algún error o warning podéis ver los comentarios de documentos y tenéis y hasta información del propio proyecto. Y recuerda que información como esta la compartó cada día nuestra comunidad es totalmente gratuito y ya somos 150 personas y tenéis enlace en mi perfil.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "ChaGPT acaba de lanzar Pritz, una nueva plataforma gratuita que te ayuda a redactar artículos"
+    },
+    {
+      "start": 4.9,
+      "end": 8.42,
+      "text": "científicos pero con inteligencia artificial integrada."
+    },
+    {
+      "start": 8.42,
+      "end": 12.06,
+      "text": "Quédate porque te voy a enseñar qué es pero antes guardaste el vídeo para no perderlo"
+    },
+    {
+      "start": 12.06,
+      "end": 13.54,
+      "text": "y sí que me para más."
+    },
+    {
+      "start": 13.54,
+      "end": 18.7,
+      "text": "Para probar esta nueva plataforma solo tienes que ir a OpenApp.com barradpritz."
+    },
+    {
+      "start": 18.7,
+      "end": 21.26,
+      "text": "Y aquí vais a acceder a esta página web."
+    },
+    {
+      "start": 21.26,
+      "end": 26.74,
+      "text": "Le podéis clica aquí directamente para acceder a la plataforma pero si vais estroleando hacia"
+    },
+    {
+      "start": 26.74,
+      "end": 31.22,
+      "text": "abajo vais a ver algunas de las funcionalidades de esta plataforma."
+    },
+    {
+      "start": 31.22,
+      "end": 36.46,
+      "text": "Desde proofreading de toda vuestra información de la artículo científico hasta invitar"
+    },
+    {
+      "start": 36.46,
+      "end": 42.62,
+      "text": "a otra gente para colaborar en el mismo documento y muchísimo más."
+    },
+    {
+      "start": 42.62,
+      "end": 47.66,
+      "text": "Así que si volvemos arriba y le dais al botor de Exploral Pritz se os va a abrir esta pantalla"
+    },
+    {
+      "start": 47.66,
+      "end": 52.38,
+      "text": "donde podréis ver por defecto los proyectos que se han compartido contigo para colaborar"
+    },
+    {
+      "start": 52.38,
+      "end": 54.26,
+      "text": "y tus propios proyectos."
+    },
+    {
+      "start": 54.26,
+      "end": 59.42,
+      "text": "Aquí por defecto os va a salir uno que es el proyecto que han utilizado los de OpenAI"
+    },
+    {
+      "start": 59.42,
+      "end": 63.38,
+      "text": "como ejemplo para la demo y aquí vais a ver diferentes cosas."
+    },
+    {
+      "start": 63.38,
+      "end": 67.06,
+      "text": "Para entender un poco que estamos viendo la pantalla vamos a empezar por la derecha."
+    },
+    {
+      "start": 67.06,
+      "end": 72.5,
+      "text": "Aquí lo que podemos ver es una previsualización de nuestro documento científico y el cual"
+    },
+    {
+      "start": 72.5,
+      "end": 76.6,
+      "text": "es interactivo y podemos descargar en pdf."
+    },
+    {
+      "start": 76.6,
+      "end": 82.02,
+      "text": "Aquí si le damos clic en alguno de los textos nos va a llevar directamente al código donde"
+    },
+    {
+      "start": 82.02,
+      "end": 84.24,
+      "text": "este texto está escrito."
+    },
+    {
+      "start": 84.24,
+      "end": 89.12,
+      "text": "Aquí en la parte del medio vais a ver todas las pestañas de todos los documentos o archivos"
+    },
+    {
+      "start": 89.12,
+      "end": 90.12,
+      "text": "que tenéis abierto."
+    },
+    {
+      "start": 90.12,
+      "end": 96.36,
+      "text": "Aquí por ejemplo tengo Unchart abierto con OpenAI para pedirle cambios en nuestro documento."
+    },
+    {
+      "start": 96.36,
+      "end": 100.72,
+      "text": "Por último aquí en el menu lateral izquierdo vais a ver todos los archivos que tenéis subidos"
+    },
+    {
+      "start": 100.72,
+      "end": 105.6,
+      "text": "para este artículo científico, todos los chats que tenéis abierto con chá GBT, le podéis"
+    },
+    {
+      "start": 105.6,
+      "end": 111.08,
+      "text": "dar al botón de share para pedir a otra gente que colabore con vuestro artículo científico"
+    },
+    {
+      "start": 111.08,
+      "end": 117.52,
+      "text": "y también muy importante aquí en settings podéis cambiar muchas de las opciones de esta"
+    },
+    {
+      "start": 117.52,
+      "end": 118.52,
+      "text": "plataforma."
+    },
+    {
+      "start": 118.52,
+      "end": 123.08,
+      "text": "Y evidentemente como disponemos de chats con chat gpt este artículo científico o cualquiera"
+    },
+    {
+      "start": 123.08,
+      "end": 125.0,
+      "text": "lo podemos mejorar de mil formas."
+    },
+    {
+      "start": 125.0,
+      "end": 130.16,
+      "text": "Aquí por ejemplo le estamos pidiendo que añada una imagen en un sitio muy específico"
+    },
+    {
+      "start": 130.16,
+      "end": 132.48,
+      "text": "de una gráfica que hemos hecho a mano."
+    },
+    {
+      "start": 132.48,
+      "end": 135.52,
+      "text": "Así que la añadimos y le vamos a dar a intro."
+    },
+    {
+      "start": 135.52,
+      "end": 140.52,
+      "text": "Y aquí vemos como ya lo ha hecho pero no somos capaces de verlo aquí porque primero tenemos"
+    },
+    {
+      "start": 140.52,
+      "end": 142.44,
+      "text": "que compilar otra vez el código."
+    },
+    {
+      "start": 142.44,
+      "end": 148.28,
+      "text": "Así que le damos aquí y podemos ver como ya ha añadido la gráfica en el punto que queríamos."
+    },
+    {
+      "start": 148.28,
+      "end": 152.28,
+      "text": "Y otra funcionalidad muy importante es esta que tenemos aquí de tools que si le dais"
+    },
+    {
+      "start": 152.28,
+      "end": 157.6,
+      "text": "vais a ver los logs del código y podéis pedir que los arregle en caso que haya algún error"
+    },
+    {
+      "start": 157.6,
+      "end": 164.0,
+      "text": "o warning podéis ver los comentarios de documentos y tenéis y hasta información del propio proyecto."
+    },
+    {
+      "start": 164.0,
+      "end": 169.24,
+      "text": "Y recuerda que información como esta la compartó cada día nuestra comunidad es totalmente gratuito"
+    },
+    {
+      "start": 169.24,
+      "end": 173.08,
+      "text": "y ya somos 150 personas y tenéis enlace en mi perfil."
+    }
+  ]
+}

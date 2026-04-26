@@ -1,0 +1,223 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 152.858375,
+  "text": "Vamos a ver qué pasa, lo pongo y fijamos que por aquí debajo ya marca ángela pareció VIP y el nombre puede ser ángela pareció. Esto es simplemente brutal, yo. O sea, con esto que tienes por aquí debajo montado en N8N y generando una aplicación con Gemina y 3.0, creas un sistema de tiquetín espectacular y creen que esto en el mercado vale pasta porque lo estás revisando. Pues lo haremos todo prácticamente gratis, lo explico. Y por cierto, si quieres ver el paso a paso de todo esto, tienes el tutorial en mi canal de YouTube. Si me envías la palabra tiquet, te envío el acción. O sea, imaginaros que hay algún evento de inteligente artificial, presencial y quiero que cuando me conver una entrada, que automáticamente se gener la entrada con un código QR. Vale, aquí me la comprarían, perfecto. Y cuando eso es ejecute, me llega la información, digamos, a este webhook de aquí. Fijaos, yo aquí recibo la información de quien ha hecho esta compra, vale, por aquí lo tenéis. En mi caso, pues soy yo, mis datos. Siguiente paso, pues por aquí guardo simplemente los datos. Y en este nodo de código lo que hago es generar un token. ¿Qué significa esto? Que dentro de esta información que habéis por aquí, de este token tan complejo, random de números y letras, pues está apuesta toda esta información. ¿Por qué? Pues por tema de seguridad. Perfecto, luego simplemente guardo la información en la base de datos, en este caso con una tabla. Y que en el último paso simplemente envío un imel con un código QR, que se vería tal que así, pues un imel muy básico, con tu información, que tipo de entrada con el código QR, que es lo importante y te decimos, oye, en la entrada nos muestras esto. Y ahora vamos a la parte interesante, yo por aquí tengo el correo que he recibido, vale, el mismo que os acabo de enseñar. Y por aquí abajo, creo una aplicación con Gemini3, que es la que utilizamos en la entrada para verificar el código QR. Vamos a ver qué pasa. Lo pongo y fijamos que por aquí abajo llamar acá, ángela aparicio VIP y el nombre puesa ángela aparicio. Vale, y ahora obviamente ¿qué pasa si lo vuelvas a ganar? No tendría que ser válido. Pues fijamos. Lo lo que andi dice, este código QR ya se ha utilizado VIP ángela aparicio. Y aquí podemos poner los datos que nos dé y la gana y esto es lo que hay por detrás, este segundo flujo. Básicamente la aplicación de Gemini lo que hace es enviar una llamada de webhook y en ese segundo módulo justamente voy a hacer lo contrario de lo que eché antes, voy a darle el token y voy a decir que lo desencripte. Perfecto hacer paso, miraremos si es válido o no es válido, en el caso de que no se avalido y diré que oye no es válido. En el caso de que si sea válido pueda mirar la tabla y verificar la información. Que mirar en esa tabla oye si está usado o no está usado. En el caso de que esté usado te contestaré oye esto y está usado como nos ha pasado la última vez y en el caso de que no esté usado, lo voy a marcar en la tabla como usado y te voy a decir, OK, todo bien, bienvenido ángel. O sea, esto es la ostia porque es 100% personalizable, pues, poner la información que tú quieras y encima puedes hacerte la aplicación como tú quieras o como el cliente que era. Y os lo juro que te ha dado 30 minutos en montar esto. Y como siempre todo esto está disponible en mi comunidad para que te lo descargué, que os lo por vez lo cambies y al final lo apliqués en tu negocio, que es importante. Un saludo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.36,
+      "text": "Vamos a ver qué pasa, lo pongo y fijamos que por aquí debajo ya marca ángela pareció VIP y el nombre puede ser ángela pareció."
+    },
+    {
+      "start": 6.36,
+      "end": 7.56,
+      "text": "Esto es simplemente brutal, yo."
+    },
+    {
+      "start": 7.56,
+      "end": 13.2,
+      "text": "O sea, con esto que tienes por aquí debajo montado en N8N y generando una aplicación con Gemina y 3.0,"
+    },
+    {
+      "start": 13.2,
+      "end": 18.32,
+      "text": "creas un sistema de tiquetín espectacular y creen que esto en el mercado vale pasta porque lo estás revisando."
+    },
+    {
+      "start": 18.32,
+      "end": 20.32,
+      "text": "Pues lo haremos todo prácticamente gratis, lo explico."
+    },
+    {
+      "start": 20.32,
+      "end": 24.64,
+      "text": "Y por cierto, si quieres ver el paso a paso de todo esto, tienes el tutorial en mi canal de YouTube."
+    },
+    {
+      "start": 24.64,
+      "end": 26.44,
+      "text": "Si me envías la palabra tiquet, te envío el acción."
+    },
+    {
+      "start": 26.52,
+      "end": 30.96,
+      "text": "O sea, imaginaros que hay algún evento de inteligente artificial, presencial y quiero que cuando me conver una entrada,"
+    },
+    {
+      "start": 30.96,
+      "end": 33.64,
+      "text": "que automáticamente se gener la entrada con un código QR."
+    },
+    {
+      "start": 33.64,
+      "end": 35.44,
+      "text": "Vale, aquí me la comprarían, perfecto."
+    },
+    {
+      "start": 35.44,
+      "end": 39.36,
+      "text": "Y cuando eso es ejecute, me llega la información, digamos, a este webhook de aquí."
+    },
+    {
+      "start": 39.36,
+      "end": 42.32,
+      "text": "Fijaos, yo aquí recibo la información de quien ha hecho esta compra, vale, por aquí lo tenéis."
+    },
+    {
+      "start": 42.32,
+      "end": 44.0,
+      "text": "En mi caso, pues soy yo, mis datos."
+    },
+    {
+      "start": 44.0,
+      "end": 46.2,
+      "text": "Siguiente paso, pues por aquí guardo simplemente los datos."
+    },
+    {
+      "start": 46.2,
+      "end": 48.72,
+      "text": "Y en este nodo de código lo que hago es generar un token."
+    },
+    {
+      "start": 48.72,
+      "end": 49.52,
+      "text": "¿Qué significa esto?"
+    },
+    {
+      "start": 49.52,
+      "end": 54.24,
+      "text": "Que dentro de esta información que habéis por aquí, de este token tan complejo, random de números y letras,"
+    },
+    {
+      "start": 54.24,
+      "end": 55.92,
+      "text": "pues está apuesta toda esta información."
+    },
+    {
+      "start": 55.92,
+      "end": 57.2,
+      "text": "¿Por qué? Pues por tema de seguridad."
+    },
+    {
+      "start": 57.2,
+      "end": 60.92,
+      "text": "Perfecto, luego simplemente guardo la información en la base de datos, en este caso con una tabla."
+    },
+    {
+      "start": 60.92,
+      "end": 65.32,
+      "text": "Y que en el último paso simplemente envío un imel con un código QR, que se vería tal que así,"
+    },
+    {
+      "start": 65.32,
+      "end": 69.44,
+      "text": "pues un imel muy básico, con tu información, que tipo de entrada con el código QR,"
+    },
+    {
+      "start": 69.44,
+      "end": 72.6,
+      "text": "que es lo importante y te decimos, oye, en la entrada nos muestras esto."
+    },
+    {
+      "start": 72.6,
+      "end": 77.12,
+      "text": "Y ahora vamos a la parte interesante, yo por aquí tengo el correo que he recibido, vale, el mismo que os acabo de enseñar."
+    },
+    {
+      "start": 77.12,
+      "end": 82.56,
+      "text": "Y por aquí abajo, creo una aplicación con Gemini3, que es la que utilizamos en la entrada para verificar el código QR."
+    },
+    {
+      "start": 82.56,
+      "end": 88.96,
+      "text": "Vamos a ver qué pasa. Lo pongo y fijamos que por aquí abajo llamar acá, ángela aparicio VIP y el nombre puesa ángela aparicio."
+    },
+    {
+      "start": 88.96,
+      "end": 92.76,
+      "text": "Vale, y ahora obviamente ¿qué pasa si lo vuelvas a ganar? No tendría que ser válido. Pues fijamos."
+    },
+    {
+      "start": 94.16,
+      "end": 98.08,
+      "text": "Lo lo que andi dice, este código QR ya se ha utilizado VIP ángela aparicio."
+    },
+    {
+      "start": 98.08,
+      "end": 102.6,
+      "text": "Y aquí podemos poner los datos que nos dé y la gana y esto es lo que hay por detrás, este segundo flujo."
+    },
+    {
+      "start": 102.6,
+      "end": 107.12,
+      "text": "Básicamente la aplicación de Gemini lo que hace es enviar una llamada de webhook y en ese segundo módulo"
+    },
+    {
+      "start": 107.12,
+      "end": 112.04,
+      "text": "justamente voy a hacer lo contrario de lo que eché antes, voy a darle el token y voy a decir que lo desencripte."
+    },
+    {
+      "start": 112.04,
+      "end": 116.48,
+      "text": "Perfecto hacer paso, miraremos si es válido o no es válido, en el caso de que no se avalido y diré que oye no es válido."
+    },
+    {
+      "start": 116.48,
+      "end": 119.52,
+      "text": "En el caso de que si sea válido pueda mirar la tabla y verificar la información."
+    },
+    {
+      "start": 119.52,
+      "end": 122.6,
+      "text": "Que mirar en esa tabla oye si está usado o no está usado."
+    },
+    {
+      "start": 122.6,
+      "end": 126.92,
+      "text": "En el caso de que esté usado te contestaré oye esto y está usado como nos ha pasado la última vez"
+    },
+    {
+      "start": 126.92,
+      "end": 132.04,
+      "text": "y en el caso de que no esté usado, lo voy a marcar en la tabla como usado y te voy a decir,"
+    },
+    {
+      "start": 132.04,
+      "end": 133.68,
+      "text": "OK, todo bien, bienvenido ángel."
+    },
+    {
+      "start": 133.68,
+      "end": 138.96,
+      "text": "O sea, esto es la ostia porque es 100% personalizable, pues, poner la información que tú quieras y encima"
+    },
+    {
+      "start": 138.96,
+      "end": 142.64,
+      "text": "puedes hacerte la aplicación como tú quieras o como el cliente que era."
+    },
+    {
+      "start": 142.64,
+      "end": 145.28,
+      "text": "Y os lo juro que te ha dado 30 minutos en montar esto."
+    },
+    {
+      "start": 145.28,
+      "end": 148.48,
+      "text": "Y como siempre todo esto está disponible en mi comunidad para que te lo descargué,"
+    },
+    {
+      "start": 148.48,
+      "end": 152.2,
+      "text": "que os lo por vez lo cambies y al final lo apliqués en tu negocio, que es importante."
+    },
+    {
+      "start": 152.2,
+      "end": 152.84,
+      "text": "Un saludo."
+    }
+  ]
+}

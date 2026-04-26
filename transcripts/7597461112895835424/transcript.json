@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 59.2355,
+  "text": "Esto es una locura, después de Google, SoftBam y Cosla Ventures acaban de apostar por una plataforma deía y casi nadie entiende todavía por qué, se llama Emergent y en solo 7 meses han hecho algo ridículo. Más de 5 millones de personas construyendo, 50 millones en ingresos anuales recurrentes y millones de aplicaciones creadas en más de 190 países. La clave que construir conía es fácil, hasta que llegan usuarios reales. Ahí es donde muchas plataformas se quedan en prototipos bonitos y Emergent va de otra cosa. Producto real, le escribes tu idea y te monta una app lista para producción desde el día 1. Frontend, backend, base de datos, despliegue, incluso móvil y para que entiendas el nivel, hasta la mayor compañía energética del Reino Unido, montó una app de producción en dos días y ahorró unas 2.000 horas de desarrollo y 100.000 libras. Por eso, pasó lo inevitable. Primero fue Google y ahora esta ronda serie ve de 70 millones. Mi veré dicto, 126 quieres construir algo de verdad y no solo una demo, prueba Emergent. Te dejo el enlace en la descripción.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.32,
+      "text": "Esto es una locura, después de Google, SoftBam y Cosla Ventures acaban de apostar por una plataforma deía"
+    },
+    {
+      "start": 6.32,
+      "end": 12.2,
+      "text": "y casi nadie entiende todavía por qué, se llama Emergent y en solo 7 meses han hecho algo ridículo."
+    },
+    {
+      "start": 12.2,
+      "end": 20.88,
+      "text": "Más de 5 millones de personas construyendo, 50 millones en ingresos anuales recurrentes y millones de aplicaciones creadas en más de 190 países."
+    },
+    {
+      "start": 20.88,
+      "end": 24.98,
+      "text": "La clave que construir conía es fácil, hasta que llegan usuarios reales."
+    },
+    {
+      "start": 24.98,
+      "end": 29.94,
+      "text": "Ahí es donde muchas plataformas se quedan en prototipos bonitos y Emergent va de otra cosa."
+    },
+    {
+      "start": 29.94,
+      "end": 35.02,
+      "text": "Producto real, le escribes tu idea y te monta una app lista para producción desde el día 1."
+    },
+    {
+      "start": 35.02,
+      "end": 39.82,
+      "text": "Frontend, backend, base de datos, despliegue, incluso móvil y para que entiendas el nivel,"
+    },
+    {
+      "start": 39.82,
+      "end": 47.68,
+      "text": "hasta la mayor compañía energética del Reino Unido, montó una app de producción en dos días y ahorró unas 2.000 horas de desarrollo y 100.000 libras."
+    },
+    {
+      "start": 47.68,
+      "end": 52.92,
+      "text": "Por eso, pasó lo inevitable. Primero fue Google y ahora esta ronda serie ve de 70 millones."
+    },
+    {
+      "start": 52.92,
+      "end": 57.94,
+      "text": "Mi veré dicto, 126 quieres construir algo de verdad y no solo una demo, prueba Emergent."
+    },
+    {
+      "start": 57.94,
+      "end": 59.22,
+      "text": "Te dejo el enlace en la descripción."
+    }
+  ]
+}

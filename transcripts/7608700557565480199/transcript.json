@@ -1,0 +1,23 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 21.4334375,
+  "text": "a muy informativo les comento que dentro de los trámites que también realizo está el por ejemplo él agregar un socio cuando uno de los accionistas vende acciones a otra persona también ese trámite lo lo realizo entonces cualquier cosito ustedes saben donde ubicarme",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 8.74,
+      "text": "a muy informativo les comento que dentro de los trámites que también realizo está el por ejemplo"
+    },
+    {
+      "start": 9.74,
+      "end": 14.98,
+      "text": "él agregar un socio cuando uno de los accionistas vende acciones a otra persona"
+    },
+    {
+      "start": 14.98,
+      "end": 20.86,
+      "text": "también ese trámite lo lo realizo entonces cualquier cosito ustedes saben donde ubicarme"
+    }
+  ]
+}

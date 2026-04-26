@@ -1,0 +1,168 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 63.2758125,
+  "text": "A veces la mejorabilidad de un vendedor no es hablar bien del producto, sino saber crear el momento perfecto para la compra. En esta escena, el vendedor lo demuestra muy bien. Mira el vídeo. ¡Solo un segundo! ¡Hola, Eversa Never! Soy Jimévers. ¡Hola, cielo! ¿Qué dijeran? ¿Les gustó la casa? Ah, así la casa está disponible. ¡Ah, ya sabía! ¡Te dije que se oloran mirones! ¡Ah, es un cliente más! ¡Discueltense! ¡Oye, voy en camino a reglarme para la escena! ¡De veras, quiero que sea ya! ¿Está preaprobado? ¡Sí, reservé a la siete! Así que se puntual. Sí, a las siete es perfecto. A esa hora lo verey y así revisaremos su oferta. ¡Bueno amor, te veo el nuevo! ¿Me sugerías? Queremos la casa. Lo digo tenido. Bueno, señora Coleman, dadas la circunstancia, solo queda algo por hacer. Hora de firmar. Cuando un cliente duda, mostrar demanda activa puede ser justo el impulso que necesita para decidirse. Soy David Casero, no soy experto en ventas, pero sí que soy experto en psicología de venta. Así que si quieres aprender las estrategias que usan los vendedores de alto nivel, sígueme.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "A veces la mejorabilidad de un vendedor no es hablar bien del producto,"
+    },
+    {
+      "start": 3.9,
+      "end": 6.6,
+      "text": "sino saber crear el momento perfecto para la compra."
+    },
+    {
+      "start": 6.6,
+      "end": 9.28,
+      "text": "En esta escena, el vendedor lo demuestra muy bien."
+    },
+    {
+      "start": 9.28,
+      "end": 10.28,
+      "text": "Mira el vídeo."
+    },
+    {
+      "start": 10.28,
+      "end": 11.56,
+      "text": "¡Solo un segundo!"
+    },
+    {
+      "start": 11.56,
+      "end": 13.42,
+      "text": "¡Hola, Eversa Never! Soy Jimévers."
+    },
+    {
+      "start": 13.42,
+      "end": 14.18,
+      "text": "¡Hola, cielo!"
+    },
+    {
+      "start": 14.18,
+      "end": 15.96,
+      "text": "¿Qué dijeran? ¿Les gustó la casa?"
+    },
+    {
+      "start": 16.96,
+      "end": 18.76,
+      "text": "Ah, así la casa está disponible."
+    },
+    {
+      "start": 18.76,
+      "end": 20.1,
+      "text": "¡Ah, ya sabía!"
+    },
+    {
+      "start": 20.1,
+      "end": 21.42,
+      "text": "¡Te dije que se oloran mirones!"
+    },
+    {
+      "start": 21.42,
+      "end": 23.06,
+      "text": "¡Ah, es un cliente más! ¡Discueltense!"
+    },
+    {
+      "start": 23.06,
+      "end": 25.36,
+      "text": "¡Oye, voy en camino a reglarme para la escena!"
+    },
+    {
+      "start": 25.36,
+      "end": 26.86,
+      "text": "¡De veras, quiero que sea ya!"
+    },
+    {
+      "start": 26.86,
+      "end": 28.26,
+      "text": "¿Está preaprobado?"
+    },
+    {
+      "start": 28.26,
+      "end": 29.56,
+      "text": "¡Sí, reservé a la siete!"
+    },
+    {
+      "start": 29.66,
+      "end": 31.14,
+      "text": "Así que se puntual."
+    },
+    {
+      "start": 31.14,
+      "end": 32.68,
+      "text": "Sí, a las siete es perfecto."
+    },
+    {
+      "start": 32.68,
+      "end": 35.4,
+      "text": "A esa hora lo verey y así revisaremos su oferta."
+    },
+    {
+      "start": 35.4,
+      "end": 36.9,
+      "text": "¡Bueno amor, te veo el nuevo!"
+    },
+    {
+      "start": 36.9,
+      "end": 37.92,
+      "text": "¿Me sugerías?"
+    },
+    {
+      "start": 37.92,
+      "end": 39.22,
+      "text": "Queremos la casa."
+    },
+    {
+      "start": 41.02,
+      "end": 42.02,
+      "text": "Lo digo tenido."
+    },
+    {
+      "start": 42.52,
+      "end": 43.68,
+      "text": "Bueno, señora Coleman,"
+    },
+    {
+      "start": 43.68,
+      "end": 46.52,
+      "text": "dadas la circunstancia, solo queda algo por hacer."
+    },
+    {
+      "start": 47.72,
+      "end": 48.72,
+      "text": "Hora de firmar."
+    },
+    {
+      "start": 49.48,
+      "end": 51.6,
+      "text": "Cuando un cliente duda, mostrar demanda activa"
+    },
+    {
+      "start": 51.6,
+      "end": 54.4,
+      "text": "puede ser justo el impulso que necesita para decidirse."
+    },
+    {
+      "start": 54.4,
+      "end": 56.8,
+      "text": "Soy David Casero, no soy experto en ventas,"
+    },
+    {
+      "start": 56.8,
+      "end": 59.0,
+      "text": "pero sí que soy experto en psicología de venta."
+    },
+    {
+      "start": 59.0,
+      "end": 61.04,
+      "text": "Así que si quieres aprender las estrategias"
+    },
+    {
+      "start": 61.04,
+      "end": 63.2,
+      "text": "que usan los vendedores de alto nivel, sígueme."
+    }
+  ]
+}

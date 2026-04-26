@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 38.291125,
+  "text": "En este canal te vas a volver si o si un experto en el AI y lo primero por lo que vamos a empezar es un truco avanzado de cloud AI. Si pones el comando ghost antes de una instrucción, todo el contenido que género no va a ser detectado por detectores de AI, así que tu trabajo va a ser un fantasma. Vamos a esperar un poco, se tiró unos chistes en lo que género el contenido y después de eso ya nos va a generar nuestra instrucción. Ahora la copiamos y la pegamos para corroborar, en este caso voy a utilizar un detector de AI el primer resultado de Google, aquí lo pegamos, detectamos si ser un poco probable de texto generado por el AI, así te convierte en un fantasma con cloud AI.",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 5.72,
+      "text": "En este canal te vas a volver si o si un experto en el AI y lo primero por lo que vamos a empezar es un truco avanzado de cloud"
+    },
+    {
+      "start": 5.72,
+      "end": 12.68,
+      "text": "AI. Si pones el comando ghost antes de una instrucción, todo el contenido que género no va a ser detectado por"
+    },
+    {
+      "start": 12.68,
+      "end": 18.72,
+      "text": "detectores de AI, así que tu trabajo va a ser un fantasma. Vamos a esperar un poco, se tiró unos chistes en lo que"
+    },
+    {
+      "start": 18.72,
+      "end": 26.4,
+      "text": "género el contenido y después de eso ya nos va a generar nuestra instrucción. Ahora la copiamos y la pegamos para corroborar, en este caso"
+    },
+    {
+      "start": 26.4,
+      "end": 31.82,
+      "text": "voy a utilizar un detector de AI el primer resultado de Google, aquí lo pegamos, detectamos si ser"
+    },
+    {
+      "start": 31.82,
+      "end": 36.82,
+      "text": "un poco probable de texto generado por el AI, así te convierte en un fantasma con cloud AI."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 29.6533125,
+  "text": "Antropic acaba de lanzar una nueva extensión de Google Chrome y te permite enseñar la cloud a hacer tu trabajo. Cuando la instalas tienes una idea viviendo en tu navegador, puede ver la página en la que estás, responder, pregunta sobre ella y tomar acciones por ti. Pero lo más interesante que tiene es una función que se llama grabar flujo de trabajo. Literalmente le muestra esa cloud como hacer algo donde es click, que escribe y cloud lo guarda como una automatización que puedes ejecutar cuando quieras. Si quieres probar, esta extensión, comentar cloud y te envío el link.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Antropic acaba de lanzar una nueva extensión de Google Chrome y te permite enseñar la cloud"
+    },
+    {
+      "start": 4.96,
+      "end": 6.36,
+      "text": "a hacer tu trabajo."
+    },
+    {
+      "start": 6.36,
+      "end": 10.28,
+      "text": "Cuando la instalas tienes una idea viviendo en tu navegador, puede ver la página en la"
+    },
+    {
+      "start": 10.28,
+      "end": 14.0,
+      "text": "que estás, responder, pregunta sobre ella y tomar acciones por ti."
+    },
+    {
+      "start": 14.0,
+      "end": 18.4,
+      "text": "Pero lo más interesante que tiene es una función que se llama grabar flujo de trabajo."
+    },
+    {
+      "start": 18.4,
+      "end": 23.52,
+      "text": "Literalmente le muestra esa cloud como hacer algo donde es click, que escribe y cloud lo guarda"
+    },
+    {
+      "start": 23.52,
+      "end": 26.32,
+      "text": "como una automatización que puedes ejecutar cuando quieras."
+    },
+    {
+      "start": 26.32,
+      "end": 29.48,
+      "text": "Si quieres probar, esta extensión, comentar cloud y te envío el link."
+    }
+  ]
+}

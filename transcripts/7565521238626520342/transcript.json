@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 18.1361875,
+  "text": "Páginas web que deberías conocer, Barty 47. Sabéis que sí entras en esta web y buscas tus pelees, series, música, libros o videojuegos favoritos, te da recomendaciones similares al instante. Por ejemplo, si pongo mi esbord, aquí tengo otros libros que podrían gustarme. O si busco el de enrinc me salen más juegos a los que charles horas. Mola.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "Páginas web que deberías conocer, Barty 47. Sabéis que sí entras en esta web y buscas tus"
+    },
+    {
+      "start": 5.28,
+      "end": 10.68,
+      "text": "pelees, series, música, libros o videojuegos favoritos, te da recomendaciones similares al instante."
+    },
+    {
+      "start": 10.68,
+      "end": 15.08,
+      "text": "Por ejemplo, si pongo mi esbord, aquí tengo otros libros que podrían gustarme. O si busco"
+    },
+    {
+      "start": 15.08,
+      "end": 17.92,
+      "text": "el de enrinc me salen más juegos a los que charles horas. Mola."
+    }
+  ]
+}

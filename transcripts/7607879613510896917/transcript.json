@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 59.04975,
+  "text": "Hola, hola, ¿cómo están? Andrea de cuentabilidades, ¿ciente? ¿Grales por acá? Contándoles, bueno, una avisándoles en realidad. Y si te está llegando este correo, que está aquí, ya avisándote que ya debes presentar las declaraciones juradas y todo eso a T2026, que lo decirte que solamente un correo masivo en el servicio de impuestos internos, avisando que efectivamente si ya podemos empezar a enviar las dejota, ya, en el caso de los que son mis clientes que tienen su servicio tributario pagado y que ya están todos al día con la información que yo le solicite, quedense tranquilos porque a medida que la información se vaya enviando, yo voy haciendo los reportes correspondientes, los demás tienen que apuérselo y los que van a cotizar el servicio, haganlo también porque solamente hay agenda hasta el 28 de febrero. Chau, chau.",
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 5.59,
+      "text": "Hola, hola, ¿cómo están? Andrea de cuentabilidades, ¿ciente? ¿Grales por acá?"
+    },
+    {
+      "start": 5.59,
+      "end": 12.59,
+      "text": "Contándoles, bueno, una avisándoles en realidad."
+    },
+    {
+      "start": 12.59,
+      "end": 18.59,
+      "text": "Y si te está llegando este correo, que está aquí, ya avisándote que ya debes presentar"
+    },
+    {
+      "start": 18.59,
+      "end": 24.59,
+      "text": "las declaraciones juradas y todo eso a T2026, que lo decirte que solamente un correo masivo"
+    },
+    {
+      "start": 24.59,
+      "end": 32.59,
+      "text": "en el servicio de impuestos internos, avisando que efectivamente si ya podemos empezar a enviar las dejota, ya,"
+    },
+    {
+      "start": 32.59,
+      "end": 38.59,
+      "text": "en el caso de los que son mis clientes que tienen su servicio tributario pagado y que ya están"
+    },
+    {
+      "start": 38.59,
+      "end": 43.59,
+      "text": "todos al día con la información que yo le solicite, quedense tranquilos porque a medida que"
+    },
+    {
+      "start": 43.59,
+      "end": 47.59,
+      "text": "la información se vaya enviando, yo voy haciendo los reportes correspondientes,"
+    },
+    {
+      "start": 47.59,
+      "end": 53.59,
+      "text": "los demás tienen que apuérselo y los que van a cotizar el servicio, haganlo también porque"
+    },
+    {
+      "start": 53.59,
+      "end": 57.59,
+      "text": "solamente hay agenda hasta el 28 de febrero."
+    },
+    {
+      "start": 57.59,
+      "end": 58.59,
+      "text": "Chau, chau."
+    }
+  ]
+}

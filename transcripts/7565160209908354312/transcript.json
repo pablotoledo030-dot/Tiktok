@@ -1,0 +1,18 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 16.9751875,
+  "text": "¡Degro! Yo soy el galo, soy un conmín galo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Degro!"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Yo soy el galo, soy un conmín galo"
+    }
+  ]
+}

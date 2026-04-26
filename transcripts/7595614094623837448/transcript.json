@@ -1,0 +1,258 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 164.1896875,
+  "text": "Esto es increíble, lo que hace Google con la inteligencia artificial no se puede creer. Te resolves todo tu trabajo en un par de minutos nada más. Olviate de perder horas armando un gráfico o analizando la información primero para tratar de entender qué gráfico es mejor si un gráfico evarra, si un gráfico de tortas, una línea del tiempo. Olviate eso, ahora lo hace solo. Gemini es la inteligencia artificial de Google. Es como chat gpt, pero la verdad que muchísimo mejor es otro nivel. Todo este tablero de datos o dashboard lo armó solo en un par de segundos literal. Mientras este tomaso mate o un café, hace todo este trabajo por vos con filtros, con etiquetas, esto es interactivo, acá puedes ver la información, puede filtrar impresionante. Ahora te muestro paso a paso cómo se hace probante seguime para que puedas ver más contenido como este. Yo tengo esta planida con todos los datos y necesito crear unos gráficos y un reporte a partir de esto. Y un truco para que funcione con el plan gratis es descargar este archivo, descargarlo como PDF ahí. Ahora te vas a venir a esta página, www.gemini.gul.com. Vas a subir el PDF que descargaste de la planida para subirlo, hace clic en ese más y le pones subir archivo o si lo tenés en drive, también le das clic ahí agregar desde drive. Y le vas a dar una instrucción, un prompt como este, que si quieres al final te lo dejo completo para que lo pueda suceder. Entonces le mandas el prompt, la instrucción le hace enter y se pone a trabajar. Y acá te va a crear esto, va a decir, da llvar de operaciones y acá le das abrir. Acá se va a abrir esto que acaba de crear, mira, esto es increíble. Panel de operaciones, tenés los filtros, por ejemplo, por sucursales, porque mi información tenía datos de ventas, distintas sucursales, ventas, descuentos, eficiencia, volumen de ventas. Perfórnan de cada vende de hora y tengo los datos ahí, descuentos aplicados. Ahora si quieres compartirlo, abrirlo en pantalla completa, le das clic ahí a compartir y le das clic de nuevo, compartir otra vez. Y acá te va a dar un link. Este link te da acá, lo copias y lo puedes mandar por meyla, aquí en necesites, o tenerlo y abrirlo en un nuevo, en una nueva pestaña. Algo muy importante para que esto funcione y lo cree, es tener activado el MoCambas. Ahí, ¿qué es activa desde este botoncito? Ahí tocás Canvas y se va a activar. Entonces esa función de Canvas es la que va a poder crear todo ese tablero. Y además te va a dejar acá un montón de hallazgos, por ejemplo, información, directamente, la puedes adjuntar en un email o sumar a ese informe. Así que ya sabes, no perdás más tiempo, armando gráficos uno por uno, a mano, usa la inteligencia artificial de Gemini y si querés que te mande este prom, con una guía completa para que lo pueda implementar paso a paso, comentar la palabra Gemini y te lo mando ahora en un toque por mensaje.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Esto es increíble, lo que hace Google con la inteligencia artificial no se puede creer."
+    },
+    {
+      "start": 4.5,
+      "end": 6.92,
+      "text": "Te resolves todo tu trabajo en un par de minutos nada más."
+    },
+    {
+      "start": 6.92,
+      "end": 11.5,
+      "text": "Olviate de perder horas armando un gráfico o analizando la información primero"
+    },
+    {
+      "start": 11.5,
+      "end": 14.8,
+      "text": "para tratar de entender qué gráfico es mejor si un gráfico evarra,"
+    },
+    {
+      "start": 14.8,
+      "end": 17.5,
+      "text": "si un gráfico de tortas, una línea del tiempo."
+    },
+    {
+      "start": 17.5,
+      "end": 19.3,
+      "text": "Olviate eso, ahora lo hace solo."
+    },
+    {
+      "start": 19.3,
+      "end": 21.8,
+      "text": "Gemini es la inteligencia artificial de Google."
+    },
+    {
+      "start": 21.8,
+      "end": 26.0,
+      "text": "Es como chat gpt, pero la verdad que muchísimo mejor es otro nivel."
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": "Todo este tablero de datos o dashboard lo armó solo en un par de segundos literal."
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": "Mientras este tomaso mate o un café,"
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": "hace todo este trabajo por vos con filtros, con etiquetas,"
+    },
+    {
+      "start": 37.0,
+      "end": 39.5,
+      "text": "esto es interactivo, acá puedes ver la información,"
+    },
+    {
+      "start": 39.5,
+      "end": 42.5,
+      "text": "puede filtrar impresionante."
+    },
+    {
+      "start": 42.5,
+      "end": 45.5,
+      "text": "Ahora te muestro paso a paso cómo se hace probante seguime"
+    },
+    {
+      "start": 45.5,
+      "end": 47.5,
+      "text": "para que puedas ver más contenido como este."
+    },
+    {
+      "start": 47.5,
+      "end": 49.5,
+      "text": "Yo tengo esta planida con todos los datos"
+    },
+    {
+      "start": 49.5,
+      "end": 52.5,
+      "text": "y necesito crear unos gráficos y un reporte a partir de esto."
+    },
+    {
+      "start": 52.5,
+      "end": 56.5,
+      "text": "Y un truco para que funcione con el plan gratis es descargar este archivo,"
+    },
+    {
+      "start": 56.5,
+      "end": 59.5,
+      "text": "descargarlo como PDF ahí."
+    },
+    {
+      "start": 59.5,
+      "end": 61.5,
+      "text": "Ahora te vas a venir a esta página,"
+    },
+    {
+      "start": 61.5,
+      "end": 63.5,
+      "text": "www.gemini.gul.com."
+    },
+    {
+      "start": 63.5,
+      "end": 66.5,
+      "text": "Vas a subir el PDF que descargaste de la planida para subirlo,"
+    },
+    {
+      "start": 66.5,
+      "end": 70.5,
+      "text": "hace clic en ese más y le pones subir archivo o si lo tenés en drive,"
+    },
+    {
+      "start": 70.5,
+      "end": 73.5,
+      "text": "también le das clic ahí agregar desde drive."
+    },
+    {
+      "start": 73.5,
+      "end": 75.5,
+      "text": "Y le vas a dar una instrucción, un prompt como este,"
+    },
+    {
+      "start": 75.5,
+      "end": 79.5,
+      "text": "que si quieres al final te lo dejo completo para que lo pueda suceder."
+    },
+    {
+      "start": 79.5,
+      "end": 84.5,
+      "text": "Entonces le mandas el prompt, la instrucción le hace enter y se pone a trabajar."
+    },
+    {
+      "start": 84.5,
+      "end": 86.5,
+      "text": "Y acá te va a crear esto, va a decir,"
+    },
+    {
+      "start": 86.5,
+      "end": 90.5,
+      "text": "da llvar de operaciones y acá le das abrir."
+    },
+    {
+      "start": 90.5,
+      "end": 94.5,
+      "text": "Acá se va a abrir esto que acaba de crear, mira, esto es increíble."
+    },
+    {
+      "start": 94.5,
+      "end": 98.5,
+      "text": "Panel de operaciones, tenés los filtros, por ejemplo, por sucursales,"
+    },
+    {
+      "start": 98.5,
+      "end": 104.5,
+      "text": "porque mi información tenía datos de ventas, distintas sucursales, ventas, descuentos,"
+    },
+    {
+      "start": 104.5,
+      "end": 106.5,
+      "text": "eficiencia, volumen de ventas."
+    },
+    {
+      "start": 106.5,
+      "end": 110.5,
+      "text": "Perfórnan de cada vende de hora y tengo los datos ahí, descuentos aplicados."
+    },
+    {
+      "start": 110.5,
+      "end": 115.5,
+      "text": "Ahora si quieres compartirlo, abrirlo en pantalla completa, le das clic ahí a compartir"
+    },
+    {
+      "start": 115.5,
+      "end": 117.5,
+      "text": "y le das clic de nuevo, compartir otra vez."
+    },
+    {
+      "start": 117.5,
+      "end": 119.5,
+      "text": "Y acá te va a dar un link."
+    },
+    {
+      "start": 119.5,
+      "end": 123.5,
+      "text": "Este link te da acá, lo copias y lo puedes mandar por meyla, aquí en necesites,"
+    },
+    {
+      "start": 123.5,
+      "end": 126.5,
+      "text": "o tenerlo y abrirlo en un nuevo, en una nueva pestaña."
+    },
+    {
+      "start": 126.5,
+      "end": 129.5,
+      "text": "Algo muy importante para que esto funcione y lo cree,"
+    },
+    {
+      "start": 129.5,
+      "end": 131.5,
+      "text": "es tener activado el MoCambas."
+    },
+    {
+      "start": 131.5,
+      "end": 133.5,
+      "text": "Ahí, ¿qué es activa desde este botoncito?"
+    },
+    {
+      "start": 133.5,
+      "end": 136.5,
+      "text": "Ahí tocás Canvas y se va a activar."
+    },
+    {
+      "start": 136.5,
+      "end": 139.5,
+      "text": "Entonces esa función de Canvas es la que va a poder crear todo ese tablero."
+    },
+    {
+      "start": 139.5,
+      "end": 142.5,
+      "text": "Y además te va a dejar acá un montón de hallazgos, por ejemplo,"
+    },
+    {
+      "start": 142.5,
+      "end": 148.5,
+      "text": "información, directamente, la puedes adjuntar en un email o sumar a ese informe."
+    },
+    {
+      "start": 148.5,
+      "end": 152.5,
+      "text": "Así que ya sabes, no perdás más tiempo, armando gráficos uno por uno,"
+    },
+    {
+      "start": 152.5,
+      "end": 156.5,
+      "text": "a mano, usa la inteligencia artificial de Gemini y si querés que te mande este prom,"
+    },
+    {
+      "start": 156.5,
+      "end": 159.5,
+      "text": "con una guía completa para que lo pueda implementar paso a paso,"
+    },
+    {
+      "start": 159.5,
+      "end": 163.5,
+      "text": "comentar la palabra Gemini y te lo mando ahora en un toque por mensaje."
+    }
+  ]
+}

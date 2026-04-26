@@ -1,0 +1,98 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 55.56675,
+  "text": "Quiero hacer una app, pero no soy programador, ¿qué me recomienda? Recibos esta pregunta, mucho, y aquí te voy a recomendar una herramienta que es nueva, pero que es bastante buena. Se llama Emergent. Le describes en lenguaje natural, ¿qué quieres construir? Y varios agentes y ellas encargan del backend, de la base de datos y del despliegue. Un mockup entrega una app funcional con hosting, incluye lista parosa. El plan básico cuesta 20 dólares al mes, que son 100 créditos, y un proyecto simple con su mente 10 y 20. O sea, que para alguien que quiere validar si su idea de negocio funciona, estamos hablando entre 4 o 5 prótos tipos al mes solo por 20 dólares. Creo ya lo que tienes que saber. Y es que funciona con crédito. Y el consumo es impredecible, todo depende de la planeación previa antes de comenzar a pedir cosas. Con lenguaje natural y siguiendo buenas prácticas podrás hacer tu app, si ningún tipo de problema. Y si crees que esta aplicación te puede servir, comentar que vas a la palabra Emergent y te mando, primero, tres ideas de aplicaciones que puedes comenzar a crear para prototipar y desnegócio. El código de descuento para que comiences mucho más para todo y la guía de buenas prácticas para sacarle en mayor provecho este tipo de aplicación.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Quiero hacer una app, pero no soy programador, ¿qué me recomienda?"
+    },
+    {
+      "start": 2.42,
+      "end": 7.4,
+      "text": "Recibos esta pregunta, mucho, y aquí te voy a recomendar una herramienta que es nueva, pero que es bastante buena."
+    },
+    {
+      "start": 7.4,
+      "end": 8.38,
+      "text": "Se llama Emergent."
+    },
+    {
+      "start": 8.38,
+      "end": 11.04,
+      "text": "Le describes en lenguaje natural, ¿qué quieres construir?"
+    },
+    {
+      "start": 11.04,
+      "end": 14.64,
+      "text": "Y varios agentes y ellas encargan del backend, de la base de datos y del despliegue."
+    },
+    {
+      "start": 14.64,
+      "end": 17.7,
+      "text": "Un mockup entrega una app funcional con hosting, incluye lista parosa."
+    },
+    {
+      "start": 17.7,
+      "end": 20.84,
+      "text": "El plan básico cuesta 20 dólares al mes, que son 100 créditos,"
+    },
+    {
+      "start": 20.84,
+      "end": 23.04,
+      "text": "y un proyecto simple con su mente 10 y 20."
+    },
+    {
+      "start": 23.04,
+      "end": 25.98,
+      "text": "O sea, que para alguien que quiere validar si su idea de negocio funciona,"
+    },
+    {
+      "start": 25.98,
+      "end": 29.38,
+      "text": "estamos hablando entre 4 o 5 prótos tipos al mes solo por 20 dólares."
+    },
+    {
+      "start": 29.38,
+      "end": 30.66,
+      "text": "Creo ya lo que tienes que saber."
+    },
+    {
+      "start": 30.66,
+      "end": 32.18,
+      "text": "Y es que funciona con crédito."
+    },
+    {
+      "start": 32.18,
+      "end": 38.02,
+      "text": "Y el consumo es impredecible, todo depende de la planeación previa antes de comenzar a pedir cosas."
+    },
+    {
+      "start": 38.02,
+      "end": 41.54,
+      "text": "Con lenguaje natural y siguiendo buenas prácticas podrás hacer tu app, si ningún tipo de problema."
+    },
+    {
+      "start": 41.54,
+      "end": 45.86,
+      "text": "Y si crees que esta aplicación te puede servir, comentar que vas a la palabra Emergent y te mando, primero,"
+    },
+    {
+      "start": 45.86,
+      "end": 49.7,
+      "text": "tres ideas de aplicaciones que puedes comenzar a crear para prototipar y desnegócio."
+    },
+    {
+      "start": 49.7,
+      "end": 52.18,
+      "text": "El código de descuento para que comiences mucho más para todo"
+    },
+    {
+      "start": 52.18,
+      "end": 55.54,
+      "text": "y la guía de buenas prácticas para sacarle en mayor provecho este tipo de aplicación."
+    }
+  ]
+}

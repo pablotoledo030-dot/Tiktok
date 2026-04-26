@@ -1,0 +1,103 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 61.2324375,
+  "text": "Parece que encontraron la forma de hacer que la inteligencia artificial despegue. ¿Van a bajar los precios de la RAM? No, Ana, literalmente la van a hacer volar. La cantidad de energía y agua que están consumiendo los data centers de inteligencia artificial para que tuve a tus memes por internet nos van a llevar al colapso. Pero más con su equipo acaban de dar con la clave que parece desciencia ficción. Acaban de pedir permiso a la FCC para lanzar un millón de satélites y funcionarían flotando alrededor de la tierra como centros de datos. Pero ¿por qué esa idea tan loca? Como la de techno nota en ser el primer canal de tecnología en llegar a los 10 millones. Suscríbete ya mismo para hacer parte de este selecto grupo. Elon explica que cada uno de estas satélites lanzado por los cohetes de SpaceX será un pequeño data center que ocupará la energía solar constante para funcionar sin depender del clima. Y para enfriarse en vez de agua serán las bajas temperaturas propias del espacio. Para que esto sea posible deben fabricar una cantidad de chips y hardware al mismo ritmo que son lanzados al espacio para que aprovechen su potencial. Así que no, las RAMs no van a bajar. Los servidores van a seguir subiendo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Parece que encontraron la forma de hacer que la inteligencia artificial despegue."
+    },
+    {
+      "start": 3.42,
+      "end": 5.34,
+      "text": "¿Van a bajar los precios de la RAM?"
+    },
+    {
+      "start": 5.34,
+      "end": 7.92,
+      "text": "No, Ana, literalmente la van a hacer volar."
+    },
+    {
+      "start": 7.92,
+      "end": 12.0,
+      "text": "La cantidad de energía y agua que están consumiendo los data centers de inteligencia artificial"
+    },
+    {
+      "start": 12.0,
+      "end": 15.26,
+      "text": "para que tuve a tus memes por internet nos van a llevar al colapso."
+    },
+    {
+      "start": 15.26,
+      "end": 19.76,
+      "text": "Pero más con su equipo acaban de dar con la clave que parece desciencia ficción."
+    },
+    {
+      "start": 19.76,
+      "end": 25.02,
+      "text": "Acaban de pedir permiso a la FCC para lanzar un millón de satélites y funcionarían"
+    },
+    {
+      "start": 25.02,
+      "end": 27.64,
+      "text": "flotando alrededor de la tierra como centros de datos."
+    },
+    {
+      "start": 27.64,
+      "end": 29.16,
+      "text": "Pero ¿por qué esa idea tan loca?"
+    },
+    {
+      "start": 29.16,
+      "end": 33.36,
+      "text": "Como la de techno nota en ser el primer canal de tecnología en llegar a los 10 millones."
+    },
+    {
+      "start": 33.36,
+      "end": 35.84,
+      "text": "Suscríbete ya mismo para hacer parte de este selecto grupo."
+    },
+    {
+      "start": 35.84,
+      "end": 40.56,
+      "text": "Elon explica que cada uno de estas satélites lanzado por los cohetes de SpaceX será un"
+    },
+    {
+      "start": 40.56,
+      "end": 45.6,
+      "text": "pequeño data center que ocupará la energía solar constante para funcionar sin depender del"
+    },
+    {
+      "start": 45.6,
+      "end": 46.6,
+      "text": "clima."
+    },
+    {
+      "start": 46.6,
+      "end": 50.64,
+      "text": "Y para enfriarse en vez de agua serán las bajas temperaturas propias del espacio."
+    },
+    {
+      "start": 50.64,
+      "end": 55.08,
+      "text": "Para que esto sea posible deben fabricar una cantidad de chips y hardware al mismo ritmo que"
+    },
+    {
+      "start": 55.08,
+      "end": 57.96,
+      "text": "son lanzados al espacio para que aprovechen su potencial."
+    },
+    {
+      "start": 57.96,
+      "end": 59.8,
+      "text": "Así que no, las RAMs no van a bajar."
+    },
+    {
+      "start": 59.8,
+      "end": 61.2,
+      "text": "Los servidores van a seguir subiendo."
+    }
+  ]
+}

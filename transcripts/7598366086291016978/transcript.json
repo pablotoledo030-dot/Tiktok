@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 31.3715625,
+  "text": "No sé qué va a haber tenido 10 años, pero la idea de que AI es progresando, creo que... ...puedes haber AI que es más o menos que ningún humano en la semana, y yo creo que no es la semana en la semana. Y luego, probablemente, por 2030 o 31, 5 años de ahora, AI será más o menos más o menos humanidad, collectively.",
+  "segments": [
+    {
+      "start": 1.33,
+      "end": 7.13,
+      "text": "No sé qué va a haber tenido 10 años, pero la idea de que AI es progresando,"
+    },
+    {
+      "start": 7.13,
+      "end": 9.29,
+      "text": "creo que..."
+    },
+    {
+      "start": 9.29,
+      "end": 15.73,
+      "text": "...puedes haber AI que es más o menos que ningún humano en la semana,"
+    },
+    {
+      "start": 15.73,
+      "end": 18.93,
+      "text": "y yo creo que no es la semana en la semana."
+    },
+    {
+      "start": 18.93,
+      "end": 25.79,
+      "text": "Y luego, probablemente, por 2030 o 31, 5 años de ahora,"
+    },
+    {
+      "start": 25.79,
+      "end": 31.09,
+      "text": "AI será más o menos más o menos humanidad, collectively."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 45.3964375,
+  "text": "ya vieron que Antigravity actualizó el uso de tokens de sus modelos, mire, ahora te los refresca cada 5 días, se lo empieñen yo si esta barrito amarilla, llega al final y solamente tienes un día para que eso llegue, si a te lo gastaste todo un día, tienes que esperar 4 días para que se te reinicie se dieron cuenta que están ahora reduciendo la cantidad de tokens, que están empezando a querer cobrar, que ahora no será más caro a lo que nos acostumbramos",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 21.06,
+      "text": "ya vieron que Antigravity actualizó el uso de tokens de sus modelos, mire, ahora te los refresca cada 5 días, se lo empieñen yo si esta barrito amarilla, llega al final"
+    },
+    {
+      "start": 22.06,
+      "end": 32.06,
+      "text": "y solamente tienes un día para que eso llegue, si a te lo gastaste todo un día, tienes que esperar 4 días para que se te reinicie"
+    },
+    {
+      "start": 33.06,
+      "end": 45.06,
+      "text": "se dieron cuenta que están ahora reduciendo la cantidad de tokens, que están empezando a querer cobrar, que ahora no será más caro a lo que nos acostumbramos"
+    }
+  ]
+}

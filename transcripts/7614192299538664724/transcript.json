@@ -1,0 +1,208 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 210.4903125,
+  "text": "En mificina ya llevamos dos semanas utilizando oficialmente Cloud como la inteligencia artificial general contratada por el estudio. Esto antes de que se generara todo este problema con el Pentágono y con OpenAI. Y la verdad es que las capacidades y las potencialidades de Cloud como inteligencia artificial para el uso de abogados es increíble. Por ejemplo, estábamos haciendo un video de Alliance y había que revisar el registro de accionistas para poder determinar cuáles son los actuales accionistas de una sociedad. Y este era un libro. Nos mandaron escanido de libro, escanido de imágenes. Me eran como fotos en el fondo. Estaba todo escrito en mano y si ustedes no saben un registro de accionistas de este libro, cada hoja es de una persona, ya o accionista. Y en esa hoja se registra los distintos movimientos cuando compró sus acciones, cuando vendió si es que se constituye una prenda sobre ellas, etc. Y esta sociedad en particular tenía muchos accionistas y muchas modificaciones, muchos cambios y estas prendas. A un abogado comunico, reante, lo hubiera tomado bastantes minutos horas llegar a la conclusión final. Tipear todo esto manualmente en un reporte que generalmente uno lo hace como en un excel o en un informe word no es que sea una tarea que deja particularmente compleja, pero si es una tarea en que el registro tiene que quedar bien hecho y el solo hecho de tipear toma bastante tiempo. Y solo por Leciar, digamos, con mi cuenta de Claude, la cuenta patada que había comprado yo una semana antes, le dije a lo droga, oye pero si probamos Claude como trabaja y si puede hacer esto, provémos. Le subo el activo, le doy el prompt correcto con todas en el fondo mis características de prompts que ya hemos hablado muchas veces y se pone a trabajar. Y lo primero que hace es que pasa 10 minutos optimizando el prompt para que cumpla la tarea de manera efectiva. Y luego en 20 minutos ejecuta la tarea propiamente da. A la vuelta de 30 minutos yo tenía un archivo excel con el detalle de absolutamente todos los accionistas de esta sociedad, con la situación actual de sus acciones, nombre, rude domicilios y tenía prenda o no tenía prenda. En el caso de que tenía prenda, bueno, todos los antecedentes de la prenda, cuando se constituyó como se constituyó sobre que acciones recaen, etcétera. Pero no solamente eso, sino que me lo entregó en un archivo excel con las pestañas pintas de colores, las cosas codificadas, la información entregada de más de una manera muy profesional y fácilmente comprensible, donde tenía los accionistas, actualmente vigantes, los accionistas originales de la sociedad, las prendas constituidas y todos los detalles de las prendas y al final en la última pestaña el prompt optimizado para cuando yo quiero hacer esta tarea de nuevo. Obviamente, después de esa experiencia y sabiendo que teníamos este deal against que nos iba a demuner dos meses y que lo podíamos cortar fácilmente a un mes con la ayuda de esta herramienta, lo contratamos como fiscina. Y ustedes están pensando contratar clod por todo este debate de kitchat gpt, que opiné hay con el pentagon o un antropic y blah, blah, blah, blah. Contrátelo porque clod es una gran herramienta para los abogados, de hecho creo que incluso para el trabajo que uno hace el día a día es mejor clod que chat gpt. Ahora, se puede trabajar bien con chat gpt por supuesto, ni un problema, se puede igual que se puede con Gemini y tantas otras, pero tengo que decirles que clod me ha volado la cabeza las últimas dos semanas.",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 7.14,
+      "text": "En mificina ya llevamos dos semanas utilizando oficialmente Cloud como la inteligencia artificial"
+    },
+    {
+      "start": 7.14,
+      "end": 11.26,
+      "text": "general contratada por el estudio. Esto antes de que se generara todo este problema con el"
+    },
+    {
+      "start": 11.26,
+      "end": 17.18,
+      "text": "Pentágono y con OpenAI. Y la verdad es que las capacidades y las potencialidades de Cloud"
+    },
+    {
+      "start": 17.18,
+      "end": 25.3,
+      "text": "como inteligencia artificial para el uso de abogados es increíble. Por ejemplo, estábamos haciendo"
+    },
+    {
+      "start": 25.3,
+      "end": 30.62,
+      "text": "un video de Alliance y había que revisar el registro de accionistas para poder determinar"
+    },
+    {
+      "start": 30.62,
+      "end": 36.7,
+      "text": "cuáles son los actuales accionistas de una sociedad. Y este era un libro. Nos mandaron"
+    },
+    {
+      "start": 36.7,
+      "end": 41.26,
+      "text": "escanido de libro, escanido de imágenes. Me eran como fotos en el fondo. Estaba todo"
+    },
+    {
+      "start": 41.26,
+      "end": 45.62,
+      "text": "escrito en mano y si ustedes no saben un registro de accionistas de este libro, cada"
+    },
+    {
+      "start": 45.62,
+      "end": 52.42,
+      "text": "hoja es de una persona, ya o accionista. Y en esa hoja se registra los distintos movimientos"
+    },
+    {
+      "start": 52.42,
+      "end": 57.98,
+      "text": "cuando compró sus acciones, cuando vendió si es que se constituye una prenda sobre ellas,"
+    },
+    {
+      "start": 57.98,
+      "end": 62.06,
+      "text": "etc. Y esta sociedad en particular tenía muchos accionistas y muchas modificaciones,"
+    },
+    {
+      "start": 62.06,
+      "end": 66.82,
+      "text": "muchos cambios y estas prendas. A un abogado comunico, reante, lo hubiera tomado bastantes"
+    },
+    {
+      "start": 66.82,
+      "end": 73.5,
+      "text": "minutos horas llegar a la conclusión final. Tipear todo esto manualmente en un reporte"
+    },
+    {
+      "start": 73.5,
+      "end": 78.62,
+      "text": "que generalmente uno lo hace como en un excel o en un informe word no es que sea una tarea"
+    },
+    {
+      "start": 78.62,
+      "end": 82.94,
+      "text": "que deja particularmente compleja, pero si es una tarea en que el registro tiene que"
+    },
+    {
+      "start": 82.94,
+      "end": 89.34,
+      "text": "quedar bien hecho y el solo hecho de tipear toma bastante tiempo. Y solo por Leciar, digamos,"
+    },
+    {
+      "start": 89.34,
+      "end": 95.54,
+      "text": "con mi cuenta de Claude, la cuenta patada que había comprado yo una semana antes, le dije"
+    },
+    {
+      "start": 95.54,
+      "end": 101.66,
+      "text": "a lo droga, oye pero si probamos Claude como trabaja y si puede hacer esto, provémos."
+    },
+    {
+      "start": 101.66,
+      "end": 106.58,
+      "text": "Le subo el activo, le doy el prompt correcto con todas en el fondo mis características"
+    },
+    {
+      "start": 106.58,
+      "end": 111.42,
+      "text": "de prompts que ya hemos hablado muchas veces y se pone a trabajar. Y lo primero que hace"
+    },
+    {
+      "start": 111.42,
+      "end": 116.94,
+      "text": "es que pasa 10 minutos optimizando el prompt para que cumpla la tarea de manera efectiva."
+    },
+    {
+      "start": 116.94,
+      "end": 122.86,
+      "text": "Y luego en 20 minutos ejecuta la tarea propiamente da. A la vuelta de 30 minutos yo tenía un"
+    },
+    {
+      "start": 122.86,
+      "end": 127.98,
+      "text": "archivo excel con el detalle de absolutamente todos los accionistas de esta sociedad, con"
+    },
+    {
+      "start": 127.98,
+      "end": 133.02,
+      "text": "la situación actual de sus acciones, nombre, rude domicilios y tenía prenda o no tenía"
+    },
+    {
+      "start": 133.02,
+      "end": 137.26,
+      "text": "prenda. En el caso de que tenía prenda, bueno, todos los antecedentes de la prenda,"
+    },
+    {
+      "start": 137.26,
+      "end": 141.78,
+      "text": "cuando se constituyó como se constituyó sobre que acciones recaen, etcétera. Pero no solamente"
+    },
+    {
+      "start": 141.78,
+      "end": 146.98,
+      "text": "eso, sino que me lo entregó en un archivo excel con las pestañas pintas de colores,"
+    },
+    {
+      "start": 146.98,
+      "end": 151.94,
+      "text": "las cosas codificadas, la información entregada de más de una manera muy profesional y"
+    },
+    {
+      "start": 151.94,
+      "end": 157.06,
+      "text": "fácilmente comprensible, donde tenía los accionistas, actualmente vigantes, los accionistas"
+    },
+    {
+      "start": 157.06,
+      "end": 161.86,
+      "text": "originales de la sociedad, las prendas constituidas y todos los detalles de las prendas y al final"
+    },
+    {
+      "start": 161.86,
+      "end": 166.3,
+      "text": "en la última pestaña el prompt optimizado para cuando yo quiero hacer esta tarea de"
+    },
+    {
+      "start": 166.3,
+      "end": 170.58,
+      "text": "nuevo. Obviamente, después de esa experiencia y sabiendo que teníamos este deal against"
+    },
+    {
+      "start": 170.58,
+      "end": 175.3,
+      "text": "que nos iba a demuner dos meses y que lo podíamos cortar fácilmente a un mes con la ayuda"
+    },
+    {
+      "start": 175.3,
+      "end": 178.18,
+      "text": "de esta herramienta, lo contratamos como fiscina."
+    },
+    {
+      "start": 178.18,
+      "end": 183.22,
+      "text": "Y ustedes están pensando contratar clod por todo este debate de kitchat gpt, que opiné"
+    },
+    {
+      "start": 183.22,
+      "end": 189.5,
+      "text": "hay con el pentagon o un antropic y blah, blah, blah, blah. Contrátelo porque clod es una"
+    },
+    {
+      "start": 189.5,
+      "end": 194.7,
+      "text": "gran herramienta para los abogados, de hecho creo que incluso para el trabajo que uno hace"
+    },
+    {
+      "start": 194.7,
+      "end": 201.5,
+      "text": "el día a día es mejor clod que chat gpt. Ahora, se puede trabajar bien con chat gpt por supuesto,"
+    },
+    {
+      "start": 201.5,
+      "end": 206.74,
+      "text": "ni un problema, se puede igual que se puede con Gemini y tantas otras, pero tengo que decirles"
+    },
+    {
+      "start": 206.74,
+      "end": 210.38,
+      "text": "que clod me ha volado la cabeza las últimas dos semanas."
+    }
+  ]
+}

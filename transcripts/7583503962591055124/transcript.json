@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 25.1950625,
+  "text": "Esta web está muy cara para eso tenemos a gemini. Ahorra de esos 4.000 dólares y piel que te desarrolla un juego interactivo con realidad aumentada, que el formato de lo entrega en HTML. Cobe el código que te entrega, abre un bloc de notas y lo pegas. Esta parte es muy importante el momento de guardarlo y así en el lo nombre lo deja como punto HTML. Abri las del archivo, le darás permiso a la cámara y estarás listo para sentirte como Tony Stark con jugue de nuevo.",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 4.0,
+      "text": "Esta web está muy cara para eso tenemos a gemini."
+    },
+    {
+      "start": 4.0,
+      "end": 8.24,
+      "text": "Ahorra de esos 4.000 dólares y piel que te desarrolla un juego interactivo con realidad aumentada,"
+    },
+    {
+      "start": 8.24,
+      "end": 10.02,
+      "text": "que el formato de lo entrega en HTML."
+    },
+    {
+      "start": 10.02,
+      "end": 13.36,
+      "text": "Cobe el código que te entrega, abre un bloc de notas y lo pegas."
+    },
+    {
+      "start": 13.36,
+      "end": 17.3,
+      "text": "Esta parte es muy importante el momento de guardarlo y así en el lo nombre lo deja como punto"
+    },
+    {
+      "start": 17.3,
+      "end": 18.3,
+      "text": "HTML."
+    },
+    {
+      "start": 18.3,
+      "end": 22.04,
+      "text": "Abri las del archivo, le darás permiso a la cámara y estarás listo para sentirte como Tony"
+    },
+    {
+      "start": 22.04,
+      "end": 23.14,
+      "text": "Stark con jugue de nuevo."
+    }
+  ]
+}

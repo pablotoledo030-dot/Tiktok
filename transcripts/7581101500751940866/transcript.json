@@ -1,0 +1,78 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 153.3691875,
+  "text": "esto es una bomba porque cháGPT ya permite crear conexiones mcp y eso significa que podemos conectar a nuestra cuenta miles y miles de aplicaciones quedate porque te voy a explicar como hace lo de forma muy sencilla pero antes guarda este vídeo para no perderlo y sigueme para más lo primero que vamos a hacer es ir a cháGPT.com y aquí le vamos a dar a settings ahora vamos a ir a conexiones y aplicaciones y vamos a ir a abajo del todo donde tenemos opciones avanzadas y activamos la opción para modo de desarrollador y aquí vais a ver que os ha parecido una nueva opción aquí arriba de crear y esto permite crear estas conexiones mcp que os comentaba antes para este ejemplo vamos a conectar zápier con cháGPT utilizando este tipo de conexión que se llama mcp y por qué vamos a utilizar zápier porque es una plataforma que te permite crear automatizaciones y está conectada con más de 10 mil aplicaciones como por ejemplo es google, slack, nunchon, facebook etc. tiene planes gratuitos así que lo podéis probar por vosotros mismos para crear este mcp con zápier vais a ir a esta URL le vais a dar a este botón de nuevo mcp server y aquí en esta pantalla le vais a dar a cháGPT le podéis poner cualquier nombre lo creamos vais a ver qué os sale aquí y directamente vamos a la pestaña de conectar aquí arriba les decís que lo veis entendido y sólo tienes que copiar esta URL de aquí pues volvemos a cháGPT en la pantalla que estábamos antes le damos un nombre a esta conexión pegamos la URL de antes en este campo y le vamos a dar aquí a aceptar y esto es muy importante lo dejamos en blanco y le vamos a dar a crear cuando la conexión esté creada os va a salir esta pantalla ahora cuando volváis a cháGPT vais a ver qué estáis en modo desarrollador así que si le dais a él con lo demás le dais a más y utilizais la conexión que acabamos de crear le podéis pedir a cháGPT que se conecte a zápier en este ejemplo y que utilice cualquiera de las aplicaciones que están conectadas con la plataforma esto es tan sencillo como volver a la pantalla que estamos antes de zápier y estamos en la parte de conexión para copiar la URL pues volvemos a la pantalla de configurar y aquí podéis conectar en actools cualquiera aplicación que tengáis así que directamente le podéis decir por ejemplo a cháGPT que se conecte a zápier y que envíen mensaje a cualquier grupo de slaught o persona con información que queráis o que envíen correo o cualquier otro tipo de interacción Te dejo más trucos como este en nuestra newsletter es semanalita totalmente gratuita tienes en la cnm perfil",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "esto es una bomba porque cháGPT ya permite crear conexiones mcp y eso significa que podemos conectar a nuestra cuenta miles y miles de aplicaciones"
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "quedate porque te voy a explicar como hace lo de forma muy sencilla pero antes guarda este vídeo para no perderlo y sigueme para más"
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "lo primero que vamos a hacer es ir a cháGPT.com y aquí le vamos a dar a settings"
+    },
+    {
+      "start": 19.0,
+      "end": 29.0,
+      "text": "ahora vamos a ir a conexiones y aplicaciones y vamos a ir a abajo del todo donde tenemos opciones avanzadas y activamos la opción para modo de desarrollador"
+    },
+    {
+      "start": 30.0,
+      "end": 38.0,
+      "text": "y aquí vais a ver que os ha parecido una nueva opción aquí arriba de crear y esto permite crear estas conexiones mcp que os comentaba antes"
+    },
+    {
+      "start": 38.0,
+      "end": 46.0,
+      "text": "para este ejemplo vamos a conectar zápier con cháGPT utilizando este tipo de conexión que se llama mcp y por qué vamos a utilizar zápier"
+    },
+    {
+      "start": 46.0,
+      "end": 57.0,
+      "text": "porque es una plataforma que te permite crear automatizaciones y está conectada con más de 10 mil aplicaciones como por ejemplo es google, slack, nunchon, facebook etc."
+    },
+    {
+      "start": 57.0,
+      "end": 71.0,
+      "text": "tiene planes gratuitos así que lo podéis probar por vosotros mismos para crear este mcp con zápier vais a ir a esta URL le vais a dar a este botón de nuevo mcp server y aquí en esta pantalla le vais a dar a cháGPT"
+    },
+    {
+      "start": 71.0,
+      "end": 85.0,
+      "text": "le podéis poner cualquier nombre lo creamos vais a ver qué os sale aquí y directamente vamos a la pestaña de conectar aquí arriba les decís que lo veis entendido y sólo tienes que copiar esta URL de aquí"
+    },
+    {
+      "start": 85.0,
+      "end": 98.0,
+      "text": "pues volvemos a cháGPT en la pantalla que estábamos antes le damos un nombre a esta conexión pegamos la URL de antes en este campo y le vamos a dar aquí a aceptar y esto es muy importante lo dejamos en blanco y le vamos a dar a crear"
+    },
+    {
+      "start": 98.0,
+      "end": 109.0,
+      "text": "cuando la conexión esté creada os va a salir esta pantalla ahora cuando volváis a cháGPT vais a ver qué estáis en modo desarrollador así que si le dais a él con lo demás le dais a más y utilizais la conexión que acabamos de crear"
+    },
+    {
+      "start": 109.0,
+      "end": 133.0,
+      "text": "le podéis pedir a cháGPT que se conecte a zápier en este ejemplo y que utilice cualquiera de las aplicaciones que están conectadas con la plataforma esto es tan sencillo como volver a la pantalla que estamos antes de zápier y estamos en la parte de conexión para copiar la URL pues volvemos a la pantalla de configurar y aquí podéis conectar en actools cualquiera aplicación que tengáis"
+    },
+    {
+      "start": 133.0,
+      "end": 147.0,
+      "text": "así que directamente le podéis decir por ejemplo a cháGPT que se conecte a zápier y que envíen mensaje a cualquier grupo de slaught o persona con información que queráis o que envíen correo o cualquier otro tipo de interacción"
+    },
+    {
+      "start": 147.0,
+      "end": 153.0,
+      "text": "Te dejo más trucos como este en nuestra newsletter es semanalita totalmente gratuita tienes en la cnm perfil"
+    }
+  ]
+}

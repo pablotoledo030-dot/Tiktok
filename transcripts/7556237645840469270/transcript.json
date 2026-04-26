@@ -1,0 +1,68 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 35.6440625,
+  "text": "todavía estás construyendo tus automatizaciones en N8N desde cero. Existe una herramienta de inteligente artificial que te ahorra todo ese trabajo. Literalmente solo tienes que describir la automatización que quieres y el sistema la crea en segundos. Lo mejor es que puedes explicar el flujo con un mensaje y laía, lo armazola, subir una captura de pantalla de cualquier workflow y lo replica en menos de un minuto e incluso editar o depurar automatizaciones que ya tienes sin romper nada. En vez de pasar horas configurando, con esta herramienta puedes tener tu workflow funcionando en un par de clicks. Sígueme para descubrir más herramientas que te ahorran tiempo y multiplican tu productividad.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "todavía estás construyendo tus automatizaciones en N8N desde cero."
+    },
+    {
+      "start": 3.68,
+      "end": 7.6,
+      "text": "Existe una herramienta de inteligente artificial que te ahorra todo ese trabajo."
+    },
+    {
+      "start": 7.6,
+      "end": 10.84,
+      "text": "Literalmente solo tienes que describir la automatización que quieres"
+    },
+    {
+      "start": 10.84,
+      "end": 12.56,
+      "text": "y el sistema la crea en segundos."
+    },
+    {
+      "start": 12.56,
+      "end": 16.84,
+      "text": "Lo mejor es que puedes explicar el flujo con un mensaje y laía, lo armazola,"
+    },
+    {
+      "start": 16.84,
+      "end": 19.6,
+      "text": "subir una captura de pantalla de cualquier workflow"
+    },
+    {
+      "start": 19.6,
+      "end": 21.28,
+      "text": "y lo replica en menos de un minuto"
+    },
+    {
+      "start": 21.28,
+      "end": 25.48,
+      "text": "e incluso editar o depurar automatizaciones que ya tienes sin romper nada."
+    },
+    {
+      "start": 25.48,
+      "end": 27.48,
+      "text": "En vez de pasar horas configurando,"
+    },
+    {
+      "start": 27.48,
+      "end": 31.04,
+      "text": "con esta herramienta puedes tener tu workflow funcionando en un par de clicks."
+    },
+    {
+      "start": 31.04,
+      "end": 33.88,
+      "text": "Sígueme para descubrir más herramientas que te ahorran tiempo"
+    },
+    {
+      "start": 33.88,
+      "end": 35.6,
+      "text": "y multiplican tu productividad."
+    }
+  ]
+}

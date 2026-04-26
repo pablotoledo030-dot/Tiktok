@@ -1,0 +1,43 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 26.681125,
+  "text": "Páginas que no entiendo porque nadie conoce, parte 23. En esta página puedes diseñar el interior de la habitación que quieras. Tu cuarto, tu cocina, tu oficina, lo que quieras. Puedes mover los muebles a tu gusto, ajustar el tamaño que sean como los tuyos o lo más parecido que se pueda ajustar todo el tamaño de la habitación. Si quieres reorganizar, decorar o comprar un mueble en nuevo antes de que lo vagas, gusta esta página. Te dejo la página en los comentarios.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "Páginas que no entiendo porque nadie conoce, parte 23."
+    },
+    {
+      "start": 3.68,
+      "end": 7.28,
+      "text": "En esta página puedes diseñar el interior de la habitación que quieras."
+    },
+    {
+      "start": 7.28,
+      "end": 10.56,
+      "text": "Tu cuarto, tu cocina, tu oficina, lo que quieras."
+    },
+    {
+      "start": 10.56,
+      "end": 15.08,
+      "text": "Puedes mover los muebles a tu gusto, ajustar el tamaño que sean como los tuyos o lo más parecido"
+    },
+    {
+      "start": 15.08,
+      "end": 17.6,
+      "text": "que se pueda ajustar todo el tamaño de la habitación."
+    },
+    {
+      "start": 17.6,
+      "end": 22.92,
+      "text": "Si quieres reorganizar, decorar o comprar un mueble en nuevo antes de que lo vagas, gusta esta página."
+    },
+    {
+      "start": 22.92,
+      "end": 24.92,
+      "text": "Te dejo la página en los comentarios."
+    }
+  ]
+}

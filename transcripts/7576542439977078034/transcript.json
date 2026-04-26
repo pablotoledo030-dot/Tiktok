@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 21.479875,
+  "text": "Páginas que no entiendo porque nadie conoce, parte 19. Una página donde vas a encontrar programas de ejercicio donde puedes elegir según su duración, el equipamiento que necesitas y su nivel de dificultad. Como este programa de yoga de 30 días sin equipamiento con un nivel de dificultad de 4 o de 5. Solo tienes que descargar el PDF y listo. Ahora cuál es tu pretexto.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Páginas que no entiendo porque nadie conoce, parte 19."
+    },
+    {
+      "start": 3.04,
+      "end": 7.78,
+      "text": "Una página donde vas a encontrar programas de ejercicio donde puedes elegir según su duración,"
+    },
+    {
+      "start": 7.78,
+      "end": 11.54,
+      "text": "el equipamiento que necesitas y su nivel de dificultad."
+    },
+    {
+      "start": 11.54,
+      "end": 17.12,
+      "text": "Como este programa de yoga de 30 días sin equipamiento con un nivel de dificultad de 4 o de 5."
+    },
+    {
+      "start": 17.12,
+      "end": 21.28,
+      "text": "Solo tienes que descargar el PDF y listo. Ahora cuál es tu pretexto."
+    }
+  ]
+}

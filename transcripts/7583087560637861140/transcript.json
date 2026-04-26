@@ -1,0 +1,53 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 59.560625,
+  "text": "va a agarrar ese excel de ventas aburrido. Lo primero que vas a hacer es ir a herramientas y agregar la opción canvas. Después vas a subir el excel y vas a escribir este prompt, arma un dash bordinámico de ventas a partir del excel. Quiero sorprender a mi jefe. Fíjate acá como Gemini ya comenzó a generarme todo el código pero vos no necesitas saber nada de código para esto. Y fíjate aquí ya tenemos el dashboard interactivo. Vamos a probarlo. Vamos acá tenemos filtros. Por ejemplo quiero ver las ventas solamente del centro. Fíjate como en forma dinámica se dan mostrando los datos. Qué de evolución de los ingresos contra los márgenes, el top de vendedores y acá tenemos el rendimiento por categoría, la fuente de las ventas. Y fíjate en segundo como gracias al Gemini hemos creado un dashboard a partir de un excel. Bueno si crees saber cómo agilizar tu trabajo de la oficina día a día subando inteligencia artificial, andale la sed de mi perfil.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "va a agarrar ese excel de ventas aburrido. Lo primero que vas a hacer es ir a herramientas y agregar la opción canvas."
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": "Después vas a subir el excel y vas a escribir este prompt, arma un dash bordinámico de ventas a partir del excel."
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Quiero sorprender a mi jefe."
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "text": "Fíjate acá como Gemini ya comenzó a generarme todo el código pero vos no necesitas saber nada de código para esto."
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "Y fíjate aquí ya tenemos el dashboard interactivo. Vamos a probarlo."
+    },
+    {
+      "start": 26.0,
+      "end": 34.0,
+      "text": "Vamos acá tenemos filtros. Por ejemplo quiero ver las ventas solamente del centro. Fíjate como en forma dinámica se dan mostrando los datos."
+    },
+    {
+      "start": 34.0,
+      "end": 45.0,
+      "text": "Qué de evolución de los ingresos contra los márgenes, el top de vendedores y acá tenemos el rendimiento por categoría, la fuente de las ventas."
+    },
+    {
+      "start": 45.0,
+      "end": 51.0,
+      "text": "Y fíjate en segundo como gracias al Gemini hemos creado un dashboard a partir de un excel."
+    },
+    {
+      "start": 51.0,
+      "end": 59.0,
+      "text": "Bueno si crees saber cómo agilizar tu trabajo de la oficina día a día subando inteligencia artificial, andale la sed de mi perfil."
+    }
+  ]
+}

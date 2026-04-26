@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 44.6069375,
+  "text": "Esto es serio. Ahora las cidas, compiten y debaten, entre sí, para darte una respuesta fina. Sí, acaban de lanzar un sistema que funcionaba diicamente como un consejo de días. Es decir, en lugar de que una sola ia te responda, aquí cuatro modelos gigantes reciben tu pregunta al mismo tiempo y ahí empieza el juego. Cada una de su respuesta inicial. Luego, sin saber quién escribió qué, lee las respuestas de las otras y empiezan a criticarse. Corregirse y calificarse entre ellas. Literalmente se señalan errores, desmontan argumentos débiles y compiten por quién entiende mejor tu pregunta y quién dio la mejor respuesta. Y cuando esa mínima talla termina aparece un quinto modelo, el chairman, que analiza todo el debate y entrega la versión final combina, sin fallas y sin contradicciones, básicamente es como el jefe. Y lo mejor es que este nuevo modelo ya se abierto en GitHub para que cualquiera lo usen. Si te gustaría probarlo, te dejen en las en el primer comentario.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "Esto es serio. Ahora las cidas, compiten y debaten, entre sí, para darte una respuesta fina."
+    },
+    {
+      "start": 4.44,
+      "end": 8.0,
+      "text": "Sí, acaban de lanzar un sistema que funcionaba diicamente como un consejo de días."
+    },
+    {
+      "start": 8.0,
+      "end": 12.24,
+      "text": "Es decir, en lugar de que una sola ia te responda, aquí cuatro modelos gigantes reciben"
+    },
+    {
+      "start": 12.24,
+      "end": 15.76,
+      "text": "tu pregunta al mismo tiempo y ahí empieza el juego. Cada una de su respuesta inicial."
+    },
+    {
+      "start": 15.76,
+      "end": 20.12,
+      "text": "Luego, sin saber quién escribió qué, lee las respuestas de las otras y empiezan a criticarse."
+    },
+    {
+      "start": 20.12,
+      "end": 25.16,
+      "text": "Corregirse y calificarse entre ellas. Literalmente se señalan errores, desmontan argumentos débiles"
+    },
+    {
+      "start": 25.16,
+      "end": 28.44,
+      "text": "y compiten por quién entiende mejor tu pregunta y quién dio la mejor respuesta."
+    },
+    {
+      "start": 28.44,
+      "end": 32.16,
+      "text": "Y cuando esa mínima talla termina aparece un quinto modelo, el chairman,"
+    },
+    {
+      "start": 32.16,
+      "end": 37.04,
+      "text": "que analiza todo el debate y entrega la versión final combina, sin fallas y sin contradicciones,"
+    },
+    {
+      "start": 37.04,
+      "end": 40.56,
+      "text": "básicamente es como el jefe. Y lo mejor es que este nuevo modelo ya se abierto en"
+    },
+    {
+      "start": 40.56,
+      "end": 44.36,
+      "text": "GitHub para que cualquiera lo usen. Si te gustaría probarlo, te dejen en las en el primer comentario."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 112.0376875,
+  "text": "Muestra empresa gasta más de 2.000 euros al mes en herramientas de inteligencia artificial, así que voy a deslosarlas para mostrarte cuál es realmente vale en la pena y cuáles son una completa perdida de dinero. Empezando por N8N, para mí es totalmente nivel ese, puedes automatizar cualquier cosa y crear flujos de trabajo que gestionan prácticamente cualquier tarea empresarial real que se te ocurra. Luego está make, comparando con N8N me parece bastante floja, N8N la supera por mucho. Zapier le pondría un nivel B, es útil porque tiene interraciones con prácticamente cualquier software pero se vuelve muy caro demasiado rápido y llegas a los límites enceridas. ChatGPT, de OpenAI, también lo dejo en nivel B, es útil para tareas diarias pero para cosas más serias se queda corto. Cloth, nivel S es mi modelo favorito en este momento, es una de las mejores herramientas de IA actuales para creación de contenido. Si tienes algo importante para escribir, esta es la opción y su MCP me parece increíble porque conecta con casi todas las herramientas. Gemini, nivel A, ha mejorado muchísimo con la última actualización por Finghugels a algo competitivo. Perplexity también la pondría en nivel A, es excelente para investigación incluso para trabajo con clientes, obtiene fuente rápido y ofrece respuestas precisas. Gama la dejo en nivel B, sirve para hacer presentaciones rápidamente pero desde que actualizaron Gemini Gama perdió protagonismo. Ahora Gemini hace lo mismo pero mejor. Luego está Whisper Flow, una de mis favoritas, nivel S sin duda. Es la mejor herramienta dedicado, ahorra un montón de tiempos simplemente hablando en vez de estar escribiendo. Ahora, las tres siguientes son las más importantes si realmente quieres conseguir clientes. Primero, Apolo, que pondría en nivel A, te sirve para obtener leads de tu sector, aunque los datos no siempre están totalmente actualizados, es ideal para hacer listas de prospectos a los que puedes contactar. Clay, la joya de la corona, nivel S, puedes investigar cientos de leads y personalizar mensajes en segundos. Y por último, Instantly, nivel A. La usamos para campañas de email y si la combinas con Clay y Apolo, tienes la mejor máquina de captación de clientes que existe.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Muestra empresa gasta más de 2.000 euros al mes en herramientas de inteligencia artificial,"
+    },
+    {
+      "start": 4.0,
+      "end": 9.68,
+      "text": "así que voy a deslosarlas para mostrarte cuál es realmente vale en la pena y cuáles son una completa perdida de dinero."
+    },
+    {
+      "start": 9.68,
+      "end": 15.52,
+      "text": "Empezando por N8N, para mí es totalmente nivel ese, puedes automatizar cualquier cosa y crear flujos de trabajo"
+    },
+    {
+      "start": 15.52,
+      "end": 18.96,
+      "text": "que gestionan prácticamente cualquier tarea empresarial real que se te ocurra."
+    },
+    {
+      "start": 18.96,
+      "end": 24.56,
+      "text": "Luego está make, comparando con N8N me parece bastante floja, N8N la supera por mucho."
+    },
+    {
+      "start": 24.56,
+      "end": 29.28,
+      "text": "Zapier le pondría un nivel B, es útil porque tiene interraciones con prácticamente cualquier software"
+    },
+    {
+      "start": 29.28,
+      "end": 32.8,
+      "text": "pero se vuelve muy caro demasiado rápido y llegas a los límites enceridas."
+    },
+    {
+      "start": 32.8,
+      "end": 38.96,
+      "text": "ChatGPT, de OpenAI, también lo dejo en nivel B, es útil para tareas diarias pero para cosas más serias se queda corto."
+    },
+    {
+      "start": 38.96,
+      "end": 45.2,
+      "text": "Cloth, nivel S es mi modelo favorito en este momento, es una de las mejores herramientas de IA actuales para creación de contenido."
+    },
+    {
+      "start": 45.2,
+      "end": 51.68,
+      "text": "Si tienes algo importante para escribir, esta es la opción y su MCP me parece increíble porque conecta con casi todas las herramientas."
+    },
+    {
+      "start": 51.68,
+      "end": 57.44,
+      "text": "Gemini, nivel A, ha mejorado muchísimo con la última actualización por Finghugels a algo competitivo."
+    },
+    {
+      "start": 57.52,
+      "end": 62.8,
+      "text": "Perplexity también la pondría en nivel A, es excelente para investigación incluso para trabajo con clientes,"
+    },
+    {
+      "start": 62.8,
+      "end": 67.12,
+      "text": "obtiene fuente rápido y ofrece respuestas precisas. Gama la dejo en nivel B,"
+    },
+    {
+      "start": 67.12,
+      "end": 72.32,
+      "text": "sirve para hacer presentaciones rápidamente pero desde que actualizaron Gemini Gama perdió protagonismo."
+    },
+    {
+      "start": 72.32,
+      "end": 78.24,
+      "text": "Ahora Gemini hace lo mismo pero mejor. Luego está Whisper Flow, una de mis favoritas, nivel S sin duda."
+    },
+    {
+      "start": 78.24,
+      "end": 83.28,
+      "text": "Es la mejor herramienta dedicado, ahorra un montón de tiempos simplemente hablando en vez de estar escribiendo."
+    },
+    {
+      "start": 83.36,
+      "end": 87.68,
+      "text": "Ahora, las tres siguientes son las más importantes si realmente quieres conseguir clientes."
+    },
+    {
+      "start": 87.68,
+      "end": 91.92,
+      "text": "Primero, Apolo, que pondría en nivel A, te sirve para obtener leads de tu sector,"
+    },
+    {
+      "start": 91.92,
+      "end": 97.68,
+      "text": "aunque los datos no siempre están totalmente actualizados, es ideal para hacer listas de prospectos a los que puedes contactar."
+    },
+    {
+      "start": 97.68,
+      "end": 103.76,
+      "text": "Clay, la joya de la corona, nivel S, puedes investigar cientos de leads y personalizar mensajes en segundos."
+    },
+    {
+      "start": 103.76,
+      "end": 109.36,
+      "text": "Y por último, Instantly, nivel A. La usamos para campañas de email y si la combinas con Clay y Apolo,"
+    },
+    {
+      "start": 109.36,
+      "end": 112.0,
+      "text": "tienes la mejor máquina de captación de clientes que existe."
+    }
+  ]
+}

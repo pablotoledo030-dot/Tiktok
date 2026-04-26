@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 27.37775,
+  "text": "Y por eso, Cloude, ahora puede ver como un dev señor. Anteófica acaba de lanzar Cloude 4.7, mejorando en la visión de imágenes de un 54 a un 98.5%. Le pasas un screenshot con un código roto, un diagrama de arquitectura o una pantalla con error y lo entiende perfectamente, como si estuvieras hablando con un señor. Resolga hasta tres veces más bugs que la versión anterior. Eso sí, consumo un 35% más de tokens, pero cambió el juego completamente.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Y por eso, Cloude, ahora puede ver como un dev señor."
+    },
+    {
+      "start": 3.8,
+      "end": 10.72,
+      "text": "Anteófica acaba de lanzar Cloude 4.7, mejorando en la visión de imágenes de un 54 a un 98.5%."
+    },
+    {
+      "start": 10.72,
+      "end": 17.44,
+      "text": "Le pasas un screenshot con un código roto, un diagrama de arquitectura o una pantalla con error y lo entiende perfectamente,"
+    },
+    {
+      "start": 17.44,
+      "end": 19.68,
+      "text": "como si estuvieras hablando con un señor."
+    },
+    {
+      "start": 19.68,
+      "end": 22.32,
+      "text": "Resolga hasta tres veces más bugs que la versión anterior."
+    },
+    {
+      "start": 22.32,
+      "end": 27.32,
+      "text": "Eso sí, consumo un 35% más de tokens, pero cambió el juego completamente."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 80.2728125,
+  "text": "No sé si esto es bueno o malo. Y es que prácticamente no escribe una línea de código de que empece a utilizar inteligencia artificial y más haciendo este sistema. Lo que tengo es prácticamente magia. Resolví prácticamente todos los bugs que tenía del feedback. Si que escribir código, ¿qué aputas? Uno de los principales problemas de la idea es que a veces alucina o no hace lo que nosotros queremos, pero realmente es porque nosotros no lo explicamos bien. Entonces lo que le dije fue ¿cuáles tienen que ser las instrucciones que usted necesita para que me haga el código de la mejor manera posible? El me creó un documento enorme. Lo que le dije fue agarre y tome todo este blog de nota del feedback, convierta las tareas y por cada tarea resuelvalo siguiendo esta guía que usted mismo creó. Y el maestro lo hizo a la perfección. Y yo la verdad creo que la idea no va a quitar el trabajo, sino le va a quitar el trabajo. Aquellas personas que no utilizanía para acelerar sus procesos. Por ejemplo yo que estoy programando esta app, soy solo. No sé, me había atardado un mes resolviendo todo eso y ahora en día que lo resolví en dos, tres días. Pero cuénteme en ustedes sus aguías y trabajo.",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 3.38,
+      "text": "No sé si esto es bueno o malo."
+    },
+    {
+      "start": 3.38,
+      "end": 9.52,
+      "text": "Y es que prácticamente no escribe una línea de código de que empece a utilizar inteligencia artificial"
+    },
+    {
+      "start": 9.52,
+      "end": 11.18,
+      "text": "y más haciendo este sistema."
+    },
+    {
+      "start": 11.18,
+      "end": 14.02,
+      "text": "Lo que tengo es prácticamente magia."
+    },
+    {
+      "start": 14.02,
+      "end": 17.22,
+      "text": "Resolví prácticamente todos los bugs que tenía del feedback."
+    },
+    {
+      "start": 18.24,
+      "end": 22.87,
+      "text": "Si que escribir código, ¿qué aputas?"
+    },
+    {
+      "start": 22.87,
+      "end": 28.31,
+      "text": "Uno de los principales problemas de la idea es que a veces alucina o no hace lo que nosotros queremos,"
+    },
+    {
+      "start": 28.31,
+      "end": 31.11,
+      "text": "pero realmente es porque nosotros no lo explicamos bien."
+    },
+    {
+      "start": 31.11,
+      "end": 36.47,
+      "text": "Entonces lo que le dije fue ¿cuáles tienen que ser las instrucciones que usted necesita"
+    },
+    {
+      "start": 36.47,
+      "end": 39.63,
+      "text": "para que me haga el código de la mejor manera posible?"
+    },
+    {
+      "start": 39.63,
+      "end": 42.07,
+      "text": "El me creó un documento enorme."
+    },
+    {
+      "start": 42.07,
+      "end": 47.79,
+      "text": "Lo que le dije fue agarre y tome todo este blog de nota del feedback,"
+    },
+    {
+      "start": 48.59,
+      "end": 55.39,
+      "text": "convierta las tareas y por cada tarea resuelvalo siguiendo esta guía que usted mismo creó."
+    },
+    {
+      "start": 56.87,
+      "end": 59.71,
+      "text": "Y el maestro lo hizo a la perfección."
+    },
+    {
+      "start": 59.71,
+      "end": 62.03,
+      "text": "Y yo la verdad creo que la idea no va a quitar el trabajo,"
+    },
+    {
+      "start": 62.03,
+      "end": 63.51,
+      "text": "sino le va a quitar el trabajo."
+    },
+    {
+      "start": 63.51,
+      "end": 67.15,
+      "text": "Aquellas personas que no utilizanía para acelerar sus procesos."
+    },
+    {
+      "start": 67.15,
+      "end": 70.11,
+      "text": "Por ejemplo yo que estoy programando esta app, soy solo."
+    },
+    {
+      "start": 70.11,
+      "end": 73.07,
+      "text": "No sé, me había atardado un mes resolviendo todo eso"
+    },
+    {
+      "start": 73.07,
+      "end": 76.95,
+      "text": "y ahora en día que lo resolví en dos, tres días."
+    },
+    {
+      "start": 77.95,
+      "end": 80.19,
+      "text": "Pero cuénteme en ustedes sus aguías y trabajo."
+    }
+  ]
+}

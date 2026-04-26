@@ -1,0 +1,148 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 119.8860625,
+  "text": "3 cosas que no sabes que puedes hacer con Antigravity hace unas semanas Google lanzó Antigravity sume a plataforma de desarrollo agéntic de agentes de ella y si es lo que suena otra herramienta de ir para probar, nada. Primera, no hables con un modelo, diriges varios agentes a la vez, la mayoría de herramientas de ella siguen atrapadas en un chat, conversación, chatbot. Antigravity funciona distinto, se comporta como un equipo de desarrolladores trabajando en paralelo, puedes lanzar varias tareas a la vez, por ejemplo diseño, lógica, revisión y documentación y ver como los agentes avanzan simultáneamente en segundo plano. Segunda, puedes ver exactamente cómo va a construir algo antes de que lo haga. Imagina que quieres crear una aplicación de seguimiento de vuelos, en lugar de escribir un prompt y recibir un bloque enorme de código, si sabes si está bien o si el modelo ha alucinado, Antigravity primero te explica el plan completo que va a hacer. Es muy parecido a cuando en matemáticas te tienen que muestres el proceso no solamente resultado. Y tercero, puedes dar feedback como si fuera un Google Doc. Antigravity trate al proyecto como un documento vivo, puedes señalar una parte concreta y decirle exactamente qué quieres que cambie, mejor o simple fique sin derrecer todo el contexto de ese ferro. Esto hace que iterarse a muchísimo más rápido y más preciso. Y hay una extra importante que mucha gente se le pasa por tanto. Antigravity aprende su propio trabajo, si encuentro una forma especialmente buena de resolver un problema o un boc, lo guarde no va a ser conocimiento interna. Esto permite que el sistema mejor y con el tiempo acumularía un desarrollador real que aprende de la experiencia. Por eso, si muchas herramientas se va y códigues se sienten como tener un junior muy rápido, que a veces es equivocado. Antigravity se parece más a tener un project manager profesional liderando un equipo de de velóvers, experimentados y con señority. Todo esto corre sobre JaMini3.pro, que tras varias semanas probándolo es uno de los más potentes y consistentes disponible ahora mismo. Cuéntame qué te ha parecido en los comentarios y siguen para estar al día de las últimas novedades de la A, explícamos de forma satilla y práctica, nos vemos en el siguiente.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "3 cosas que no sabes que puedes hacer con Antigravity hace unas semanas Google lanzó Antigravity"
+    },
+    {
+      "start": 5.16,
+      "end": 10.84,
+      "text": "sume a plataforma de desarrollo agéntic de agentes de ella y si es lo que suena otra herramienta"
+    },
+    {
+      "start": 10.84,
+      "end": 12.8,
+      "text": "de ir para probar, nada."
+    },
+    {
+      "start": 12.8,
+      "end": 17.12,
+      "text": "Primera, no hables con un modelo, diriges varios agentes a la vez, la mayoría de herramientas"
+    },
+    {
+      "start": 17.12,
+      "end": 20.76,
+      "text": "de ella siguen atrapadas en un chat, conversación, chatbot."
+    },
+    {
+      "start": 20.76,
+      "end": 25.0,
+      "text": "Antigravity funciona distinto, se comporta como un equipo de desarrolladores trabajando en"
+    },
+    {
+      "start": 25.0,
+      "end": 31.32,
+      "text": "paralelo, puedes lanzar varias tareas a la vez, por ejemplo diseño, lógica, revisión y documentación"
+    },
+    {
+      "start": 31.32,
+      "end": 34.56,
+      "text": "y ver como los agentes avanzan simultáneamente en segundo plano."
+    },
+    {
+      "start": 34.56,
+      "end": 38.6,
+      "text": "Segunda, puedes ver exactamente cómo va a construir algo antes de que lo haga."
+    },
+    {
+      "start": 38.6,
+      "end": 42.36,
+      "text": "Imagina que quieres crear una aplicación de seguimiento de vuelos, en lugar de escribir"
+    },
+    {
+      "start": 42.36,
+      "end": 46.68,
+      "text": "un prompt y recibir un bloque enorme de código, si sabes si está bien o si el modelo ha"
+    },
+    {
+      "start": 46.68,
+      "end": 50.64,
+      "text": "alucinado, Antigravity primero te explica el plan completo que va a hacer."
+    },
+    {
+      "start": 50.64,
+      "end": 54.28,
+      "text": "Es muy parecido a cuando en matemáticas te tienen que muestres el proceso no solamente"
+    },
+    {
+      "start": 54.28,
+      "end": 58.72,
+      "text": "resultado. Y tercero, puedes dar feedback como si fuera un Google Doc."
+    },
+    {
+      "start": 58.72,
+      "end": 63.96,
+      "text": "Antigravity trate al proyecto como un documento vivo, puedes señalar una parte concreta y decirle"
+    },
+    {
+      "start": 63.96,
+      "end": 69.76,
+      "text": "exactamente qué quieres que cambie, mejor o simple fique sin derrecer todo el contexto"
+    },
+    {
+      "start": 69.76,
+      "end": 73.76,
+      "text": "de ese ferro. Esto hace que iterarse a muchísimo más rápido y más preciso."
+    },
+    {
+      "start": 73.76,
+      "end": 77.24,
+      "text": "Y hay una extra importante que mucha gente se le pasa por tanto."
+    },
+    {
+      "start": 77.24,
+      "end": 81.56,
+      "text": "Antigravity aprende su propio trabajo, si encuentro una forma especialmente buena de resolver"
+    },
+    {
+      "start": 81.56,
+      "end": 85.32,
+      "text": "un problema o un boc, lo guarde no va a ser conocimiento interna."
+    },
+    {
+      "start": 85.32,
+      "end": 89.88,
+      "text": "Esto permite que el sistema mejor y con el tiempo acumularía un desarrollador real que"
+    },
+    {
+      "start": 89.88,
+      "end": 93.52,
+      "text": "aprende de la experiencia. Por eso, si muchas herramientas se va y códigues se sienten"
+    },
+    {
+      "start": 93.52,
+      "end": 96.68,
+      "text": "como tener un junior muy rápido, que a veces es equivocado."
+    },
+    {
+      "start": 96.68,
+      "end": 100.92,
+      "text": "Antigravity se parece más a tener un project manager profesional liderando un equipo de"
+    },
+    {
+      "start": 100.92,
+      "end": 107.36,
+      "text": "de velóvers, experimentados y con señority. Todo esto corre sobre JaMini3.pro, que tras"
+    },
+    {
+      "start": 107.36,
+      "end": 111.84,
+      "text": "varias semanas probándolo es uno de los más potentes y consistentes disponible ahora mismo."
+    },
+    {
+      "start": 111.84,
+      "end": 116.04,
+      "text": "Cuéntame qué te ha parecido en los comentarios y siguen para estar al día de las últimas novedades"
+    },
+    {
+      "start": 116.04,
+      "end": 119.6,
+      "text": "de la A, explícamos de forma satilla y práctica, nos vemos en el siguiente."
+    }
+  ]
+}

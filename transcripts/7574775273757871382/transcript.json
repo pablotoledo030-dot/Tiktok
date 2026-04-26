@@ -1,0 +1,23 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 27.5170625,
+  "text": "Este prom se volvió a ver a la hierna en redes sociales y yo no me lo quería, así que lo busqué, lo descargué y lo probé y realmente te cambia la vida con ChaGPT. Te crea una nueva interface y actúa como dice MinJoy, creí tos a él como un consultor de 500 dólares la hora. Es brutal, lo que puede llegar a hacer. Si lo queréis probar, decirme en los comentarios, os lo envío y solo tienes que pegarlo en vuestro ChaGPT.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Este prom se volvió a ver a la hierna en redes sociales y yo no me lo quería, así que lo busqué, lo descargué y lo probé y realmente te cambia la vida con ChaGPT."
+    },
+    {
+      "start": 9.0,
+      "end": 22.0,
+      "text": "Te crea una nueva interface y actúa como dice MinJoy, creí tos a él como un consultor de 500 dólares la hora. Es brutal, lo que puede llegar a hacer."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "Si lo queréis probar, decirme en los comentarios, os lo envío y solo tienes que pegarlo en vuestro ChaGPT."
+    }
+  ]
+}

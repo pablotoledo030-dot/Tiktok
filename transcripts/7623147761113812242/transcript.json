@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 32.39325,
+  "text": "Este video que ves acá no pasó por ningún editor y fue hecho en escuchar media 10 minutos. Todo lo que tuve que hacer fue instalar remotion. Enrique, así de cuenta que es darle a cloud la habilidad para generar videos a partir del código. El proceso sería instalar cloud, instalar remotion que es darle la habilidad y luego empezar a contestar algunas preguntas. ¡Bum! Ahí tenés el resultado. ¿Tip extra? ¿Y estas desuerte porque he documentado todo el proceso en una clase YouTube? Comentad clase y te llega.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Este video que ves acá no pasó por ningún editor y fue hecho en escuchar"
+    },
+    {
+      "start": 3.52,
+      "end": 7.44,
+      "text": "media 10 minutos. Todo lo que tuve que hacer fue instalar"
+    },
+    {
+      "start": 7.44,
+      "end": 10.92,
+      "text": "remotion. Enrique, así de cuenta que es darle a cloud"
+    },
+    {
+      "start": 10.92,
+      "end": 15.12,
+      "text": "la habilidad para generar videos a partir del código. El proceso sería"
+    },
+    {
+      "start": 15.12,
+      "end": 20.08,
+      "text": "instalar cloud, instalar remotion que es darle la habilidad y luego"
+    },
+    {
+      "start": 20.08,
+      "end": 24.32,
+      "text": "empezar a contestar algunas preguntas. ¡Bum! Ahí tenés el resultado."
+    },
+    {
+      "start": 24.32,
+      "end": 29.16,
+      "text": "¿Tip extra? ¿Y estas desuerte porque he documentado todo el"
+    },
+    {
+      "start": 29.16,
+      "end": 32.2,
+      "text": "proceso en una clase YouTube? Comentad clase y te llega."
+    }
+  ]
+}

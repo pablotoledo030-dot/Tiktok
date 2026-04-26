@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 29.188875,
+  "text": "sabías que hay una página web donde puedes utilizar los modelos de ia más avanzado completamente gratis chagg pt5, jmina y 3.0 nano vanana pro y opus 4.5 es un sitio donde puedes probar diferentes modelos de ia enviando el mismo pront para comparar cuál se adapta mejor a tus intereses y cuál te da una mejor respuesta también encontrarás un ranking de los mejores lm en distintas áreas la página se llama lmarenapuntocon, sigue me recuerda",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "sabías que hay una página web donde puedes utilizar los modelos de ia más avanzado completamente gratis"
+    },
+    {
+      "start": 5.8,
+      "end": 13.24,
+      "text": "chagg pt5, jmina y 3.0 nano vanana pro y opus 4.5 es un sitio donde puedes probar diferentes"
+    },
+    {
+      "start": 13.24,
+      "end": 18.6,
+      "text": "modelos de ia enviando el mismo pront para comparar cuál se adapta mejor a tus intereses y"
+    },
+    {
+      "start": 18.6,
+      "end": 25.0,
+      "text": "cuál te da una mejor respuesta también encontrarás un ranking de los mejores lm en distintas áreas"
+    },
+    {
+      "start": 25.0,
+      "end": 29.0,
+      "text": "la página se llama lmarenapuntocon, sigue me recuerda"
+    }
+  ]
+}

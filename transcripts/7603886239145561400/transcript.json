@@ -1,0 +1,488 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 500.8790625,
+  "text": "Hola a todos, somos el equipo de Chile Tributario. Hoy vamos a revisar un tema que crean nos es un verdadero dolor de cabeza en las fiscalizaciones del servicio de impuestos internos, la correcta valorización de los costos y las existencias. Miren, en este análisis técnico vamos a desmenuzar las reglas que definen la renta líquida imponible a través de los costos. Y esto es clave, porque es un área de altísimo escrutinio. Hoy los cruces de datos con el registro de compras y ventas y las declaraciones juradas son automáticos, así que más vale tener todo bien amarrado. Es que miren, hay que entender algo. La norma tributaria tiene su propia lógica, que muchas veces no conversa con la financiera. Aquí justamente les vamos a entregar el blindaje técnico que se necesita. Estrupturamos este material para seguir digamos el ciclo de vida del activo, desde que se compra, como se valoriza, sus ajustes y bueno los casos especiales. Empecemos. Partimos por el principio, el costo directo tributario. Esto está en la definición bien estricta del artículo 30 de la ley sobre impuesto a la renta. La primera regla de oro y que no se les olvide es que el costo debe ser intrínseco al bien. ¿Qué significa esto? Que no basta con que sea un gasto necesario para la empresa, no. Tiene que estar pegado al producto. Lo realmente clave en esta tabla, es cachar la diferencia entre lo que es obligatorio y lo que es opcional. Y ojo con esta decisión sobre los fletes y seguros, porque es totalmente estratégica. Si se activan como costo, la deducción se patea para adelante para cuando se venda, pero si se llevan a gasto, el beneficio tributario es inmediato. Esta decisión le pega directo al flujo de caja tributario del año, y ojo con esto el servicio exige consistencia. Si eligieron un camino, tienen que seguir por ahí. Bien, ahora vamos a la valorización y el flujo de existencias. O sea, cómo determinamos el costo de lo que efectivamente estamos vendiendo. Una vez que ya tenemos el costo de entrada, hay que definir cómo sale. El método que se elija tiene un impacto directo en la utilidad, no es trivial. Desde nuestra experiencia en Chile tributario, hemos visto que al servicio le guste el fijo por su lógica de rotación física, pero seamos honestos, el PMP es plenamente aceptado y, en la práctica, mucho más común en la empresa. Aquí el punto crucial y queremos ser súper enfáticos. El método LIFO, ese que busca rebajar la utilidad sacándolo último que entró, está técnicamente rechazado en Chile. Usarlo es comprarse un ticket para una fiscalización casi segura. Es un riesgo altísimo. Pasamos ahora a la corrección monetaria obligatoria. El famoso llave es este miedo ajuste por inflación del artículo 41. Aquí está el corazón de la complejidad del tema. Las existencias que no se vendieron generan utilidad tributaria, simplemente por tener las guardadas en un entorno con inflación. Pero la ley no usa el IPS general para nada. Usa este concepto específico, el costo de reposición. Y las reglas, bueno, las reglas cambian un montón si los bienes son nacionales o importados. Fíjense bien en el paso número uno. Es brutal. Una sola compra, por chica que sea, a un precio más caro en el segundo semestre, te obligue a inflar el valor de todo el inventario a ese precio. Y por lo tanto, infla la renta líquida imponible. Bueno, vamos a casos prácticos para ver los errores más comunes. Aterricemos toda esta teoría a los números. Miren este ejemplo, para que vean cómo la regla del precio más alto puede generar un impuesto sobre una utilidad que en realidad no se ha ganado. Hay tres precios de compra, pero esa comprita de noviembre, por ser en el segundo semestre, activa la regla más agresiva de todas. Y ahí está. Este es el valor que se debe usar para valorizar todas las 600 unidades que quedaron en stock. No el promedio ni el valor de la compra más grande. No, el más alto de todo el año. Y el efecto en la práctica? Este, en este caso, hay que agregar 429.000 pesos a la renta líquida imponible. Esta es justamente la diferencia entre la valorización tributaria y la financiera. Es pagar un impuesto sobre una ganancia que es solo de papel. Bueno, ahora cambiamos de tema y pasemos a las pérdidas y al régimen propime. Aquí vemos los casos especiales y, como decimos nosotros, la gran excepción a la regla. Ahora, veamos qué pasa cuando los bienes se pierden. El punto crucial aquí y, por favor, a no tenlo, es que un acta interna de baja no tiene ningún valor para el S.I. Cero. Se necesita una prueba feaciente, como una denuncia en carabineros o la certificación de un notario. Si no que pasa, el servicio presume que eso se vendió. Y ahora el régimen propime que da vuelta completamente este tablero. Para estas empresas, las reglas son radicalmente distintas. Olvídense de casi todo lo que vimos. Es que, básicamente, para una propime, toda la complejidad de la corrección monetaria de existencias, simplemente no existe. Si el inventario se pagó, es gasto. Punto se acabó. Esto, por supuesto, simplifica enormemente el cálculo de la renta líquida. Estos son los puntos que, desde nuestra experiencia como equipo, de verdad marcan la diferencia entre una declaración sólida y una contingencia tributoria seria. Son detalles clares. Como, por ejemplo, recordar siempre usar el tipo de cambio de la fecha de la declaración de ingreso, la famosa Din. Y no la fecha de pago en las importaciones. Un error ahí puede costar car. Así que, con todo esto sobre la mesa, la pregunta es obligada. Esta es la pregunta que todo equipo contable debería hacerse al preparar el cierre del año. Porque aplicar bien estas normas no es una opción, es una obligación. Para profundizar en esto y tener un blindaje completo, desde nuestro equipo, hemos preparado una formación muy, muy exhaustiva, que cubre todo esto y muchísimo más. Queremos invitarlos a formar parte de nuestro curso de Renta empresarial a T2026, con la inscripción aseguran acceso a más de 800 páginas de material técnico y sobre 100 videos, además de todas nuestras planillas Excel. Y lo más importante, contarán con nuestro apoyo directo como equipo hasta junio de T2026. Las inscripciones ya están abiertas en www.chile-tributario.com, diagonal Renta-T2026. Desde el equipo de Chile Tributario, agradecemos enormemente la atención. Esperamos que este análisis técnico les sea de la máxima utilidad para sus próximos cierres. Nos vemos en la próxima.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.58,
+      "text": "Hola a todos, somos el equipo de Chile Tributario. Hoy vamos a revisar un tema que crean"
+    },
+    {
+      "start": 5.58,
+      "end": 11.14,
+      "text": "nos es un verdadero dolor de cabeza en las fiscalizaciones del servicio de impuestos internos,"
+    },
+    {
+      "start": 11.14,
+      "end": 14.82,
+      "text": "la correcta valorización de los costos y las existencias."
+    },
+    {
+      "start": 14.82,
+      "end": 20.42,
+      "text": "Miren, en este análisis técnico vamos a desmenuzar las reglas que definen la renta líquida"
+    },
+    {
+      "start": 20.42,
+      "end": 27.32,
+      "text": "imponible a través de los costos. Y esto es clave, porque es un área de altísimo escrutinio."
+    },
+    {
+      "start": 27.32,
+      "end": 32.72,
+      "text": "Hoy los cruces de datos con el registro de compras y ventas y las declaraciones juradas son automáticos,"
+    },
+    {
+      "start": 32.72,
+      "end": 37.76,
+      "text": "así que más vale tener todo bien amarrado. Es que miren, hay que entender algo."
+    },
+    {
+      "start": 37.76,
+      "end": 43.36,
+      "text": "La norma tributaria tiene su propia lógica, que muchas veces no conversa con la financiera."
+    },
+    {
+      "start": 43.36,
+      "end": 47.8,
+      "text": "Aquí justamente les vamos a entregar el blindaje técnico que se necesita."
+    },
+    {
+      "start": 47.8,
+      "end": 52.24,
+      "text": "Estrupturamos este material para seguir digamos el ciclo de vida del activo,"
+    },
+    {
+      "start": 52.24,
+      "end": 57.48,
+      "text": "desde que se compra, como se valoriza, sus ajustes y bueno los casos especiales."
+    },
+    {
+      "start": 57.48,
+      "end": 61.92,
+      "text": "Empecemos. Partimos por el principio, el costo directo tributario."
+    },
+    {
+      "start": 61.92,
+      "end": 66.84,
+      "text": "Esto está en la definición bien estricta del artículo 30 de la ley sobre impuesto a la renta."
+    },
+    {
+      "start": 66.84,
+      "end": 73.62,
+      "text": "La primera regla de oro y que no se les olvide es que el costo debe ser intrínseco al bien."
+    },
+    {
+      "start": 73.62,
+      "end": 78.68,
+      "text": "¿Qué significa esto? Que no basta con que sea un gasto necesario para la empresa, no."
+    },
+    {
+      "start": 78.68,
+      "end": 83.2,
+      "text": "Tiene que estar pegado al producto. Lo realmente clave en esta tabla,"
+    },
+    {
+      "start": 83.2,
+      "end": 87.32,
+      "text": "es cachar la diferencia entre lo que es obligatorio y lo que es opcional."
+    },
+    {
+      "start": 87.32,
+      "end": 93.64,
+      "text": "Y ojo con esta decisión sobre los fletes y seguros, porque es totalmente estratégica."
+    },
+    {
+      "start": 93.64,
+      "end": 98.84,
+      "text": "Si se activan como costo, la deducción se patea para adelante para cuando se venda,"
+    },
+    {
+      "start": 98.84,
+      "end": 102.96,
+      "text": "pero si se llevan a gasto, el beneficio tributario es inmediato."
+    },
+    {
+      "start": 102.96,
+      "end": 106.76,
+      "text": "Esta decisión le pega directo al flujo de caja tributario del año,"
+    },
+    {
+      "start": 106.88,
+      "end": 113.2,
+      "text": "y ojo con esto el servicio exige consistencia. Si eligieron un camino, tienen que seguir por ahí."
+    },
+    {
+      "start": 113.2,
+      "end": 117.36,
+      "text": "Bien, ahora vamos a la valorización y el flujo de existencias."
+    },
+    {
+      "start": 117.36,
+      "end": 121.6,
+      "text": "O sea, cómo determinamos el costo de lo que efectivamente estamos vendiendo."
+    },
+    {
+      "start": 121.6,
+      "end": 126.36,
+      "text": "Una vez que ya tenemos el costo de entrada, hay que definir cómo sale."
+    },
+    {
+      "start": 126.36,
+      "end": 130.92,
+      "text": "El método que se elija tiene un impacto directo en la utilidad, no es trivial."
+    },
+    {
+      "start": 130.92,
+      "end": 136.0,
+      "text": "Desde nuestra experiencia en Chile tributario, hemos visto que al servicio le guste el fijo por su"
+    },
+    {
+      "start": 136.0,
+      "end": 141.92,
+      "text": "lógica de rotación física, pero seamos honestos, el PMP es plenamente aceptado y, en la práctica,"
+    },
+    {
+      "start": 141.92,
+      "end": 148.28,
+      "text": "mucho más común en la empresa. Aquí el punto crucial y queremos ser súper enfáticos."
+    },
+    {
+      "start": 148.28,
+      "end": 153.4,
+      "text": "El método LIFO, ese que busca rebajar la utilidad sacándolo último que entró,"
+    },
+    {
+      "start": 153.4,
+      "end": 160.36,
+      "text": "está técnicamente rechazado en Chile. Usarlo es comprarse un ticket para una fiscalización casi"
+    },
+    {
+      "start": 160.36,
+      "end": 166.12,
+      "text": "segura. Es un riesgo altísimo. Pasamos ahora a la corrección monetaria obligatoria."
+    },
+    {
+      "start": 166.12,
+      "end": 170.96,
+      "text": "El famoso llave es este miedo ajuste por inflación del artículo 41."
+    },
+    {
+      "start": 170.96,
+      "end": 174.0,
+      "text": "Aquí está el corazón de la complejidad del tema."
+    },
+    {
+      "start": 174.0,
+      "end": 178.6,
+      "text": "Las existencias que no se vendieron generan utilidad tributaria,"
+    },
+    {
+      "start": 178.6,
+      "end": 182.0,
+      "text": "simplemente por tener las guardadas en un entorno con inflación."
+    },
+    {
+      "start": 182.0,
+      "end": 185.4,
+      "text": "Pero la ley no usa el IPS general para nada."
+    },
+    {
+      "start": 185.4,
+      "end": 189.36,
+      "text": "Usa este concepto específico, el costo de reposición."
+    },
+    {
+      "start": 189.36,
+      "end": 194.76,
+      "text": "Y las reglas, bueno, las reglas cambian un montón si los bienes son nacionales o importados."
+    },
+    {
+      "start": 194.76,
+      "end": 198.6,
+      "text": "Fíjense bien en el paso número uno. Es brutal."
+    },
+    {
+      "start": 198.6,
+      "end": 203.52,
+      "text": "Una sola compra, por chica que sea, a un precio más caro en el segundo semestre,"
+    },
+    {
+      "start": 203.52,
+      "end": 207.36,
+      "text": "te obligue a inflar el valor de todo el inventario a ese precio."
+    },
+    {
+      "start": 207.36,
+      "end": 210.92,
+      "text": "Y por lo tanto, infla la renta líquida imponible."
+    },
+    {
+      "start": 210.96,
+      "end": 215.32,
+      "text": "Bueno, vamos a casos prácticos para ver los errores más comunes."
+    },
+    {
+      "start": 215.32,
+      "end": 218.8,
+      "text": "Aterricemos toda esta teoría a los números."
+    },
+    {
+      "start": 218.8,
+      "end": 223.04,
+      "text": "Miren este ejemplo, para que vean cómo la regla del precio más alto"
+    },
+    {
+      "start": 223.04,
+      "end": 227.84,
+      "text": "puede generar un impuesto sobre una utilidad que en realidad no se ha ganado."
+    },
+    {
+      "start": 227.84,
+      "end": 231.16,
+      "text": "Hay tres precios de compra, pero esa comprita de noviembre,"
+    },
+    {
+      "start": 231.16,
+      "end": 236.08,
+      "text": "por ser en el segundo semestre, activa la regla más agresiva de todas."
+    },
+    {
+      "start": 236.08,
+      "end": 237.32,
+      "text": "Y ahí está."
+    },
+    {
+      "start": 237.32,
+      "end": 241.96,
+      "text": "Este es el valor que se debe usar para valorizar todas las 600 unidades"
+    },
+    {
+      "start": 241.96,
+      "end": 243.44,
+      "text": "que quedaron en stock."
+    },
+    {
+      "start": 243.44,
+      "end": 246.76,
+      "text": "No el promedio ni el valor de la compra más grande."
+    },
+    {
+      "start": 246.76,
+      "end": 249.88,
+      "text": "No, el más alto de todo el año."
+    },
+    {
+      "start": 249.88,
+      "end": 251.56,
+      "text": "Y el efecto en la práctica?"
+    },
+    {
+      "start": 251.56,
+      "end": 257.72,
+      "text": "Este, en este caso, hay que agregar 429.000 pesos a la renta líquida imponible."
+    },
+    {
+      "start": 257.72,
+      "end": 262.52,
+      "text": "Esta es justamente la diferencia entre la valorización tributaria y la financiera."
+    },
+    {
+      "start": 262.52,
+      "end": 266.96,
+      "text": "Es pagar un impuesto sobre una ganancia que es solo de papel."
+    },
+    {
+      "start": 267.0,
+      "end": 271.84,
+      "text": "Bueno, ahora cambiamos de tema y pasemos a las pérdidas y al régimen propime."
+    },
+    {
+      "start": 271.84,
+      "end": 276.96,
+      "text": "Aquí vemos los casos especiales y, como decimos nosotros, la gran excepción a la regla."
+    },
+    {
+      "start": 276.96,
+      "end": 280.44,
+      "text": "Ahora, veamos qué pasa cuando los bienes se pierden."
+    },
+    {
+      "start": 280.44,
+      "end": 283.88,
+      "text": "El punto crucial aquí y, por favor, a no tenlo,"
+    },
+    {
+      "start": 283.88,
+      "end": 288.32,
+      "text": "es que un acta interna de baja no tiene ningún valor para el S.I."
+    },
+    {
+      "start": 288.32,
+      "end": 289.28,
+      "text": "Cero."
+    },
+    {
+      "start": 289.28,
+      "end": 295.04,
+      "text": "Se necesita una prueba feaciente, como una denuncia en carabineros o la certificación de un notario."
+    },
+    {
+      "start": 295.04,
+      "end": 298.36,
+      "text": "Si no que pasa, el servicio presume que eso se vendió."
+    },
+    {
+      "start": 298.36,
+      "end": 303.52,
+      "text": "Y ahora el régimen propime que da vuelta completamente este tablero."
+    },
+    {
+      "start": 303.52,
+      "end": 307.68,
+      "text": "Para estas empresas, las reglas son radicalmente distintas."
+    },
+    {
+      "start": 307.68,
+      "end": 310.28,
+      "text": "Olvídense de casi todo lo que vimos."
+    },
+    {
+      "start": 310.28,
+      "end": 313.16,
+      "text": "Es que, básicamente, para una propime,"
+    },
+    {
+      "start": 313.16,
+      "end": 319.16,
+      "text": "toda la complejidad de la corrección monetaria de existencias, simplemente no existe."
+    },
+    {
+      "start": 319.16,
+      "end": 321.44,
+      "text": "Si el inventario se pagó, es gasto."
+    },
+    {
+      "start": 321.44,
+      "end": 323.2,
+      "text": "Punto se acabó."
+    },
+    {
+      "start": 323.24,
+      "end": 328.08,
+      "text": "Esto, por supuesto, simplifica enormemente el cálculo de la renta líquida."
+    },
+    {
+      "start": 328.08,
+      "end": 331.84,
+      "text": "Estos son los puntos que, desde nuestra experiencia como equipo,"
+    },
+    {
+      "start": 331.84,
+      "end": 335.32,
+      "text": "de verdad marcan la diferencia entre una declaración sólida"
+    },
+    {
+      "start": 335.32,
+      "end": 337.8,
+      "text": "y una contingencia tributoria seria."
+    },
+    {
+      "start": 337.8,
+      "end": 339.08,
+      "text": "Son detalles clares."
+    },
+    {
+      "start": 339.08,
+      "end": 344.24,
+      "text": "Como, por ejemplo, recordar siempre usar el tipo de cambio de la fecha de la declaración de ingreso,"
+    },
+    {
+      "start": 344.24,
+      "end": 345.68,
+      "text": "la famosa Din."
+    },
+    {
+      "start": 345.68,
+      "end": 348.4,
+      "text": "Y no la fecha de pago en las importaciones."
+    },
+    {
+      "start": 348.4,
+      "end": 350.52,
+      "text": "Un error ahí puede costar car."
+    },
+    {
+      "start": 350.56,
+      "end": 354.2,
+      "text": "Así que, con todo esto sobre la mesa, la pregunta es obligada."
+    },
+    {
+      "start": 354.2,
+      "end": 358.76,
+      "text": "Esta es la pregunta que todo equipo contable debería hacerse al preparar el cierre del año."
+    },
+    {
+      "start": 358.76,
+      "end": 362.6,
+      "text": "Porque aplicar bien estas normas no es una opción, es una obligación."
+    },
+    {
+      "start": 362.6,
+      "end": 365.96,
+      "text": "Para profundizar en esto y tener un blindaje completo,"
+    },
+    {
+      "start": 365.96,
+      "end": 370.44,
+      "text": "desde nuestro equipo, hemos preparado una formación muy, muy exhaustiva,"
+    },
+    {
+      "start": 370.44,
+      "end": 373.32,
+      "text": "que cubre todo esto y muchísimo más."
+    },
+    {
+      "start": 373.32,
+      "end": 379.84,
+      "text": "Queremos invitarlos a formar parte de nuestro curso de Renta empresarial a T2026,"
+    },
+    {
+      "start": 379.84,
+      "end": 384.88,
+      "text": "con la inscripción aseguran acceso a más de 800 páginas de material técnico"
+    },
+    {
+      "start": 384.88,
+      "end": 389.12,
+      "text": "y sobre 100 videos, además de todas nuestras planillas Excel."
+    },
+    {
+      "start": 389.12,
+      "end": 395.52,
+      "text": "Y lo más importante, contarán con nuestro apoyo directo como equipo hasta junio de T2026."
+    },
+    {
+      "start": 395.52,
+      "end": 402.16,
+      "text": "Las inscripciones ya están abiertas en www.chile-tributario.com, diagonal Renta-T2026."
+    },
+    {
+      "start": 402.16,
+      "end": 407.2,
+      "text": "Desde el equipo de Chile Tributario, agradecemos enormemente la atención."
+    },
+    {
+      "start": 407.2,
+      "end": 413.12,
+      "text": "Esperamos que este análisis técnico les sea de la máxima utilidad para sus próximos cierres."
+    },
+    {
+      "start": 413.12,
+      "end": 414.8,
+      "text": "Nos vemos en la próxima."
+    }
+  ]
+}

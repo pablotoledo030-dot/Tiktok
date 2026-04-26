@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 52.223125,
+  "text": "Si eres representante legal de tu empresa, esta información te va a interesar. El día de ayer fui al servicio de impuestos internos porque no había autorizado a un contribuyente representante legal, no le autorizaron la facturación. Solicite al fiscalizador que me dijera la razón y me informó de que este representante era socio de otra empresa que había tenido movimiento hasta el año 2011 y no habían hecho el término de giro. La verdad es que esto es nuevo. Cada vez que tengamos empresarios, representantes legales y tienen empresas que han quedado pendientes en el tiempo, el servicio está exigiendo que se haga el término de giro de lo contrario no te permite facturar. Así que, por mucha atención, esta información. Soy Julia Cordero, sígueme para más información, contarle, tributaria y laboral.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Si eres representante legal de tu empresa, esta información te va a interesar."
+    },
+    {
+      "start": 4.3,
+      "end": 8.34,
+      "text": "El día de ayer fui al servicio de impuestos internos porque no había autorizado"
+    },
+    {
+      "start": 8.34,
+      "end": 12.44,
+      "text": "a un contribuyente representante legal, no le autorizaron la facturación."
+    },
+    {
+      "start": 12.44,
+      "end": 18.18,
+      "text": "Solicite al fiscalizador que me dijera la razón y me informó de que este representante era"
+    },
+    {
+      "start": 18.18,
+      "end": 24.92,
+      "text": "socio de otra empresa que había tenido movimiento hasta el año 2011 y no habían hecho el término de giro."
+    },
+    {
+      "start": 24.92,
+      "end": 26.72,
+      "text": "La verdad es que esto es nuevo."
+    },
+    {
+      "start": 26.72,
+      "end": 31.3,
+      "text": "Cada vez que tengamos empresarios, representantes legales y tienen empresas que han quedado"
+    },
+    {
+      "start": 31.3,
+      "end": 35.66,
+      "text": "pendientes en el tiempo, el servicio está exigiendo que se haga el término de giro"
+    },
+    {
+      "start": 35.66,
+      "end": 37.82,
+      "text": "de lo contrario no te permite facturar."
+    },
+    {
+      "start": 37.82,
+      "end": 40.14,
+      "text": "Así que, por mucha atención, esta información."
+    },
+    {
+      "start": 40.14,
+      "end": 44.34,
+      "text": "Soy Julia Cordero, sígueme para más información, contarle, tributaria y laboral."
+    }
+  ]
+}

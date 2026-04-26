@@ -1,0 +1,108 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 125.3195,
+  "text": "Te voy a enseñar cómo ha quedado a chatGPT con algo que casi seguro no sabías, porque seguro que hay veces que dice oye, yo no quiero ponerme a mandarle prongs largísimos para darle todo el contexto de todo lo que hago, pues que sepas que no es necesario. Para eso existe un truco que se llama Caston Instructions, las instrucciones personalitadas de chatGPT. La mayoría de la gente de las sucesó lo para cosas muy básidas cuando en realidad dan para mucho mucho más. En teoría esto sirve para decirle cosas como que sea más amable, que tenga otra personalidad, que te llame por su nombre, cosas de este style. Pero como esto es una inteligente artificial y en el propio chatGPT control todo bien, como lo funciona, lo que podemos hacer es jaquear por completo a chatGPT utilizando esta funcionalidad. Fijaros. Entro en la parte de personalización de chatGPT, en la pestaña que pone instrucciones personalizadas. Y le digo lo siguiente, cuando el usuario escriba $RP, puede ser el comando que tú quieras, utiliza una fórmula de prongting con esta estructura y la estructura es la siguiente. Contexto y rol, consulta o tarea, especificaciones, criterios de calidad y cómo debe ser la respuesta y además por último una verificación. Además de todo esto, le voy a indicar adaptar el prong del usuario a esta fórmula y devuelve lo completo con todas las cabeceras. ¿Qué pasa entonces? Pues que cada vez que yo escribo algo con ese comando, $RP, antes de responder, chatGPT hace todo ese trabajo previo. Es decir, estoy progreamando a chatGPT para que piense por mí antes de contestar. Y aquí está la gracia, ya no copio el tego la fórmula para rellenarla, ya no relleno a mano todo esto, chatGPT lo hace por mí. Por ejemplo, escribo, hazle un buen prong para redes sociales para mi zapatería $RP. Y automáticamente chatGPT genera el contexto y el rol de finera tarea, añade especificaciones, tablet, equi, criterios de calidad, define el formato de salida y añade una verificación final de todo lo que ha hecho. Todo eso, sin que yo tenga que escribir nada más. Quédate con la idea, utiliza castor instructions, no solo para personalidad, no solo para cómo quieres que te trate, sino para automatizar como piensas y cómodas en sucia.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "Te voy a enseñar cómo ha quedado a chatGPT con algo que casi seguro no sabías, porque seguro que hay veces que dice"
+    },
+    {
+      "start": 5.84,
+      "end": 13.24,
+      "text": "oye, yo no quiero ponerme a mandarle prongs largísimos para darle todo el contexto de todo lo que hago, pues que sepas que no es necesario."
+    },
+    {
+      "start": 13.24,
+      "end": 19.28,
+      "text": "Para eso existe un truco que se llama Caston Instructions, las instrucciones personalitadas de chatGPT."
+    },
+    {
+      "start": 19.28,
+      "end": 25.04,
+      "text": "La mayoría de la gente de las sucesó lo para cosas muy básidas cuando en realidad dan para mucho mucho más."
+    },
+    {
+      "start": 25.12,
+      "end": 32.72,
+      "text": "En teoría esto sirve para decirle cosas como que sea más amable, que tenga otra personalidad, que te llame por su nombre, cosas de este style."
+    },
+    {
+      "start": 32.72,
+      "end": 40.2,
+      "text": "Pero como esto es una inteligente artificial y en el propio chatGPT control todo bien, como lo funciona, lo que podemos hacer es"
+    },
+    {
+      "start": 40.2,
+      "end": 44.28,
+      "text": "jaquear por completo a chatGPT utilizando esta funcionalidad."
+    },
+    {
+      "start": 44.28,
+      "end": 44.92,
+      "text": "Fijaros."
+    },
+    {
+      "start": 44.92,
+      "end": 50.28,
+      "text": "Entro en la parte de personalización de chatGPT, en la pestaña que pone instrucciones personalizadas."
+    },
+    {
+      "start": 50.28,
+      "end": 59.84,
+      "text": "Y le digo lo siguiente, cuando el usuario escriba $RP, puede ser el comando que tú quieras, utiliza una fórmula de prongting con esta estructura y la estructura es la siguiente."
+    },
+    {
+      "start": 59.84,
+      "end": 68.36,
+      "text": "Contexto y rol, consulta o tarea, especificaciones, criterios de calidad y cómo debe ser la respuesta y además por último una verificación."
+    },
+    {
+      "start": 68.36,
+      "end": 75.08,
+      "text": "Además de todo esto, le voy a indicar adaptar el prong del usuario a esta fórmula y devuelve lo completo con todas las cabeceras."
+    },
+    {
+      "start": 75.08,
+      "end": 76.36,
+      "text": "¿Qué pasa entonces?"
+    },
+    {
+      "start": 76.36,
+      "end": 83.44,
+      "text": "Pues que cada vez que yo escribo algo con ese comando, $RP, antes de responder, chatGPT hace todo ese trabajo previo."
+    },
+    {
+      "start": 83.44,
+      "end": 89.08,
+      "text": "Es decir, estoy progreamando a chatGPT para que piense por mí antes de contestar."
+    },
+    {
+      "start": 89.08,
+      "end": 96.12,
+      "text": "Y aquí está la gracia, ya no copio el tego la fórmula para rellenarla, ya no relleno a mano todo esto, chatGPT lo hace por mí."
+    },
+    {
+      "start": 96.12,
+      "end": 101.08,
+      "text": "Por ejemplo, escribo, hazle un buen prong para redes sociales para mi zapatería $RP."
+    },
+    {
+      "start": 101.08,
+      "end": 113.0,
+      "text": "Y automáticamente chatGPT genera el contexto y el rol de finera tarea, añade especificaciones, tablet, equi, criterios de calidad, define el formato de salida y añade una verificación final de todo lo que ha hecho."
+    },
+    {
+      "start": 113.0,
+      "end": 115.6,
+      "text": "Todo eso, sin que yo tenga que escribir nada más."
+    },
+    {
+      "start": 115.6,
+      "end": 125.24,
+      "text": "Quédate con la idea, utiliza castor instructions, no solo para personalidad, no solo para cómo quieres que te trate, sino para automatizar como piensas y cómodas en sucia."
+    }
+  ]
+}

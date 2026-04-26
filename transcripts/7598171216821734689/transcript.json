@@ -1,0 +1,73 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 58.30675,
+  "text": "James 2.0 antes una gema era como tener un prompt guardado ahora la novedad es que puedes dejar fijada la herramienta que va a usar ese gem lo configuras una vez y siempre arranca igual primer caso de uso crear un gem que a partir de una identidad visual ya definida de generes secciones completas para una vuelta y ahora nos aparece una opción nueva que antes no estaba así declara es la herramienta predeterminada para el ejemplo debemos seleccionar cambas ya que te deja generar código y previsualizarlo en el momento yo aquí le pego un texto con reglas para que el gem siempre trabaje igual y antes de lanzarlo hay una pieza clave para que todo esto funcione bien un documento de identidad de marca y segundo caso que para mí es incluso más útil en el día de aquí tengo otro gem preparado y la diferencia es que este gem está conectado a un documento de google drag que es este control de gastos mensual donde tengo todas mis suscriciones pero la clave es que esto no es un archivo estático cada vez que le hago una pregunta el gem vuelve a consultar la hoja y me responde con el dato actualizado James 2.0 es un asistente que ya viene configurado con herramientas y con tu información listo para trabajar.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "James 2.0 antes una gema era como tener un prompt guardado ahora la novedad es que puedes dejar"
+    },
+    {
+      "start": 5.92,
+      "end": 10.24,
+      "text": "fijada la herramienta que va a usar ese gem lo configuras una vez y siempre arranca igual"
+    },
+    {
+      "start": 10.24,
+      "end": 14.88,
+      "text": "primer caso de uso crear un gem que a partir de una identidad visual ya definida de generes"
+    },
+    {
+      "start": 14.88,
+      "end": 19.2,
+      "text": "secciones completas para una vuelta y ahora nos aparece una opción nueva que antes no estaba así"
+    },
+    {
+      "start": 19.2,
+      "end": 23.52,
+      "text": "declara es la herramienta predeterminada para el ejemplo debemos seleccionar cambas ya que te deja"
+    },
+    {
+      "start": 23.52,
+      "end": 28.56,
+      "text": "generar código y previsualizarlo en el momento yo aquí le pego un texto con reglas para que el gem"
+    },
+    {
+      "start": 28.56,
+      "end": 32.64,
+      "text": "siempre trabaje igual y antes de lanzarlo hay una pieza clave para que todo esto funcione bien un"
+    },
+    {
+      "start": 32.64,
+      "end": 36.72,
+      "text": "documento de identidad de marca y segundo caso que para mí es incluso más útil en el día de"
+    },
+    {
+      "start": 36.72,
+      "end": 41.44,
+      "text": "aquí tengo otro gem preparado y la diferencia es que este gem está conectado a un documento de google"
+    },
+    {
+      "start": 41.44,
+      "end": 46.4,
+      "text": "drag que es este control de gastos mensual donde tengo todas mis suscriciones pero la clave es que"
+    },
+    {
+      "start": 46.4,
+      "end": 50.64,
+      "text": "esto no es un archivo estático cada vez que le hago una pregunta el gem vuelve a consultar la"
+    },
+    {
+      "start": 50.64,
+      "end": 55.68,
+      "text": "hoja y me responde con el dato actualizado James 2.0 es un asistente que ya viene configurado con"
+    },
+    {
+      "start": 55.68,
+      "end": 58.12,
+      "text": "herramientas y con tu información listo para trabajar."
+    }
+  ]
+}

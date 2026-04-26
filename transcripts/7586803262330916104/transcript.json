@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 17.9504375,
+  "text": "No fue una decisión fácil y que no sea mi trabajo dependiente para dedicarme a esto al 100% porque en el NICY mi tiempo, mi energía y mi propósito tenían que estar en el mismo lugar. Oye, compañian aprendedores con confianza, clavidad y compromiso. Y no me repiento.",
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 4.9,
+      "text": "No fue una decisión fácil y que no sea mi trabajo dependiente para dedicarme a esto"
+    },
+    {
+      "start": 4.9,
+      "end": 11.1,
+      "text": "al 100% porque en el NICY mi tiempo, mi energía y mi propósito tenían que estar en el"
+    },
+    {
+      "start": 11.1,
+      "end": 12.1,
+      "text": "mismo lugar."
+    },
+    {
+      "start": 12.1,
+      "end": 16.06,
+      "text": "Oye, compañian aprendedores con confianza, clavidad y compromiso."
+    },
+    {
+      "start": 16.06,
+      "end": 17.26,
+      "text": "Y no me repiento."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 20.41175,
+  "text": "Oye, oye, ese rebrito, ¿cómo es eso de que...? Las sociales inversiones puede ser dueña a un activo, ¿sierto? Y para que sea dueña el activo no necesariamente tiene que tener inicio actividad, porque puede ser que cuando yo la constituí, les deías activo. Y en tal caso, quizás no necesite inicio actividad, y si no tienen inicio actividad, no va a pagar patente. Eso...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "Oye, oye, ese rebrito, ¿cómo es eso de que...?"
+    },
+    {
+      "start": 2.52,
+      "end": 5.24,
+      "text": "Las sociales inversiones puede ser dueña a un activo, ¿sierto?"
+    },
+    {
+      "start": 5.24,
+      "end": 9.36,
+      "text": "Y para que sea dueña el activo no necesariamente tiene que tener inicio actividad,"
+    },
+    {
+      "start": 9.36,
+      "end": 12.8,
+      "text": "porque puede ser que cuando yo la constituí, les deías activo."
+    },
+    {
+      "start": 12.8,
+      "end": 16.72,
+      "text": "Y en tal caso, quizás no necesite inicio actividad,"
+    },
+    {
+      "start": 16.72,
+      "end": 19.16,
+      "text": "y si no tienen inicio actividad, no va a pagar patente."
+    },
+    {
+      "start": 19.68,
+      "end": 20.36,
+      "text": "Eso..."
+    }
+  ]
+}

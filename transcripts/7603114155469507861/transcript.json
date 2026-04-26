@@ -1,0 +1,58 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 41.402625,
+  "text": "Quieren pagar menos impuestos. Si eres empresa y compras sin factura, estás cambiando plata. Con la altura puedes le bajar gastos y aprovechar el IVA crédito fiscal. En simples palabras, lo que pasa en el IVA de tus compras lo rebajan del IVA de cobras en tus ventas. Yo te lo explico. Si realizas ventas netas por un millón y medio, el IVA sería de 285 mil. Y si realizas compras por un millón, tu IVA sería de 100.90 mil. La diferencia entre el IVA de las ventas y el IVA de las compras sería lo que tu le pagas al servicio de impuestos interrú. Así que ojo si eres empresa siempre pide tu factura. Esto es lo que yo hago para ordenar para el IVA.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Quieren pagar menos impuestos."
+    },
+    {
+      "start": 1.72,
+      "end": 5.36,
+      "text": "Si eres empresa y compras sin factura, estás cambiando plata."
+    },
+    {
+      "start": 5.36,
+      "end": 9.6,
+      "text": "Con la altura puedes le bajar gastos y aprovechar el IVA crédito fiscal."
+    },
+    {
+      "start": 9.6,
+      "end": 15.0,
+      "text": "En simples palabras, lo que pasa en el IVA de tus compras lo rebajan del IVA de cobras en tus ventas."
+    },
+    {
+      "start": 15.0,
+      "end": 16.72,
+      "text": "Yo te lo explico."
+    },
+    {
+      "start": 16.72,
+      "end": 21.92,
+      "text": "Si realizas ventas netas por un millón y medio, el IVA sería de 285 mil."
+    },
+    {
+      "start": 21.92,
+      "end": 26.12,
+      "text": "Y si realizas compras por un millón, tu IVA sería de 100.90 mil."
+    },
+    {
+      "start": 26.12,
+      "end": 33.12,
+      "text": "La diferencia entre el IVA de las ventas y el IVA de las compras sería lo que tu le pagas al servicio de impuestos interrú."
+    },
+    {
+      "start": 33.12,
+      "end": 36.28,
+      "text": "Así que ojo si eres empresa siempre pide tu factura."
+    },
+    {
+      "start": 36.28,
+      "end": 38.52,
+      "text": "Esto es lo que yo hago para ordenar para el IVA."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 147.2855625,
+  "text": "Una vez más, Antropic define el futuro de la programación. Con un nuevo standard que hará que las aplicaciones pasen de conversar con la idea a interactuar un nivel muchísimo más alto. De lo cuento porque en español nadie explica mejor que de ti. En octubre del año pasado, OpenEA y la enzola apps dentro de ChatGPT fue impresionante, porque las apps funcionaban dentro del chat sin tener que salir de la conversación. Y además lanzaron un sdk para que cualquier programador pueda crear su app para ChatGPT. Y ahora Cloud anuncian que también tiene apps al estilo ChatGPT. Pero lo más importante de eso anunció no son las apps, sino la tecnología para crearlas y que ahora estará alcanse de todos. Porque a diferencia del sdk de OpenEA y que solo funciona para ChatGPT, Antropic ha lanzado un standard abierto que funciona con cualquier cliente. Así tu desarrolla su una vez y tu app puede renderizarse en ChatGPT, en Cloud, en Jaming Eye, o en cualquier cliente mcp. Recordemos que mcp es el protocolo que lanzó Antropic para que cualquier aplicación pueda conversar con la IA y que hoy es el standard mundial. Y que lo puedes aprender en el tiempo, por supuesto. Perem mcp tenía una limitación, solo responde texto, así que no podía mostrar interfaces interactivas como Dashboards, botones, o páginas completas de la aplicación. Por eso en el 2025 despegaron proyectos como mcp.y y apps sdk para resolver esta limitación. Y desde noviembre de 2025 Antropic ha trabajado en conjunto como OpenEA y el equipo de mcp.y para crear mcp apps, un plugin de mcp que permitirá las aplicaciones enviar sus componentes, o sea su frontend, directamente la IA. ¿Te imaginas cómo cambiará esto la programación? ¿Sea un novel importancia de esto te cuento que similar a la llegada de Ayax a la web? Porque antes de Ayax tenemos que recargar la página para ver los cambios y con Ayax client y servidor se comunicaban en tiempo real y mostraban los cambios vivos en la web. Y esto originó que de simples páginas web pasemos a completas aplicaciones viviendo en el navegador. ¿Qué ahora pasaremos aplicaciones completas viviendo en cualquier cliente de inteligencia artificial? Bueno, o malo. Lo que está claro es que esta es una nueva prueba de que la programación no sea muerto y está más viva que nunca, que nos repiten que la programación se ha muerto son los que no se han actualizado y siguen programando como hace tres años. Así que para no quedarte atrasado y mantenerte al día en la programación y la inteligencia artificial visitanos en el punto tiempo que tenemos cientos de recursos con las mejores aplicaciones en español que puedes comenzar gratis hoy mismo. El link está en el perfil y lo aprendiste en Editing.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Una vez más, Antropic define el futuro de la programación."
+    },
+    {
+      "start": 3.34,
+      "end": 7.14,
+      "text": "Con un nuevo standard que hará que las aplicaciones pasen de conversar con la idea"
+    },
+    {
+      "start": 7.14,
+      "end": 9.56,
+      "text": "a interactuar un nivel muchísimo más alto."
+    },
+    {
+      "start": 9.56,
+      "end": 12.3,
+      "text": "De lo cuento porque en español nadie explica mejor que de ti."
+    },
+    {
+      "start": 12.3,
+      "end": 16.12,
+      "text": "En octubre del año pasado, OpenEA y la enzola apps dentro de ChatGPT"
+    },
+    {
+      "start": 16.12,
+      "end": 22.32,
+      "text": "fue impresionante, porque las apps funcionaban dentro del chat sin tener que salir de la conversación."
+    },
+    {
+      "start": 22.32,
+      "end": 27.04,
+      "text": "Y además lanzaron un sdk para que cualquier programador pueda crear su app para ChatGPT."
+    },
+    {
+      "start": 27.2,
+      "end": 30.8,
+      "text": "Y ahora Cloud anuncian que también tiene apps al estilo ChatGPT."
+    },
+    {
+      "start": 30.8,
+      "end": 33.16,
+      "text": "Pero lo más importante de eso anunció no son las apps,"
+    },
+    {
+      "start": 33.16,
+      "end": 37.16,
+      "text": "sino la tecnología para crearlas y que ahora estará alcanse de todos."
+    },
+    {
+      "start": 37.16,
+      "end": 40.9,
+      "text": "Porque a diferencia del sdk de OpenEA y que solo funciona para ChatGPT,"
+    },
+    {
+      "start": 40.9,
+      "end": 44.8,
+      "text": "Antropic ha lanzado un standard abierto que funciona con cualquier cliente."
+    },
+    {
+      "start": 44.8,
+      "end": 48.64,
+      "text": "Así tu desarrolla su una vez y tu app puede renderizarse en ChatGPT,"
+    },
+    {
+      "start": 48.64,
+      "end": 51.84,
+      "text": "en Cloud, en Jaming Eye, o en cualquier cliente mcp."
+    },
+    {
+      "start": 51.84,
+      "end": 56.14,
+      "text": "Recordemos que mcp es el protocolo que lanzó Antropic para que cualquier aplicación pueda"
+    },
+    {
+      "start": 56.14,
+      "end": 59.26,
+      "text": "conversar con la IA y que hoy es el standard mundial."
+    },
+    {
+      "start": 59.26,
+      "end": 61.5,
+      "text": "Y que lo puedes aprender en el tiempo, por supuesto."
+    },
+    {
+      "start": 61.5,
+      "end": 64.54,
+      "text": "Perem mcp tenía una limitación, solo responde texto,"
+    },
+    {
+      "start": 64.54,
+      "end": 68.9,
+      "text": "así que no podía mostrar interfaces interactivas como Dashboards, botones,"
+    },
+    {
+      "start": 68.9,
+      "end": 70.86,
+      "text": "o páginas completas de la aplicación."
+    },
+    {
+      "start": 70.86,
+      "end": 76.98,
+      "text": "Por eso en el 2025 despegaron proyectos como mcp.y y apps sdk para resolver esta limitación."
+    },
+    {
+      "start": 76.98,
+      "end": 82.58,
+      "text": "Y desde noviembre de 2025 Antropic ha trabajado en conjunto como OpenEA y el equipo de mcp.y"
+    },
+    {
+      "start": 82.58,
+      "end": 88.98,
+      "text": "para crear mcp apps, un plugin de mcp que permitirá las aplicaciones enviar sus componentes,"
+    },
+    {
+      "start": 88.98,
+      "end": 91.82,
+      "text": "o sea su frontend, directamente la IA."
+    },
+    {
+      "start": 91.82,
+      "end": 94.66,
+      "text": "¿Te imaginas cómo cambiará esto la programación?"
+    },
+    {
+      "start": 94.66,
+      "end": 98.42,
+      "text": "¿Sea un novel importancia de esto te cuento que similar a la llegada de Ayax a la web?"
+    },
+    {
+      "start": 98.42,
+      "end": 102.18,
+      "text": "Porque antes de Ayax tenemos que recargar la página para ver los cambios"
+    },
+    {
+      "start": 102.18,
+      "end": 105.74,
+      "text": "y con Ayax client y servidor se comunicaban en tiempo real"
+    },
+    {
+      "start": 105.74,
+      "end": 108.1,
+      "text": "y mostraban los cambios vivos en la web."
+    },
+    {
+      "start": 108.1,
+      "end": 114.34,
+      "text": "Y esto originó que de simples páginas web pasemos a completas aplicaciones viviendo en el navegador."
+    },
+    {
+      "start": 114.34,
+      "end": 119.38,
+      "text": "¿Qué ahora pasaremos aplicaciones completas viviendo en cualquier cliente de inteligencia artificial?"
+    },
+    {
+      "start": 119.38,
+      "end": 120.98,
+      "text": "Bueno, o malo."
+    },
+    {
+      "start": 120.98,
+      "end": 127.26,
+      "text": "Lo que está claro es que esta es una nueva prueba de que la programación no sea muerto y está más viva que nunca,"
+    },
+    {
+      "start": 127.26,
+      "end": 130.5,
+      "text": "que nos repiten que la programación se ha muerto son los que no se han actualizado"
+    },
+    {
+      "start": 130.5,
+      "end": 132.74,
+      "text": "y siguen programando como hace tres años."
+    },
+    {
+      "start": 132.74,
+      "end": 135.9,
+      "text": "Así que para no quedarte atrasado y mantenerte al día en la programación"
+    },
+    {
+      "start": 135.9,
+      "end": 140.1,
+      "text": "y la inteligencia artificial visitanos en el punto tiempo que tenemos cientos de recursos"
+    },
+    {
+      "start": 140.1,
+      "end": 144.3,
+      "text": "con las mejores aplicaciones en español que puedes comenzar gratis hoy mismo."
+    },
+    {
+      "start": 144.3,
+      "end": 147.1,
+      "text": "El link está en el perfil y lo aprendiste en Editing."
+    }
+  ]
+}

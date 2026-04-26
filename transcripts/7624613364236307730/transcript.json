@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 72.470875,
+  "text": "y vamos a decir la cloud. Cloud podrías instalar este repositorio de git.jad y le pegamos el link y vamos a darle enter y después de unos minutos ven que dice instalación exitosa si estalaron 156 agentes. Entonces acá nos dice cómo llamarlos, ven, acá podemos decir la cloud por ejemplo, activa el mod frontend nivel opero y ayudame con o actúa como la gente de marketing. Entonces, vamos a decirle por ejemplo para probarlo actúa como el agente de marketing y crea una campanía de marketing para mi negocio de ropa pepito. Ni importa para ver si funciona nada más. Ven ahí lo estoy llamando, ven cloud agents, market strategy. Ahí está llamando a la gente para crear esta campanía de marketing. No lo está haciendo así no más. Está llamando a la gente que se ocupa de eso. Ven acá nos pregunta, antes crea la campanía, esto conozce mejor tu negocio, está bueno esto que te pregunta. Todas estas preguntas tendríamos que responderlas con la información de nuestro negocio, pero obviamente no lo voy a hacer para no aburrirlos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.96,
+      "text": "y vamos a decir la cloud. Cloud podrías instalar este repositorio de git.jad y le pegamos el link y"
+    },
+    {
+      "start": 9.96,
+      "end": 14.56,
+      "text": "vamos a darle enter y después de unos minutos ven que dice instalación exitosa si estalaron"
+    },
+    {
+      "start": 14.56,
+      "end": 21.52,
+      "text": "156 agentes. Entonces acá nos dice cómo llamarlos, ven, acá podemos decir la cloud por ejemplo,"
+    },
+    {
+      "start": 21.52,
+      "end": 27.6,
+      "text": "activa el mod frontend nivel opero y ayudame con o actúa como la gente de marketing. Entonces,"
+    },
+    {
+      "start": 27.6,
+      "end": 36.48,
+      "text": "vamos a decirle por ejemplo para probarlo actúa como el agente de marketing y crea una campanía de"
+    },
+    {
+      "start": 36.48,
+      "end": 45.6,
+      "text": "marketing para mi negocio de ropa pepito. Ni importa para ver si funciona nada más."
+    },
+    {
+      "start": 45.6,
+      "end": 51.44,
+      "text": "Ven ahí lo estoy llamando, ven cloud agents, market strategy. Ahí está llamando a la gente para"
+    },
+    {
+      "start": 51.44,
+      "end": 55.52,
+      "text": "crear esta campanía de marketing. No lo está haciendo así no más. Está llamando a la gente que"
+    },
+    {
+      "start": 55.52,
+      "end": 60.56,
+      "text": "se ocupa de eso. Ven acá nos pregunta, antes crea la campanía, esto conozce mejor tu negocio,"
+    },
+    {
+      "start": 60.56,
+      "end": 65.88,
+      "text": "está bueno esto que te pregunta. Todas estas preguntas tendríamos que responderlas con la información de"
+    },
+    {
+      "start": 65.88,
+      "end": 68.24,
+      "text": "nuestro negocio, pero obviamente no lo voy a hacer para no aburrirlos."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 22.640875,
+  "text": "Pallas que deberías conocer parte de 238. Sabías que si entran estas páginas puedes elegir cualquier grupo muscular y te muestra todos los ejercicios para trabajarlo. Vienen con videos, teorías, rutinas y estas explicaciones de técnica para que no te lesiones y entrenes bien desde el primer día. Perfectas si es de ejercición casa o en el gym y no sabes por dónde empezar. Esta brutal no olvides de guirme.",
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 3.02,
+      "text": "Pallas que deberías conocer parte de 238."
+    },
+    {
+      "start": 3.02,
+      "end": 9.22,
+      "text": "Sabías que si entran estas páginas puedes elegir cualquier grupo muscular y te muestra todos los ejercicios para trabajarlo."
+    },
+    {
+      "start": 9.22,
+      "end": 16.66,
+      "text": "Vienen con videos, teorías, rutinas y estas explicaciones de técnica para que no te lesiones y entrenes bien desde el primer día."
+    },
+    {
+      "start": 16.66,
+      "end": 20.66,
+      "text": "Perfectas si es de ejercición casa o en el gym y no sabes por dónde empezar."
+    },
+    {
+      "start": 20.66,
+      "end": 22.66,
+      "text": "Esta brutal no olvides de guirme."
+    }
+  ]
+}

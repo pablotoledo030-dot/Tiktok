@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 59.142625,
+  "text": "La API de Gemini nos permita hacer integraciones con plataformas que podamos hacer en el mismo antigravity. Por ejemplo, que tengo desarrollado una plataforma que resulta hacer esta y que finalmente el integrado con la API de Gemini para tener un propio modelo de inteligencia artificial dentro de mi plataforma. Tuve esto y más te voy a estar enseñando en nuestro taller de antigravity más automatización, que inicia el 5 de más hoy que te puedes escribir por 15 dólares. Lo que hacemos es integrar esta plataforma a la API de Gemini mediante antigravity para tener resultados como este, que mira cuando yo lleno toda la información, mando en vía solicitud, se pone esta manera que ya envió la solicitud y acaba de haber un botón que dice que la IA te puede hacer unas propuestas preidas. Y mira, al hacerle clic, la IA llama la API o perdón mi plataforma, llama la API de la IA y genera este tipo de recomendaciones personalizadas con la IA. Todo esto y más en nuestro taller de antigravity como automatización.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.52,
+      "text": "La API de Gemini nos permita hacer integraciones con plataformas que podamos hacer en el mismo"
+    },
+    {
+      "start": 6.52,
+      "end": 11.66,
+      "text": "antigravity. Por ejemplo, que tengo desarrollado una plataforma que resulta hacer esta y que"
+    },
+    {
+      "start": 11.66,
+      "end": 17.6,
+      "text": "finalmente el integrado con la API de Gemini para tener un propio modelo de inteligencia artificial"
+    },
+    {
+      "start": 17.6,
+      "end": 23.5,
+      "text": "dentro de mi plataforma. Tuve esto y más te voy a estar enseñando en nuestro taller de antigravity"
+    },
+    {
+      "start": 23.5,
+      "end": 28.46,
+      "text": "más automatización, que inicia el 5 de más hoy que te puedes escribir por 15 dólares. Lo"
+    },
+    {
+      "start": 28.46,
+      "end": 34.04,
+      "text": "que hacemos es integrar esta plataforma a la API de Gemini mediante antigravity para tener"
+    },
+    {
+      "start": 34.04,
+      "end": 37.98,
+      "text": "resultados como este, que mira cuando yo lleno toda la información, mando en vía solicitud,"
+    },
+    {
+      "start": 37.98,
+      "end": 43.7,
+      "text": "se pone esta manera que ya envió la solicitud y acaba de haber un botón que dice que la"
+    },
+    {
+      "start": 43.7,
+      "end": 49.86,
+      "text": "IA te puede hacer unas propuestas preidas. Y mira, al hacerle clic, la IA llama la API o perdón"
+    },
+    {
+      "start": 49.86,
+      "end": 55.62,
+      "text": "mi plataforma, llama la API de la IA y genera este tipo de recomendaciones personalizadas con la IA."
+    },
+    {
+      "start": 55.62,
+      "end": 59.1,
+      "text": "Todo esto y más en nuestro taller de antigravity como automatización."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 33.7864375,
+  "text": "Día 1 hasta tener mi propio Jarvis, siempre quise un Jarvis, desde la primera vez que vi a Iron Man, un asistente que piensa que recuerda que ejecuta, que te diga que hacer cuando tú no sabes por dónde empezar. Pase años buscando algo así y nunca lo encontré porque nadie lo vende, hay que construirlo, un día hice la cuenta de todo el tiempo que había perdido esperando que alguien más lo construyera por mí, y ese día tomé la decisión. No tengo un equipo, no tengo a nadie que me enseño, solo tengo una idea, una pantalla y las ganas de no seguir esperando, así que hoy empieza el día 1, voy a construir mi propio Jarvis desde cero y lo voy a documentar todo, cada error, cada avance, cada momento. Si tú también quisiste uno, quédate, porque esto apenas empieza.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "Día 1 hasta tener mi propio Jarvis, siempre quise un Jarvis, desde la primera vez que"
+    },
+    {
+      "start": 4.16,
+      "end": 7.78,
+      "text": "vi a Iron Man, un asistente que piensa que recuerda que ejecuta, que te diga que hacer"
+    },
+    {
+      "start": 7.78,
+      "end": 9.6,
+      "text": "cuando tú no sabes por dónde empezar."
+    },
+    {
+      "start": 9.6,
+      "end": 13.88,
+      "text": "Pase años buscando algo así y nunca lo encontré porque nadie lo vende, hay que construirlo,"
+    },
+    {
+      "start": 13.88,
+      "end": 17.24,
+      "text": "un día hice la cuenta de todo el tiempo que había perdido esperando que alguien más lo"
+    },
+    {
+      "start": 17.24,
+      "end": 19.64,
+      "text": "construyera por mí, y ese día tomé la decisión."
+    },
+    {
+      "start": 19.64,
+      "end": 23.52,
+      "text": "No tengo un equipo, no tengo a nadie que me enseño, solo tengo una idea, una pantalla y las"
+    },
+    {
+      "start": 23.52,
+      "end": 27.04,
+      "text": "ganas de no seguir esperando, así que hoy empieza el día 1, voy a construir mi propio"
+    },
+    {
+      "start": 27.04,
+      "end": 30.8,
+      "text": "Jarvis desde cero y lo voy a documentar todo, cada error, cada avance, cada momento."
+    },
+    {
+      "start": 30.8,
+      "end": 33.4,
+      "text": "Si tú también quisiste uno, quédate, porque esto apenas empieza."
+    }
+  ]
+}

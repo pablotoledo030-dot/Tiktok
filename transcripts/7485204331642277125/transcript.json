@@ -1,0 +1,273 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 135.6291875,
+  "text": "El término de moda en programaciones BipedCoding Lo curioso es que muchos no saben qué significa y hasta se sienten orgullosos de hacerlo porque creen que es la nueva forma de programar, pero no es exactamente así. El término se creve en un tweet que decía lo siguiente. Hay un nuevo tipo de programación el que llamo BipedCoding donde te deja a civar por las vibraciones, abrazas el crecimiento exponencial de la IA y te olvidas de que el código existe. Es posible porque los LLMs son cada vez mejores, además solo hablo por el micrófono, así que casi no toco el teclado. Pido cosas absurdas como reducer el pán in de la barra lateral a la mitad porque me da peresa encontrarlo, siempre acepto todo y ya no reviso las diferencias. Cuando les digo mensajes de rolos, copio, pegos, en comentarios, normalmente eso lo soluciona. El código crece más allá de mi comprensión, realmente tendría que leerlo a fondo durante un buen rato. A veces los LLMs no pueden corregir un error, así que simplemente pido cambio random hasta que desaparece. No está mal para proyectos improvisados de fin de semana, pero sigue siendo bastante divertido. Estoy desarrollando un proyecto o una aplicación web, pero en realidad no es programar. Solo veo cosas, digo cosas, ejecuto cosas, y copio y pego cosas, y generalmente funciona. ¿Y quién escribes de tweet? ¿Seguro alguien que no sabe programar y que esté emocionado por lo que puede hacerla ahí, ¿acerto? No, el autor es André Jarpate, uno de los pesos pesados en IA. Fue confundador de OpenAI y director de inteligencia artificial en Tesla. Así que sabe bastante de esto, y el mismo dice que eso no es programar. Ni si quieres entender el código, es solo fluir con algo que no entiendes, porque es muy divertido. Entonces cuando hablamos de BikeCode y nos referimos a la tendencia de jugar al programador, sin ser programador, o cuando los programadores con experiencia son conscientes de que es divertido, pero que se requiere mucha revisión antes de sacar la producción. Así que en resumen, el BikeCode no es una buena práctica. Una buena práctica sería el Secure AI Drive de Bellonman, un conjunto de buenas prácticas para desarrollar con IA que algunos equipos ya están implementando, porque lo cierto es que el desarrollo con IA no se va a detener. Así que se requiere un conjunto de buenas prácticas para que no se nos vaya de las manos y terminemos exponiendo llaves privadas, acceso a la base de datos, u otro problema de seguridad bastante conocidos. Si quieres saber más de programación en inteligencia artificial, visítanos, porque puedes comenzar a cualquier curso de gratis. El ingres en el perfil y lo aprendiste en Adity.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "El término de moda en programaciones BipedCoding"
+    },
+    {
+      "start": 2.72,
+      "end": 6.24,
+      "text": "Lo curioso es que muchos no saben qué significa y hasta se sienten orgullosos de hacerlo"
+    },
+    {
+      "start": 6.24,
+      "end": 10.0,
+      "text": "porque creen que es la nueva forma de programar, pero no es exactamente así."
+    },
+    {
+      "start": 10.0,
+      "end": 13.04,
+      "text": "El término se creve en un tweet que decía lo siguiente."
+    },
+    {
+      "start": 13.04,
+      "end": 16.28,
+      "text": "Hay un nuevo tipo de programación el que llamo BipedCoding"
+    },
+    {
+      "start": 16.28,
+      "end": 18.16,
+      "text": "donde te deja a civar por las vibraciones,"
+    },
+    {
+      "start": 18.16,
+      "end": 22.16,
+      "text": "abrazas el crecimiento exponencial de la IA y te olvidas de que el código existe."
+    },
+    {
+      "start": 22.16,
+      "end": 25.08,
+      "text": "Es posible porque los LLMs son cada vez mejores,"
+    },
+    {
+      "start": 25.08,
+      "end": 26.84,
+      "text": "además solo hablo por el micrófono,"
+    },
+    {
+      "start": 26.84,
+      "end": 28.84,
+      "text": "así que casi no toco el teclado."
+    },
+    {
+      "start": 28.88,
+      "end": 32.08,
+      "text": "Pido cosas absurdas como reducer el pán in de la barra lateral a la mitad"
+    },
+    {
+      "start": 32.08,
+      "end": 33.72,
+      "text": "porque me da peresa encontrarlo,"
+    },
+    {
+      "start": 33.72,
+      "end": 36.6,
+      "text": "siempre acepto todo y ya no reviso las diferencias."
+    },
+    {
+      "start": 36.6,
+      "end": 38.84,
+      "text": "Cuando les digo mensajes de rolos, copio, pegos,"
+    },
+    {
+      "start": 38.84,
+      "end": 41.32,
+      "text": "en comentarios, normalmente eso lo soluciona."
+    },
+    {
+      "start": 41.32,
+      "end": 44.04,
+      "text": "El código crece más allá de mi comprensión,"
+    },
+    {
+      "start": 44.04,
+      "end": 46.84,
+      "text": "realmente tendría que leerlo a fondo durante un buen rato."
+    },
+    {
+      "start": 46.84,
+      "end": 49.24,
+      "text": "A veces los LLMs no pueden corregir un error,"
+    },
+    {
+      "start": 49.24,
+      "end": 52.4,
+      "text": "así que simplemente pido cambio random hasta que desaparece."
+    },
+    {
+      "start": 52.4,
+      "end": 55.24,
+      "text": "No está mal para proyectos improvisados de fin de semana,"
+    },
+    {
+      "start": 55.24,
+      "end": 57.44,
+      "text": "pero sigue siendo bastante divertido."
+    },
+    {
+      "start": 57.6,
+      "end": 60.2,
+      "text": "Estoy desarrollando un proyecto o una aplicación web,"
+    },
+    {
+      "start": 60.2,
+      "end": 61.48,
+      "text": "pero en realidad no es programar."
+    },
+    {
+      "start": 61.48,
+      "end": 64.2,
+      "text": "Solo veo cosas, digo cosas, ejecuto cosas,"
+    },
+    {
+      "start": 64.2,
+      "end": 67.36,
+      "text": "y copio y pego cosas, y generalmente funciona."
+    },
+    {
+      "start": 67.36,
+      "end": 68.84,
+      "text": "¿Y quién escribes de tweet?"
+    },
+    {
+      "start": 68.84,
+      "end": 70.12,
+      "text": "¿Seguro alguien que no sabe programar"
+    },
+    {
+      "start": 70.12,
+      "end": 73.12,
+      "text": "y que esté emocionado por lo que puede hacerla ahí, ¿acerto?"
+    },
+    {
+      "start": 73.12,
+      "end": 77.32,
+      "text": "No, el autor es André Jarpate, uno de los pesos pesados en IA."
+    },
+    {
+      "start": 77.32,
+      "end": 81.48,
+      "text": "Fue confundador de OpenAI y director de inteligencia artificial en Tesla."
+    },
+    {
+      "start": 81.48,
+      "end": 83.24,
+      "text": "Así que sabe bastante de esto,"
+    },
+    {
+      "start": 83.24,
+      "end": 85.88,
+      "text": "y el mismo dice que eso no es programar."
+    },
+    {
+      "start": 85.88,
+      "end": 87.72,
+      "text": "Ni si quieres entender el código,"
+    },
+    {
+      "start": 87.72,
+      "end": 89.56,
+      "text": "es solo fluir con algo que no entiendes,"
+    },
+    {
+      "start": 89.56,
+      "end": 91.28,
+      "text": "porque es muy divertido."
+    },
+    {
+      "start": 91.28,
+      "end": 93.56,
+      "text": "Entonces cuando hablamos de BikeCode y nos referimos a la tendencia"
+    },
+    {
+      "start": 93.56,
+      "end": 96.04,
+      "text": "de jugar al programador, sin ser programador,"
+    },
+    {
+      "start": 96.04,
+      "end": 98.56,
+      "text": "o cuando los programadores con experiencia son conscientes"
+    },
+    {
+      "start": 98.56,
+      "end": 101.28,
+      "text": "de que es divertido, pero que se requiere mucha revisión"
+    },
+    {
+      "start": 101.28,
+      "end": 103.0,
+      "text": "antes de sacar la producción."
+    },
+    {
+      "start": 103.0,
+      "end": 106.52,
+      "text": "Así que en resumen, el BikeCode no es una buena práctica."
+    },
+    {
+      "start": 106.52,
+      "end": 109.96,
+      "text": "Una buena práctica sería el Secure AI Drive de Bellonman,"
+    },
+    {
+      "start": 109.96,
+      "end": 112.28,
+      "text": "un conjunto de buenas prácticas para desarrollar con IA"
+    },
+    {
+      "start": 112.28,
+      "end": 115.0,
+      "text": "que algunos equipos ya están implementando,"
+    },
+    {
+      "start": 115.0,
+      "end": 117.96,
+      "text": "porque lo cierto es que el desarrollo con IA no se va a detener."
+    },
+    {
+      "start": 117.96,
+      "end": 120.04,
+      "text": "Así que se requiere un conjunto de buenas prácticas"
+    },
+    {
+      "start": 120.04,
+      "end": 122.48,
+      "text": "para que no se nos vaya de las manos y terminemos exponiendo"
+    },
+    {
+      "start": 122.48,
+      "end": 124.84,
+      "text": "llaves privadas, acceso a la base de datos,"
+    },
+    {
+      "start": 124.84,
+      "end": 127.88,
+      "text": "u otro problema de seguridad bastante conocidos."
+    },
+    {
+      "start": 127.88,
+      "end": 129.04,
+      "text": "Si quieres saber más de programación"
+    },
+    {
+      "start": 129.04,
+      "end": 130.84,
+      "text": "en inteligencia artificial, visítanos,"
+    },
+    {
+      "start": 130.84,
+      "end": 132.76,
+      "text": "porque puedes comenzar a cualquier curso de gratis."
+    },
+    {
+      "start": 132.76,
+      "end": 135.48,
+      "text": "El ingres en el perfil y lo aprendiste en Adity."
+    }
+  ]
+}

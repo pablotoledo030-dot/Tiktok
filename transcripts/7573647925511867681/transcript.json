@@ -1,0 +1,73 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 62.068375,
+  "text": "SAGPT acaba de lanzar una nueva herramienta que podría reemplazar a make o en 8N y es completamente gratuito, se llama agent builder y te permite crear flujos de trabajo con inteligentes artificiales sin programar absolutamente nada. Puedes empezar desde una plantilla o crear tu propio flujo desde cero, conectando bloques y modelos deía como si fuera una herramienta de automatricación profesional. Y lo mejor es mucho más fácil de usar que las alternativas, además incluye un nodo llamado mcp que te deja conectar tus flujos con herramientas reales como Gmail, Tapio o Google Drive para automatizar tareas del mundo real. Cuando terminas puedes probar tu agente directamente en el chat y con un solo clic dejarlo funcionando. Literalmente puedes construir tu propio mini-chagPT personalizado que trabaje por ti y sin complicaciones. Ahora mismo está disponible gratis en la huevo oficial de OpenAI, así que si eres creador, emprendedor o freelance, esto puede ahorrarte horas de trabajo cada semana. Ya no queda nada, este jueves 20 de noviembre es la más terclas gratuita deía y automatizaciones, y todavía no estás en el grupo de WhatsApp, entra ya, ahí mando el acceso directo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "SAGPT acaba de lanzar una nueva herramienta que podría reemplazar a make o en 8N y es"
+    },
+    {
+      "start": 5.2,
+      "end": 10.18,
+      "text": "completamente gratuito, se llama agent builder y te permite crear flujos de trabajo con"
+    },
+    {
+      "start": 10.18,
+      "end": 13.2,
+      "text": "inteligentes artificiales sin programar absolutamente nada."
+    },
+    {
+      "start": 13.2,
+      "end": 17.76,
+      "text": "Puedes empezar desde una plantilla o crear tu propio flujo desde cero, conectando bloques y"
+    },
+    {
+      "start": 17.76,
+      "end": 21.08,
+      "text": "modelos deía como si fuera una herramienta de automatricación profesional."
+    },
+    {
+      "start": 21.08,
+      "end": 25.96,
+      "text": "Y lo mejor es mucho más fácil de usar que las alternativas, además incluye un nodo llamado"
+    },
+    {
+      "start": 25.96,
+      "end": 31.48,
+      "text": "mcp que te deja conectar tus flujos con herramientas reales como Gmail, Tapio o Google Drive para"
+    },
+    {
+      "start": 31.48,
+      "end": 35.92,
+      "text": "automatizar tareas del mundo real. Cuando terminas puedes probar tu agente directamente en el"
+    },
+    {
+      "start": 35.92,
+      "end": 41.24,
+      "text": "chat y con un solo clic dejarlo funcionando. Literalmente puedes construir tu propio mini-chagPT"
+    },
+    {
+      "start": 41.24,
+      "end": 45.96,
+      "text": "personalizado que trabaje por ti y sin complicaciones. Ahora mismo está disponible gratis en la"
+    },
+    {
+      "start": 45.96,
+      "end": 51.36,
+      "text": "huevo oficial de OpenAI, así que si eres creador, emprendedor o freelance, esto puede ahorrarte horas de"
+    },
+    {
+      "start": 51.36,
+      "end": 56.52,
+      "text": "trabajo cada semana. Ya no queda nada, este jueves 20 de noviembre es la más terclas gratuita"
+    },
+    {
+      "start": 56.52,
+      "end": 61.96,
+      "text": "deía y automatizaciones, y todavía no estás en el grupo de WhatsApp, entra ya, ahí mando el acceso directo."
+    }
+  ]
+}

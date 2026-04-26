@@ -1,0 +1,83 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 70.1024375,
+  "text": "¿Sientes que a veces pasas más tiempo organizando el trabajo que realmente haciéndolo? La integración de Gemini en Wax Space busca resolver eso, actuando como un asistente invisible que conecta los puntos por ti. Imagina que quieres agendar una reunión. En lugar de jugar al ping-pong de correos buscando huecos, la ya entiende el contexto de tu mensaje cruza la disponibilidad de tu calendario y propone automáticamente los mejores horarios, enviando la invitación con un solo clic. Y cuando entras a la llamada, órbídate de tomar a puntes frenéticamente. Al activar la toma de notas, llemen a y funciona como un secretario eficiente, no solo escucha, sino que estructura la información, detectando las conclusiones y las tareas pendientes de cada persona en tiempo real. Lo más valioso ocurre al terminar, esa información no se pierde. Los resúmenes y compromisos se integran directamente en el chat del equipo, permitiendo que el flujo de trabajo continúe sin que nadie tenga que preguntar en qué quedamos. Esto es fluidez operativa, eliminar la ficción administrativa para que puedas poner tu energía en lo que realmente aporta valor a tu negocio. ¿Cuánto tiempo pierdes a la semana haciendo de secretario de tus propias reuniones?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "¿Sientes que a veces pasas más tiempo organizando el trabajo que realmente haciéndolo?"
+    },
+    {
+      "start": 4.76,
+      "end": 11.92,
+      "text": "La integración de Gemini en Wax Space busca resolver eso, actuando como un asistente invisible que conecta los puntos por ti."
+    },
+    {
+      "start": 11.92,
+      "end": 14.8,
+      "text": "Imagina que quieres agendar una reunión."
+    },
+    {
+      "start": 14.8,
+      "end": 18.08,
+      "text": "En lugar de jugar al ping-pong de correos buscando huecos,"
+    },
+    {
+      "start": 18.08,
+      "end": 24.8,
+      "text": "la ya entiende el contexto de tu mensaje cruza la disponibilidad de tu calendario y propone automáticamente los mejores horarios,"
+    },
+    {
+      "start": 24.8,
+      "end": 27.56,
+      "text": "enviando la invitación con un solo clic."
+    },
+    {
+      "start": 27.76,
+      "end": 32.12,
+      "text": "Y cuando entras a la llamada, órbídate de tomar a puntes frenéticamente."
+    },
+    {
+      "start": 32.12,
+      "end": 33.72,
+      "text": "Al activar la toma de notas,"
+    },
+    {
+      "start": 33.72,
+      "end": 37.28,
+      "text": "llemen a y funciona como un secretario eficiente, no solo escucha,"
+    },
+    {
+      "start": 37.28,
+      "end": 44.04,
+      "text": "sino que estructura la información, detectando las conclusiones y las tareas pendientes de cada persona en tiempo real."
+    },
+    {
+      "start": 44.04,
+      "end": 48.24,
+      "text": "Lo más valioso ocurre al terminar, esa información no se pierde."
+    },
+    {
+      "start": 48.24,
+      "end": 51.84,
+      "text": "Los resúmenes y compromisos se integran directamente en el chat del equipo,"
+    },
+    {
+      "start": 51.84,
+      "end": 57.24,
+      "text": "permitiendo que el flujo de trabajo continúe sin que nadie tenga que preguntar en qué quedamos."
+    },
+    {
+      "start": 57.28,
+      "end": 65.0,
+      "text": "Esto es fluidez operativa, eliminar la ficción administrativa para que puedas poner tu energía en lo que realmente aporta valor a tu negocio."
+    },
+    {
+      "start": 65.0,
+      "end": 70.04,
+      "text": "¿Cuánto tiempo pierdes a la semana haciendo de secretario de tus propias reuniones?"
+    }
+  ]
+}

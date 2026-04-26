@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 46.8360625,
+  "text": "Google acaba de lanzar algo enorme, una plataforma con más de 3000 cursos de día totalmente gratis y no es cualquier plataforma, la han creado expertos de Google y DeepMind y está diseñada para darte exactamente las habilidades que van a pedir los trabajos del futuro, desde lo más básico de Prontine hasta cursos avanzados para crear tu propio modelo de lengua. Y lo mejor, también tienen píldoras rápidas de día de 10 minutos para aprender nuevas habilidades prácticas sin perder tiempo. Dentro vas a encontrar rutas completas para formarte en inteligencia artificial, Machine Learning y automatización cursos guiados por investigadores reales de Google, certificados oficiales e insignias de habilidades si quieres subir al plan de pago y contenidos actualizados orientados al empleo. Literalmente, si quieres ponerte al día, conía, sin gastar nada, este es el mejor punto de partida.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "Google acaba de lanzar algo enorme, una plataforma con más de 3000 cursos de día totalmente gratis"
+    },
+    {
+      "start": 6.08,
+      "end": 9.86,
+      "text": "y no es cualquier plataforma, la han creado expertos de Google y DeepMind"
+    },
+    {
+      "start": 9.86,
+      "end": 14.66,
+      "text": "y está diseñada para darte exactamente las habilidades que van a pedir los trabajos del futuro,"
+    },
+    {
+      "start": 14.66,
+      "end": 19.14,
+      "text": "desde lo más básico de Prontine hasta cursos avanzados para crear tu propio modelo de lengua."
+    },
+    {
+      "start": 19.14,
+      "end": 25.58,
+      "text": "Y lo mejor, también tienen píldoras rápidas de día de 10 minutos para aprender nuevas habilidades prácticas sin perder tiempo."
+    },
+    {
+      "start": 25.58,
+      "end": 29.9,
+      "text": "Dentro vas a encontrar rutas completas para formarte en inteligencia artificial,"
+    },
+    {
+      "start": 29.9,
+      "end": 34.46,
+      "text": "Machine Learning y automatización cursos guiados por investigadores reales de Google,"
+    },
+    {
+      "start": 34.46,
+      "end": 38.82,
+      "text": "certificados oficiales e insignias de habilidades si quieres subir al plan de pago"
+    },
+    {
+      "start": 38.82,
+      "end": 41.38,
+      "text": "y contenidos actualizados orientados al empleo."
+    },
+    {
+      "start": 41.38,
+      "end": 44.9,
+      "text": "Literalmente, si quieres ponerte al día, conía, sin gastar nada,"
+    },
+    {
+      "start": 44.9,
+      "end": 46.78,
+      "text": "este es el mejor punto de partida."
+    }
+  ]
+}

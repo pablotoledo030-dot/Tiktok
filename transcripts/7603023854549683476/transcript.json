@@ -1,0 +1,58 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 54.9630625,
+  "text": "Inició actividades y no puedo facturar. ¿Qué más te va a hacer? Se me ha hecho imposible. Una clienta nos pregunta sobre la facturación. La verdad es que no solo con inaciar actividades significa que vamos a facturar al tiro. Para esto tenemos que hacer un trámite que se llama verificación de actividad, la cual se hace a través del servicio impuesto interno y se acredita al ruro a través de documentación como facturas de compra, órdenes de compra, cotización en la descripción de actividades de su ruro, etc. Son actos favoritos que viden el servicio impuesto interno para darte el paso a la facturación. Una vez que te den el paso a la facturación con ese trámite puedes comprar tu certificado digital en la salvo con el servicio impuesto interno o con algún facturador particular que tengas y hay recién puede emitir tu primera factura.",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 6.56,
+      "text": "Inició actividades y no puedo facturar. ¿Qué más te va a hacer? Se me ha hecho imposible."
+    },
+    {
+      "start": 6.56,
+      "end": 12.76,
+      "text": "Una clienta nos pregunta sobre la facturación. La verdad es que no solo con inaciar actividades"
+    },
+    {
+      "start": 12.76,
+      "end": 18.48,
+      "text": "significa que vamos a facturar al tiro. Para esto tenemos que hacer un trámite que se llama"
+    },
+    {
+      "start": 18.48,
+      "end": 23.36,
+      "text": "verificación de actividad, la cual se hace a través del servicio impuesto interno y se"
+    },
+    {
+      "start": 23.36,
+      "end": 28.88,
+      "text": "acredita al ruro a través de documentación como facturas de compra, órdenes de compra,"
+    },
+    {
+      "start": 28.88,
+      "end": 34.72,
+      "text": "cotización en la descripción de actividades de su ruro, etc. Son actos favoritos que"
+    },
+    {
+      "start": 34.72,
+      "end": 39.48,
+      "text": "viden el servicio impuesto interno para darte el paso a la facturación. Una vez que"
+    },
+    {
+      "start": 39.48,
+      "end": 45.48,
+      "text": "te den el paso a la facturación con ese trámite puedes comprar tu certificado digital en la"
+    },
+    {
+      "start": 45.48,
+      "end": 51.08,
+      "text": "salvo con el servicio impuesto interno o con algún facturador particular que tengas y"
+    },
+    {
+      "start": 51.08,
+      "end": 53.68,
+      "text": "hay recién puede emitir tu primera factura."
+    }
+  ]
+}

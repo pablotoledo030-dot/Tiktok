@@ -1,0 +1,113 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 80.1799375,
+  "text": "Mira esto, Google acaba de lanzar su propia plataforma para crear apps con intrejentas artificial, con un solo clic y es totalmente gratis. Te lo sueño. Para acceder solo tienes que ir a Google e a estudio, le das a dilt y aquí tienes la opción de crear tu aplicación. En el centro vemos la caja donde vas a poner el prompt y aquí abajo vas a ver todas las herramientas que puedes utilizar, que son super potentes, una no vanana Google search, Google Maps y que las vas a poder conectar con tu app sin necesidad de usar una. Esto es lo que le pedio que haga. Quiero construir una aplicación en la que el usuario pueda subir una factura y la ahí estrega todos los datos relevantes, los que se fique por tipo de gastos, en una hoja de Google Search y genera un resumen global tipo dashboard con el total de gastos por categoría y periodo. Al cabo de un minuto tengo esta increíble aplicación a la que le puedo subir archivos, facturas y, inmediatamente, las va a leer y las va a incluir dentro de mi dashboard. Y me las clasifica, me pone cuando ha sido las tendencias. Todo esto es solo con un prompt que lo puedes hacer mucho más complicado. Esto es solo un ejemplo muy básico de lo que puedes hacer con Google y a estudio. Si quieres que también el link comenta Google y te lo mando encantado. Y si quieres saber más sobre la inteligencia artificial, chafé.t, y bueno, cómo estar al día de todas estas cosas, sí que ve, hasta luego.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "Mira esto, Google acaba de lanzar su propia plataforma para crear apps con intrejentas artificial,"
+    },
+    {
+      "start": 5.12,
+      "end": 7.52,
+      "text": "con un solo clic y es totalmente gratis."
+    },
+    {
+      "start": 7.52,
+      "end": 8.52,
+      "text": "Te lo sueño."
+    },
+    {
+      "start": 8.52,
+      "end": 14.32,
+      "text": "Para acceder solo tienes que ir a Google e a estudio, le das a dilt y aquí tienes la opción"
+    },
+    {
+      "start": 14.32,
+      "end": 15.8,
+      "text": "de crear tu aplicación."
+    },
+    {
+      "start": 15.8,
+      "end": 19.72,
+      "text": "En el centro vemos la caja donde vas a poner el prompt y aquí abajo vas a ver todas las"
+    },
+    {
+      "start": 19.72,
+      "end": 24.96,
+      "text": "herramientas que puedes utilizar, que son super potentes, una no vanana Google search, Google"
+    },
+    {
+      "start": 24.96,
+      "end": 29.44,
+      "text": "Maps y que las vas a poder conectar con tu app sin necesidad de usar una."
+    },
+    {
+      "start": 29.44,
+      "end": 30.72,
+      "text": "Esto es lo que le pedio que haga."
+    },
+    {
+      "start": 30.72,
+      "end": 34.32,
+      "text": "Quiero construir una aplicación en la que el usuario pueda subir una factura y la ahí"
+    },
+    {
+      "start": 34.32,
+      "end": 38.52,
+      "text": "estrega todos los datos relevantes, los que se fique por tipo de gastos, en una hoja"
+    },
+    {
+      "start": 38.52,
+      "end": 42.48,
+      "text": "de Google Search y genera un resumen global tipo dashboard con el total de gastos por"
+    },
+    {
+      "start": 42.48,
+      "end": 43.72,
+      "text": "categoría y periodo."
+    },
+    {
+      "start": 43.72,
+      "end": 50.12,
+      "text": "Al cabo de un minuto tengo esta increíble aplicación a la que le puedo subir archivos,"
+    },
+    {
+      "start": 50.12,
+      "end": 58.2,
+      "text": "facturas y, inmediatamente, las va a leer y las va a incluir dentro de mi dashboard."
+    },
+    {
+      "start": 58.2,
+      "end": 61.12,
+      "text": "Y me las clasifica, me pone cuando ha sido las tendencias."
+    },
+    {
+      "start": 61.12,
+      "end": 64.88,
+      "text": "Todo esto es solo con un prompt que lo puedes hacer mucho más complicado."
+    },
+    {
+      "start": 64.88,
+      "end": 69.24,
+      "text": "Esto es solo un ejemplo muy básico de lo que puedes hacer con Google y a estudio."
+    },
+    {
+      "start": 69.24,
+      "end": 73.48,
+      "text": "Si quieres que también el link comenta Google y te lo mando encantado."
+    },
+    {
+      "start": 73.48,
+      "end": 77.24,
+      "text": "Y si quieres saber más sobre la inteligencia artificial, chafé.t, y bueno, cómo estar"
+    },
+    {
+      "start": 77.24,
+      "end": 79.96,
+      "text": "al día de todas estas cosas, sí que ve, hasta luego."
+    }
+  ]
+}

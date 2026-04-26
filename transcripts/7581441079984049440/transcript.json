@@ -1,0 +1,78 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 63.972375,
+  "text": "Pultimamente todo el mundo habla de automatizar tareas, pero nadie te cuenta lo insoportable que es montarlas. Hora peleándote con Fabier, MAKE, N8N, para algo que en tu cabeza era, solo quiero que pase esto cuando pase esto. Con Twing es otra historia, no hay no dos, no hay flujos raros, no hay si esto entonces lo otro visual. Solo escribes lo que quieres en el lenguaje normal y la ira a construir ya y la gente por ti. Por ejemplo, he montado esto cuando alguien se apunta en mi formulario, busca sus datos. El LinkedIn los guarda en mi CRM y me manda un resumen por email. Twing analiza lo que le pido, se conecta a la Saps y si hay API genera la integración, aunque no exista en ninguna librería oficial. El propio agente te guía para conseguir la API y el endpoint y a partir de ahí automatiza todo via API. Y si de verdad no hay API usa una gente de navegador que abre la web hace clic, rellena campos y navega como si fuera una persona real. Lo mejor es que el agente aprende de cada ejecución. Si la interfaz cambia, si hay un error o algo se rompe no se rende. Busta otra forma de completar la tería y todo esto lo he montado sin escribir nada de código. Si quieres ver la elección, prueba lo tú mismo en Twing y empieza a automatizar algo que odies hacer esta misma semana. Te dejo el link en la descripción.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Pultimamente todo el mundo habla de automatizar tareas, pero nadie te cuenta lo insoportable que es montarlas."
+    },
+    {
+      "start": 4.8,
+      "end": 10.96,
+      "text": "Hora peleándote con Fabier, MAKE, N8N, para algo que en tu cabeza era, solo quiero que pase esto cuando pase esto."
+    },
+    {
+      "start": 10.96,
+      "end": 15.96,
+      "text": "Con Twing es otra historia, no hay no dos, no hay flujos raros, no hay si esto entonces lo otro visual."
+    },
+    {
+      "start": 15.96,
+      "end": 19.84,
+      "text": "Solo escribes lo que quieres en el lenguaje normal y la ira a construir ya y la gente por ti."
+    },
+    {
+      "start": 19.84,
+      "end": 23.8,
+      "text": "Por ejemplo, he montado esto cuando alguien se apunta en mi formulario, busca sus datos."
+    },
+    {
+      "start": 23.8,
+      "end": 27.2,
+      "text": "El LinkedIn los guarda en mi CRM y me manda un resumen por email."
+    },
+    {
+      "start": 27.2,
+      "end": 34.6,
+      "text": "Twing analiza lo que le pido, se conecta a la Saps y si hay API genera la integración, aunque no exista en ninguna librería oficial."
+    },
+    {
+      "start": 34.6,
+      "end": 40.28,
+      "text": "El propio agente te guía para conseguir la API y el endpoint y a partir de ahí automatiza todo via API."
+    },
+    {
+      "start": 40.28,
+      "end": 46.92,
+      "text": "Y si de verdad no hay API usa una gente de navegador que abre la web hace clic, rellena campos y navega como si fuera una persona real."
+    },
+    {
+      "start": 46.92,
+      "end": 49.64,
+      "text": "Lo mejor es que el agente aprende de cada ejecución."
+    },
+    {
+      "start": 49.64,
+      "end": 53.0,
+      "text": "Si la interfaz cambia, si hay un error o algo se rompe no se rende."
+    },
+    {
+      "start": 53.04,
+      "end": 57.4,
+      "text": "Busta otra forma de completar la tería y todo esto lo he montado sin escribir nada de código."
+    },
+    {
+      "start": 57.4,
+      "end": 62.68,
+      "text": "Si quieres ver la elección, prueba lo tú mismo en Twing y empieza a automatizar algo que odies hacer esta misma semana."
+    },
+    {
+      "start": 62.68,
+      "end": 63.88,
+      "text": "Te dejo el link en la descripción."
+    }
+  ]
+}

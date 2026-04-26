@@ -1,0 +1,183 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 152.8119375,
+  "text": "Quédate, por que hoy te enseño? Como usar Excel de manera super profesional, sin que sepas ni media fórmula y en tiempo record. Paso número 1, abro un archivo Excel como este de ventas, de productos Apple como Life on Airpods, MacBook, Apple Watch, etc. Si lo tiro hasta abajo, tiene 50 cipicolíneas y no tengo ni idea de lo que contiene. Paso número 2, en el menudo arriba le doy a inicio o home si lo tienes en inglés y donde sale Adins, buscamos cloth y al abrirlo tenemos este chat. Estás fácil, ¿verdad? Pues no pierdas detalle porque ahora es cuando empiece la magia. Sin ni siquiera tocar las celdas, le voy a decir, crea una columna para sacar el IVA 21% A ti, estamos en enter y fíjate como en cuestión de segundos, sin ni siquiera tocar media celda, ya me ha puesto la columna de IVA y el valor total. Acabo de fórmular dos columnas, sin ni siquiera tocar una celda. Espera, quieres más? Pues permíteme que te sube al nivel. Ahora le digo, crea una tabla dinámica con gráficos dinámicos para entender mejor estas ventas. A ti suér enter y fíjate como en tiempo real me crea primero las tablas dinámicas y luego los gráficos dinámicos incluso mapas de calor, no te lo pierdas mapas de calor que me explican muy bien los datos que tengo ahí. Si esto de verdad no se merece un peazo de like por todas horas que te ahorra programando, no sé qué es lo que se merece. Espera, que quieres todavía más, pues de suvol nivel pero ya por última vez. Imagina que tienes que presentar estos datos en los siguientes tres minutos. Tendrías que estudiarte todos estos gráficos? Pues le digo, tengo una reunión para explicar estos datos, no lo sentiendo. A ti, será un día con muchas ganas y fíjate como me crea una pestaña de resumen ejecutivo que las quedan más de metericonos que es una vacilada buena. Y me da las cifras globales, alto nivel, el total de ventas 18 millones de euros y 27.000 verdades. Me dice el rendimiento por país, que hemos vendido más en Alemania. El rendimiento por producto, que hemos vendido más iPhones que el resto de cosas, un 65% de las ventas o iPhones. Incluso la tendencia actual y detalle de calidad se disparan las ventas en septiembre con el lanzamiento de la iPhone y en diciembre con la campaña navidad. Es decir, que voy a contar todos estos datos como si fueran chascarillos que domino y estos sin haber tocado ni media celda. Como ahora seguramente no estés en modo trabajo, te recomiendo que te lo guardes para poder replicarlo luego. Te animo a reenviar solo a otras personas para ayudarlas igual que yo, te estoy ayudando a ti. Y por último, y lo más importante de todo, que si no me sigues para seguir aprendiendo todos los días de inteligencia artificial y big data, lo más probable es que no me vuelvas a ver.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Quédate, por que hoy te enseño?"
+    },
+    {
+      "start": 2.0,
+      "end": 8.5,
+      "text": "Como usar Excel de manera super profesional, sin que sepas ni media fórmula y en tiempo record."
+    },
+    {
+      "start": 8.5,
+      "end": 13.52,
+      "text": "Paso número 1, abro un archivo Excel como este de ventas, de productos Apple como"
+    },
+    {
+      "start": 13.52,
+      "end": 16.78,
+      "text": "Life on Airpods, MacBook, Apple Watch, etc."
+    },
+    {
+      "start": 16.78,
+      "end": 21.26,
+      "text": "Si lo tiro hasta abajo, tiene 50 cipicolíneas y no tengo ni idea de lo que contiene."
+    },
+    {
+      "start": 21.26,
+      "end": 26.42,
+      "text": "Paso número 2, en el menudo arriba le doy a inicio o home si lo tienes en inglés y donde sale"
+    },
+    {
+      "start": 26.42,
+      "end": 30.1,
+      "text": "Adins, buscamos cloth y al abrirlo tenemos este chat."
+    },
+    {
+      "start": 30.1,
+      "end": 33.98,
+      "text": "Estás fácil, ¿verdad? Pues no pierdas detalle porque ahora es cuando empiece la magia."
+    },
+    {
+      "start": 33.98,
+      "end": 39.84,
+      "text": "Sin ni siquiera tocar las celdas, le voy a decir, crea una columna para sacar el IVA 21%"
+    },
+    {
+      "start": 39.84,
+      "end": 45.32,
+      "text": "A ti, estamos en enter y fíjate como en cuestión de segundos, sin ni siquiera tocar media"
+    },
+    {
+      "start": 45.32,
+      "end": 48.96,
+      "text": "celda, ya me ha puesto la columna de IVA y el valor total."
+    },
+    {
+      "start": 48.96,
+      "end": 52.32,
+      "text": "Acabo de fórmular dos columnas, sin ni siquiera tocar una celda."
+    },
+    {
+      "start": 52.32,
+      "end": 55.2,
+      "text": "Espera, quieres más? Pues permíteme que te sube al nivel."
+    },
+    {
+      "start": 55.2,
+      "end": 60.92,
+      "text": "Ahora le digo, crea una tabla dinámica con gráficos dinámicos para entender mejor estas ventas."
+    },
+    {
+      "start": 60.92,
+      "end": 66.48,
+      "text": "A ti suér enter y fíjate como en tiempo real me crea primero las tablas dinámicas y luego"
+    },
+    {
+      "start": 66.48,
+      "end": 72.76,
+      "text": "los gráficos dinámicos incluso mapas de calor, no te lo pierdas mapas de calor que me explican"
+    },
+    {
+      "start": 72.76,
+      "end": 78.84,
+      "text": "muy bien los datos que tengo ahí. Si esto de verdad no se merece un peazo de like por todas"
+    },
+    {
+      "start": 78.84,
+      "end": 81.88,
+      "text": "horas que te ahorra programando, no sé qué es lo que se merece."
+    },
+    {
+      "start": 81.88,
+      "end": 86.08,
+      "text": "Espera, que quieres todavía más, pues de suvol nivel pero ya por última vez."
+    },
+    {
+      "start": 86.08,
+      "end": 90.76,
+      "text": "Imagina que tienes que presentar estos datos en los siguientes tres minutos."
+    },
+    {
+      "start": 90.76,
+      "end": 95.2,
+      "text": "Tendrías que estudiarte todos estos gráficos? Pues le digo, tengo una reunión para explicar"
+    },
+    {
+      "start": 95.2,
+      "end": 97.12,
+      "text": "estos datos, no lo sentiendo."
+    },
+    {
+      "start": 97.12,
+      "end": 102.0,
+      "text": "A ti, será un día con muchas ganas y fíjate como me crea una pestaña de resumen ejecutivo"
+    },
+    {
+      "start": 102.0,
+      "end": 105.16,
+      "text": "que las quedan más de metericonos que es una vacilada buena."
+    },
+    {
+      "start": 105.16,
+      "end": 111.36,
+      "text": "Y me da las cifras globales, alto nivel, el total de ventas 18 millones de euros y 27.000"
+    },
+    {
+      "start": 111.36,
+      "end": 115.44,
+      "text": "verdades. Me dice el rendimiento por país, que hemos vendido más en Alemania. El rendimiento"
+    },
+    {
+      "start": 115.44,
+      "end": 119.48,
+      "text": "por producto, que hemos vendido más iPhones que el resto de cosas, un 65% de las ventas"
+    },
+    {
+      "start": 119.48,
+      "end": 125.68,
+      "text": "o iPhones. Incluso la tendencia actual y detalle de calidad se disparan las ventas en septiembre"
+    },
+    {
+      "start": 125.68,
+      "end": 130.0,
+      "text": "con el lanzamiento de la iPhone y en diciembre con la campaña navidad. Es decir, que voy"
+    },
+    {
+      "start": 130.0,
+      "end": 134.92,
+      "text": "a contar todos estos datos como si fueran chascarillos que domino y estos sin haber tocado ni"
+    },
+    {
+      "start": 134.92,
+      "end": 138.92,
+      "text": "media celda. Como ahora seguramente no estés en modo trabajo, te recomiendo que te lo guardes"
+    },
+    {
+      "start": 138.92,
+      "end": 142.56,
+      "text": "para poder replicarlo luego. Te animo a reenviar solo a otras personas para ayudarlas"
+    },
+    {
+      "start": 142.56,
+      "end": 146.6,
+      "text": "igual que yo, te estoy ayudando a ti. Y por último, y lo más importante de todo, que si"
+    },
+    {
+      "start": 146.6,
+      "end": 150.32,
+      "text": "no me sigues para seguir aprendiendo todos los días de inteligencia artificial y big data,"
+    },
+    {
+      "start": 150.32,
+      "end": 151.88,
+      "text": "lo más probable es que no me vuelvas a ver."
+    }
+  ]
+}

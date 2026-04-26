@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 18.7399375,
+  "text": "Hay gente utilizando la ella para hacer fraude en apps de reparto. Una persona pidió una hamburguesa a su casa y luego utilizó inteligencia artificial para hacer que pareciera que no estaba cocinada. Mandó este imagen como prueban y según cuenta le devolvieron todo dinero. Y lo increíble, no es que esto haya pasado, lo increíble es que esto va a ser cada vez más común.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Hay gente utilizando la ella para hacer fraude en apps de reparto."
+    },
+    {
+      "start": 3.24,
+      "end": 7.8,
+      "text": "Una persona pidió una hamburguesa a su casa y luego utilizó inteligencia artificial"
+    },
+    {
+      "start": 7.8,
+      "end": 9.92,
+      "text": "para hacer que pareciera que no estaba cocinada."
+    },
+    {
+      "start": 9.92,
+      "end": 14.12,
+      "text": "Mandó este imagen como prueban y según cuenta le devolvieron todo dinero."
+    },
+    {
+      "start": 14.12,
+      "end": 18.68,
+      "text": "Y lo increíble, no es que esto haya pasado, lo increíble es que esto va a ser cada vez más común."
+    }
+  ]
+}

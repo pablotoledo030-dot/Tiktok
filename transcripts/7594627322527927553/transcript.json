@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 28.7709375,
+  "text": "Si revienta tu tarjeta de crédito, pido un montón de crédito con sumo. Te vas de Chile. Y nunca más vuelve, es que te vas a pasar nada. Va a ser prácticamente imposible que te pueden notificar una demanda, si cualquier demanda en tu contra, no va a tener efecto. Incluso si dejaste bien en Chile, va a ser muy difícil que los embarguen. Y no te dan a poder cobrar en el otro país. Obviamente, en esos cinco años vas a estar en Dicom, pero si no está en Chile, no te afecta nada. Y si pasan cinco años y vuelve, ya está todo obrescrito y se acabó. Es así de simple la cosa.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Si revienta tu tarjeta de crédito, pido un montón de crédito con sumo."
+    },
+    {
+      "start": 3.48,
+      "end": 4.64,
+      "text": "Te vas de Chile."
+    },
+    {
+      "start": 4.64,
+      "end": 7.48,
+      "text": "Y nunca más vuelve, es que te vas a pasar nada."
+    },
+    {
+      "start": 7.48,
+      "end": 10.0,
+      "text": "Va a ser prácticamente imposible que te pueden notificar una demanda,"
+    },
+    {
+      "start": 10.0,
+      "end": 12.6,
+      "text": "si cualquier demanda en tu contra, no va a tener efecto."
+    },
+    {
+      "start": 12.6,
+      "end": 15.68,
+      "text": "Incluso si dejaste bien en Chile, va a ser muy difícil que los embarguen."
+    },
+    {
+      "start": 15.68,
+      "end": 18.24,
+      "text": "Y no te dan a poder cobrar en el otro país."
+    },
+    {
+      "start": 18.24,
+      "end": 20.56,
+      "text": "Obviamente, en esos cinco años vas a estar en Dicom,"
+    },
+    {
+      "start": 20.56,
+      "end": 23.08,
+      "text": "pero si no está en Chile, no te afecta nada."
+    },
+    {
+      "start": 23.08,
+      "end": 26.72,
+      "text": "Y si pasan cinco años y vuelve, ya está todo obrescrito y se acabó."
+    },
+    {
+      "start": 26.72,
+      "end": 28.72,
+      "text": "Es así de simple la cosa."
+    }
+  ]
+}

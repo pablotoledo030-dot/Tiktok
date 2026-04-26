@@ -1,0 +1,93 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 54.9630625,
+  "text": "Google acaba de lanzar la mayor actualización de Chrome de su historia. ¿Qué hace la mitad de lo que dice que hace? Es una locura. Miren esto. Con este botoncito se abre un chat en cualquier pestaña y no solamente podemos hacer cosas obvias a esta altura como preguntarle algo sobre lo que estamos viendo en las páginas que tenemos abiertas, sino también accionar sobre servicios de Google desde ahí mismo, como pedirle que en base a lo que ve, redacte y envío un mail y lo hace todo ahí sin tener que irnos a ningún otro lado. Y lo más prometedor de todo es su capacidad de navegación, que es una gente que aceptareas por vos directamente. Acá lo podemos ver rellenando un formulario en base a la info de otra pestaña, y en este otro mira una foto de una escenografía que le mandaron por Gmail y automáticamente buscan los distintos elementos y los compra. Obviamente, pidiendo autorización antes de apretar el boton final. Esto está disponible desde hoy mismo para usuarios de Estados Unidos de los planes pro y ultra, pero le sabéis por acá como siempre, apenas se abra para todos. 2016 es el año de los agentes y Google, por ahora lleva todas las de ganar.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Google acaba de lanzar la mayor actualización de Chrome de su historia."
+    },
+    {
+      "start": 3.6,
+      "end": 5.32,
+      "text": "¿Qué hace la mitad de lo que dice que hace?"
+    },
+    {
+      "start": 5.32,
+      "end": 6.16,
+      "text": "Es una locura."
+    },
+    {
+      "start": 6.16,
+      "end": 6.76,
+      "text": "Miren esto."
+    },
+    {
+      "start": 6.76,
+      "end": 9.2,
+      "text": "Con este botoncito se abre un chat en cualquier pestaña"
+    },
+    {
+      "start": 9.2,
+      "end": 15.12,
+      "text": "y no solamente podemos hacer cosas obvias a esta altura como preguntarle algo sobre lo que estamos viendo en las páginas que tenemos abiertas,"
+    },
+    {
+      "start": 15.12,
+      "end": 19.76,
+      "text": "sino también accionar sobre servicios de Google desde ahí mismo, como pedirle que en base a lo que ve,"
+    },
+    {
+      "start": 19.76,
+      "end": 23.84,
+      "text": "redacte y envío un mail y lo hace todo ahí sin tener que irnos a ningún otro lado."
+    },
+    {
+      "start": 23.84,
+      "end": 26.84,
+      "text": "Y lo más prometedor de todo es su capacidad de navegación,"
+    },
+    {
+      "start": 26.84,
+      "end": 29.44,
+      "text": "que es una gente que aceptareas por vos directamente."
+    },
+    {
+      "start": 29.52,
+      "end": 33.04,
+      "text": "Acá lo podemos ver rellenando un formulario en base a la info de otra pestaña,"
+    },
+    {
+      "start": 33.04,
+      "end": 36.56,
+      "text": "y en este otro mira una foto de una escenografía que le mandaron por Gmail"
+    },
+    {
+      "start": 36.56,
+      "end": 40.4,
+      "text": "y automáticamente buscan los distintos elementos y los compra."
+    },
+    {
+      "start": 40.4,
+      "end": 43.2,
+      "text": "Obviamente, pidiendo autorización antes de apretar el boton final."
+    },
+    {
+      "start": 43.2,
+      "end": 47.52,
+      "text": "Esto está disponible desde hoy mismo para usuarios de Estados Unidos de los planes pro y ultra,"
+    },
+    {
+      "start": 47.52,
+      "end": 50.4,
+      "text": "pero le sabéis por acá como siempre, apenas se abra para todos."
+    },
+    {
+      "start": 50.4,
+      "end": 54.88,
+      "text": "2016 es el año de los agentes y Google, por ahora lleva todas las de ganar."
+    }
+  ]
+}

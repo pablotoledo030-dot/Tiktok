@@ -1,0 +1,68 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 37.501625,
+  "text": "Ya filete a mío, entonces envíame tu factura y te rancero. Mejor, te afirem en tu primero y te saco la factura. Tengo que insistir, amigo. Envíame a la factura y te o no. Es que nos sacamos facturas del mal. Pero, ¿uean? Por suerte, esto está regulado por ley. La misma ley de IBA regula cuando se debe emitir la boleta o factura, y señala que si se están transando bienes, la factura debe emitirse al momento de la entrega material o simpólica de la especie. Pero esto no funciona igual cuando se trata de prestaciones de servicio. En ese caso, la factura se debe emitir en el mismo mes en que ocurre el pago. Ya, bueno, mandáme tu datos, te ranfero. Eso, tengo que ir.",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 3.0,
+      "text": "Ya filete a mío, entonces envíame tu factura y te rancero."
+    },
+    {
+      "start": 3.0,
+      "end": 5.68,
+      "text": "Mejor, te afirem en tu primero y te saco la factura."
+    },
+    {
+      "start": 5.68,
+      "end": 8.72,
+      "text": "Tengo que insistir, amigo. Envíame a la factura y te o no."
+    },
+    {
+      "start": 8.72,
+      "end": 10.64,
+      "text": "Es que nos sacamos facturas del mal."
+    },
+    {
+      "start": 10.64,
+      "end": 13.76,
+      "text": "Pero, ¿uean? Por suerte, esto está regulado por ley."
+    },
+    {
+      "start": 13.76,
+      "end": 17.2,
+      "text": "La misma ley de IBA regula cuando se debe emitir la boleta o factura,"
+    },
+    {
+      "start": 17.2,
+      "end": 19.8,
+      "text": "y señala que si se están transando bienes,"
+    },
+    {
+      "start": 19.8,
+      "end": 24.64,
+      "text": "la factura debe emitirse al momento de la entrega material o simpólica de la especie."
+    },
+    {
+      "start": 24.64,
+      "end": 28.4,
+      "text": "Pero esto no funciona igual cuando se trata de prestaciones de servicio."
+    },
+    {
+      "start": 28.56,
+      "end": 33.2,
+      "text": "En ese caso, la factura se debe emitir en el mismo mes en que ocurre el pago."
+    },
+    {
+      "start": 33.2,
+      "end": 35.44,
+      "text": "Ya, bueno, mandáme tu datos, te ranfero."
+    },
+    {
+      "start": 35.44,
+      "end": 36.96,
+      "text": "Eso, tengo que ir."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 28.7245,
+  "text": "cosas que no sabies que puedes hacer con Cloud Part 3. Si vas a la tienda de Google Chrome y buscas la extensión de Cloud y la descargas, y luego se abre la extensión de Cloud y le sube tu currículum, y luego le pides que aplica trabajos para los que estés bien calificado basado en tus habilidades, Cloud va a aplicar por ti. Y con esto literalmente Cloud se va a poner a trabajar y va a buscar en la web trabajos para los que estés bien calificado y va a aplicar por ti. Y lo mejor de todo es que la extensión de Cloud en Google Chrome te puede servir para lo que sea que quieras hacer en Internet, así que aprovechala. Y si quieres aprender más sobre inteligencia artificial y Cloud, no olvides siguirlos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "cosas que no sabies que puedes hacer con Cloud Part 3."
+    },
+    {
+      "start": 2.42,
+      "end": 6.1,
+      "text": "Si vas a la tienda de Google Chrome y buscas la extensión de Cloud y la descargas,"
+    },
+    {
+      "start": 6.1,
+      "end": 8.94,
+      "text": "y luego se abre la extensión de Cloud y le sube tu currículum,"
+    },
+    {
+      "start": 8.94,
+      "end": 13.1,
+      "text": "y luego le pides que aplica trabajos para los que estés bien calificado basado en tus habilidades,"
+    },
+    {
+      "start": 13.1,
+      "end": 14.06,
+      "text": "Cloud va a aplicar por ti."
+    },
+    {
+      "start": 14.06,
+      "end": 19.78,
+      "text": "Y con esto literalmente Cloud se va a poner a trabajar y va a buscar en la web trabajos para los que estés bien calificado y va a aplicar por ti."
+    },
+    {
+      "start": 19.78,
+      "end": 25.38,
+      "text": "Y lo mejor de todo es que la extensión de Cloud en Google Chrome te puede servir para lo que sea que quieras hacer en Internet, así que aprovechala."
+    },
+    {
+      "start": 25.38,
+      "end": 28.7,
+      "text": "Y si quieres aprender más sobre inteligencia artificial y Cloud, no olvides siguirlos."
+    }
+  ]
+}

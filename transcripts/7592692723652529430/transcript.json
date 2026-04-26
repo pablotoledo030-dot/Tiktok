@@ -1,0 +1,53 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 28.8638125,
+  "text": "Jugar Jedi Fallen Order en realidad virtual. Primera persona y con controles de movimiento es una cosa loquísima. ¡Vamos dispara! Vienen más, vienen más. Toma, vamos. Dispara. Dispara a mí. ¡Vamos dispara! Dios te sientes megapoderoso esta guapísimo. Me encanta. Me encanta. Muera de perra.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.56,
+      "text": "Jugar Jedi Fallen Order en realidad virtual. Primera persona y con controles de movimiento es una cosa loquísima."
+    },
+    {
+      "start": 6.56,
+      "end": 7.56,
+      "text": "¡Vamos dispara!"
+    },
+    {
+      "start": 8.84,
+      "end": 9.84,
+      "text": "Vienen más, vienen más."
+    },
+    {
+      "start": 10.56,
+      "end": 12.32,
+      "text": "Toma, vamos. Dispara."
+    },
+    {
+      "start": 14.08,
+      "end": 14.6,
+      "text": "Dispara a mí."
+    },
+    {
+      "start": 19.08,
+      "end": 19.84,
+      "text": "¡Vamos dispara!"
+    },
+    {
+      "start": 22.16,
+      "end": 25.6,
+      "text": "Dios te sientes megapoderoso esta guapísimo. Me encanta."
+    },
+    {
+      "start": 26.4,
+      "end": 27.32,
+      "text": "Me encanta."
+    },
+    {
+      "start": 27.84,
+      "end": 28.68,
+      "text": "Muera de perra."
+    }
+  ]
+}

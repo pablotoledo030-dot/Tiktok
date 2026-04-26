@@ -1,0 +1,68 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 48.0435,
+  "text": "Microsoft acaba de lanzar una herramienta deía que convierte cualquier imagen en un modelo 3D y es completamente gratis. Y no, no necesitas saber modelado 3D, me usar software complicado. Lo haces en segundos desde el navegador. De hecho, ahora mismo es de los mejores generadores 3D de código abierto que hay. Se llama 3x2 entras en su web oficial, subes cualquier imagen, un producto, un personaje, un dibujo, lo que quieras. Y haces clic en generar. Primero, te enseña una previsualización en 3D. Si te convence, le das al botón final y en segundos descargas el modelo 3D, listo para usar. Puedes usarlo para diseño web y de juegos, animaciones, vender modelos en Marketplaces 3D o crear activos para tus proyectos. Lo que antes te llevaba horas en blender o te obligaba a pagar un modelador, ahora lo haces con una imagen y unos pocos clicks. Y gratis.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "Microsoft acaba de lanzar una herramienta deía que convierte cualquier imagen en un modelo 3D"
+    },
+    {
+      "start": 5.36,
+      "end": 6.84,
+      "text": "y es completamente gratis."
+    },
+    {
+      "start": 6.84,
+      "end": 10.44,
+      "text": "Y no, no necesitas saber modelado 3D, me usar software complicado."
+    },
+    {
+      "start": 10.44,
+      "end": 12.6,
+      "text": "Lo haces en segundos desde el navegador."
+    },
+    {
+      "start": 12.6,
+      "end": 17.12,
+      "text": "De hecho, ahora mismo es de los mejores generadores 3D de código abierto que hay."
+    },
+    {
+      "start": 17.12,
+      "end": 24.24,
+      "text": "Se llama 3x2 entras en su web oficial, subes cualquier imagen, un producto, un personaje, un dibujo, lo que quieras."
+    },
+    {
+      "start": 24.24,
+      "end": 25.84,
+      "text": "Y haces clic en generar."
+    },
+    {
+      "start": 25.84,
+      "end": 28.28,
+      "text": "Primero, te enseña una previsualización en 3D."
+    },
+    {
+      "start": 28.28,
+      "end": 33.64,
+      "text": "Si te convence, le das al botón final y en segundos descargas el modelo 3D, listo para usar."
+    },
+    {
+      "start": 33.64,
+      "end": 41.08,
+      "text": "Puedes usarlo para diseño web y de juegos, animaciones, vender modelos en Marketplaces 3D o crear activos para tus proyectos."
+    },
+    {
+      "start": 41.08,
+      "end": 47.28,
+      "text": "Lo que antes te llevaba horas en blender o te obligaba a pagar un modelador, ahora lo haces con una imagen y unos pocos clicks."
+    },
+    {
+      "start": 47.28,
+      "end": 48.0,
+      "text": "Y gratis."
+    }
+  ]
+}

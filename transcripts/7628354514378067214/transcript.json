@@ -1,0 +1,153 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 102.842625,
+  "text": "En este video te explico qué son los proyectos de cloud, como funcionan y por qué si usas cloud sin ellos puedes estar trabajando al 20%. Antrópico inventió dentro de cloud un feature, una función que se llama proyectos y que la mayoría de la gente que paga cloud ni siquiera sabe que existen, pesando lo usan, la ven y piensan que es una carpeta para organizar el chat, pero es tan totalmente equivocado. Es un espacio de trabajo de tres capas que hacen que cloud, déjese de ser un chatos en edicom y se convierte en un asistente personal con mucho contexto. La primera es la capa de las instrucciones de proyecto. Es un campo de texto donde tú les escribes quién eres, cómo hablas, cómo vendes y cómo quieres que cloud responda por ti. La clave de esto es ese texto que le es antes de cada mensaje. En cada conversación nueva dentro del proyecto. No es un recordatorio que se volvía, es una regla fija. Le dices una vez que escriba con tu tono, sin emojis y lo cumple cada vez que se configura una sola vez y si ve para siempre. Pero estas instrucciones no tienen datos. La segunda capa es la de los archivos del proyecto. Aquí subes tu document, marca personal, tu contratos, tus listas, depresios, tus guiones, tus procesos, la diferencia con subir un archivo en un chat normal. Aquí queda disponible para todas las conversaciones que tengas en el proyecto, sin que tengas la necesidad de volver a cargar archivos en cada conversación. Le preguntas por un cliente específico, por un precio, por una cloud o la y cloud busca dentro de los archivos que tú pusiste en el proyecto. Ya no responde con información generica, responde con tu información. La tercera es la capa de memoria del proyecto. Cada conversación dentro del proyecto se queda guardada ahí, aparte del resto de trucha. Puede cerrar la computadora, puede volver en tres días después, volver a abrir el proyecto y sigue exactamente donde lo dejas. Ya no estás explicando contexto en cada nueva conversación. Resumen. Las instrucciones son para que cloud hable como tú. Los archivos son para que sepan que sabes tú y la memoria es para que recuerda lo que ya habla. Tres capas en un mismo proyecto, un asistente que se siente funcional y con contexto. Comenta proyecto y te mando la guía de cómo configurar las tres de este ser.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "En este video te explico qué son los proyectos de cloud, como funcionan y por qué si"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "usas cloud sin ellos puedes estar trabajando al 20%."
+    },
+    {
+      "start": 7.0,
+      "end": 10.6,
+      "text": "Antrópico inventió dentro de cloud un feature, una función que se llama proyectos y que la"
+    },
+    {
+      "start": 10.6,
+      "end": 14.7,
+      "text": "mayoría de la gente que paga cloud ni siquiera sabe que existen, pesando lo usan, la ven y"
+    },
+    {
+      "start": 14.7,
+      "end": 17.5,
+      "text": "piensan que es una carpeta para organizar el chat, pero es tan totalmente equivocado."
+    },
+    {
+      "start": 17.5,
+      "end": 21.74,
+      "text": "Es un espacio de trabajo de tres capas que hacen que cloud, déjese de ser un chatos en edicom"
+    },
+    {
+      "start": 21.74,
+      "end": 24.0,
+      "text": "y se convierte en un asistente personal con mucho contexto."
+    },
+    {
+      "start": 24.0,
+      "end": 27.2,
+      "text": "La primera es la capa de las instrucciones de proyecto. Es un campo de texto donde tú les"
+    },
+    {
+      "start": 27.2,
+      "end": 30.88,
+      "text": "escribes quién eres, cómo hablas, cómo vendes y cómo quieres que cloud responda por ti."
+    },
+    {
+      "start": 30.88,
+      "end": 34.2,
+      "text": "La clave de esto es ese texto que le es antes de cada mensaje."
+    },
+    {
+      "start": 34.2,
+      "end": 36.44,
+      "text": "En cada conversación nueva dentro del proyecto."
+    },
+    {
+      "start": 36.44,
+      "end": 40.44,
+      "text": "No es un recordatorio que se volvía, es una regla fija. Le dices una vez que escriba con"
+    },
+    {
+      "start": 40.44,
+      "end": 45.6,
+      "text": "tu tono, sin emojis y lo cumple cada vez que se configura una sola vez y si ve para siempre."
+    },
+    {
+      "start": 45.6,
+      "end": 49.08,
+      "text": "Pero estas instrucciones no tienen datos. La segunda capa es la de los archivos del proyecto."
+    },
+    {
+      "start": 49.08,
+      "end": 54.04,
+      "text": "Aquí subes tu document, marca personal, tu contratos, tus listas, depresios, tus guiones,"
+    },
+    {
+      "start": 54.04,
+      "end": 57.16,
+      "text": "tus procesos, la diferencia con subir un archivo en un chat normal."
+    },
+    {
+      "start": 57.16,
+      "end": 60.0,
+      "text": "Aquí queda disponible para todas las conversaciones que tengas en el proyecto,"
+    },
+    {
+      "start": 60.0,
+      "end": 63.32,
+      "text": "sin que tengas la necesidad de volver a cargar archivos en cada conversación."
+    },
+    {
+      "start": 63.32,
+      "end": 67.24,
+      "text": "Le preguntas por un cliente específico, por un precio, por una cloud o la y cloud busca dentro"
+    },
+    {
+      "start": 67.24,
+      "end": 69.0,
+      "text": "de los archivos que tú pusiste en el proyecto."
+    },
+    {
+      "start": 69.0,
+      "end": 72.08,
+      "text": "Ya no responde con información generica, responde con tu información."
+    },
+    {
+      "start": 72.08,
+      "end": 74.4,
+      "text": "La tercera es la capa de memoria del proyecto."
+    },
+    {
+      "start": 74.4,
+      "end": 78.56,
+      "text": "Cada conversación dentro del proyecto se queda guardada ahí, aparte del resto de trucha."
+    },
+    {
+      "start": 78.56,
+      "end": 82.24,
+      "text": "Puede cerrar la computadora, puede volver en tres días después, volver a abrir el proyecto"
+    },
+    {
+      "start": 82.24,
+      "end": 87.72,
+      "text": "y sigue exactamente donde lo dejas. Ya no estás explicando contexto en cada nueva conversación."
+    },
+    {
+      "start": 87.72,
+      "end": 90.16,
+      "text": "Resumen. Las instrucciones son para que cloud hable como tú."
+    },
+    {
+      "start": 90.16,
+      "end": 94.56,
+      "text": "Los archivos son para que sepan que sabes tú y la memoria es para que recuerda lo que ya habla."
+    },
+    {
+      "start": 94.56,
+      "end": 98.92,
+      "text": "Tres capas en un mismo proyecto, un asistente que se siente funcional y con contexto."
+    },
+    {
+      "start": 98.92,
+      "end": 102.64,
+      "text": "Comenta proyecto y te mando la guía de cómo configurar las tres de este ser."
+    }
+  ]
+}

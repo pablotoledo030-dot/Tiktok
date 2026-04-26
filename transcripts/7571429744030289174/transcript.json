@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 18.9256875,
+  "text": "Páginas huevo de rosas parte 346, sabías que si vas esta página, podrás encontrar escalas detalladas de casi cualquier producto, como teléfonos, portátiles. Oya de Liquea, sofás para Netflix y muchas más, cada una viene con información detallada al milímetro, y ni siquiera hay que registrarse. Espero que te haya gustado.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Páginas huevo de rosas parte 346, sabías que si vas esta página, podrás encontrar escalas"
+    },
+    {
+      "start": 5.6,
+      "end": 9.64,
+      "text": "detalladas de casi cualquier producto, como teléfonos, portátiles."
+    },
+    {
+      "start": 9.64,
+      "end": 14.4,
+      "text": "Oya de Liquea, sofás para Netflix y muchas más, cada una viene con información detallada"
+    },
+    {
+      "start": 14.4,
+      "end": 17.16,
+      "text": "al milímetro, y ni siquiera hay que registrarse."
+    },
+    {
+      "start": 17.16,
+      "end": 18.48,
+      "text": "Espero que te haya gustado."
+    }
+  ]
+}

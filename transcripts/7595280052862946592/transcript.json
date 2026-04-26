@@ -1,0 +1,103 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 97.1769375,
+  "text": "ha salido un nuevo modelo de generación de videoconía, que es una pasada que rivaliza con Google Veo 3, rivaliza con suora en el sentido de que puede generar vídeo con sonido integrado de forma nativa, pero además lo mezcó el, lo puedes utilizar de forma totalmente gratuita. Y digo, gratuita, no un ademo, no te va a gastar un alcredito luego de pide dinero, no, no gratuita, 100% para siempre indefinido, puedes utilizarlo hasta rabiar y no te va a pedir dinero porque es totalmente gratis porque es de código abierto, lo puedes utilizar de forma local en tu ordenador, puedes generar como digo mejor que Veo 3, que solo puede generar 8 segundos con esta herramienta, puede generar hasta 20 segundos seguidos, o sea, es una pasada, por fin se está empezando a normalizar un poquito más de segundos de vídeo por favor, que la necesidad ya pues esta herramienta lo hace, puede generar vídeo de hasta en 4 canativos, que creo que es la única herramienta de generación de videoconía que a día de hoy hace 4 ca reales nativos de forma nativa sin escalado, que es una pasada, puede generar hasta en 50 frames por segundo, que también es una pasada y esta herramienta se llama LTEX2 y además tienes un montón de funciones gracias a su paquete de horas, como la capacidad de subirle un vídeo de referencia y que te copie los movimientos, capacidad de entrenarlo con distintos digamos movimientos de cámara, de si le oye travelin la caráalo, oye movimiento de grúa y todo eso lo entiende, porque tiene un paquete de horas instalado y como digo genera vídeo con sonido y con música, por fin esto lo necesitamos ya de forma natural, no queremos más vídeos en mute, más vídeos sin sonido, no, vídeo con sonido y la calidad es bastante buena para ser de código abierto, fijaros por aquí.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.34,
+      "text": "ha salido un nuevo modelo de generación de videoconía, que es una pasada que rivaliza con Google"
+    },
+    {
+      "start": 5.34,
+      "end": 9.46,
+      "text": "Veo 3, rivaliza con suora en el sentido de que puede generar vídeo con sonido integrado"
+    },
+    {
+      "start": 9.46,
+      "end": 13.74,
+      "text": "de forma nativa, pero además lo mezcó el, lo puedes utilizar de forma totalmente gratuita."
+    },
+    {
+      "start": 13.74,
+      "end": 18.22,
+      "text": "Y digo, gratuita, no un ademo, no te va a gastar un alcredito luego de pide dinero, no,"
+    },
+    {
+      "start": 18.22,
+      "end": 24.1,
+      "text": "no gratuita, 100% para siempre indefinido, puedes utilizarlo hasta rabiar y no te va a pedir dinero"
+    },
+    {
+      "start": 24.1,
+      "end": 28.14,
+      "text": "porque es totalmente gratis porque es de código abierto, lo puedes utilizar de forma local"
+    },
+    {
+      "start": 28.14,
+      "end": 32.78,
+      "text": "en tu ordenador, puedes generar como digo mejor que Veo 3, que solo puede generar 8 segundos"
+    },
+    {
+      "start": 32.78,
+      "end": 38.64,
+      "text": "con esta herramienta, puede generar hasta 20 segundos seguidos, o sea, es una pasada, por"
+    },
+    {
+      "start": 38.64,
+      "end": 43.12,
+      "text": "fin se está empezando a normalizar un poquito más de segundos de vídeo por favor, que la necesidad"
+    },
+    {
+      "start": 43.12,
+      "end": 48.92,
+      "text": "ya pues esta herramienta lo hace, puede generar vídeo de hasta en 4 canativos, que creo que es la"
+    },
+    {
+      "start": 48.92,
+      "end": 55.34,
+      "text": "única herramienta de generación de videoconía que a día de hoy hace 4 ca reales nativos de forma nativa"
+    },
+    {
+      "start": 55.34,
+      "end": 60.86,
+      "text": "sin escalado, que es una pasada, puede generar hasta en 50 frames por segundo, que también es"
+    },
+    {
+      "start": 60.86,
+      "end": 67.38,
+      "text": "una pasada y esta herramienta se llama LTEX2 y además tienes un montón de funciones gracias a su"
+    },
+    {
+      "start": 67.38,
+      "end": 72.02,
+      "text": "paquete de horas, como la capacidad de subirle un vídeo de referencia y que te copie los movimientos,"
+    },
+    {
+      "start": 72.02,
+      "end": 78.5,
+      "text": "capacidad de entrenarlo con distintos digamos movimientos de cámara, de si le oye travelin la"
+    },
+    {
+      "start": 78.5,
+      "end": 83.58,
+      "text": "caráalo, oye movimiento de grúa y todo eso lo entiende, porque tiene un paquete de horas instalado y"
+    },
+    {
+      "start": 83.58,
+      "end": 89.14,
+      "text": "como digo genera vídeo con sonido y con música, por fin esto lo necesitamos ya de forma natural,"
+    },
+    {
+      "start": 89.14,
+      "end": 93.98,
+      "text": "no queremos más vídeos en mute, más vídeos sin sonido, no, vídeo con sonido y la calidad es"
+    },
+    {
+      "start": 93.98,
+      "end": 97.14,
+      "text": "bastante buena para ser de código abierto, fijaros por aquí."
+    }
+  ]
+}

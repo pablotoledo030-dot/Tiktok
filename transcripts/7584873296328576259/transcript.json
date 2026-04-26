@@ -1,0 +1,93 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 90.9075625,
+  "text": "Por primera vez un modelo de día supera las personas que lo han creado. Clot opus 4.5 ha sacado más nota que cualquier ingeniero humano en el examen que usan para contratar al propio equipo de antropic. El mismo examen, el mismo límite de dos horas y opus 4.5 lo ha reventado. Aquí es cuando entiendes que estén anovadas de benchmarks, pero esta vez no estamos ante el típico ciclo de sale un modelo, romper récord y dos semanas después viene otra. Este modelo no compite de la misma manera que lo vienen haciendo hasta ahora. Hace unos días os dije que Gemini 3 era un modelo más razonador, pero no necesariamente más inteligente. Opus 4.5 es justo lo contrario, mucho más inteligente, pero sin ese salto espectacular en razonamiento general. Y esa diferencia es la clave. Opus 4.5 es el primer modelo que supera el 80% en el SWV Edge. La prueba más importante que mire si una ya sabe programar de verdad. Si miramos los benchmarks de razonamiento general, aquí Opus 4.5 ya no domina tanto. Otros modelos siguen por encima y esto no es un fallo. Esto confirma que los modelos están separando en dos caminos muy claros. Gemini y Chargeivity están optimizados para pensar mejor. Opus 4.5 está optimizado para ejecutar mejor. Planificación vs ejecución. Dos direcciones completamente distintas. Dos inteligencias con comportamientos diferentes. Una inteligencia que piensa, otra que actúa. Y el futuro no lo va a decidir el mejor modelo. Lo va a decidir qué especie de inteligencia necesitamos para cada problema.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Por primera vez un modelo de día supera las personas que lo han creado."
+    },
+    {
+      "start": 3.28,
+      "end": 11.28,
+      "text": "Clot opus 4.5 ha sacado más nota que cualquier ingeniero humano en el examen que usan para contratar al propio equipo de antropic."
+    },
+    {
+      "start": 11.28,
+      "end": 17.08,
+      "text": "El mismo examen, el mismo límite de dos horas y opus 4.5 lo ha reventado."
+    },
+    {
+      "start": 17.08,
+      "end": 25.04,
+      "text": "Aquí es cuando entiendes que estén anovadas de benchmarks, pero esta vez no estamos ante el típico ciclo de sale un modelo, romper récord y dos semanas después viene otra."
+    },
+    {
+      "start": 25.04,
+      "end": 29.0,
+      "text": "Este modelo no compite de la misma manera que lo vienen haciendo hasta ahora."
+    },
+    {
+      "start": 29.08,
+      "end": 34.76,
+      "text": "Hace unos días os dije que Gemini 3 era un modelo más razonador, pero no necesariamente más inteligente."
+    },
+    {
+      "start": 34.76,
+      "end": 42.16,
+      "text": "Opus 4.5 es justo lo contrario, mucho más inteligente, pero sin ese salto espectacular en razonamiento general."
+    },
+    {
+      "start": 42.16,
+      "end": 49.24,
+      "text": "Y esa diferencia es la clave. Opus 4.5 es el primer modelo que supera el 80% en el SWV Edge."
+    },
+    {
+      "start": 49.24,
+      "end": 53.16,
+      "text": "La prueba más importante que mire si una ya sabe programar de verdad."
+    },
+    {
+      "start": 53.16,
+      "end": 58.36,
+      "text": "Si miramos los benchmarks de razonamiento general, aquí Opus 4.5 ya no domina tanto."
+    },
+    {
+      "start": 58.44,
+      "end": 61.96,
+      "text": "Otros modelos siguen por encima y esto no es un fallo."
+    },
+    {
+      "start": 61.96,
+      "end": 65.84,
+      "text": "Esto confirma que los modelos están separando en dos caminos muy claros."
+    },
+    {
+      "start": 65.84,
+      "end": 72.56,
+      "text": "Gemini y Chargeivity están optimizados para pensar mejor. Opus 4.5 está optimizado para ejecutar mejor."
+    },
+    {
+      "start": 72.56,
+      "end": 76.84,
+      "text": "Planificación vs ejecución. Dos direcciones completamente distintas."
+    },
+    {
+      "start": 76.84,
+      "end": 80.12,
+      "text": "Dos inteligencias con comportamientos diferentes."
+    },
+    {
+      "start": 80.12,
+      "end": 83.32,
+      "text": "Una inteligencia que piensa, otra que actúa."
+    },
+    {
+      "start": 83.32,
+      "end": 90.56,
+      "text": "Y el futuro no lo va a decidir el mejor modelo. Lo va a decidir qué especie de inteligencia necesitamos para cada problema."
+    }
+  ]
+}

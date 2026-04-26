@@ -1,0 +1,73 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 58.1209375,
+  "text": "Vivimos en una época donde todo parece exigir claridad, tienes que tener bien claro quién eres, ¿qué quieres? ¿viad hacia donde vas? Y si no lo sabes, parece que estás atrasado, o que hay algo mal contigo. Pero quizás no es que hay algo mal contigo. Quizás simplemente estás creciendo en un mundo que te bombardea con información, comparaciones, ideas de éxito que no son tuyas. Y es normal sentirse perdido cuando hay tanto ruido alrededor. Quizás no se trata de tenerlo todo claro. No necesitas una historia épica para justificar tu vida ni una gran pasión para merecer existir, ni un propósito perfecto para empezar a muerte. Quizás basta con dar un paso, conseguir algo que te despierte curiosidad, aunque no se pasa donde lleva. El sentido no siempre se encuentra antes de caminar, muchas veces se construye mientras caminas.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "Vivimos en una época donde todo parece exigir claridad, tienes que tener bien claro quién eres,"
+    },
+    {
+      "start": 6.6,
+      "end": 8.84,
+      "text": "¿qué quieres? ¿viad hacia donde vas?"
+    },
+    {
+      "start": 8.84,
+      "end": 13.48,
+      "text": "Y si no lo sabes, parece que estás atrasado, o que hay algo mal contigo."
+    },
+    {
+      "start": 13.48,
+      "end": 16.52,
+      "text": "Pero quizás no es que hay algo mal contigo."
+    },
+    {
+      "start": 16.52,
+      "end": 21.28,
+      "text": "Quizás simplemente estás creciendo en un mundo que te bombardea con información,"
+    },
+    {
+      "start": 21.28,
+      "end": 24.84,
+      "text": "comparaciones, ideas de éxito que no son tuyas."
+    },
+    {
+      "start": 24.84,
+      "end": 28.4,
+      "text": "Y es normal sentirse perdido cuando hay tanto ruido alrededor."
+    },
+    {
+      "start": 28.4,
+      "end": 31.36,
+      "text": "Quizás no se trata de tenerlo todo claro."
+    },
+    {
+      "start": 31.36,
+      "end": 37.48,
+      "text": "No necesitas una historia épica para justificar tu vida ni una gran pasión para merecer existir,"
+    },
+    {
+      "start": 37.48,
+      "end": 40.64,
+      "text": "ni un propósito perfecto para empezar a muerte."
+    },
+    {
+      "start": 40.64,
+      "end": 46.72,
+      "text": "Quizás basta con dar un paso, conseguir algo que te despierte curiosidad,"
+    },
+    {
+      "start": 46.72,
+      "end": 48.76,
+      "text": "aunque no se pasa donde lleva."
+    },
+    {
+      "start": 48.76,
+      "end": 56.2,
+      "text": "El sentido no siempre se encuentra antes de caminar, muchas veces se construye mientras caminas."
+    }
+  ]
+}

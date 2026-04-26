@@ -1,0 +1,58 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 53.8020625,
+  "text": "ha vuelto la ballena, ha vuelto deep-sick, la inteligencia artificial china que rompió esquemas a principios de año y que hizo que la bolsa americana Callece mil millones de pavos pues realmente ha vuelto a pegar bastante fuerte y ha vuelto a pagar bastante fuerte con la versión 3.2 que no es ni tan solo un modelo completo sino una evolución. Tres todo aquí en haginfase donde podéis descargar el modelo sin ningún problema. Nos lo han dividido en dos partes, vale por un lado está el 3.2 especial y por otro lado está el 3.2 sinking normal y corriente y los puntuaciones de los benchmark no decepcionan. Si os fijáis tenemos aquí los principales benchmarks de razonamiento y los de agéntico. Como podéis ver, DeepSick está incluso por encima en la mayoría de los de razonamiento y ligeramente por debajo en los de las capacidades agénticas, siendo un modelo muy válido y muy capaz para sobre todo eso, el razonamiento. DeepSick una vez más es capaz de ofrecer un modelo competitivo que está a la altura pero 25 veces más barato.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "ha vuelto la ballena, ha vuelto deep-sick, la inteligencia artificial china que rompió esquemas a principios de año y que hizo que la bolsa americana"
+    },
+    {
+      "start": 7.0,
+      "end": 12.5,
+      "text": "Callece mil millones de pavos pues realmente ha vuelto a pegar bastante fuerte y ha vuelto a pagar bastante fuerte con la versión"
+    },
+    {
+      "start": 12.5,
+      "end": 16.9,
+      "text": "3.2 que no es ni tan solo un modelo completo sino una evolución."
+    },
+    {
+      "start": 16.9,
+      "end": 20.9,
+      "text": "Tres todo aquí en haginfase donde podéis descargar el modelo sin ningún problema."
+    },
+    {
+      "start": 20.9,
+      "end": 27.6,
+      "text": "Nos lo han dividido en dos partes, vale por un lado está el 3.2 especial y por otro lado está el 3.2 sinking normal y corriente"
+    },
+    {
+      "start": 27.6,
+      "end": 30.0,
+      "text": "y los puntuaciones de los benchmark no decepcionan."
+    },
+    {
+      "start": 30.0,
+      "end": 34.6,
+      "text": "Si os fijáis tenemos aquí los principales benchmarks de razonamiento y los de agéntico."
+    },
+    {
+      "start": 34.6,
+      "end": 42.1,
+      "text": "Como podéis ver, DeepSick está incluso por encima en la mayoría de los de razonamiento y ligeramente por debajo en los de las capacidades agénticas,"
+    },
+    {
+      "start": 42.1,
+      "end": 46.6,
+      "text": "siendo un modelo muy válido y muy capaz para sobre todo eso, el razonamiento."
+    },
+    {
+      "start": 46.6,
+      "end": 53.6,
+      "text": "DeepSick una vez más es capaz de ofrecer un modelo competitivo que está a la altura pero 25 veces más barato."
+    }
+  ]
+}

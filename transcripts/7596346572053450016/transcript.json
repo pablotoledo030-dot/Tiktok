@@ -1,0 +1,78 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 51.2014375,
+  "text": "Esto es Nano Banana Pro y esta imagen lo cambia todo. China acaba de lanzar un modelo totalmente sin censura, unas 30 veces más rápido y muchísimo más barato que Nano Banana. 100% de código abierto y la versión final ni siquiera salido todavía. Genera, imágenes y perrealistas en menos de un segundo, en 2K, nativo y ahora mismo está considerado el mejor modelo open source del momento. Estas imágenes salen de una sola imagen base y luego las escalo con Chris AppScale. El nivel de detalles impresionante puede crear selfies ultra reales, fotos de producto, miniaturas y campañas completas, contexto y gráficos limpios. La gran diferencia está en la seguridad, no está censurado, tienes libertad creativa total y sí, eso abre preguntas éticas series. Señal Clara de hacia dónde vamos. La alta fidelidad ya no es un lujo, es una comodity, barata, instantania y accesible. Ya puedes usar este modelo dentro de Enhancor, entras, acuora y seleccionas la imagen.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Esto es Nano Banana Pro y esta imagen lo cambia todo."
+    },
+    {
+      "start": 3.2,
+      "end": 8.84,
+      "text": "China acaba de lanzar un modelo totalmente sin censura, unas 30 veces más rápido y muchísimo"
+    },
+    {
+      "start": 8.84,
+      "end": 13.42,
+      "text": "más barato que Nano Banana. 100% de código abierto y la versión final ni siquiera salido"
+    },
+    {
+      "start": 13.42,
+      "end": 14.42,
+      "text": "todavía."
+    },
+    {
+      "start": 14.42,
+      "end": 18.98,
+      "text": "Genera, imágenes y perrealistas en menos de un segundo, en 2K, nativo y ahora mismo está"
+    },
+    {
+      "start": 18.98,
+      "end": 22.0,
+      "text": "considerado el mejor modelo open source del momento."
+    },
+    {
+      "start": 22.0,
+      "end": 26.24,
+      "text": "Estas imágenes salen de una sola imagen base y luego las escalo con Chris AppScale."
+    },
+    {
+      "start": 26.24,
+      "end": 30.88,
+      "text": "El nivel de detalles impresionante puede crear selfies ultra reales, fotos de producto,"
+    },
+    {
+      "start": 30.88,
+      "end": 34.24,
+      "text": "miniaturas y campañas completas, contexto y gráficos limpios."
+    },
+    {
+      "start": 34.24,
+      "end": 38.08,
+      "text": "La gran diferencia está en la seguridad, no está censurado, tienes libertad creativa"
+    },
+    {
+      "start": 38.08,
+      "end": 40.96,
+      "text": "total y sí, eso abre preguntas éticas series."
+    },
+    {
+      "start": 40.96,
+      "end": 42.52,
+      "text": "Señal Clara de hacia dónde vamos."
+    },
+    {
+      "start": 42.52,
+      "end": 46.92,
+      "text": "La alta fidelidad ya no es un lujo, es una comodity, barata, instantania y accesible."
+    },
+    {
+      "start": 46.92,
+      "end": 51.04,
+      "text": "Ya puedes usar este modelo dentro de Enhancor, entras, acuora y seleccionas la imagen."
+    }
+  ]
+}

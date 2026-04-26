@@ -1,0 +1,83 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 68.059125,
+  "text": "Antropic acaba de publicar un informe que puso muy nerviosos a OpenAI, Google y a todas las empresas de IA porque demuestra algo que toda la industria no quería admitir. En septiembre de 2025, Antropic descubrió que hackers patrocinados por el estado chino estaban usando Cloud Code para hackear 30 empresas distintas, compañías tecnológicas, bancos e incluso agencias gubernamentales. Y la parte más sorprendente es que Cloud hizo entre el 80 y el 90% del haqueo por sí solo. Aquí está con los hackers usaron Cloud Code en la gente de codificación de Antropic y lo liberaron dividiendo el ataque en tareas diminutas que parecían inofensivas y asíéndose pasar por empleados de una empresa de civil seguridad. Cloud pensó que estaba haciendo pruebas defensivas, pero en realidad estaba infiltrando sean empresas reales. Una vez deslocado, Cloud Code se volvió totalmente el tono. En control vulnerabilidades, rastreó contra señas y extrajo datos sencillas. Lo más aterrador es que Antropic solo se dio cuenta porque sucedió en su propia plataforma. Si hubiera ocurrido en otro modelo, nadie lo habría sabido. Por eso decidieron publicar el informe para que empresas como OpenAI sepan cómo los hackers están usando sus productos y si quieres tener una ventaja injusta en la carrera de la IA, comenta la palabra seguro y te enviaremos nuestro PDF de cómo tú ya te puedes proteger.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Antropic acaba de publicar un informe que puso muy nerviosos a OpenAI, Google y a todas las empresas de IA"
+    },
+    {
+      "start": 5.6,
+      "end": 10.46,
+      "text": "porque demuestra algo que toda la industria no quería admitir. En septiembre de 2025,"
+    },
+    {
+      "start": 10.46,
+      "end": 14.92,
+      "text": "Antropic descubrió que hackers patrocinados por el estado chino estaban usando Cloud Code para"
+    },
+    {
+      "start": 14.92,
+      "end": 20.44,
+      "text": "hackear 30 empresas distintas, compañías tecnológicas, bancos e incluso agencias gubernamentales."
+    },
+    {
+      "start": 20.44,
+      "end": 26.0,
+      "text": "Y la parte más sorprendente es que Cloud hizo entre el 80 y el 90% del haqueo por sí solo."
+    },
+    {
+      "start": 26.08,
+      "end": 30.44,
+      "text": "Aquí está con los hackers usaron Cloud Code en la gente de codificación de Antropic y lo liberaron"
+    },
+    {
+      "start": 30.44,
+      "end": 35.0,
+      "text": "dividiendo el ataque en tareas diminutas que parecían inofensivas y asíéndose pasar por empleados"
+    },
+    {
+      "start": 35.0,
+      "end": 38.56,
+      "text": "de una empresa de civil seguridad. Cloud pensó que estaba haciendo pruebas defensivas,"
+    },
+    {
+      "start": 38.56,
+      "end": 43.76,
+      "text": "pero en realidad estaba infiltrando sean empresas reales. Una vez deslocado, Cloud Code se volvió"
+    },
+    {
+      "start": 43.76,
+      "end": 48.68,
+      "text": "totalmente el tono. En control vulnerabilidades, rastreó contra señas y extrajo datos sencillas."
+    },
+    {
+      "start": 48.68,
+      "end": 52.68,
+      "text": "Lo más aterrador es que Antropic solo se dio cuenta porque sucedió en su propia plataforma."
+    },
+    {
+      "start": 53.0,
+      "end": 57.36,
+      "text": "Si hubiera ocurrido en otro modelo, nadie lo habría sabido. Por eso decidieron publicar el informe"
+    },
+    {
+      "start": 57.36,
+      "end": 61.96,
+      "text": "para que empresas como OpenAI sepan cómo los hackers están usando sus productos y si quieres"
+    },
+    {
+      "start": 61.96,
+      "end": 66.28,
+      "text": "tener una ventaja injusta en la carrera de la IA, comenta la palabra seguro y te enviaremos nuestro"
+    },
+    {
+      "start": 66.28,
+      "end": 67.76,
+      "text": "PDF de cómo tú ya te puedes proteger."
+    }
+  ]
+}

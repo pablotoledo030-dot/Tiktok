@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 21.0619375,
+  "text": "Páginas poderosas que deberías conocer parte 294, sabías que si vas a esta página web, puedes escoger un área del mapa. Luego elige el formato que quieres y hace click en preview. Ahora tienes el diseño de esta área, incluyendo una versión 3D, luego lo descargas y ya está fácil.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.22,
+      "text": "Páginas poderosas que deberías conocer parte 294, sabías que si vas a esta página web,"
+    },
+    {
+      "start": 7.22,
+      "end": 12.76,
+      "text": "puedes escoger un área del mapa. Luego elige el formato que quieres y hace click"
+    },
+    {
+      "start": 12.76,
+      "end": 18.7,
+      "text": "en preview. Ahora tienes el diseño de esta área, incluyendo una versión 3D, luego lo"
+    },
+    {
+      "start": 18.7,
+      "end": 20.9,
+      "text": "descargas y ya está fácil."
+    }
+  ]
+}

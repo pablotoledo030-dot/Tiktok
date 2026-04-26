@@ -1,0 +1,123 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 108.0903125,
+  "text": "Contado de Robutor usando inteligencia artificial parte 50 Bueno, es fin de mes y toca hacer remuneraciones y yo sé que manda algunas guías a las remuneraciones del Nuox Bueno, la cosa es que cuando uno escarga las liguaciones de suelo para mandarse la cliente El los archivos que uno escarga tiene un nombre random, son puras letras, puro número y la verdad es que no significa nada Por ejemplo esto, este es el nombre del archivo Entonces, cuando lo escarga hay, se guarda de esa forma Entonces si tú quieres mandarle la opción al cliente, cuando se va a dar No tiene nombre, entonces el cliente no lo puede identificar con facilidad Entonces ahí el contador debería cambiar el nombre de archivos cuando está guardando y en verdad eso toma mucho tiempo y mucho más cuando son mucho trabajadores Entonces le voy a mostrar cómo lo suele Entonces aquí básicamente escargue el archivo de todas las liguaciones en un puro BF Aquí están todas, lo metí en Cloudy, estoy yo y le puse este prop Te sugeré la liguación del suelo en archivo PDF necesito que tiene un archivo diferente para cada hoja y modifice ese nombre de archivo al siguiente Nome del trabajador, espacio guión, mes, espacio, año Y esa información está dentro de la liguación de suelo Entonces lo mandáis y esperáis Ya creo que basaran como 2 minutos y aquí está la información, lo da un zarrabe porque no creo que haya el nombre Y ver aquí también tenéis como la cuestión Las cosas que te quedas así, ahí es el primero revito, al barado, el nombre, el mes y el año Y talito, te arraste la cacherrín por favor",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 5.54,
+      "text": "Contado de Robutor usando inteligencia artificial parte 50"
+    },
+    {
+      "start": 5.54,
+      "end": 10.58,
+      "text": "Bueno, es fin de mes y toca hacer remuneraciones"
+    },
+    {
+      "start": 10.58,
+      "end": 13.6,
+      "text": "y yo sé que manda algunas guías a las remuneraciones del Nuox"
+    },
+    {
+      "start": 13.6,
+      "end": 18.36,
+      "text": "Bueno, la cosa es que cuando uno escarga las liguaciones de suelo para mandarse la cliente"
+    },
+    {
+      "start": 18.36,
+      "end": 26.36,
+      "text": "El los archivos que uno escarga tiene un nombre random, son puras letras, puro número y la verdad es que no significa nada"
+    },
+    {
+      "start": 26.36,
+      "end": 29.86,
+      "text": "Por ejemplo esto, este es el nombre del archivo"
+    },
+    {
+      "start": 30.06,
+      "end": 33.54,
+      "text": "Entonces, cuando lo escarga hay, se guarda de esa forma"
+    },
+    {
+      "start": 33.54,
+      "end": 37.58,
+      "text": "Entonces si tú quieres mandarle la opción al cliente, cuando se va a dar"
+    },
+    {
+      "start": 40.22,
+      "end": 45.44,
+      "text": "No tiene nombre, entonces el cliente no lo puede identificar con facilidad"
+    },
+    {
+      "start": 45.44,
+      "end": 49.44,
+      "text": "Entonces ahí el contador debería cambiar el nombre de archivos cuando está guardando"
+    },
+    {
+      "start": 49.44,
+      "end": 55.12,
+      "text": "y en verdad eso toma mucho tiempo y mucho más cuando son mucho trabajadores"
+    },
+    {
+      "start": 55.12,
+      "end": 58.02,
+      "text": "Entonces le voy a mostrar cómo lo suele"
+    },
+    {
+      "start": 58.28,
+      "end": 62.88,
+      "text": "Entonces aquí básicamente escargue el archivo de todas las liguaciones en un puro BF"
+    },
+    {
+      "start": 62.88,
+      "end": 67.54,
+      "text": "Aquí están todas, lo metí en Cloudy, estoy yo y le puse este prop"
+    },
+    {
+      "start": 67.54,
+      "end": 69.88,
+      "text": "Te sugeré la liguación del suelo en archivo PDF"
+    },
+    {
+      "start": 69.88,
+      "end": 74.44,
+      "text": "necesito que tiene un archivo diferente para cada hoja y modifice ese nombre de archivo al siguiente"
+    },
+    {
+      "start": 74.44,
+      "end": 79.76,
+      "text": "Nome del trabajador, espacio guión, mes, espacio, año"
+    },
+    {
+      "start": 79.76,
+      "end": 82.96,
+      "text": "Y esa información está dentro de la liguación de suelo"
+    },
+    {
+      "start": 82.96,
+      "end": 85.96,
+      "text": "Entonces lo mandáis y esperáis"
+    },
+    {
+      "start": 86.68,
+      "end": 91.88,
+      "text": "Ya creo que basaran como 2 minutos y aquí está la información, lo da un zarrabe porque no creo que haya el nombre"
+    },
+    {
+      "start": 91.88,
+      "end": 94.88,
+      "text": "Y ver aquí también tenéis como la cuestión"
+    },
+    {
+      "start": 94.88,
+      "end": 100.88,
+      "text": "Las cosas que te quedas así, ahí es el primero revito, al barado, el nombre, el mes y el año"
+    },
+    {
+      "start": 102.62,
+      "end": 107.62,
+      "text": "Y talito, te arraste la cacherrín por favor"
+    }
+  ]
+}

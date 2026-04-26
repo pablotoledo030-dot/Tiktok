@@ -1,0 +1,133 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 100.985,
+  "text": "Sam Alman está cabreado con Antropic y no es para menos, parece que ha empezado la guerra entre las dos empresas. Y ahora te cuento lo que ha pasado. Este es el tweet de Sam Alman poniendo a parir a Antropic, donde los acusas de vender un producto para ricos, restrictivo y de intentar controlar que las empresas puedan usar su tecnología, llegando incluso a calificarlos como una compañía autoritaria. Pero este tweet no viene de la nada y es que Antropic sacó unos anuncios a la Superbolt que iban claramente contra OpenEI. En ellos aparecen una persona hablando con su inteligencia artificial representada como otra persona y la IAA habla como chatGPT suele hacerlo cuando no lo tienes entrenado, siendo pelota y dando información redundante. Pero en mitad de su respuesta la IAA mete un anuncios superforzado, dando a entender que la publicidad condiciona lo que dice. El spot termina con el mensaje de los anuncios han llegado a la IAA pero no a clot. El problema es que ese mensaje es como mínimo engañoso. chatGPT no pone anuncios dentro de las respuestas, hoy por hoy son banners anexos que no condicionan la respuesta, pero el anuncio de Antropic da entender justo lo contrario. Más allá de ser falso y atacar a un competidor de forma bastante injusta creo que es una estrategia que puede volverse en su contra. Sí, los anuncios sean hechos viral, pero lo único que consiguen es que el público crea que la IAA tiene publicidad y que no te puedes fiar de ella. Quiere ese relato, Antropic creo que se dispara en el pie, especialmente teniendo en cuenta que su cuota de mercado en el público general es bajísima, que fuera de nuestro círculo de la IAA casi nadie les conoce. Sin duda esto es una guerra por el relato y creo que no beneficia ninguna de las dos empresas.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Sam Alman está cabreado con Antropic y no es para menos, parece que ha empezado la guerra"
+    },
+    {
+      "start": 4.96,
+      "end": 6.36,
+      "text": "entre las dos empresas."
+    },
+    {
+      "start": 6.36,
+      "end": 8.28,
+      "text": "Y ahora te cuento lo que ha pasado."
+    },
+    {
+      "start": 8.28,
+      "end": 12.84,
+      "text": "Este es el tweet de Sam Alman poniendo a parir a Antropic, donde los acusas de vender"
+    },
+    {
+      "start": 12.84,
+      "end": 18.4,
+      "text": "un producto para ricos, restrictivo y de intentar controlar que las empresas puedan usar su"
+    },
+    {
+      "start": 18.4,
+      "end": 23.56,
+      "text": "tecnología, llegando incluso a calificarlos como una compañía autoritaria."
+    },
+    {
+      "start": 23.56,
+      "end": 27.4,
+      "text": "Pero este tweet no viene de la nada y es que Antropic sacó unos anuncios a la Superbolt"
+    },
+    {
+      "start": 27.4,
+      "end": 30.2,
+      "text": "que iban claramente contra OpenEI."
+    },
+    {
+      "start": 30.2,
+      "end": 34.0,
+      "text": "En ellos aparecen una persona hablando con su inteligencia artificial representada como"
+    },
+    {
+      "start": 34.0,
+      "end": 39.16,
+      "text": "otra persona y la IAA habla como chatGPT suele hacerlo cuando no lo tienes entrenado,"
+    },
+    {
+      "start": 39.16,
+      "end": 42.56,
+      "text": "siendo pelota y dando información redundante."
+    },
+    {
+      "start": 42.56,
+      "end": 47.2,
+      "text": "Pero en mitad de su respuesta la IAA mete un anuncios superforzado, dando a entender que"
+    },
+    {
+      "start": 47.2,
+      "end": 49.88,
+      "text": "la publicidad condiciona lo que dice."
+    },
+    {
+      "start": 49.88,
+      "end": 55.4,
+      "text": "El spot termina con el mensaje de los anuncios han llegado a la IAA pero no a clot."
+    },
+    {
+      "start": 55.4,
+      "end": 58.52,
+      "text": "El problema es que ese mensaje es como mínimo engañoso."
+    },
+    {
+      "start": 58.52,
+      "end": 64.56,
+      "text": "chatGPT no pone anuncios dentro de las respuestas, hoy por hoy son banners anexos que no condicionan"
+    },
+    {
+      "start": 64.56,
+      "end": 69.6,
+      "text": "la respuesta, pero el anuncio de Antropic da entender justo lo contrario."
+    },
+    {
+      "start": 69.6,
+      "end": 73.96,
+      "text": "Más allá de ser falso y atacar a un competidor de forma bastante injusta creo que es una"
+    },
+    {
+      "start": 73.96,
+      "end": 76.44,
+      "text": "estrategia que puede volverse en su contra."
+    },
+    {
+      "start": 76.44,
+      "end": 80.32,
+      "text": "Sí, los anuncios sean hechos viral, pero lo único que consiguen es que el público crea"
+    },
+    {
+      "start": 80.32,
+      "end": 83.92,
+      "text": "que la IAA tiene publicidad y que no te puedes fiar de ella."
+    },
+    {
+      "start": 83.92,
+      "end": 88.32,
+      "text": "Quiere ese relato, Antropic creo que se dispara en el pie, especialmente teniendo en cuenta"
+    },
+    {
+      "start": 88.32,
+      "end": 93.68,
+      "text": "que su cuota de mercado en el público general es bajísima, que fuera de nuestro círculo"
+    },
+    {
+      "start": 93.68,
+      "end": 96.32,
+      "text": "de la IAA casi nadie les conoce."
+    },
+    {
+      "start": 96.32,
+      "end": 100.64,
+      "text": "Sin duda esto es una guerra por el relato y creo que no beneficia ninguna de las dos empresas."
+    }
+  ]
+}

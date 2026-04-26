@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 59.3748125,
+  "text": "Este es el último proyecto que vamos a realizar de nuestros 8 proyectos que vamos a enseñar en el taller de proyectos con antigravity. Es un proyecto para recursos humanos para hacer contratos masivos y ya no tener que editar cada uno de los contratos uno por uno. Acá, por ejemplo, subes la plantilla del contrato que puede ser un gorro pdf, básicamente mejor en gorro. Luego acá, vas a importar toda esa base de datos de postulantes, que después tu vas a definir a karma peor de los datos para ordenar los de manera adecuada y acá definas cuál es la plantilla que es usar, por ejemplo, la plantilla contratos laboral, el formato de salida y quienes son los seleccionados. Y luego de seleccionarlos, pones generarlo temasivo, se va a generar un archivo zip, después de verlo configurado zip, de manera muy rápida. Y acá te vas a salir el registro de todos esos contratos generados e incluso su configuración de la empresa. Todo eso vas a aprender en...",
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 7.95,
+      "text": "Este es el último proyecto que vamos a realizar de nuestros 8 proyectos que vamos a enseñar en el taller de proyectos con antigravity."
+    },
+    {
+      "start": 7.95,
+      "end": 15.59,
+      "text": "Es un proyecto para recursos humanos para hacer contratos masivos y ya no tener que editar cada uno de los contratos uno por uno."
+    },
+    {
+      "start": 15.59,
+      "end": 22.15,
+      "text": "Acá, por ejemplo, subes la plantilla del contrato que puede ser un gorro pdf, básicamente mejor en gorro."
+    },
+    {
+      "start": 22.15,
+      "end": 31.85,
+      "text": "Luego acá, vas a importar toda esa base de datos de postulantes, que después tu vas a definir a karma peor de los datos para ordenar los de manera adecuada"
+    },
+    {
+      "start": 31.85,
+      "end": 41.05,
+      "text": "y acá definas cuál es la plantilla que es usar, por ejemplo, la plantilla contratos laboral, el formato de salida y quienes son los seleccionados."
+    },
+    {
+      "start": 41.05,
+      "end": 50.61,
+      "text": "Y luego de seleccionarlos, pones generarlo temasivo, se va a generar un archivo zip, después de verlo configurado zip, de manera muy rápida."
+    },
+    {
+      "start": 50.61,
+      "end": 58.13,
+      "text": "Y acá te vas a salir el registro de todos esos contratos generados e incluso su configuración de la empresa."
+    },
+    {
+      "start": 58.13,
+      "end": 60.13,
+      "text": "Todo eso vas a aprender en..."
+    }
+  ]
+}

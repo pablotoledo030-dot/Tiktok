@@ -1,0 +1,248 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 179.9793125,
+  "text": "¿Qué has enterado lo que ha pasado esta última semana? Desde el joven es pasado ha habido tantos lanzamientos que nos hemos tomado unos días para probarlos antes de comentarlos. El 5 de febrero en un solo día, 3 veces, clau 2.4.6, gpt5.3 codex y clín 3. Y rematamos el fin de considerar 2, que es de lo que todo el mundo habla ahora mismo, pero vamos por partes. Empezamos por Android que lanzó clau 2.4.6, su modelo más potente y hay tres cosas clave. La primera es la ventana de contexto, de más de un millón de tokens. Y no solo es que acepte más texto, es que además lo entiende. Ha pasado de un 18 o un 76% antes de recuperación de la información en contextos largos. La segunda es los agent teams en clau code. Ya no tenemos una gente que va haciendo una cosa detrás de otras sino que ahora se lanza en varios emparalelos cada uno con su tarea y se coorden a entre ellos. Y la tercera que puede ser la que más os interesa los no programadores es cloud para PowerPoint. Le dices lo que necesitas y te manda tus diapositivas respetando tu plantilla fuentes y colores. Ya teníamos cloud4xcel y ahora esto, un ataque directo a Microsoft Pilot. Ayer lo unes salió cloudcowork para Windows que hasta ahora solo estaba en Mac. Y el mismo día, OpenEY lanzó Gpt5.3 Codex, que es el primer modelo de OpenEY que ha sido clave en su desarrollo. Conviene a lo mejor de Gpt5.2 Codexcel en programación con las capacidades de razonamiento de Gpt5.2, todo en uno y un 25% más rápido. Y ya no es solo un asistente de código, OpenEY quiere que Codex haga todo lo que un profesional hace en un ordenador. Y otro detalle es el primer modelo que OpenEY clasifica en Hike, Pability en ciberseguridad. Tampotentemente encontrando vulnerabilidades que han tenido que retrasar el acceso por API. Y una última cosa dio OpenEY, Deep Research ya está impulsado por Gpt5.2. Y ahora lo que todo el mundo está comentando en redes. La generación de videoconidad ha tenido una semana de vential. Y todo en vez de un grado con que al final el protagonismo se lo ha llevado China. El 12 de febrero, XAI lanzó Gpt1 y en uno con vídeos de hasta 10 segundos con audienativo. Muy viral, pero también muy polémico. De hecho es que UK y Francia tienen investigaciones abiertas por la facilidad de crear DeepFace. Y tres días después, Glenn Tres, subimos de nivel. Videos de hasta cinco segundos, audios incronizado en cinco idiomas. Y una función muy disso de storyboard donde decines plano por clano, duración, ángulo y contenido narrativo. La calidad ya podéis ver que es impresionante. Pero lo que ha vuelto a loco todo el mundo es SIDAMS 2. Muy dissenado con personajes consistentes, audios incronizado y un 90% de los resultados utilizables a la primera. Los vídeos que está generando dan miedo, cualquiera diría que lo que se estoy muestrando en pantalla, ya esía. De hecho tuvieron que suspender la función de que lo narvo, cesa a partir de fotos, porque la gente estaba generando DeepFace sin consentimiento. Ayer Google actualizó el Gpt3.DX-5, consiguiendo récords en varios ventes, marzo de razonamiento, matemáticas, física, química y programación. Y OpenEY lanzó Codex Spark, una versión otra rápida de Codex que genera más de 1000 tokens por segundo. Y otra novedad de las semanas que también nos hemos comprado las meta-display. En resumen Antropic Domina el trabajo autónomo con agentes y se meten herramientas de oficina, o tenéis ahí apuesta todo a Codex como agente universal, sin estar liderando el vídeo generativo y Google no se queda atrás. Todo esto en una semana, bienvenidos a febrero de 2021.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "¿Qué has enterado lo que ha pasado esta última semana?"
+    },
+    {
+      "start": 2.16,
+      "end": 5.44,
+      "text": "Desde el joven es pasado ha habido tantos lanzamientos que nos hemos tomado unos días"
+    },
+    {
+      "start": 5.44,
+      "end": 7.52,
+      "text": "para probarlos antes de comentarlos."
+    },
+    {
+      "start": 7.52,
+      "end": 11.32,
+      "text": "El 5 de febrero en un solo día, 3 veces, clau 2.4.6,"
+    },
+    {
+      "start": 11.32,
+      "end": 13.76,
+      "text": "gpt5.3 codex y clín 3."
+    },
+    {
+      "start": 13.76,
+      "end": 17.52,
+      "text": "Y rematamos el fin de considerar 2, que es de lo que todo el mundo habla ahora mismo,"
+    },
+    {
+      "start": 17.52,
+      "end": 18.84,
+      "text": "pero vamos por partes."
+    },
+    {
+      "start": 18.84,
+      "end": 24.84,
+      "text": "Empezamos por Android que lanzó clau 2.4.6, su modelo más potente y hay tres cosas clave."
+    },
+    {
+      "start": 24.84,
+      "end": 28.2,
+      "text": "La primera es la ventana de contexto, de más de un millón de tokens."
+    },
+    {
+      "start": 28.2,
+      "end": 30.92,
+      "text": "Y no solo es que acepte más texto, es que además lo entiende."
+    },
+    {
+      "start": 30.92,
+      "end": 36.24,
+      "text": "Ha pasado de un 18 o un 76% antes de recuperación de la información en contextos largos."
+    },
+    {
+      "start": 36.24,
+      "end": 39.0,
+      "text": "La segunda es los agent teams en clau code."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "Ya no tenemos una gente que va haciendo una cosa detrás de otras"
+    },
+    {
+      "start": 42.0,
+      "end": 46.68,
+      "text": "sino que ahora se lanza en varios emparalelos cada uno con su tarea y se coorden a entre ellos."
+    },
+    {
+      "start": 46.68,
+      "end": 51.36,
+      "text": "Y la tercera que puede ser la que más os interesa los no programadores es cloud para PowerPoint."
+    },
+    {
+      "start": 51.36,
+      "end": 56.44,
+      "text": "Le dices lo que necesitas y te manda tus diapositivas respetando tu plantilla fuentes y colores."
+    },
+    {
+      "start": 56.44,
+      "end": 60.32,
+      "text": "Ya teníamos cloud4xcel y ahora esto, un ataque directo a Microsoft Pilot."
+    },
+    {
+      "start": 60.32,
+      "end": 64.24,
+      "text": "Ayer lo unes salió cloudcowork para Windows que hasta ahora solo estaba en Mac."
+    },
+    {
+      "start": 64.24,
+      "end": 70.8,
+      "text": "Y el mismo día, OpenEY lanzó Gpt5.3 Codex, que es el primer modelo de OpenEY que ha sido clave en su desarrollo."
+    },
+    {
+      "start": 70.8,
+      "end": 77.16,
+      "text": "Conviene a lo mejor de Gpt5.2 Codexcel en programación con las capacidades de razonamiento de Gpt5.2,"
+    },
+    {
+      "start": 77.16,
+      "end": 79.88,
+      "text": "todo en uno y un 25% más rápido."
+    },
+    {
+      "start": 79.88,
+      "end": 84.8,
+      "text": "Y ya no es solo un asistente de código, OpenEY quiere que Codex haga todo lo que un profesional hace en un ordenador."
+    },
+    {
+      "start": 84.84,
+      "end": 89.48,
+      "text": "Y otro detalle es el primer modelo que OpenEY clasifica en Hike, Pability en ciberseguridad."
+    },
+    {
+      "start": 89.48,
+      "end": 93.28,
+      "text": "Tampotentemente encontrando vulnerabilidades que han tenido que retrasar el acceso por API."
+    },
+    {
+      "start": 93.28,
+      "end": 97.64,
+      "text": "Y una última cosa dio OpenEY, Deep Research ya está impulsado por Gpt5.2."
+    },
+    {
+      "start": 97.64,
+      "end": 99.56,
+      "text": "Y ahora lo que todo el mundo está comentando en redes."
+    },
+    {
+      "start": 99.56,
+      "end": 102.4,
+      "text": "La generación de videoconidad ha tenido una semana de vential."
+    },
+    {
+      "start": 102.4,
+      "end": 105.68,
+      "text": "Y todo en vez de un grado con que al final el protagonismo se lo ha llevado China."
+    },
+    {
+      "start": 105.68,
+      "end": 110.84,
+      "text": "El 12 de febrero, XAI lanzó Gpt1 y en uno con vídeos de hasta 10 segundos con audienativo."
+    },
+    {
+      "start": 110.84,
+      "end": 112.64,
+      "text": "Muy viral, pero también muy polémico."
+    },
+    {
+      "start": 112.68,
+      "end": 116.92,
+      "text": "De hecho es que UK y Francia tienen investigaciones abiertas por la facilidad de crear DeepFace."
+    },
+    {
+      "start": 116.92,
+      "end": 119.56,
+      "text": "Y tres días después, Glenn Tres, subimos de nivel."
+    },
+    {
+      "start": 119.56,
+      "end": 122.92,
+      "text": "Videos de hasta cinco segundos, audios incronizado en cinco idiomas."
+    },
+    {
+      "start": 122.92,
+      "end": 128.68,
+      "text": "Y una función muy disso de storyboard donde decines plano por clano, duración, ángulo y contenido narrativo."
+    },
+    {
+      "start": 128.68,
+      "end": 130.68,
+      "text": "La calidad ya podéis ver que es impresionante."
+    },
+    {
+      "start": 130.68,
+      "end": 133.0,
+      "text": "Pero lo que ha vuelto a loco todo el mundo es SIDAMS 2."
+    },
+    {
+      "start": 133.0,
+      "end": 139.16,
+      "text": "Muy dissenado con personajes consistentes, audios incronizado y un 90% de los resultados utilizables a la primera."
+    },
+    {
+      "start": 139.2,
+      "end": 143.0,
+      "text": "Los vídeos que está generando dan miedo, cualquiera diría que lo que se estoy muestrando en pantalla,"
+    },
+    {
+      "start": 143.0,
+      "end": 145.76,
+      "text": "ya esía. De hecho tuvieron que suspender la función de que lo narvo,"
+    },
+    {
+      "start": 145.76,
+      "end": 149.72,
+      "text": "cesa a partir de fotos, porque la gente estaba generando DeepFace sin consentimiento."
+    },
+    {
+      "start": 149.72,
+      "end": 153.6,
+      "text": "Ayer Google actualizó el Gpt3.DX-5, consiguiendo récords en varios ventes,"
+    },
+    {
+      "start": 153.6,
+      "end": 157.56,
+      "text": "marzo de razonamiento, matemáticas, física, química y programación."
+    },
+    {
+      "start": 157.56,
+      "end": 163.44,
+      "text": "Y OpenEY lanzó Codex Spark, una versión otra rápida de Codex que genera más de 1000 tokens por segundo."
+    },
+    {
+      "start": 163.44,
+      "end": 166.64,
+      "text": "Y otra novedad de las semanas que también nos hemos comprado las meta-display."
+    },
+    {
+      "start": 166.64,
+      "end": 170.68,
+      "text": "En resumen Antropic Domina el trabajo autónomo con agentes y se meten herramientas de oficina,"
+    },
+    {
+      "start": 170.68,
+      "end": 173.6,
+      "text": "o tenéis ahí apuesta todo a Codex como agente universal,"
+    },
+    {
+      "start": 173.6,
+      "end": 176.84,
+      "text": "sin estar liderando el vídeo generativo y Google no se queda atrás."
+    },
+    {
+      "start": 176.84,
+      "end": 179.96,
+      "text": "Todo esto en una semana, bienvenidos a febrero de 2021."
+    }
+  ]
+}

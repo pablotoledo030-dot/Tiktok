@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 53.941375,
+  "text": "Últimamente todo el mundo habla de automatizar, pero nadie te cuenta lo insoportable que es montarlo. Hora con Zapier, Make, N8N, Cajitas, Errores, cosas que se rompen. Para algo que en tu cabeza era, solo quiero que pase esto cuando pase esto. Con Twing es otra historia. No hay flujos, no hay nodos, no tienes que montar nada raro. Solo escribes lo que quieres y te construye una gente que lo hace por ti. Por ejemplo, cuando entre un lit investiga lo, clasifica lo, responde le y agenda una cita. Twing analiza eso, propone el sistema, lo aprobás y lo construye entero. Si hay API, se conecta aunque no exista integración. Y si no hay API, entra en la web, hace click, rellena campos y navega como una persona real. Y no es algo que ejecutas una vez, es un sistema que se queda funcionando solo y mejora con el tiempo. Si tienes clientes o haces cosas repetitivas cada semana, esto es como tener un trabajador digital.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Últimamente todo el mundo habla de automatizar, pero nadie te cuenta lo insoportable que es montarlo."
+    },
+    {
+      "start": 5.6,
+      "end": 10.5,
+      "text": "Hora con Zapier, Make, N8N, Cajitas, Errores, cosas que se rompen."
+    },
+    {
+      "start": 10.5,
+      "end": 15.1,
+      "text": "Para algo que en tu cabeza era, solo quiero que pase esto cuando pase esto."
+    },
+    {
+      "start": 15.1,
+      "end": 20.2,
+      "text": "Con Twing es otra historia. No hay flujos, no hay nodos, no tienes que montar nada raro."
+    },
+    {
+      "start": 20.2,
+      "end": 24.1,
+      "text": "Solo escribes lo que quieres y te construye una gente que lo hace por ti."
+    },
+    {
+      "start": 24.1,
+      "end": 29.1,
+      "text": "Por ejemplo, cuando entre un lit investiga lo, clasifica lo, responde le y agenda una cita."
+    },
+    {
+      "start": 29.1,
+      "end": 33.7,
+      "text": "Twing analiza eso, propone el sistema, lo aprobás y lo construye entero."
+    },
+    {
+      "start": 33.7,
+      "end": 36.9,
+      "text": "Si hay API, se conecta aunque no exista integración."
+    },
+    {
+      "start": 36.9,
+      "end": 42.3,
+      "text": "Y si no hay API, entra en la web, hace click, rellena campos y navega como una persona real."
+    },
+    {
+      "start": 42.3,
+      "end": 47.9,
+      "text": "Y no es algo que ejecutas una vez, es un sistema que se queda funcionando solo y mejora con el tiempo."
+    },
+    {
+      "start": 47.9,
+      "end": 53.9,
+      "text": "Si tienes clientes o haces cosas repetitivas cada semana, esto es como tener un trabajador digital."
+    }
+  ]
+}

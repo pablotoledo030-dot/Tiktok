@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 22.037125,
+  "text": "Páginas huevo de rosa parte 454, sabías que si vas a esta página podrás transformar texto en visuales de manera gratuita, simplemente pega tu texto y luego pulsa este icono. Es súper sencillo. podrás personalizar tanto los visuales como el contenido del texto y luego guardarlos en el formato PNG o el que necesites. Es perfecto para tus presentaciones de clase, espero que te haya gustado.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.4,
+      "text": "Páginas huevo de rosa parte 454, sabías que si vas a esta página podrás transformar texto en visuales de manera gratuita,"
+    },
+    {
+      "start": 7.4,
+      "end": 11.66,
+      "text": "simplemente pega tu texto y luego pulsa este icono. Es súper sencillo."
+    },
+    {
+      "start": 11.66,
+      "end": 18.24,
+      "text": "podrás personalizar tanto los visuales como el contenido del texto y luego guardarlos en el formato PNG o el que necesites."
+    },
+    {
+      "start": 18.24,
+      "end": 21.9,
+      "text": "Es perfecto para tus presentaciones de clase, espero que te haya gustado."
+    }
+  ]
+}

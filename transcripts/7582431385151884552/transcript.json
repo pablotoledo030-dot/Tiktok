@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 27.5635,
+  "text": "Páginas que lo entiendo porque nadie conoce parte de 27. No me importa qué sea, si quieres aprender algo y no sabes ni por dónde empezar, usa esta página. No lo digo a la aire, te enseña cualquier cosa, cocinar, inglés, finanzas personales, lo que tú quieras. Te organiza materiales de aprendizaje, hazle clic a cualquiera y tienes un tutorial detallado de cómo empezar. Es completamente gratis y no pide registro, te la dejo en los comentarios.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Páginas que lo entiendo porque nadie conoce parte de 27."
+    },
+    {
+      "start": 3.34,
+      "end": 8.24,
+      "text": "No me importa qué sea, si quieres aprender algo y no sabes ni por dónde empezar, usa esta página."
+    },
+    {
+      "start": 8.24,
+      "end": 14.34,
+      "text": "No lo digo a la aire, te enseña cualquier cosa, cocinar, inglés, finanzas personales, lo que tú quieras."
+    },
+    {
+      "start": 16.02,
+      "end": 21.88,
+      "text": "Te organiza materiales de aprendizaje, hazle clic a cualquiera y tienes un tutorial detallado de cómo empezar."
+    },
+    {
+      "start": 21.88,
+      "end": 25.58,
+      "text": "Es completamente gratis y no pide registro, te la dejo en los comentarios."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 22.36225,
+  "text": "Páginas que deberías conocer parte 247, sabéis que si entra de esta página puedes usar Word, Excel y PowerPoint sin tener nada instalado, solo entra a Word.new, Excel.new o PowerPoint.new, te cargan las versiones web al instante gratis y sin descargar aplicaciones, perfectos y necesitas trabajar rápido desde cualquier dispositivo, está brutal, no olvides seguirme.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Páginas que deberías conocer parte 247, sabéis que si entra de esta página puedes usar"
+    },
+    {
+      "start": 5.4,
+      "end": 12.96,
+      "text": "Word, Excel y PowerPoint sin tener nada instalado, solo entra a Word.new, Excel.new o PowerPoint.new,"
+    },
+    {
+      "start": 12.96,
+      "end": 18.3,
+      "text": "te cargan las versiones web al instante gratis y sin descargar aplicaciones, perfectos y necesitas"
+    },
+    {
+      "start": 18.3,
+      "end": 22.24,
+      "text": "trabajar rápido desde cualquier dispositivo, está brutal, no olvides seguirme."
+    }
+  ]
+}

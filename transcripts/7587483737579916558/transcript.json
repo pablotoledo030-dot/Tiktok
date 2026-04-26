@@ -1,0 +1,323 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 188.10625,
+  "text": "que tengo un coche que nunca me ha gustado por detrás, cuando lo veía en los videojuegos de que, ¡jueque feo! Pero iba también que al final me lo termine comprando. He ido restaurándolo poco a poco, le he cambiado el motor, la suspensión, la llanta, se le interior todo, pero la parte de atrás sigue siendo fea. Y aunque vi que para este coche había kits que conviaban toda la carrocería y lo volvían como si fuese una copia de un super deportivo carísimo, siempre me ha dado la sensación de que vas aparentando tener un coche que no te puedes permitir. Y era una pena cambiar todo el coche cuando realmente todo me gustabas algo la parte trasera. Y un día circulando por la autopista se me encendió la bombilla, porque vi que los pilotros traseros del de adelante, un camión era bastante chulos. Pensé que fue un camión tan feo y tan viejo con intermitentes dinámicos, si él lo ha podido hacer, pues yo también. Y viendo que mi coche tenía unos pilotros traseros tan grandes y va a quedar mal, entonces digo, ¿y si convierto el faro en una regilla de ventilación? Mi idea era hacer algo como el Audi R8 que tiene como un hueco gigante detrás para meter un faro muy grande, pero la mitad o más es regilla. Y casualmente este coche tiene la misma disposición, el motor atrás y las tomas de aire laterales. Entonces el meterse el aire por ahí, se quedaba como encerrado, pero al ponerle estas regillas, el motor va a refrigerar mucho mejor y quizás también sea algo más aerodinámico. Así que no se lo iba a hacer postureo, iba a ser algo útil. Y después de tener la idea más o menos formada en mi cabeza se la acondé a un amigo que es diseñador gráfico. O sea, esas cosas que vese los anuncios, así digitales, superguapas, las hace gente, recreándolo por completo desde cero en un ordenador. Entonces seguramente esto para él iba a ser fácil, porque no era hacer un anuncio entero, sino sólo una pieza. Y creo que le resultó fácil porque a los 5 o 10 minutos ya tenía un boceto de lo que le había dicho y era espectacular, o sea ahora se lo faltaba hacerlo en 3D. Para esto lo que hice fue primero conseguir las luces traseras de un tamaño que fue ya quedar bien y que tuviesen todas las luces incorporadas en la misma barritas, decir la deposición, la de freno, intermitente y marcha atrás. Y no fue difícil encontrar unas como las que quería, pero si fue difícil encontrar unas que funcionas en a 12 voltios. O sea, las primeras que compré no funcionaban y es porque iban a 24 voltios, porque los camiones tienen las luces a más voltaje que los coces. Lo que hiciese eso sí para no tener que cortar ningún cable del coche fue comprar los conectores originales de Toyota y buscar con un multímetro cual era cada cable. Luego directamente soldar ese conector a la barra del LED y ya conectarlo al coche y comprobar que funciona. ¡Uuuu! ¡Puncione bien, tío! Viendo que todas las luces funcionaban, ahora lo que faltaba era diseñar el piloto trasero tipo regilla, o sea, donde poner esa barritas. Y la dificultad no era el diseño porque era bastante sencillo, sino hacer que encaja perfectamente sin modificar el coche. Para esto lo que hicimos en un principio fue utilizar una aplicación del móvil, porque no teníamos un escáner 3D y con esto más o menos podías hacer el apáño. A base de hacer muchísimas fotos escaneabas un objeto en 3D. El problema es que no era muy preciso, o sea, no iba a quedar al milímetro, entonces la solución era hacerlo mucho hasta que quedase bien, pero para no imprimir un faro entero que se oasta un montón de plástico en la empresa ahora, imprimiamos como el marco. Hacíamos una pieza, la probábamos en el coche, veíamos que no encajaba por alguna zona y luego llevamos al ordenador y modificábamos esa zona un poquito y así tras 3 o 4 intentos acabo encajando. La parte de buenas que estas piezas son simétricas es decir si tú consigues hacer una, la otra, la inviertes, le das la vuelta y ya tienes lo mismo. Entonces, una vez conseguimos encajar uno de los faros ya podíamos encajar realmente los dos. Así que ya directamente imprimimos la pieza entera no solo el marco, metimos los lejos en el faro que al ser esta barrita en una pieza que daba encajada y perfecta y sujeta por una enitura en el borde. Pero claro.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "que tengo un coche que nunca me ha gustado por detrás, cuando lo veía en los videojuegos"
+    },
+    {
+      "start": 2.84,
+      "end": 3.84,
+      "text": "de que, ¡jueque feo!"
+    },
+    {
+      "start": 3.84,
+      "end": 5.92,
+      "text": "Pero iba también que al final me lo termine comprando."
+    },
+    {
+      "start": 5.92,
+      "end": 9.24,
+      "text": "He ido restaurándolo poco a poco, le he cambiado el motor, la suspensión, la llanta,"
+    },
+    {
+      "start": 9.24,
+      "end": 11.88,
+      "text": "se le interior todo, pero la parte de atrás sigue siendo fea."
+    },
+    {
+      "start": 11.88,
+      "end": 15.24,
+      "text": "Y aunque vi que para este coche había kits que conviaban toda la carrocería y lo volvían"
+    },
+    {
+      "start": 15.24,
+      "end": 18.76,
+      "text": "como si fuese una copia de un super deportivo carísimo, siempre me ha dado la sensación"
+    },
+    {
+      "start": 18.76,
+      "end": 21.56,
+      "text": "de que vas aparentando tener un coche que no te puedes permitir."
+    },
+    {
+      "start": 21.56,
+      "end": 25.44,
+      "text": "Y era una pena cambiar todo el coche cuando realmente todo me gustabas algo la parte trasera."
+    },
+    {
+      "start": 25.44,
+      "end": 28.64,
+      "text": "Y un día circulando por la autopista se me encendió la bombilla, porque vi que los pilotros"
+    },
+    {
+      "start": 28.64,
+      "end": 31.8,
+      "text": "traseros del de adelante, un camión era bastante chulos."
+    },
+    {
+      "start": 31.8,
+      "end": 35.24,
+      "text": "Pensé que fue un camión tan feo y tan viejo con intermitentes dinámicos, si él lo ha"
+    },
+    {
+      "start": 35.24,
+      "end": 36.92,
+      "text": "podido hacer, pues yo también."
+    },
+    {
+      "start": 36.92,
+      "end": 40.6,
+      "text": "Y viendo que mi coche tenía unos pilotros traseros tan grandes y va a quedar mal, entonces"
+    },
+    {
+      "start": 40.6,
+      "end": 44.2,
+      "text": "digo, ¿y si convierto el faro en una regilla de ventilación?"
+    },
+    {
+      "start": 44.2,
+      "end": 47.64,
+      "text": "Mi idea era hacer algo como el Audi R8 que tiene como un hueco gigante detrás para meter"
+    },
+    {
+      "start": 47.64,
+      "end": 50.28,
+      "text": "un faro muy grande, pero la mitad o más es regilla."
+    },
+    {
+      "start": 50.28,
+      "end": 54.52,
+      "text": "Y casualmente este coche tiene la misma disposición, el motor atrás y las tomas de aire laterales."
+    },
+    {
+      "start": 54.52,
+      "end": 57.24,
+      "text": "Entonces el meterse el aire por ahí, se quedaba como encerrado, pero al ponerle estas"
+    },
+    {
+      "start": 57.24,
+      "end": 61.44,
+      "text": "regillas, el motor va a refrigerar mucho mejor y quizás también sea algo más aerodinámico."
+    },
+    {
+      "start": 61.44,
+      "end": 64.0,
+      "text": "Así que no se lo iba a hacer postureo, iba a ser algo útil."
+    },
+    {
+      "start": 64.0,
+      "end": 67.28,
+      "text": "Y después de tener la idea más o menos formada en mi cabeza se la acondé a un amigo que"
+    },
+    {
+      "start": 67.28,
+      "end": 68.28,
+      "text": "es diseñador gráfico."
+    },
+    {
+      "start": 68.28,
+      "end": 73.16,
+      "text": "O sea, esas cosas que vese los anuncios, así digitales, superguapas, las hace gente, recreándolo"
+    },
+    {
+      "start": 73.16,
+      "end": 75.28,
+      "text": "por completo desde cero en un ordenador."
+    },
+    {
+      "start": 75.28,
+      "end": 78.84,
+      "text": "Entonces seguramente esto para él iba a ser fácil, porque no era hacer un anuncio entero,"
+    },
+    {
+      "start": 78.84,
+      "end": 79.84,
+      "text": "sino sólo una pieza."
+    },
+    {
+      "start": 79.84,
+      "end": 83.4,
+      "text": "Y creo que le resultó fácil porque a los 5 o 10 minutos ya tenía un boceto de lo que"
+    },
+    {
+      "start": 83.4,
+      "end": 87.36,
+      "text": "le había dicho y era espectacular, o sea ahora se lo faltaba hacerlo en 3D."
+    },
+    {
+      "start": 87.36,
+      "end": 90.08,
+      "text": "Para esto lo que hice fue primero conseguir las luces traseras de un tamaño que fue ya"
+    },
+    {
+      "start": 90.08,
+      "end": 94.48,
+      "text": "quedar bien y que tuviesen todas las luces incorporadas en la misma barritas, decir la deposición,"
+    },
+    {
+      "start": 94.48,
+      "end": 96.56,
+      "text": "la de freno, intermitente y marcha atrás."
+    },
+    {
+      "start": 96.56,
+      "end": 100.12,
+      "text": "Y no fue difícil encontrar unas como las que quería, pero si fue difícil encontrar unas que"
+    },
+    {
+      "start": 100.12,
+      "end": 101.64,
+      "text": "funcionas en a 12 voltios."
+    },
+    {
+      "start": 101.64,
+      "end": 106.08,
+      "text": "O sea, las primeras que compré no funcionaban y es porque iban a 24 voltios, porque los camiones"
+    },
+    {
+      "start": 106.08,
+      "end": 108.24,
+      "text": "tienen las luces a más voltaje que los coces."
+    },
+    {
+      "start": 108.24,
+      "end": 111.44,
+      "text": "Lo que hiciese eso sí para no tener que cortar ningún cable del coche fue comprar los conectores"
+    },
+    {
+      "start": 111.44,
+      "end": 115.24,
+      "text": "originales de Toyota y buscar con un multímetro cual era cada cable."
+    },
+    {
+      "start": 115.24,
+      "end": 119.4,
+      "text": "Luego directamente soldar ese conector a la barra del LED y ya conectarlo al coche y comprobar"
+    },
+    {
+      "start": 119.4,
+      "end": 120.4,
+      "text": "que funciona."
+    },
+    {
+      "start": 120.4,
+      "end": 121.4,
+      "text": "¡Uuuu!"
+    },
+    {
+      "start": 121.4,
+      "end": 125.2,
+      "text": "¡Puncione bien, tío!"
+    },
+    {
+      "start": 125.2,
+      "end": 128.88,
+      "text": "Viendo que todas las luces funcionaban, ahora lo que faltaba era diseñar el piloto trasero"
+    },
+    {
+      "start": 128.88,
+      "end": 131.04,
+      "text": "tipo regilla, o sea, donde poner esa barritas."
+    },
+    {
+      "start": 131.04,
+      "end": 134.4,
+      "text": "Y la dificultad no era el diseño porque era bastante sencillo, sino hacer que encaja"
+    },
+    {
+      "start": 134.4,
+      "end": 136.84,
+      "text": "perfectamente sin modificar el coche."
+    },
+    {
+      "start": 136.84,
+      "end": 140.4,
+      "text": "Para esto lo que hicimos en un principio fue utilizar una aplicación del móvil, porque no"
+    },
+    {
+      "start": 140.4,
+      "end": 144.12,
+      "text": "teníamos un escáner 3D y con esto más o menos podías hacer el apáño."
+    },
+    {
+      "start": 144.12,
+      "end": 147.96,
+      "text": "A base de hacer muchísimas fotos escaneabas un objeto en 3D."
+    },
+    {
+      "start": 147.96,
+      "end": 151.28,
+      "text": "El problema es que no era muy preciso, o sea, no iba a quedar al milímetro, entonces la"
+    },
+    {
+      "start": 151.28,
+      "end": 155.08,
+      "text": "solución era hacerlo mucho hasta que quedase bien, pero para no imprimir un faro entero"
+    },
+    {
+      "start": 155.08,
+      "end": 158.84,
+      "text": "que se oasta un montón de plástico en la empresa ahora, imprimiamos como el marco."
+    },
+    {
+      "start": 158.84,
+      "end": 162.84,
+      "text": "Hacíamos una pieza, la probábamos en el coche, veíamos que no encajaba por alguna zona"
+    },
+    {
+      "start": 162.84,
+      "end": 167.12,
+      "text": "y luego llevamos al ordenador y modificábamos esa zona un poquito y así tras 3 o 4 intentos"
+    },
+    {
+      "start": 167.12,
+      "end": 168.12,
+      "text": "acabo encajando."
+    },
+    {
+      "start": 168.12,
+      "end": 171.72,
+      "text": "La parte de buenas que estas piezas son simétricas es decir si tú consigues hacer una,"
+    },
+    {
+      "start": 171.72,
+      "end": 174.96,
+      "text": "la otra, la inviertes, le das la vuelta y ya tienes lo mismo."
+    },
+    {
+      "start": 174.96,
+      "end": 178.4,
+      "text": "Entonces, una vez conseguimos encajar uno de los faros ya podíamos encajar realmente"
+    },
+    {
+      "start": 178.4,
+      "end": 179.4,
+      "text": "los dos."
+    },
+    {
+      "start": 179.4,
+      "end": 182.44,
+      "text": "Así que ya directamente imprimimos la pieza entera no solo el marco, metimos los lejos en"
+    },
+    {
+      "start": 182.44,
+      "end": 186.96,
+      "text": "el faro que al ser esta barrita en una pieza que daba encajada y perfecta y sujeta por una"
+    },
+    {
+      "start": 186.96,
+      "end": 187.96,
+      "text": "enitura en el borde."
+    },
+    {
+      "start": 187.96,
+      "end": 188.16,
+      "text": "Pero claro."
+    }
+  ]
+}

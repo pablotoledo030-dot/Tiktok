@@ -1,0 +1,158 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 173.338375,
+  "text": "Si has escuchado via de voz, este nuevo modelo cambia todo lo que saco en vidio es impresionante. En vidio acaba de sacar Personaplex, es un modelo Open Source de código abierto que puede escuchar y hablar al mismo tiempo. Lo que es su significado y impacto tan grande que tiene es que se acaban las pausas incomodas en las voces de inteligencia artificial de los agentes. Esos significa que la latencia va a ser prácticamente inexistente, porque el modelo va actualizando su estado a media que va hablando y escuchando y reciendo información nueva. Es impresionante. Positorio del modelo en GitHub Personaplex, estuvimos toda la semana pasada entendiendo el paper y entendiendo muy bien confundiendo toda la arquitectura. Este modelo porque realmente lo cambia todo con esta arquitectura nueva. Aquí ya pueden ustedes descargarlo y ya les vamos a mostrar el momento el demo que montamos en la infraestructura de adaptas. Lo innovador de esto es que ya uno no tiene que hacer un Frankenstein para construir una gente de voz. Si uno construye una gente de voz, por ejemplo, en plataformas como Adaptapunto, ahí uno tiene que conectar tres modelos de inteligencia artificial. Uno que habla, uno que escucha y uno que convierte el texto que escuchó al texto que tiene que hablar y viceversa. Tiene que haber un LLM, un chat GPT, un cloud o algo de tras que interpreta y luego de la evolución. Eso genera una latencia alta generalmente. Los modelos más modernos como por ejemplo, el modelo Mochi que ya existía hace un par de años, acá van con ese problema porque se vuelven modelos que reciben audio y entregan audio, algo así como un speech to speech. En este caso el personaplex, una latencia impresionante, es increíble y ya les vamos a mostrar como funciona. Este modelo lo tenemos disponible en nuestra infraestructura como demo, aquí se puede seleccionar una voz y estamos trabajando muy fuerte para llevarlo a los agentes directamente porque esto va a cambiar absolutamente todo. Voy a darle conectar y la prueba la uncesión en inglés porque por ahora solo supo en inglés pero estamos trabajando para meterle español. Ok, let me know if you have any questions. Ya, ¿qué puede hacer? ¿Qué te puede hacer? Yo he trabajado en el software de la developer, la misma cosa, la misma cosa, la misma cosa. ¿Por qué te hace algo? Sí, también me hace una cosa de cosas que me hace. ¿Por qué te hace algo tan rápido? I stay focused, I cut down distractions, I break big tasks and the small things. Can you tell me something else? OK, here's something else, this guy is not actually blue, it looks blue because the atmosphere is scattered. Es absolutamente impresionante, esta cosa... Porque si se fijan no hay latencia, cuando uno hablando el mismo escuchando y ahora lo vendo la respuesta media que uno hablando, es impresionante. que acalibrarlo porque ya se vuelve un poquito incómodo y en muchos casos responde tan rápido que ya es como incómodo o que se siente raro. Entonces estamos trabajando en el fine tuning de esto. Es un modelo que está súper interesante, tiene 7 billones de parámetros ya están hogging phase, ya está desplegado en Geethop y ustedes pueden utilizarlo y pueden fine-tunearlo lo que quieran. Esto lo cambia todo. Déjenme en los comentarios que les parece este modelo en VAs y ya lo comenzaron a usar.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Si has escuchado via de voz, este nuevo modelo cambia todo lo que saco en vidio es impresionante."
+    },
+    {
+      "start": 4.72,
+      "end": 11.66,
+      "text": "En vidio acaba de sacar Personaplex, es un modelo Open Source de código abierto que puede escuchar y hablar al mismo tiempo."
+    },
+    {
+      "start": 11.66,
+      "end": 19.4,
+      "text": "Lo que es su significado y impacto tan grande que tiene es que se acaban las pausas incomodas en las voces de inteligencia artificial de los agentes."
+    },
+    {
+      "start": 19.4,
+      "end": 27.84,
+      "text": "Esos significa que la latencia va a ser prácticamente inexistente, porque el modelo va actualizando su estado a media que va hablando y escuchando y reciendo información nueva."
+    },
+    {
+      "start": 27.84,
+      "end": 35.44,
+      "text": "Es impresionante. Positorio del modelo en GitHub Personaplex, estuvimos toda la semana pasada entendiendo el paper y entendiendo muy bien confundiendo toda la arquitectura."
+    },
+    {
+      "start": 35.44,
+      "end": 43.9,
+      "text": "Este modelo porque realmente lo cambia todo con esta arquitectura nueva. Aquí ya pueden ustedes descargarlo y ya les vamos a mostrar el momento el demo que montamos en la infraestructura de adaptas."
+    },
+    {
+      "start": 43.9,
+      "end": 48.58,
+      "text": "Lo innovador de esto es que ya uno no tiene que hacer un Frankenstein para construir una gente de voz."
+    },
+    {
+      "start": 48.58,
+      "end": 54.68,
+      "text": "Si uno construye una gente de voz, por ejemplo, en plataformas como Adaptapunto, ahí uno tiene que conectar tres modelos de inteligencia artificial."
+    },
+    {
+      "start": 54.68,
+      "end": 61.12,
+      "text": "Uno que habla, uno que escucha y uno que convierte el texto que escuchó al texto que tiene que hablar y viceversa."
+    },
+    {
+      "start": 61.12,
+      "end": 66.64,
+      "text": "Tiene que haber un LLM, un chat GPT, un cloud o algo de tras que interpreta y luego de la evolución."
+    },
+    {
+      "start": 66.64,
+      "end": 71.0,
+      "text": "Eso genera una latencia alta generalmente."
+    },
+    {
+      "start": 71.12,
+      "end": 83.44,
+      "text": "Los modelos más modernos como por ejemplo, el modelo Mochi que ya existía hace un par de años, acá van con ese problema porque se vuelven modelos que reciben audio y entregan audio, algo así como un speech to speech."
+    },
+    {
+      "start": 83.44,
+      "end": 89.62,
+      "text": "En este caso el personaplex, una latencia impresionante, es increíble y ya les vamos a mostrar como funciona."
+    },
+    {
+      "start": 89.62,
+      "end": 98.52,
+      "text": "Este modelo lo tenemos disponible en nuestra infraestructura como demo, aquí se puede seleccionar una voz y estamos trabajando muy fuerte para llevarlo a los agentes directamente porque esto va a cambiar absolutamente todo."
+    },
+    {
+      "start": 98.52,
+      "end": 105.76,
+      "text": "Voy a darle conectar y la prueba la uncesión en inglés porque por ahora solo supo en inglés pero estamos trabajando para meterle español."
+    },
+    {
+      "start": 105.76,
+      "end": 108.08,
+      "text": "Ok, let me know if you have any questions."
+    },
+    {
+      "start": 108.08,
+      "end": 111.12,
+      "text": "Ya, ¿qué puede hacer? ¿Qué te puede hacer?"
+    },
+    {
+      "start": 111.12,
+      "end": 117.52,
+      "text": "Yo he trabajado en el software de la developer, la misma cosa, la misma cosa, la misma cosa. ¿Por qué te hace algo?"
+    },
+    {
+      "start": 117.52,
+      "end": 120.3,
+      "text": "Sí, también me hace una cosa de cosas que me hace."
+    },
+    {
+      "start": 120.3,
+      "end": 122.52,
+      "text": "¿Por qué te hace algo tan rápido?"
+    },
+    {
+      "start": 122.62,
+      "end": 126.76,
+      "text": "I stay focused, I cut down distractions, I break big tasks and the small things."
+    },
+    {
+      "start": 126.76,
+      "end": 128.52,
+      "text": "Can you tell me something else?"
+    },
+    {
+      "start": 128.52,
+      "end": 133.46,
+      "text": "OK, here's something else, this guy is not actually blue, it looks blue because the atmosphere is scattered."
+    },
+    {
+      "start": 133.46,
+      "end": 136.46,
+      "text": "Es absolutamente impresionante, esta cosa..."
+    },
+    {
+      "start": 136.46,
+      "end": 146.84,
+      "text": "Porque si se fijan no hay latencia, cuando uno hablando el mismo escuchando y ahora lo vendo la respuesta media que uno hablando, es impresionante."
+    },
+    {
+      "start": 146.84,
+      "end": 151.32,
+      "text": "que acalibrarlo porque ya se vuelve un poquito incómodo y en muchos casos responde tan rápido"
+    },
+    {
+      "start": 151.32,
+      "end": 156.32,
+      "text": "que ya es como incómodo o que se siente raro. Entonces estamos trabajando en el fine tuning de esto."
+    },
+    {
+      "start": 156.32,
+      "end": 161.16,
+      "text": "Es un modelo que está súper interesante, tiene 7 billones de parámetros ya están"
+    },
+    {
+      "start": 161.16,
+      "end": 166.92,
+      "text": "hogging phase, ya está desplegado en Geethop y ustedes pueden utilizarlo y pueden fine-tunearlo"
+    },
+    {
+      "start": 166.92,
+      "end": 173.24,
+      "text": "lo que quieran. Esto lo cambia todo. Déjenme en los comentarios que les parece este modelo en VAs y ya lo comenzaron a usar."
+    }
+  ]
+}
