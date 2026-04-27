@@ -1,0 +1,83 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 61.1395625,
+  "text": "Esto va a cambiar la manera en la que uso Cloud Code. Anthropic lanzó ultra plan y lo que hace es simple. El proceso de planeación abre en lugar de suceder en tu terminal, va a suceder en la nube. Este proceso va a correr en los servidores de Anthropic, tu terminal va a estar libre y en cuanto este este plan todos se puede decidir si lo abres en tu navegador y checarlo, editar si te gusta, correrlo ahí mismo o si lo decide regresar a tu terminal. Lo primero que vas a notar es que Cloud ya no va a estar pensando en tu terminal y tú no vas a estar esperando a que termine para poder seguir trabajando. Y en teoría porque Anthropic no ha dado numeros oficiales, el proceso se va a correr de manera más profunda en sus servidores. Eso significaría que tendrías menos y así vueltas tu conclobe en tu terminal y eso podrá producirse en menos por que es que nada se me ha pasado. Esto va a seguir avanzando como ha venido avanzando en las últimas semanas. Yo lo voy a estar usando y ranto te diré honestamente que es lo que pienso para que decías si va a ir a la pena a probarlo.",
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 3.47,
+      "text": "Esto va a cambiar la manera en la que uso Cloud Code."
+    },
+    {
+      "start": 3.47,
+      "end": 7.27,
+      "text": "Anthropic lanzó ultra plan y lo que hace es simple."
+    },
+    {
+      "start": 7.27,
+      "end": 12.19,
+      "text": "El proceso de planeación abre en lugar de suceder en tu terminal, va a suceder en la nube."
+    },
+    {
+      "start": 12.19,
+      "end": 16.43,
+      "text": "Este proceso va a correr en los servidores de Anthropic, tu terminal va a estar libre"
+    },
+    {
+      "start": 16.43,
+      "end": 20.23,
+      "text": "y en cuanto este este plan todos se puede decidir si lo abres en tu navegador"
+    },
+    {
+      "start": 20.23,
+      "end": 26.67,
+      "text": "y checarlo, editar si te gusta, correrlo ahí mismo o si lo decide regresar a tu terminal."
+    },
+    {
+      "start": 26.95,
+      "end": 31.23,
+      "text": "Lo primero que vas a notar es que Cloud ya no va a estar pensando en tu terminal"
+    },
+    {
+      "start": 31.23,
+      "end": 35.31,
+      "text": "y tú no vas a estar esperando a que termine para poder seguir trabajando."
+    },
+    {
+      "start": 35.31,
+      "end": 38.71,
+      "text": "Y en teoría porque Anthropic no ha dado numeros oficiales,"
+    },
+    {
+      "start": 38.71,
+      "end": 42.51,
+      "text": "el proceso se va a correr de manera más profunda en sus servidores."
+    },
+    {
+      "start": 42.51,
+      "end": 47.03,
+      "text": "Eso significaría que tendrías menos y así vueltas tu conclobe en tu terminal"
+    },
+    {
+      "start": 47.03,
+      "end": 51.51,
+      "text": "y eso podrá producirse en menos por que es que nada se me ha pasado."
+    },
+    {
+      "start": 51.51,
+      "end": 55.07,
+      "text": "Esto va a seguir avanzando como ha venido avanzando en las últimas semanas."
+    },
+    {
+      "start": 55.07,
+      "end": 59.11,
+      "text": "Yo lo voy a estar usando y ranto te diré honestamente que es lo que pienso"
+    },
+    {
+      "start": 59.11,
+      "end": 61.11,
+      "text": "para que decías si va a ir a la pena a probarlo."
+    }
+  ]
+}
