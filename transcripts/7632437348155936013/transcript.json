@@ -1,0 +1,263 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 152.6261875,
+  "text": "En las últimas 48 horas el mercado de inteligencia artificial se partió en dos y no lo digo metaboricamente Me está explicando Ayer OpenAI lanzó GPD 5.5 y al mismo tiempo sin decirlo muy fuerte Dublaron el precio de token de su modelo estándar comparado con el día de hace 2 mes Hoy viernes desde China dip se hizo la versión 4 Es open source, o sea, el gratis lo quiere coger por tu cuenta pero pagando cuesta 10 veces menos que OpenAI Bueno y antes de eso también salió Cuen y mínimas las versiones nuevos Estamos hablando de 5 lanzamientos Frontier en 2 semanas Ninguno está pretendiendo para llegar al contra OpenAI Pero aquí este asunto donde tienes que saber Es que la versión Pro de OpenAI cobra 180 dólares por cada millón de token que escribe Y la versión rápida del modelo China que acaba de salir hoy cuesta 28 centavos por el mismo millón de token Son 640 veces menos Y antes de que lo digas así es injusto comparar el modelo más caro de OpenAI con el más parato de Deepsea Pero esa es exactamente la decisión que tú tienes que tomar este mes Y aquí la parte de la red es que en los benchmarks de código de razonamiento Este modelo China que salió hoy le queda solamente unos puntos por debajo de GPT5.4 Que era el modelo de frontera hace 12 semanas atrás Y la misma que cobra un precio premium hace 2 meses La distancia técnica se se ropa esta semana En Syling, mientras todos solamente están hablando de los benchmarks de quien ganas quien la tiene más gran Esta semana no fue una competencia Estamos hablando de que el mercado se está fracturando Son dos mercados paralelos Uno en el que los modelos premium que cada 2 meses cuesta el doble Y el otro el Open Source que cada 2 meses cuesta en la mitad Y este bien es hoy a la fecha de grabar este video por primera vez Ya no importa tanto que el modelo suces para lo que lo usa Ok, hay algo que tengo que decir que si está pagando la ia másca Simplemente porque te la están recomendando No está pagando por capacidad Está pagando simplemente para financiar una mal O ser un fan pues Pero ojo, yo no quiero que con esto me malinterpreten El modelo de OpenAI caro es superior al Deepsea Estamos hablando de trabajos largos agénticos autónomos que corren por más de 4 horas seguidas en su pervisión De flujo agénticos complejos que tú no podrías mantener por ti mismo Pero para el 80% de lo que hace un negocio usando día Osea estamos hablando de reportes y monz de código no tan complejo resúmenes La diferencia acaba desaparecer Hay 3 cosas que yo te recomendaría hacer antes del lunes Si es hace una lista de todas esas automatizaciones que tú tienes en tu negocio Y piensa, necesito el modelo más caro para estas funciones 2. Proveva los modelos No te cuesta nada probar modelos como Minimax o Dixie Para ver si puedes incluirlo en tu flujo de trabajo No solo usar el último modelo de Antrópico El último modelo de OpenAI simplemente porque son los últimos que salieron 3. Proveja la ventana de este mes En mayo te aseguro que vuelvan a subir los precios Esto no va a bajar, esto es para griego",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "En las últimas 48 horas el mercado de inteligencia artificial se partió en dos y no lo digo metaboricamente"
+    },
+    {
+      "start": 4.6,
+      "end": 5.36,
+      "text": "Me está explicando"
+    },
+    {
+      "start": 5.36,
+      "end": 10.24,
+      "text": "Ayer OpenAI lanzó GPD 5.5 y al mismo tiempo sin decirlo muy fuerte"
+    },
+    {
+      "start": 10.24,
+      "end": 14.32,
+      "text": "Dublaron el precio de token de su modelo estándar comparado con el día de hace 2 mes"
+    },
+    {
+      "start": 14.32,
+      "end": 17.4,
+      "text": "Hoy viernes desde China dip se hizo la versión 4"
+    },
+    {
+      "start": 17.4,
+      "end": 22.24,
+      "text": "Es open source, o sea, el gratis lo quiere coger por tu cuenta pero pagando cuesta 10 veces menos que OpenAI"
+    },
+    {
+      "start": 22.24,
+      "end": 25.0,
+      "text": "Bueno y antes de eso también salió Cuen y mínimas las versiones nuevos"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Estamos hablando de 5 lanzamientos Frontier en 2 semanas"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Ninguno está pretendiendo para llegar al contra OpenAI"
+    },
+    {
+      "start": 30.0,
+      "end": 32.04,
+      "text": "Pero aquí este asunto donde tienes que saber"
+    },
+    {
+      "start": 32.04,
+      "end": 37.12,
+      "text": "Es que la versión Pro de OpenAI cobra 180 dólares por cada millón de token que escribe"
+    },
+    {
+      "start": 37.12,
+      "end": 43.0,
+      "text": "Y la versión rápida del modelo China que acaba de salir hoy cuesta 28 centavos por el mismo millón de token"
+    },
+    {
+      "start": 43.0,
+      "end": 45.04,
+      "text": "Son 640 veces menos"
+    },
+    {
+      "start": 45.04,
+      "end": 49.8,
+      "text": "Y antes de que lo digas así es injusto comparar el modelo más caro de OpenAI con el más parato de Deepsea"
+    },
+    {
+      "start": 49.8,
+      "end": 53.2,
+      "text": "Pero esa es exactamente la decisión que tú tienes que tomar este mes"
+    },
+    {
+      "start": 53.2,
+      "end": 56.8,
+      "text": "Y aquí la parte de la red es que en los benchmarks de código de razonamiento"
+    },
+    {
+      "start": 56.8,
+      "end": 62.2,
+      "text": "Este modelo China que salió hoy le queda solamente unos puntos por debajo de GPT5.4"
+    },
+    {
+      "start": 62.2,
+      "end": 64.64,
+      "text": "Que era el modelo de frontera hace 12 semanas atrás"
+    },
+    {
+      "start": 64.64,
+      "end": 67.52,
+      "text": "Y la misma que cobra un precio premium hace 2 meses"
+    },
+    {
+      "start": 67.52,
+      "end": 70.12,
+      "text": "La distancia técnica se se ropa esta semana"
+    },
+    {
+      "start": 70.12,
+      "end": 74.28,
+      "text": "En Syling, mientras todos solamente están hablando de los benchmarks de quien ganas quien la tiene más gran"
+    },
+    {
+      "start": 74.28,
+      "end": 75.88,
+      "text": "Esta semana no fue una competencia"
+    },
+    {
+      "start": 75.88,
+      "end": 77.96,
+      "text": "Estamos hablando de que el mercado se está fracturando"
+    },
+    {
+      "start": 77.96,
+      "end": 79.36,
+      "text": "Son dos mercados paralelos"
+    },
+    {
+      "start": 79.36,
+      "end": 82.88,
+      "text": "Uno en el que los modelos premium que cada 2 meses cuesta el doble"
+    },
+    {
+      "start": 82.88,
+      "end": 86.16,
+      "text": "Y el otro el Open Source que cada 2 meses cuesta en la mitad"
+    },
+    {
+      "start": 86.32,
+      "end": 89.36,
+      "text": "Y este bien es hoy a la fecha de grabar este video por primera vez"
+    },
+    {
+      "start": 89.36,
+      "end": 92.32,
+      "text": "Ya no importa tanto que el modelo suces para lo que lo usa"
+    },
+    {
+      "start": 92.32,
+      "end": 94.72,
+      "text": "Ok, hay algo que tengo que decir que si está pagando la ia másca"
+    },
+    {
+      "start": 94.72,
+      "end": 96.32,
+      "text": "Simplemente porque te la están recomendando"
+    },
+    {
+      "start": 96.32,
+      "end": 97.4,
+      "text": "No está pagando por capacidad"
+    },
+    {
+      "start": 97.4,
+      "end": 99.12,
+      "text": "Está pagando simplemente para financiar una mal"
+    },
+    {
+      "start": 99.12,
+      "end": 99.72,
+      "text": "O ser un fan pues"
+    },
+    {
+      "start": 99.72,
+      "end": 102.16,
+      "text": "Pero ojo, yo no quiero que con esto me malinterpreten"
+    },
+    {
+      "start": 102.16,
+      "end": 106.6,
+      "text": "El modelo de OpenAI caro es superior al Deepsea"
+    },
+    {
+      "start": 106.6,
+      "end": 111.72,
+      "text": "Estamos hablando de trabajos largos agénticos autónomos que corren por más de 4 horas seguidas en su pervisión"
+    },
+    {
+      "start": 111.72,
+      "end": 114.6,
+      "text": "De flujo agénticos complejos que tú no podrías mantener por ti mismo"
+    },
+    {
+      "start": 114.6,
+      "end": 117.88,
+      "text": "Pero para el 80% de lo que hace un negocio usando día"
+    },
+    {
+      "start": 117.88,
+      "end": 122.36,
+      "text": "Osea estamos hablando de reportes y monz de código no tan complejo resúmenes"
+    },
+    {
+      "start": 122.36,
+      "end": 124.12,
+      "text": "La diferencia acaba desaparecer"
+    },
+    {
+      "start": 124.12,
+      "end": 127.04,
+      "text": "Hay 3 cosas que yo te recomendaría hacer antes del lunes"
+    },
+    {
+      "start": 127.04,
+      "end": 130.76,
+      "text": "Si es hace una lista de todas esas automatizaciones que tú tienes en tu negocio"
+    },
+    {
+      "start": 130.76,
+      "end": 134.4,
+      "text": "Y piensa, necesito el modelo más caro para estas funciones"
+    },
+    {
+      "start": 134.4,
+      "end": 135.68,
+      "text": "2. Proveva los modelos"
+    },
+    {
+      "start": 135.68,
+      "end": 138.44,
+      "text": "No te cuesta nada probar modelos como Minimax o Dixie"
+    },
+    {
+      "start": 138.44,
+      "end": 141.04,
+      "text": "Para ver si puedes incluirlo en tu flujo de trabajo"
+    },
+    {
+      "start": 141.04,
+      "end": 143.36,
+      "text": "No solo usar el último modelo de Antrópico"
+    },
+    {
+      "start": 143.36,
+      "end": 146.48,
+      "text": "El último modelo de OpenAI simplemente porque son los últimos que salieron"
+    },
+    {
+      "start": 146.48,
+      "end": 148.28,
+      "text": "3. Proveja la ventana de este mes"
+    },
+    {
+      "start": 148.28,
+      "end": 150.48,
+      "text": "En mayo te aseguro que vuelvan a subir los precios"
+    },
+    {
+      "start": 150.48,
+      "end": 152.6,
+      "text": "Esto no va a bajar, esto es para griego"
+    }
+  ]
+}

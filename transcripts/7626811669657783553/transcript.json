@@ -1,0 +1,108 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 48.2756875,
+  "text": "Este era el sistema de gestión de un equipo comercial, funcional, pero difícil leer. Lo redicené con un principio simple, que cada ejecutivo vea exactamente lo que le corresponde. Aquí está el enin, por ejemplo. Al abrir su sección, ves solo su agenda de la semana, sus pendientes activos, sus promociones y su portafolio. Cuatro vistas, una por cada base de datos, todas filtradas por él. Y el jefe de la agencia tiene este panel. Ve el avance de todos, sin entrar a cada base por separado. Un buen workspace no sé que tiene más datos, es aquel que el equipo entiende y usa todos los días. Si necesitas ayuda para construir y mejorar tu espacio en noshom, enviemos un mensaje, que lo trabajamos juntos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Este era el sistema de gestión de un equipo comercial,"
+    },
+    {
+      "start": 2.88,
+      "end": 5.72,
+      "text": "funcional, pero difícil leer."
+    },
+    {
+      "start": 5.72,
+      "end": 8.12,
+      "text": "Lo redicené con un principio simple,"
+    },
+    {
+      "start": 8.12,
+      "end": 12.52,
+      "text": "que cada ejecutivo vea exactamente lo que le corresponde."
+    },
+    {
+      "start": 12.52,
+      "end": 14.32,
+      "text": "Aquí está el enin, por ejemplo."
+    },
+    {
+      "start": 14.32,
+      "end": 15.68,
+      "text": "Al abrir su sección,"
+    },
+    {
+      "start": 15.68,
+      "end": 17.76,
+      "text": "ves solo su agenda de la semana,"
+    },
+    {
+      "start": 17.76,
+      "end": 19.52,
+      "text": "sus pendientes activos,"
+    },
+    {
+      "start": 19.52,
+      "end": 22.16,
+      "text": "sus promociones y su portafolio."
+    },
+    {
+      "start": 22.16,
+      "end": 23.4,
+      "text": "Cuatro vistas,"
+    },
+    {
+      "start": 23.4,
+      "end": 25.4,
+      "text": "una por cada base de datos,"
+    },
+    {
+      "start": 25.4,
+      "end": 27.56,
+      "text": "todas filtradas por él."
+    },
+    {
+      "start": 27.76,
+      "end": 30.2,
+      "text": "Y el jefe de la agencia tiene este panel."
+    },
+    {
+      "start": 30.2,
+      "end": 31.96,
+      "text": "Ve el avance de todos,"
+    },
+    {
+      "start": 31.96,
+      "end": 35.04,
+      "text": "sin entrar a cada base por separado."
+    },
+    {
+      "start": 35.04,
+      "end": 37.84,
+      "text": "Un buen workspace no sé que tiene más datos,"
+    },
+    {
+      "start": 37.84,
+      "end": 41.64,
+      "text": "es aquel que el equipo entiende y usa todos los días."
+    },
+    {
+      "start": 41.64,
+      "end": 45.4,
+      "text": "Si necesitas ayuda para construir y mejorar tu espacio en noshom,"
+    },
+    {
+      "start": 45.4,
+      "end": 46.76,
+      "text": "enviemos un mensaje,"
+    },
+    {
+      "start": 46.76,
+      "end": 48.24,
+      "text": "que lo trabajamos juntos."
+    }
+  ]
+}
