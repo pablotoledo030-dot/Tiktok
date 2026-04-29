@@ -1,0 +1,408 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 183.88025,
+  "text": "Hola, acá estoy haciendo obligaciones de ella con ella. Ya terminé a hacer si, ya era un orden anterior, terminé a hacer la que estaba construyendo y aquí vienen unos protips para trabajar, que elito llevaría un vaincoder, no está haciendo. Mucha gente que hace vaincod se esmera en ir construyendo todo el mismo tiempo. Aquí los desarrolladores saben a quién me refiero, en un desarrollador separado por capas. Si han escuchado en internet cuando hay gente hablando de vaincod, y codificación y programación, habla del front, el back, en las haps y... Allí todas esas son capas, en otro vídeo lo vamos a tratar porque es otro tema. Mi consejo para que trabajen, no traten de hacer todo el mismo tiempo, no traten de que funcione y sea bonito, solo traten de que funcione. Cuando uno trabaja con equipos, que estrenes de equipos de desarrollo mucho tiempo, cuando uno trabaja con equipos, todo eso se separa, ya por temas de gestión, por temas de que es mucho más cara enfrentar todo junto, es más difícil para equipos de persona, pero las máquinas no, para las máquinas no se le hace difícil. Así que consejo, primera encarguense de que funcione. Mi aplicación, que dice, en una sola página, yo construí una sola página, que tenía todas las funcionalidades de mi aplicación hacia abajo. Si ningún problema no me enfoque en que fuese bonito, no me enfoque en que tuve ese bien distribuido nada. Después que funcionó todo, y lo revisé, se los flujo, los siglos y lo que quieran, después hice algo que se le llama refactualización, que es tomar tu código y volver a hacerlo. Entre comillas, reparar todo lo que dejaste para después. En este caso, yo dije todo lo que es visual para después. Así que una vez que ya todo funcionaba, simplemente me puse a trabajar con Cloud, con Cloud, con la versión con el LLM, con el Dechateo, para poder hacer una buena instrucción de refactualización. Se la pasea Code, y Code se puso a refactualizar, demoró su resto, todo que era está uno, diez minutos refactualizando, pero cuando terminó, terminó justo lo que yo necesitaba. Después, me empezó a hacer un par de ajustes más, que quedaban por aquí, por allá, y terminé. Si hubiese decidido aceptar el mismo tiempo, me meto en un entuerto donde es mucho de estar metidos. Así que el consejo es, primero que funcionen. Si pueden hacerlo todo hacia abajo, hagan lo todo hacia abajo su aplicación, pero primero que funcione. Después refactorizan la capa vista, o sea, después refactorizan toda la apariencia, por el Lucasfilm, la difícil, la palabra. Después se refactoriza, o sea, se vuelva a codificar, se vuelva a ser toda la parte de la apariencia y después se se empaquen a ajuste. ¿Cuánto gasté dos sesiones de Cloud Code? En dos sesiones saqué la aplicación completa, y después en un cachido más en refactorizar y ajustes menores? Prácticamente todo salió a la primera, no interesa mucho, que es un gran problema que hoy día existe con el Vivo Code, y este es uno de los métodos que me permite no hidratar. Podría ir soltando más métodos. Use como tres, cuatro métodos que me permitieron ahorrar muchísimo todo quiéns, y terrar muy poco y sacar una aplicación prácticamente a la primera. Así que piensan así. Primero que funcione, luego que se vea bonito.",
+  "segments": [
+    {
+      "start": 0.53,
+      "end": 4.21,
+      "text": "Hola, acá estoy haciendo obligaciones de ella con ella."
+    },
+    {
+      "start": 4.21,
+      "end": 6.61,
+      "text": "Ya terminé a hacer si, ya era un orden anterior,"
+    },
+    {
+      "start": 6.61,
+      "end": 8.33,
+      "text": "terminé a hacer la que estaba construyendo"
+    },
+    {
+      "start": 8.33,
+      "end": 10.93,
+      "text": "y aquí vienen unos protips para trabajar,"
+    },
+    {
+      "start": 10.93,
+      "end": 13.65,
+      "text": "que elito llevaría un vaincoder, no está haciendo."
+    },
+    {
+      "start": 14.49,
+      "end": 18.77,
+      "text": "Mucha gente que hace vaincod se esmera en ir construyendo"
+    },
+    {
+      "start": 18.77,
+      "end": 20.37,
+      "text": "todo el mismo tiempo."
+    },
+    {
+      "start": 20.37,
+      "end": 22.37,
+      "text": "Aquí los desarrolladores saben a quién me refiero,"
+    },
+    {
+      "start": 22.37,
+      "end": 24.69,
+      "text": "en un desarrollador separado por capas."
+    },
+    {
+      "start": 24.69,
+      "end": 28.21,
+      "text": "Si han escuchado en internet cuando hay gente hablando de vaincod,"
+    },
+    {
+      "start": 28.21,
+      "end": 30.53,
+      "text": "y codificación y programación,"
+    },
+    {
+      "start": 30.53,
+      "end": 33.41,
+      "text": "habla del front, el back, en las haps y..."
+    },
+    {
+      "start": 33.41,
+      "end": 35.57,
+      "text": "Allí todas esas son capas, en otro vídeo lo vamos a tratar"
+    },
+    {
+      "start": 35.57,
+      "end": 36.77,
+      "text": "porque es otro tema."
+    },
+    {
+      "start": 37.89,
+      "end": 40.69,
+      "text": "Mi consejo para que trabajen, no traten de hacer todo el mismo tiempo,"
+    },
+    {
+      "start": 40.69,
+      "end": 43.13,
+      "text": "no traten de que funcione y sea bonito,"
+    },
+    {
+      "start": 43.13,
+      "end": 44.97,
+      "text": "solo traten de que funcione."
+    },
+    {
+      "start": 44.97,
+      "end": 46.65,
+      "text": "Cuando uno trabaja con equipos,"
+    },
+    {
+      "start": 46.65,
+      "end": 48.77,
+      "text": "que estrenes de equipos de desarrollo mucho tiempo,"
+    },
+    {
+      "start": 48.77,
+      "end": 49.81,
+      "text": "cuando uno trabaja con equipos,"
+    },
+    {
+      "start": 49.81,
+      "end": 51.09,
+      "text": "todo eso se separa,"
+    },
+    {
+      "start": 51.09,
+      "end": 54.77,
+      "text": "ya por temas de gestión, por temas de que es mucho más cara"
+    },
+    {
+      "start": 54.77,
+      "end": 58.09,
+      "text": "enfrentar todo junto, es más difícil para equipos de persona,"
+    },
+    {
+      "start": 58.09,
+      "end": 59.09,
+      "text": "pero las máquinas no,"
+    },
+    {
+      "start": 59.09,
+      "end": 60.65,
+      "text": "para las máquinas no se le hace difícil."
+    },
+    {
+      "start": 60.65,
+      "end": 63.45,
+      "text": "Así que consejo, primera encarguense de que funcione."
+    },
+    {
+      "start": 63.45,
+      "end": 66.25,
+      "text": "Mi aplicación, que dice,"
+    },
+    {
+      "start": 66.25,
+      "end": 68.69,
+      "text": "en una sola página, yo construí una sola página,"
+    },
+    {
+      "start": 68.69,
+      "end": 71.81,
+      "text": "que tenía todas las funcionalidades de mi aplicación"
+    },
+    {
+      "start": 71.81,
+      "end": 73.33,
+      "text": "hacia abajo."
+    },
+    {
+      "start": 73.33,
+      "end": 76.29,
+      "text": "Si ningún problema no me enfoque en que fuese bonito,"
+    },
+    {
+      "start": 76.29,
+      "end": 79.77,
+      "text": "no me enfoque en que tuve ese bien distribuido nada."
+    },
+    {
+      "start": 79.77,
+      "end": 81.13,
+      "text": "Después que funcionó todo,"
+    },
+    {
+      "start": 81.13,
+      "end": 82.13,
+      "text": "y lo revisé,"
+    },
+    {
+      "start": 82.13,
+      "end": 84.29,
+      "text": "se los flujo, los siglos y lo que quieran,"
+    },
+    {
+      "start": 84.29,
+      "end": 86.69,
+      "text": "después hice algo que se le llama refactualización,"
+    },
+    {
+      "start": 86.69,
+      "end": 89.97,
+      "text": "que es tomar tu código y volver a hacerlo."
+    },
+    {
+      "start": 89.97,
+      "end": 91.09,
+      "text": "Entre comillas,"
+    },
+    {
+      "start": 91.09,
+      "end": 93.81,
+      "text": "reparar todo lo que dejaste para después."
+    },
+    {
+      "start": 93.81,
+      "end": 97.49,
+      "text": "En este caso, yo dije todo lo que es visual para después."
+    },
+    {
+      "start": 97.49,
+      "end": 99.09,
+      "text": "Así que una vez que ya todo funcionaba,"
+    },
+    {
+      "start": 99.09,
+      "end": 101.25,
+      "text": "simplemente me puse a trabajar con Cloud,"
+    },
+    {
+      "start": 101.25,
+      "end": 105.29,
+      "text": "con Cloud, con la versión con el LLM, con el Dechateo,"
+    },
+    {
+      "start": 105.29,
+      "end": 107.89,
+      "text": "para poder hacer una buena instrucción de refactualización."
+    },
+    {
+      "start": 107.89,
+      "end": 109.37,
+      "text": "Se la pasea Code,"
+    },
+    {
+      "start": 109.37,
+      "end": 110.73,
+      "text": "y Code se puso a refactualizar,"
+    },
+    {
+      "start": 110.73,
+      "end": 111.73,
+      "text": "demoró su resto,"
+    },
+    {
+      "start": 111.73,
+      "end": 113.21,
+      "text": "todo que era está uno,"
+    },
+    {
+      "start": 113.21,
+      "end": 115.33,
+      "text": "diez minutos refactualizando,"
+    },
+    {
+      "start": 115.33,
+      "end": 118.37,
+      "text": "pero cuando terminó, terminó justo lo que yo necesitaba."
+    },
+    {
+      "start": 118.37,
+      "end": 121.53,
+      "text": "Después, me empezó a hacer un par de ajustes más,"
+    },
+    {
+      "start": 121.53,
+      "end": 124.17,
+      "text": "que quedaban por aquí, por allá, y terminé."
+    },
+    {
+      "start": 124.17,
+      "end": 126.61,
+      "text": "Si hubiese decidido aceptar el mismo tiempo,"
+    },
+    {
+      "start": 126.61,
+      "end": 129.45,
+      "text": "me meto en un entuerto donde es mucho de estar metidos."
+    },
+    {
+      "start": 129.45,
+      "end": 131.93,
+      "text": "Así que el consejo es, primero que funcionen."
+    },
+    {
+      "start": 131.93,
+      "end": 133.21,
+      "text": "Si pueden hacerlo todo hacia abajo,"
+    },
+    {
+      "start": 133.21,
+      "end": 134.89,
+      "text": "hagan lo todo hacia abajo su aplicación,"
+    },
+    {
+      "start": 134.89,
+      "end": 136.37,
+      "text": "pero primero que funcione."
+    },
+    {
+      "start": 136.37,
+      "end": 138.09,
+      "text": "Después refactorizan la capa vista,"
+    },
+    {
+      "start": 138.09,
+      "end": 139.77,
+      "text": "o sea, después refactorizan toda la apariencia,"
+    },
+    {
+      "start": 139.77,
+      "end": 142.45,
+      "text": "por el Lucasfilm,"
+    },
+    {
+      "start": 142.45,
+      "end": 144.37,
+      "text": "la difícil, la palabra."
+    },
+    {
+      "start": 144.37,
+      "end": 146.29,
+      "text": "Después se refactoriza, o sea,"
+    },
+    {
+      "start": 146.29,
+      "end": 148.17,
+      "text": "se vuelva a codificar, se vuelva a ser toda la parte"
+    },
+    {
+      "start": 148.17,
+      "end": 150.73,
+      "text": "de la apariencia y después se se empaquen a ajuste."
+    },
+    {
+      "start": 150.73,
+      "end": 154.49,
+      "text": "¿Cuánto gasté dos sesiones de Cloud Code?"
+    },
+    {
+      "start": 154.49,
+      "end": 156.77,
+      "text": "En dos sesiones saqué la aplicación completa,"
+    },
+    {
+      "start": 156.77,
+      "end": 159.05,
+      "text": "y después en un cachido más en refactorizar"
+    },
+    {
+      "start": 159.05,
+      "end": 161.17,
+      "text": "y ajustes menores?"
+    },
+    {
+      "start": 161.17,
+      "end": 163.21,
+      "text": "Prácticamente todo salió a la primera,"
+    },
+    {
+      "start": 163.21,
+      "end": 164.69,
+      "text": "no interesa mucho,"
+    },
+    {
+      "start": 164.69,
+      "end": 166.93,
+      "text": "que es un gran problema que hoy día existe con el Vivo Code,"
+    },
+    {
+      "start": 166.93,
+      "end": 169.45,
+      "text": "y este es uno de los métodos que me permite no hidratar."
+    },
+    {
+      "start": 169.45,
+      "end": 171.25,
+      "text": "Podría ir soltando más métodos."
+    },
+    {
+      "start": 171.25,
+      "end": 172.69,
+      "text": "Use como tres, cuatro métodos"
+    },
+    {
+      "start": 172.69,
+      "end": 175.13,
+      "text": "que me permitieron ahorrar muchísimo todo quiéns,"
+    },
+    {
+      "start": 175.13,
+      "end": 178.93,
+      "text": "y terrar muy poco y sacar una aplicación prácticamente a la primera."
+    },
+    {
+      "start": 178.93,
+      "end": 180.45,
+      "text": "Así que piensan así."
+    },
+    {
+      "start": 180.45,
+      "end": 181.93,
+      "text": "Primero que funcione,"
+    },
+    {
+      "start": 181.93,
+      "end": 183.93,
+      "text": "luego que se vea bonito."
+    }
+  ]
+}
