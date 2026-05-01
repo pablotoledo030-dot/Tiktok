@@ -1,0 +1,23 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 15.674875,
+  "text": "¿Sabías que si clickas botón derecho a inspeccionar y pulsas control shift IP, al abrir este buscador, escribes screenshot y le das esta opción full size screenshot, te descargaré en una sola imagen toda la información al completo de esa web, si quieres más mini trucos informáticos, siguenos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "¿Sabías que si clickas botón derecho a inspeccionar y pulsas control shift IP, al abrir este buscador,"
+    },
+    {
+      "start": 5.56,
+      "end": 13.0,
+      "text": "escribes screenshot y le das esta opción full size screenshot, te descargaré en una sola imagen toda la información al completo de esa web,"
+    },
+    {
+      "start": 13.0,
+      "end": 15.5,
+      "text": "si quieres más mini trucos informáticos, siguenos."
+    }
+  ]
+}

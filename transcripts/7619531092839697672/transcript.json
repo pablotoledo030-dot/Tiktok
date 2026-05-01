@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 16.3715,
+  "text": "Páginas que no entiendo por qué nadie conoce, parte 66. Esta página es buenísima por si quieres perfeccionarte inglés porque puedes aprender cómo se usa una frase en un contexto real. Escribes una frase y te salen clips de películas donde están diciendo exactamente esa frase. Te la dejo en los comentarios.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Páginas que no entiendo por qué nadie conoce, parte 66."
+    },
+    {
+      "start": 3.86,
+      "end": 7.98,
+      "text": "Esta página es buenísima por si quieres perfeccionarte inglés porque puedes aprender cómo"
+    },
+    {
+      "start": 7.98,
+      "end": 10.3,
+      "text": "se usa una frase en un contexto real."
+    },
+    {
+      "start": 10.3,
+      "end": 15.24,
+      "text": "Escribes una frase y te salen clips de películas donde están diciendo exactamente esa frase."
+    },
+    {
+      "start": 15.24,
+      "end": 16.34,
+      "text": "Te la dejo en los comentarios."
+    }
+  ]
+}
