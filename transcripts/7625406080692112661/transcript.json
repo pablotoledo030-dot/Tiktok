@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 31.836,
+  "text": "Esta es la única skill de cloud que vas a necesitar de aquí en adelante. Se llama skill creator y literalmente le dice a Cloud como crear otras skills. Lo mejor es que está basado en esta ya de 30 páginas de cloud sobre las mejores prácticas para crear skill efectivas. Y si no sabes que es una skill, básicamente es una habilidad empaquetada en forma de texto que le damos a Cloud. O sea que si tu sabes hacer algo literal con este skill creator, tu puedes convertirlo en un fragmento de texto, se lo da a Cloud y pones a correr tu negocio en pilota automático. Si tú quieres aprender a usar Cloud de manera profesional, aunque estás principiante, sigue me igual de este video.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Esta es la única skill de cloud que vas a necesitar de aquí en adelante."
+    },
+    {
+      "start": 3.04,
+      "end": 7.28,
+      "text": "Se llama skill creator y literalmente le dice a Cloud como crear otras skills."
+    },
+    {
+      "start": 7.28,
+      "end": 10.04,
+      "text": "Lo mejor es que está basado en esta ya de 30 páginas de cloud"
+    },
+    {
+      "start": 10.04,
+      "end": 12.76,
+      "text": "sobre las mejores prácticas para crear skill efectivas."
+    },
+    {
+      "start": 12.76,
+      "end": 15.96,
+      "text": "Y si no sabes que es una skill, básicamente es una habilidad empaquetada"
+    },
+    {
+      "start": 15.96,
+      "end": 17.8,
+      "text": "en forma de texto que le damos a Cloud."
+    },
+    {
+      "start": 17.8,
+      "end": 20.8,
+      "text": "O sea que si tu sabes hacer algo literal con este skill creator,"
+    },
+    {
+      "start": 20.8,
+      "end": 22.8,
+      "text": "tu puedes convertirlo en un fragmento de texto,"
+    },
+    {
+      "start": 22.8,
+      "end": 26.2,
+      "text": "se lo da a Cloud y pones a correr tu negocio en pilota automático."
+    },
+    {
+      "start": 26.2,
+      "end": 28.84,
+      "text": "Si tú quieres aprender a usar Cloud de manera profesional,"
+    },
+    {
+      "start": 28.84,
+      "end": 31.28,
+      "text": "aunque estás principiante, sigue me igual de este video."
+    }
+  ]
+}
