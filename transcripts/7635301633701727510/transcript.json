@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 16.6036875,
+  "text": "Páginas buen poderosas parte 581. Sabías que si vas a esta página podrás explorar una tabla periódica interactiva. Simplemente selecciona cualquier elemento para ver su modelo en 3D con todos los detalles. También incluye un laboratorio virtual que podrás usar sin registrarte. Espero que te haya gustado.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "Páginas buen poderosas parte 581. Sabías que si vas a esta página podrás explorar una tabla"
+    },
+    {
+      "start": 5.44,
+      "end": 10.44,
+      "text": "periódica interactiva. Simplemente selecciona cualquier elemento para ver su modelo en 3D con todos"
+    },
+    {
+      "start": 10.44,
+      "end": 15.6,
+      "text": "los detalles. También incluye un laboratorio virtual que podrás usar sin registrarte. Espero que te"
+    },
+    {
+      "start": 15.6,
+      "end": 16.16,
+      "text": "haya gustado."
+    }
+  ]
+}
