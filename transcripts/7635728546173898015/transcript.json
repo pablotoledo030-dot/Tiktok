@@ -1,0 +1,193 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 123.18325,
+  "text": "El CEO de Nvidia dijo que todos piensan que la guerra de la inteligencia artificial se define según los modelos, pero que en realidad es una torta de cinco pisos y tiene razón. Cada uno es más importante que el anterior. Veamos, pisos cinco, las aplicaciones. Esta es la capa donde la inteligencia artificial toca la vida real, herramientas a medida afinadas específicamente para oficios. Por ejemplo, Harvey, para los estudios jurídicos o para la antir para el pentágono. Piso cuatro, los modelos. Acá está el espectóculo mediático, GPD, Cloud, Deepseek, Gwen. Es una pelea igualada por diseño, porque todos están escalando en la misma familia de técnicas, leyendo los mismos papers. Y copiándose sin ningún tipo de pudor. Mucho ruido y poco diferencial. Piso tres, la nube. Cada vez que las es una pregunta, chat GPD, tu pedido, cruza de los sean o aterrisa en un galpón gigante, en virgina o en oragon, rebotan edificios de servidores tan grandes como estadios de fútbol y vuelven. A eso le llamamos la nube. Se evento electricidad y está faltando. Hay proyectos enteros cayendo en Estados Unidos porque no consiguen ni la corriente ni el equipo industrial para encenderlos. Piso dos, los chips. Este es el coye de botellas físicos del planeta que pasa por tres empresas. En Vida, en California, que los diseña. TSMC, en Taiwan, que lo fabrica y a SML en Holanda, que hace las máquinas con las que TSMC fabrica. Por eso es el piso más caliente de la geopolítica. Estados Unidos lleva años cortando la China el acceso a las máquinas y los chips más avanzados. Piso uno, la energía. Acá se abre la grita más grande. En el 2025, China agregó más de 430 gb, mientras Estados Unidos solamente 63. Se te ves es menos. Por eso, Samalman viene repitiendo que el coye de botella real no son los chips ni los modelos. Son los electrones. La revolución industrial no la ganaron solo los mejores ingenieros, sino también el país que tenía más carbón para generar energía. La historia no se repite pero rima. Y nos vemos en el teatro para hablar sobre la historia y la tecnología junto con Felipe Piña. Va a ser una noche increíble. Te espero el 9 de junio, el teatro astro de Buenos Aires. Porque el futuro tiene memoria.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "El CEO de Nvidia dijo que todos piensan que la guerra de la inteligencia artificial"
+    },
+    {
+      "start": 4.52,
+      "end": 10.48,
+      "text": "se define según los modelos, pero que en realidad es una torta de cinco pisos y tiene razón."
+    },
+    {
+      "start": 10.48,
+      "end": 12.5,
+      "text": "Cada uno es más importante que el anterior."
+    },
+    {
+      "start": 12.5,
+      "end": 15.1,
+      "text": "Veamos, pisos cinco, las aplicaciones."
+    },
+    {
+      "start": 15.1,
+      "end": 18.0,
+      "text": "Esta es la capa donde la inteligencia artificial toca la vida real,"
+    },
+    {
+      "start": 18.0,
+      "end": 21.68,
+      "text": "herramientas a medida afinadas específicamente para oficios."
+    },
+    {
+      "start": 21.68,
+      "end": 25.38,
+      "text": "Por ejemplo, Harvey, para los estudios jurídicos o para la antir para el pentágono."
+    },
+    {
+      "start": 25.38,
+      "end": 27.12,
+      "text": "Piso cuatro, los modelos."
+    },
+    {
+      "start": 27.12,
+      "end": 31.52,
+      "text": "Acá está el espectóculo mediático, GPD, Cloud, Deepseek, Gwen."
+    },
+    {
+      "start": 31.52,
+      "end": 38.42,
+      "text": "Es una pelea igualada por diseño, porque todos están escalando en la misma familia de técnicas, leyendo los mismos papers."
+    },
+    {
+      "start": 38.42,
+      "end": 40.28,
+      "text": "Y copiándose sin ningún tipo de pudor."
+    },
+    {
+      "start": 40.28,
+      "end": 42.08,
+      "text": "Mucho ruido y poco diferencial."
+    },
+    {
+      "start": 42.08,
+      "end": 43.68,
+      "text": "Piso tres, la nube."
+    },
+    {
+      "start": 43.68,
+      "end": 50.8,
+      "text": "Cada vez que las es una pregunta, chat GPD, tu pedido, cruza de los sean o aterrisa en un galpón gigante, en virgina o en oragon,"
+    },
+    {
+      "start": 50.8,
+      "end": 54.86,
+      "text": "rebotan edificios de servidores tan grandes como estadios de fútbol y vuelven."
+    },
+    {
+      "start": 54.86,
+      "end": 56.58,
+      "text": "A eso le llamamos la nube."
+    },
+    {
+      "start": 56.58,
+      "end": 59.18,
+      "text": "Se evento electricidad y está faltando."
+    },
+    {
+      "start": 59.18,
+      "end": 65.38,
+      "text": "Hay proyectos enteros cayendo en Estados Unidos porque no consiguen ni la corriente ni el equipo industrial para encenderlos."
+    },
+    {
+      "start": 65.38,
+      "end": 66.88,
+      "text": "Piso dos, los chips."
+    },
+    {
+      "start": 66.88,
+      "end": 70.42,
+      "text": "Este es el coye de botellas físicos del planeta que pasa por tres empresas."
+    },
+    {
+      "start": 70.42,
+      "end": 72.52,
+      "text": "En Vida, en California, que los diseña."
+    },
+    {
+      "start": 72.52,
+      "end": 79.12,
+      "text": "TSMC, en Taiwan, que lo fabrica y a SML en Holanda, que hace las máquinas con las que TSMC fabrica."
+    },
+    {
+      "start": 79.12,
+      "end": 82.02,
+      "text": "Por eso es el piso más caliente de la geopolítica."
+    },
+    {
+      "start": 82.04,
+      "end": 87.28,
+      "text": "Estados Unidos lleva años cortando la China el acceso a las máquinas y los chips más avanzados."
+    },
+    {
+      "start": 87.28,
+      "end": 88.88,
+      "text": "Piso uno, la energía."
+    },
+    {
+      "start": 88.88,
+      "end": 90.76,
+      "text": "Acá se abre la grita más grande."
+    },
+    {
+      "start": 90.76,
+      "end": 96.6,
+      "text": "En el 2025, China agregó más de 430 gb, mientras Estados Unidos solamente 63."
+    },
+    {
+      "start": 96.6,
+      "end": 97.6,
+      "text": "Se te ves es menos."
+    },
+    {
+      "start": 97.6,
+      "end": 102.28,
+      "text": "Por eso, Samalman viene repitiendo que el coye de botella real no son los chips ni los modelos."
+    },
+    {
+      "start": 102.28,
+      "end": 103.56,
+      "text": "Son los electrones."
+    },
+    {
+      "start": 103.56,
+      "end": 106.96,
+      "text": "La revolución industrial no la ganaron solo los mejores ingenieros,"
+    },
+    {
+      "start": 106.96,
+      "end": 110.2,
+      "text": "sino también el país que tenía más carbón para generar energía."
+    },
+    {
+      "start": 110.2,
+      "end": 112.62,
+      "text": "La historia no se repite pero rima."
+    },
+    {
+      "start": 112.62,
+      "end": 116.8,
+      "text": "Y nos vemos en el teatro para hablar sobre la historia y la tecnología junto con Felipe Piña."
+    },
+    {
+      "start": 116.8,
+      "end": 118.64,
+      "text": "Va a ser una noche increíble."
+    },
+    {
+      "start": 118.64,
+      "end": 121.54,
+      "text": "Te espero el 9 de junio, el teatro astro de Buenos Aires."
+    },
+    {
+      "start": 121.54,
+      "end": 123.14,
+      "text": "Porque el futuro tiene memoria."
+    }
+  ]
+}
