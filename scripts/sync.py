@@ -116,12 +116,46 @@ def rclone_upload(local_dir: Path, remote_subdir: str) -> None:
 
 def write_repo_transcript(item: dict, work_dir: Path, video_path: Path,
                           txt_path: Path, json_path: Path) -> Path:
-    """Copia .txt + .json + metadata.json a transcripts/<id>/ del repo."""
+    """Copia .txt + .json + metadata.json a transcripts/<id>/ del repo.
+
+    El transcript.txt lleva un encabezado con URL del video, autor,
+    fecha y descripción para que sea autocontenido (puedes leerlo y
+    saltar al video original sin abrir nada más)."""
     vid = item["id"]
     repo_dir = TRANSCRIPTS_DIR / vid
     repo_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(txt_path, repo_dir / "transcript.txt")
+
+    body = txt_path.read_text(encoding="utf-8")
+
+    create_time = item.get("create_time")
+    fecha_video = "desconocida"
+    if create_time:
+        try:
+            fecha_video = datetime.fromtimestamp(
+                int(create_time), tz=timezone.utc
+            ).isoformat()
+        except (TypeError, ValueError):
+            pass
+
+    header_lines = [
+        f"URL:         {item['url']}",
+        f"Autor:       @{item.get('author') or '?'}",
+        f"Fecha video: {fecha_video}",
+    ]
+    duration = item.get("duration")
+    if duration:
+        header_lines.append(f"Duración:    {duration}s")
+    header_lines.append(
+        f"Procesado:   {datetime.now(timezone.utc).isoformat()}"
+    )
+    desc = (item.get("desc") or "").strip()
+    if desc:
+        header_lines.append(f"Descripción: {desc}")
+    header = "\n".join(header_lines) + "\n\n---\n\n"
+
+    (repo_dir / "transcript.txt").write_text(header + body, encoding="utf-8")
     shutil.copy2(json_path, repo_dir / "transcript.json")
+
     metadata = {
         **item,
         "video_file": video_path.name,
