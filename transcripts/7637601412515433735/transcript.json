@@ -1,0 +1,83 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 74.4678125,
+  "text": "Bueno, lo que acabo de hacer con Cloud es prácticamente una locura Para que se le una idea, muchos saben que ya se viene el hot sale Y bueno, yo quería hacer como una comparativa de que tan rentable se me hace hacer un 2x1 en mi página web Por lo tanto, que hice diseñé con Cloud prácticamente un analizador que es para ver que tan rentable estoy diciendo con esa promoción Así que, miren, les voy a mostrar un poquito de Dashboard que tiene esto Para que se le una idea, ahora pongo el producto, este caso se des un libro, si lo crees lo creas Me hace todas las combinaciones Y acá podemos ver lo que tiene el límite, en este caso si lo crees no está el límite con ninguno Pero si lo saco, ahí podemos ver todos los productos que están al límite Y bueno, si quiero ver los que están en Perdias, o sea si la gente combina el 2x1 con estos libros y diría Perdias Pero bueno, esto en el peor de los casos Lo que hizo el analizador fue hacer todas las combinaciones posibles, que son 9.591 Y bueno, en 9.599 rentable, en 7 estrellas límites y en 79 estrellas en Perdias Así que bueno, si queréis que te comparte el analizador, comentar hotse y te lo voy a estar mandando privado",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Bueno, lo que acabo de hacer con Cloud es prácticamente una locura"
+    },
+    {
+      "start": 3.5,
+      "end": 6.0,
+      "text": "Para que se le una idea, muchos saben que ya se viene el hot sale"
+    },
+    {
+      "start": 6.0,
+      "end": 13.5,
+      "text": "Y bueno, yo quería hacer como una comparativa de que tan rentable se me hace hacer un 2x1 en mi página web"
+    },
+    {
+      "start": 13.5,
+      "end": 16.0,
+      "text": "Por lo tanto, que hice diseñé con Cloud"
+    },
+    {
+      "start": 16.0,
+      "end": 21.5,
+      "text": "prácticamente un analizador que es para ver que tan rentable estoy diciendo con esa promoción"
+    },
+    {
+      "start": 21.5,
+      "end": 27.0,
+      "text": "Así que, miren, les voy a mostrar un poquito de Dashboard que tiene esto"
+    },
+    {
+      "start": 27.5,
+      "end": 33.5,
+      "text": "Para que se le una idea, ahora pongo el producto, este caso se des un libro, si lo crees lo creas"
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "Me hace todas las combinaciones"
+    },
+    {
+      "start": 35.5,
+      "end": 40.5,
+      "text": "Y acá podemos ver lo que tiene el límite, en este caso si lo crees no está el límite con ninguno"
+    },
+    {
+      "start": 40.5,
+      "end": 45.0,
+      "text": "Pero si lo saco, ahí podemos ver todos los productos que están al límite"
+    },
+    {
+      "start": 45.0,
+      "end": 52.5,
+      "text": "Y bueno, si quiero ver los que están en Perdias, o sea si la gente combina el 2x1 con estos libros y diría Perdias"
+    },
+    {
+      "start": 52.5,
+      "end": 55.0,
+      "text": "Pero bueno, esto en el peor de los casos"
+    },
+    {
+      "start": 55.5,
+      "end": 62.0,
+      "text": "Lo que hizo el analizador fue hacer todas las combinaciones posibles, que son 9.591"
+    },
+    {
+      "start": 62.0,
+      "end": 68.5,
+      "text": "Y bueno, en 9.599 rentable, en 7 estrellas límites y en 79 estrellas en Perdias"
+    },
+    {
+      "start": 68.5,
+      "end": 74.5,
+      "text": "Así que bueno, si queréis que te comparte el analizador, comentar hotse y te lo voy a estar mandando privado"
+    }
+  ]
+}
