@@ -1,0 +1,58 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 41.588375,
+  "text": "El propio equipo de Cloud Code ha dejado de pedirle al modelo el resultado en texto plano y dicen que es la diferencia entre leerse un plan de 200 líneas o pasar de él. Lo que están haciendo es pedirle HTML, una página, no un texto plano. El mismo carbati lo respaldo la semana pasada con un tweet. Mírla diferencia, mismo plano, mismo contenido, a la izquierda, no troles y a la derecha, sí. Y no es solo planes. Te están haciendo sandboxes con sliders para tu tener animaciones en vivo. Tableros para reordenar tickets adaptándolos a columnas y planes de implementación, con timelines y mockups en línea, funcionan con un prompt muy cortito al final de tus peticiones. Tienes una miniguía en el enlace de mi biografía.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "El propio equipo de Cloud Code ha dejado de pedirle al modelo el resultado en texto plano"
+    },
+    {
+      "start": 4.72,
+      "end": 9.68,
+      "text": "y dicen que es la diferencia entre leerse un plan de 200 líneas o pasar de él."
+    },
+    {
+      "start": 9.68,
+      "end": 14.44,
+      "text": "Lo que están haciendo es pedirle HTML, una página, no un texto plano."
+    },
+    {
+      "start": 14.44,
+      "end": 17.68,
+      "text": "El mismo carbati lo respaldo la semana pasada con un tweet."
+    },
+    {
+      "start": 17.68,
+      "end": 23.56,
+      "text": "Mírla diferencia, mismo plano, mismo contenido, a la izquierda, no troles y a la derecha, sí."
+    },
+    {
+      "start": 23.56,
+      "end": 24.72,
+      "text": "Y no es solo planes."
+    },
+    {
+      "start": 24.72,
+      "end": 28.48,
+      "text": "Te están haciendo sandboxes con sliders para tu tener animaciones en vivo."
+    },
+    {
+      "start": 28.48,
+      "end": 33.4,
+      "text": "Tableros para reordenar tickets adaptándolos a columnas y planes de implementación,"
+    },
+    {
+      "start": 33.4,
+      "end": 38.84,
+      "text": "con timelines y mockups en línea, funcionan con un prompt muy cortito al final de tus peticiones."
+    },
+    {
+      "start": 38.84,
+      "end": 41.52,
+      "text": "Tienes una miniguía en el enlace de mi biografía."
+    }
+  ]
+}
