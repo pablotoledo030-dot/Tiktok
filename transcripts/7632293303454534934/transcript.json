@@ -1,0 +1,148 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 126.5269375,
+  "text": "Llevo semanas preguntándole lo mismo a Cloud Code al final de cada sesión. Algo un paso de esta sesión podría haberse optimizado con skills o con agentes. Lo he probé en diferentes proyectos, diferentes sesiones durante semanas. Y la respuesta siempre fue no. Entonces le pedí que me explicara cuando si tenía sentido y cuando no. Y lo que me dijo no es lo que se suele ver en internet. Skills para PlayGuard, VTest o librería de este estilo genéricas. Casi siempre es redundante. Cloud ya tiene ese conocimiento y una skill solo añade fricción. Skills de tu proyecto solo se es una receta mecánica repetida al menos cinco veces. Y que se olvida fácil. Si esta receta cambia dependiendo del contexto tampoco compensa. Agentes separados, solo si el trabajo es genuinamente paralelo. Y los contextos son independientes. Si necesitas el resultado de un paso para decidir el siguiente, el coste de coordinación es mayor que el beneficio. Así es que la regla cola que me quedé es si el nombre de la skill es de una herramienta pública, es redundante. Si el nombre es específico a tu proyecto, tu equipo, tus convecciones, puede tener sentido. Y de nuevo se vuelva a cumplir el patrón. La mayoría instala skills y agentes como si fueran niños, comiendo chuches. Esto es lo que se ve constantemente en internet sin control, sin preguntarse si es necesario y sin preguntárselo a CloudCode. ¿Por qué? Porque lo ven en internet, porque todos lo hacen y ya sabemos cómo termina eso. Tengo una newsletter donde comparto habitualmente sentido común relacionado con el desarrollo de software. Te puedes suscribir desde el link de mi perfil.",
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 4.97,
+      "text": "Llevo semanas preguntándole lo mismo a Cloud Code al final de cada sesión."
+    },
+    {
+      "start": 4.97,
+      "end": 10.77,
+      "text": "Algo un paso de esta sesión podría haberse optimizado con skills o con agentes."
+    },
+    {
+      "start": 11.41,
+      "end": 16.45,
+      "text": "Lo he probé en diferentes proyectos, diferentes sesiones durante semanas."
+    },
+    {
+      "start": 16.45,
+      "end": 21.03,
+      "text": "Y la respuesta siempre fue no."
+    },
+    {
+      "start": 21.03,
+      "end": 24.63,
+      "text": "Entonces le pedí que me explicara cuando si tenía sentido y cuando no."
+    },
+    {
+      "start": 24.63,
+      "end": 28.79,
+      "text": "Y lo que me dijo no es lo que se suele ver en internet."
+    },
+    {
+      "start": 29.19,
+      "end": 34.51,
+      "text": "Skills para PlayGuard, VTest o librería de este estilo genéricas."
+    },
+    {
+      "start": 34.51,
+      "end": 36.75,
+      "text": "Casi siempre es redundante."
+    },
+    {
+      "start": 36.75,
+      "end": 40.99,
+      "text": "Cloud ya tiene ese conocimiento y una skill solo añade fricción."
+    },
+    {
+      "start": 42.19,
+      "end": 48.55,
+      "text": "Skills de tu proyecto solo se es una receta mecánica repetida al menos cinco veces."
+    },
+    {
+      "start": 49.55,
+      "end": 50.87,
+      "text": "Y que se olvida fácil."
+    },
+    {
+      "start": 50.87,
+      "end": 55.07,
+      "text": "Si esta receta cambia dependiendo del contexto tampoco compensa."
+    },
+    {
+      "start": 56.03,
+      "end": 60.95,
+      "text": "Agentes separados, solo si el trabajo es genuinamente paralelo."
+    },
+    {
+      "start": 60.95,
+      "end": 63.43,
+      "text": "Y los contextos son independientes."
+    },
+    {
+      "start": 63.43,
+      "end": 67.95,
+      "text": "Si necesitas el resultado de un paso para decidir el siguiente,"
+    },
+    {
+      "start": 67.95,
+      "end": 72.15,
+      "text": "el coste de coordinación es mayor que el beneficio."
+    },
+    {
+      "start": 72.99,
+      "end": 78.47,
+      "text": "Así es que la regla cola que me quedé es si el nombre de la skill es de una herramienta pública,"
+    },
+    {
+      "start": 78.47,
+      "end": 80.35,
+      "text": "es redundante."
+    },
+    {
+      "start": 80.35,
+      "end": 84.51,
+      "text": "Si el nombre es específico a tu proyecto, tu equipo, tus convecciones,"
+    },
+    {
+      "start": 84.67,
+      "end": 86.07,
+      "text": "puede tener sentido."
+    },
+    {
+      "start": 86.07,
+      "end": 90.55,
+      "text": "Y de nuevo se vuelva a cumplir el patrón."
+    },
+    {
+      "start": 90.55,
+      "end": 96.43,
+      "text": "La mayoría instala skills y agentes como si fueran niños, comiendo chuches."
+    },
+    {
+      "start": 96.43,
+      "end": 99.67,
+      "text": "Esto es lo que se ve constantemente en internet sin control,"
+    },
+    {
+      "start": 99.67,
+      "end": 103.99,
+      "text": "sin preguntarse si es necesario y sin preguntárselo a CloudCode."
+    },
+    {
+      "start": 103.99,
+      "end": 104.99,
+      "text": "¿Por qué?"
+    },
+    {
+      "start": 104.99,
+      "end": 110.35,
+      "text": "Porque lo ven en internet, porque todos lo hacen y ya sabemos cómo termina eso."
+    },
+    {
+      "start": 110.35,
+      "end": 117.23,
+      "text": "Tengo una newsletter donde comparto habitualmente sentido común relacionado con el desarrollo de software."
+    },
+    {
+      "start": 117.23,
+      "end": 119.63,
+      "text": "Te puedes suscribir desde el link de mi perfil."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 158.8026875,
+  "text": "En los últimos 7 días, Chinabajue el precio de las mejores intelencias artificiales 6 veces. Estas son las 5 noticias de intelencia artificial más importantes de la semana. Deep Cyclance of V4 su nuevo modelo de frontera que compete directamente con los últimos Opus 4.7 y el GPT 5.4, incluso el nuevo de OpenEY. 1.6 billones de parámetros ventan al contexto de 1.000 millones tokens, que es lo mejor que tienen los mejores modelos hoy en día. Y en los benchmarks comparativo en performance con los otros modelos de frontera de este momento se compara bastante bien, incluso en algunos está superando Opus 4.7. Lo mejor, el precio, un sexto, en precio por millón de tokens que lo que tiene Opus OpenEY. Google anunció que va a invertir hasta 40.000 millones de dólares en Antrópica, la primera inversión va a ser 10.000 millones y 30.000 instan sujetos a cumplimientos metas por parte Antrópica. Google aquí hemos saqué la mejor estrategia de todos, está verticalmente integrado, tiene sus propres chips, tiene modelos, tiene su capa de aplicación y tiene inversiones las mejores empresas del mundo, desde SpaceX hasta ahora Antrópica, un gran pedazo de la empresa de desproperidad de Google. Mucho teía a la empresa china creadora de los modelos Kimi anunció Kimi K2.6 y ese modelo es brutal porque tiene 256.000 tokens en su ventana de contexto, pero no solo eso, sino que está especialmente diseñado para agentes autónomos, tiene capacidad de coordinar hasta 300 subagentes autónomos en paralelo y puede estar ejecutando tareas de forma autónoma por hasta 12 horas seguidas sin supervisión humana. Una de las cosas que mencionan en el lanzamiento es que refactorizó un motor financiero de 8 años y subió el trupe de tokens por según 285%. Esto que nos quiere decir que es capaz de navegar tareas extremadamente complejas como refactorizando el código de un software por sí mismo sin supervisión humana y esa la era de los angelos autónomos, entre los chinos van fuerte aquí. En ella hay lanzó GPD 5.5 y ojo que es de NOVA en Chad GPD. Este es el primer anuncio desde prácticamente el GPD 3 que no está ligado a Chad GPD, que significa que van por el Enterprise, se haron sacar mucha ventaja de Antropic y ahora GPD 5.5 está 100% enfocado en los agentes autónomos y en mejores capacidades para codex que es el producto competidor de Cloud Code. En los benchmarks determina el benchmark y otros benchmarks o comparativos de desarrollo de software, codex le fue bastante bien comparado con nosotros modelos, entonces vamos a ver qué pasa y siempre se da el precio por todo que es mucha gente se va a migrar a codex. La quinta noticia está en el link en mi perfil, así que vayan a el link en mi perfil, si todavía no me siguen sigan para más inteligencia artificial y suscríbanse al newsletter esta semana en ella donde les mando a su correo las 5 noticias más importantes de día de la semana. Buenas semanas, chao.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "En los últimos 7 días, Chinabajue el precio de las mejores intelencias artificiales 6 veces."
+    },
+    {
+      "start": 5.0,
+      "end": 8.5,
+      "text": "Estas son las 5 noticias de intelencia artificial más importantes de la semana."
+    },
+    {
+      "start": 8.5,
+      "end": 13.5,
+      "text": "Deep Cyclance of V4 su nuevo modelo de frontera que compete directamente con los últimos"
+    },
+    {
+      "start": 13.5,
+      "end": 18.0,
+      "text": "Opus 4.7 y el GPT 5.4, incluso el nuevo de OpenEY."
+    },
+    {
+      "start": 18.0,
+      "end": 22.56,
+      "text": "1.6 billones de parámetros ventan al contexto de 1.000 millones tokens, que es lo mejor que"
+    },
+    {
+      "start": 22.56,
+      "end": 24.4,
+      "text": "tienen los mejores modelos hoy en día."
+    },
+    {
+      "start": 24.4,
+      "end": 28.68,
+      "text": "Y en los benchmarks comparativo en performance con los otros modelos de frontera de este"
+    },
+    {
+      "start": 28.68,
+      "end": 33.68,
+      "text": "momento se compara bastante bien, incluso en algunos está superando Opus 4.7."
+    },
+    {
+      "start": 33.68,
+      "end": 40.68,
+      "text": "Lo mejor, el precio, un sexto, en precio por millón de tokens que lo que tiene Opus OpenEY."
+    },
+    {
+      "start": 40.68,
+      "end": 45.16,
+      "text": "Google anunció que va a invertir hasta 40.000 millones de dólares en Antrópica, la primera"
+    },
+    {
+      "start": 45.16,
+      "end": 49.3,
+      "text": "inversión va a ser 10.000 millones y 30.000 instan sujetos a cumplimientos metas por parte"
+    },
+    {
+      "start": 49.3,
+      "end": 50.3,
+      "text": "Antrópica."
+    },
+    {
+      "start": 50.3,
+      "end": 53.66,
+      "text": "Google aquí hemos saqué la mejor estrategia de todos, está verticalmente integrado, tiene sus"
+    },
+    {
+      "start": 53.66,
+      "end": 57.68,
+      "text": "propres chips, tiene modelos, tiene su capa de aplicación y tiene inversiones las mejores"
+    },
+    {
+      "start": 57.68,
+      "end": 61.68,
+      "text": "empresas del mundo, desde SpaceX hasta ahora Antrópica, un gran pedazo de la empresa"
+    },
+    {
+      "start": 61.68,
+      "end": 62.92,
+      "text": "de desproperidad de Google."
+    },
+    {
+      "start": 62.92,
+      "end": 68.76,
+      "text": "Mucho teía a la empresa china creadora de los modelos Kimi anunció Kimi K2.6 y ese"
+    },
+    {
+      "start": 68.76,
+      "end": 75.04,
+      "text": "modelo es brutal porque tiene 256.000 tokens en su ventana de contexto, pero no solo eso,"
+    },
+    {
+      "start": 75.04,
+      "end": 79.38,
+      "text": "sino que está especialmente diseñado para agentes autónomos, tiene capacidad de coordinar"
+    },
+    {
+      "start": 79.38,
+      "end": 84.52,
+      "text": "hasta 300 subagentes autónomos en paralelo y puede estar ejecutando tareas de forma"
+    },
+    {
+      "start": 84.52,
+      "end": 88.36,
+      "text": "autónoma por hasta 12 horas seguidas sin supervisión humana."
+    },
+    {
+      "start": 88.36,
+      "end": 92.04,
+      "text": "Una de las cosas que mencionan en el lanzamiento es que refactorizó un motor financiero de"
+    },
+    {
+      "start": 92.04,
+      "end": 97.92,
+      "text": "8 años y subió el trupe de tokens por según 285%."
+    },
+    {
+      "start": 97.92,
+      "end": 102.16,
+      "text": "Esto que nos quiere decir que es capaz de navegar tareas extremadamente complejas como"
+    },
+    {
+      "start": 102.16,
+      "end": 106.48,
+      "text": "refactorizando el código de un software por sí mismo sin supervisión humana y esa"
+    },
+    {
+      "start": 106.48,
+      "end": 109.48,
+      "text": "la era de los angelos autónomos, entre los chinos van fuerte aquí."
+    },
+    {
+      "start": 109.48,
+      "end": 114.68,
+      "text": "En ella hay lanzó GPD 5.5 y ojo que es de NOVA en Chad GPD."
+    },
+    {
+      "start": 114.68,
+      "end": 120.28,
+      "text": "Este es el primer anuncio desde prácticamente el GPD 3 que no está ligado a Chad GPD,"
+    },
+    {
+      "start": 120.28,
+      "end": 124.56,
+      "text": "que significa que van por el Enterprise, se haron sacar mucha ventaja de Antropic y ahora"
+    },
+    {
+      "start": 124.56,
+      "end": 129.76,
+      "text": "GPD 5.5 está 100% enfocado en los agentes autónomos y en mejores capacidades para codex"
+    },
+    {
+      "start": 129.76,
+      "end": 133.08,
+      "text": "que es el producto competidor de Cloud Code."
+    },
+    {
+      "start": 133.08,
+      "end": 138.04,
+      "text": "En los benchmarks determina el benchmark y otros benchmarks o comparativos de desarrollo"
+    },
+    {
+      "start": 138.04,
+      "end": 141.64,
+      "text": "de software, codex le fue bastante bien comparado con nosotros modelos, entonces vamos a"
+    },
+    {
+      "start": 141.64,
+      "end": 146.72,
+      "text": "ver qué pasa y siempre se da el precio por todo que es mucha gente se va a migrar a codex."
+    },
+    {
+      "start": 146.72,
+      "end": 150.12,
+      "text": "La quinta noticia está en el link en mi perfil, así que vayan a el link en mi perfil,"
+    },
+    {
+      "start": 150.12,
+      "end": 153.6,
+      "text": "si todavía no me siguen sigan para más inteligencia artificial y suscríbanse al newsletter"
+    },
+    {
+      "start": 153.6,
+      "end": 157.24,
+      "text": "esta semana en ella donde les mando a su correo las 5 noticias más importantes de día de"
+    },
+    {
+      "start": 157.24,
+      "end": 158.24,
+      "text": "la semana."
+    },
+    {
+      "start": 158.24,
+      "end": 158.6,
+      "text": "Buenas semanas, chao."
+    }
+  ]
+}

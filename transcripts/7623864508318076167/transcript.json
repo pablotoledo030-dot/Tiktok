@@ -1,0 +1,193 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 177.70375,
+  "text": "Para los que me sien el link de Inhabran visto que en la última semana multipliquen muchísimo mi frecuencia de posteos y todo tiene que ver con TikTok y se enclaucó una automatización que lee lo que voy a subir en TikTok, interpreta el video, solo el video, lo traduce a texto, le agrega hashtags y me lo sube automático. Te muestro en tres pasos, súper simple como dice, vamos. Primero paso, divelopers.link.com, acaban entrar y van a crear la aplicación. Les va a dar un, es un solo y toquen lo cargan acá en una terminal, ponen a carregar a Cloud, lo ponen con el bypass permission, si alguno quiere ese atajo o me lo pide y le dicen que quieren que cada vez que sube en un video una carpeta, les genere un texto para LinkedIn. Yo me fui un poquito más y también lo subí para YouTube Shorts y también lo hice para Zarthak, en Zarthak no estoy posteando hoy, pero sí automatice el posteo en YouTube Shorts. Le pueden amizar cada vez que haya un video nuevo como yo hago porque de esa forma el hijo que video se sube o lo pueda, lo pueden automatizar y cada vez que hay un video nuevo lo de texto y lo hace. Y ahora te muestro cómo funciona. Acá tengo todos los videos y yo la rastro una carpeta, si yo la rastro un video, para la carpeta, videos a esta carpeta de videos dentro del proyecto. De Cloud y acá le digo nuevo video, nuevo video, ahí va a interpretar que tengo un nuevo video. Vean, es el video que si bien no es el más nuevo porque es el 033, acá 033, ese sí. Una cosa que también le conecta un modelo de un Anthropic para que interprete lo que dice el video, pero bueno lo hacen en dos patadas. Ahí lo interpreta y me va a dar las tres opciones. Y acá luego de nuevo video me dice, ok, este es el post para LinkedIn, este es el post para YouTube Shorts y este es el post para Zarthak y después me dice, link lo crees con video, solo texto, esto lo fui puliendo yo con el tiempo. A probar el contenido ajustamos algo, si ajustó algo, lo larga y lo ajusta y lo subimos y si no ajusto, no hace nada. Hagamos lo, subamos lo, vamos. Entonces le digo solo texto de link y YouTube Shorts, ok, vamos apretamos, enter, acá ya tengo el bypass para que no me consuma tanto pedido de sí, sí, sí, sí, sí, porque si no estoy 400 horas, desde que le puse que sí, ya está acá, el texto se procesaba muchísimo más rápido, hoy ya había hecho uno con video, nada, estoy espaminando el link game, tengo 1,200 tokens en 5 minutos, blah, blah, blah, todo lo que me decía, la idea aquí va a subir y vamos a dar YouTube Shorts, a ver si dice proceso. Acá ya me dice lo que ya estaba, me dice el link game, blah, blah, y acá me dice, acá todo que no me parece, vamos a darle F5, todo que no me parece, pero bueno, la URL me la dejó acá, así quiero comprar, vamos acá, seguimos, este video vamos a estar procesando, pero bueno, ya va a salir de dentro de un poquito, y acá está como se está procesando aún, esto sirve obviamente para automatizar muchísimo tareas repetitivas que no requieren mucho valor agregado, no tienen mucho valor agregado y que te facilitan la vida, a mí me facilita muchísimo tiempo por hoy ya.",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 6.34,
+      "text": "Para los que me sien el link de Inhabran visto que en la última semana multipliquen muchísimo mi frecuencia de posteos y todo"
+    },
+    {
+      "start": 6.34,
+      "end": 11.66,
+      "text": "tiene que ver con TikTok y se enclaucó una automatización que lee lo que voy a subir en TikTok,"
+    },
+    {
+      "start": 11.66,
+      "end": 17.26,
+      "text": "interpreta el video, solo el video, lo traduce a texto, le agrega hashtags y me lo sube automático."
+    },
+    {
+      "start": 17.26,
+      "end": 20.82,
+      "text": "Te muestro en tres pasos, súper simple como dice, vamos."
+    },
+    {
+      "start": 20.82,
+      "end": 25.78,
+      "text": "Primero paso, divelopers.link.com, acaban entrar y van a crear la aplicación."
+    },
+    {
+      "start": 25.78,
+      "end": 31.18,
+      "text": "Les va a dar un, es un solo y toquen lo cargan acá en una terminal, ponen a carregar a Cloud,"
+    },
+    {
+      "start": 31.18,
+      "end": 36.34,
+      "text": "lo ponen con el bypass permission, si alguno quiere ese atajo o me lo pide y le dicen que quieren"
+    },
+    {
+      "start": 36.34,
+      "end": 41.02,
+      "text": "que cada vez que sube en un video una carpeta, les genere un texto para LinkedIn."
+    },
+    {
+      "start": 41.02,
+      "end": 45.18,
+      "text": "Yo me fui un poquito más y también lo subí para YouTube Shorts y también lo hice para"
+    },
+    {
+      "start": 45.18,
+      "end": 50.9,
+      "text": "Zarthak, en Zarthak no estoy posteando hoy, pero sí automatice el posteo en YouTube Shorts."
+    },
+    {
+      "start": 50.9,
+      "end": 56.1,
+      "text": "Le pueden amizar cada vez que haya un video nuevo como yo hago porque de esa forma el hijo que"
+    },
+    {
+      "start": 56.1,
+      "end": 60.46,
+      "text": "video se sube o lo pueda, lo pueden automatizar y cada vez que hay un video nuevo lo de texto y lo hace."
+    },
+    {
+      "start": 60.46,
+      "end": 61.82,
+      "text": "Y ahora te muestro cómo funciona."
+    },
+    {
+      "start": 61.82,
+      "end": 65.74,
+      "text": "Acá tengo todos los videos y yo la rastro una carpeta, si yo la rastro un video,"
+    },
+    {
+      "start": 65.74,
+      "end": 69.46,
+      "text": "para la carpeta, videos a esta carpeta de videos dentro del proyecto."
+    },
+    {
+      "start": 69.46,
+      "end": 75.82,
+      "text": "De Cloud y acá le digo nuevo video, nuevo video, ahí va a interpretar que tengo un nuevo video."
+    },
+    {
+      "start": 75.82,
+      "end": 83.02,
+      "text": "Vean, es el video que si bien no es el más nuevo porque es el 033, acá 033, ese sí."
+    },
+    {
+      "start": 83.02,
+      "end": 86.98,
+      "text": "Una cosa que también le conecta un modelo de un Anthropic para que interprete lo que dice el video,"
+    },
+    {
+      "start": 86.98,
+      "end": 88.98,
+      "text": "pero bueno lo hacen en dos patadas."
+    },
+    {
+      "start": 88.98,
+      "end": 91.86,
+      "text": "Ahí lo interpreta y me va a dar las tres opciones."
+    },
+    {
+      "start": 91.86,
+      "end": 98.22,
+      "text": "Y acá luego de nuevo video me dice, ok, este es el post para LinkedIn, este es el post para YouTube"
+    },
+    {
+      "start": 98.22,
+      "end": 104.58,
+      "text": "Shorts y este es el post para Zarthak y después me dice, link lo crees con video, solo texto,"
+    },
+    {
+      "start": 104.58,
+      "end": 107.3,
+      "text": "esto lo fui puliendo yo con el tiempo."
+    },
+    {
+      "start": 107.3,
+      "end": 115.66,
+      "text": "A probar el contenido ajustamos algo, si ajustó algo, lo larga y lo ajusta y lo subimos y si no ajusto, no hace nada."
+    },
+    {
+      "start": 115.66,
+      "end": 117.62,
+      "text": "Hagamos lo, subamos lo, vamos."
+    },
+    {
+      "start": 117.62,
+      "end": 123.94,
+      "text": "Entonces le digo solo texto de link y YouTube Shorts, ok, vamos apretamos, enter, acá ya tengo el bypass"
+    },
+    {
+      "start": 123.94,
+      "end": 130.58,
+      "text": "para que no me consuma tanto pedido de sí, sí, sí, sí, sí, porque si no estoy 400 horas, desde que le puse que sí,"
+    },
+    {
+      "start": 131.58,
+      "end": 135.34,
+      "text": "ya está acá, el texto se procesaba muchísimo más rápido, hoy ya había hecho uno con video,"
+    },
+    {
+      "start": 135.34,
+      "end": 142.14,
+      "text": "nada, estoy espaminando el link game, tengo 1,200 tokens en 5 minutos, blah, blah, blah, todo lo que me decía,"
+    },
+    {
+      "start": 142.14,
+      "end": 145.3,
+      "text": "la idea aquí va a subir y vamos a dar YouTube Shorts, a ver si dice proceso."
+    },
+    {
+      "start": 145.3,
+      "end": 150.5,
+      "text": "Acá ya me dice lo que ya estaba, me dice el link game, blah, blah, y acá me dice, acá todo"
+    },
+    {
+      "start": 150.5,
+      "end": 156.62,
+      "text": "que no me parece, vamos a darle F5, todo que no me parece, pero bueno, la URL me la dejó acá,"
+    },
+    {
+      "start": 156.62,
+      "end": 162.54,
+      "text": "así quiero comprar, vamos acá, seguimos, este video vamos a estar procesando, pero bueno,"
+    },
+    {
+      "start": 162.54,
+      "end": 167.3,
+      "text": "ya va a salir de dentro de un poquito, y acá está como se está procesando aún,"
+    },
+    {
+      "start": 167.3,
+      "end": 172.54,
+      "text": "esto sirve obviamente para automatizar muchísimo tareas repetitivas que no requieren mucho valor"
+    },
+    {
+      "start": 172.54,
+      "end": 177.1,
+      "text": "agregado, no tienen mucho valor agregado y que te facilitan la vida, a mí me facilita muchísimo tiempo"
+    },
+    {
+      "start": 177.1,
+      "end": 177.6,
+      "text": "por hoy ya."
+    }
+  ]
+}
