@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 31.0465,
+  "text": "Es posible que sea un experto, pero si no comunicas bien perdiste. Es posible que sea un experto, pero si no comunicas bien perdiste. Es posible que sea un experto, pero si no comunicas bien perdiste. Es posible que sea un experto, pero si no comunicas bien perdiste. Es posible que sea un experto, pero si no comunicas bien perdiste. Y es posible que sea su experto, pero si no comunicas bien, perdiste.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Es posible que sea un experto, pero si no comunicas bien perdiste."
+    },
+    {
+      "start": 3.4,
+      "end": 7.44,
+      "text": "Es posible que sea un experto, pero si no comunicas bien perdiste."
+    },
+    {
+      "start": 7.44,
+      "end": 12.32,
+      "text": "Es posible que sea un experto, pero si no comunicas bien perdiste."
+    },
+    {
+      "start": 12.32,
+      "end": 18.48,
+      "text": "Es posible que sea un experto, pero si no comunicas bien perdiste."
+    },
+    {
+      "start": 18.48,
+      "end": 24.52,
+      "text": "Es posible que sea un experto, pero si no comunicas bien perdiste."
+    },
+    {
+      "start": 24.52,
+      "end": 30.84,
+      "text": "Y es posible que sea su experto, pero si no comunicas bien, perdiste."
+    }
+  ]
+}
