@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 43.492375,
+  "text": "increíble, porque alguien ha liberado una API de whatsapp open-sort que puede ahorrarte muchísimo dinero. Se llama Open.w.a. Funciona en tu propio servidor, no depende de intermediarios y ya viene con un dashboard, documentación y soporte para varias sesiones de whatsapp y lo interesante es que sirve para cosas reales como enviar mensajes y archivos, recibir eventos en tiempo real, montar automatizaciones, controlar accesos y desplegarlo rápidamente con docker. O sea, una base muy potente para soporte, bots o flujos automáticos en whatsapp si trabajas con automatizaciones o quieren más control sobre whatsapp, esto te interesa y muchísimo. Así que, guarda y comparte este vídeo, también le puedes dar un like y comentar la palabra UP y te paso en el lace directo de este repo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "increíble, porque alguien ha liberado una API de whatsapp open-sort que puede ahorrarte muchísimo dinero."
+    },
+    {
+      "start": 6.0,
+      "end": 16.4,
+      "text": "Se llama Open.w.a. Funciona en tu propio servidor, no depende de intermediarios y ya viene con un dashboard, documentación y soporte para varias sesiones de whatsapp"
+    },
+    {
+      "start": 16.4,
+      "end": 27.2,
+      "text": "y lo interesante es que sirve para cosas reales como enviar mensajes y archivos, recibir eventos en tiempo real, montar automatizaciones, controlar accesos y desplegarlo rápidamente con docker."
+    },
+    {
+      "start": 27.2,
+      "end": 36.8,
+      "text": "O sea, una base muy potente para soporte, bots o flujos automáticos en whatsapp si trabajas con automatizaciones o quieren más control sobre whatsapp, esto te interesa y muchísimo."
+    },
+    {
+      "start": 36.8,
+      "end": 43.6,
+      "text": "Así que, guarda y comparte este vídeo, también le puedes dar un like y comentar la palabra UP y te paso en el lace directo de este repo."
+    }
+  ]
+}
