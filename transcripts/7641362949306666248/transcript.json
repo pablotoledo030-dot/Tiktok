@@ -1,0 +1,78 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 42.3778125,
+  "text": "Le está regalando el 15% de tus ingresos al servicio de impuestos internos todos los meses solo por desconocimiento. Si al mes ganas más de 900 lucas sumando tu sueldo, más ingresos por tu negocio, el impuesto global complementario te va a dar un golpe que no viste venir a final de año. Muchos emprendedores cometen el error de esperar demasiado para pasar de boleta de honorarios a crear empresa. O peor, crean una empresa mala etsa que termina costando más caro que seguir como persona natural. La realidad es esta. Si vende servicios digitales y sumas todos los ingresos de enero a diciembre, sueldo más negocios y te da más de 10 millones 900, crear una empresa bien diseñada no es un lujo, es una necesidad técnica para proteger tu flujo de caja y empezar a rebajar gastos que hoy estás pagando de tu bolsillo. Y tu prefieres emitir boletas de honorarios o crear una empresa. Dime por qué en los comentarios.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Le está regalando el 15% de tus ingresos al servicio de impuestos internos todos los meses"
+    },
+    {
+      "start": 4.8,
+      "end": 6.04,
+      "text": "solo por desconocimiento."
+    },
+    {
+      "start": 6.04,
+      "end": 10.4,
+      "text": "Si al mes ganas más de 900 lucas sumando tu sueldo, más ingresos por tu negocio,"
+    },
+    {
+      "start": 10.4,
+      "end": 14.16,
+      "text": "el impuesto global complementario te va a dar un golpe que no viste venir a final de año."
+    },
+    {
+      "start": 14.16,
+      "end": 18.0,
+      "text": "Muchos emprendedores cometen el error de esperar demasiado para pasar de boleta de honorarios"
+    },
+    {
+      "start": 18.0,
+      "end": 18.88,
+      "text": "a crear empresa."
+    },
+    {
+      "start": 18.88,
+      "end": 23.24,
+      "text": "O peor, crean una empresa mala etsa que termina costando más caro que seguir como persona natural."
+    },
+    {
+      "start": 23.24,
+      "end": 24.2,
+      "text": "La realidad es esta."
+    },
+    {
+      "start": 24.2,
+      "end": 27.64,
+      "text": "Si vende servicios digitales y sumas todos los ingresos de enero a diciembre,"
+    },
+    {
+      "start": 27.64,
+      "end": 32.32,
+      "text": "sueldo más negocios y te da más de 10 millones 900, crear una empresa bien diseñada no es un"
+    },
+    {
+      "start": 32.32,
+      "end": 36.48,
+      "text": "lujo, es una necesidad técnica para proteger tu flujo de caja y empezar a rebajar gastos que"
+    },
+    {
+      "start": 36.48,
+      "end": 37.88,
+      "text": "hoy estás pagando de tu bolsillo."
+    },
+    {
+      "start": 37.88,
+      "end": 40.72,
+      "text": "Y tu prefieres emitir boletas de honorarios o crear una empresa."
+    },
+    {
+      "start": 40.72,
+      "end": 42.2,
+      "text": "Dime por qué en los comentarios."
+    }
+  ]
+}
