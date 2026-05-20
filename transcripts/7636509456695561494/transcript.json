@@ -1,0 +1,98 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 140.505375,
+  "text": "Todo a todos los reis, a todos menos al padre! Es esto lo que quería, seguro que despuerte lo que he hecho! No me permite esperir lo que va a pasar. ¿Cómo van a destruir el muro? Que te diga, seguro. Corre la saldraya y lesa, seguro que no había otra manera de hacerlo. ¿Estás ahí, verdad? Sí, dejo de las cosas, no se lo tren como tú esperabas. Solo ocurrirá lo que eres, desea. ¿Por qué se le ditan dataje? Pero no sé lo que va a pasar, aunque siendo sincero, nunca me imagino que fuera algo tan espontoso. Sí, eres tú, de verdad. ¿Cómo es crecido? Perdóname, fui un padre terrible contigo. Te hice sufrir durante mucho, mucho, mucho tiempo hijo. Ojalá, ojalá hubiera pasado más tiempo jugando contigo hijo. ¿Has sido Irene? Irene es el malo.",
+  "segments": [
+    {
+      "start": 4.18,
+      "end": 8.18,
+      "text": "Todo a todos los reis, a todos menos al padre!"
+    },
+    {
+      "start": 8.18,
+      "end": 13.9,
+      "text": "Es esto lo que quería, seguro que despuerte lo que he hecho!"
+    },
+    {
+      "start": 13.9,
+      "end": 28.97,
+      "text": "No me permite esperir lo que va a pasar."
+    },
+    {
+      "start": 28.97,
+      "end": 31.97,
+      "text": "¿Cómo van a destruir el muro?"
+    },
+    {
+      "start": 31.97,
+      "end": 33.97,
+      "text": "Que te diga, seguro."
+    },
+    {
+      "start": 34.97,
+      "end": 41.97,
+      "text": "Corre la saldraya y lesa, seguro que no había otra manera de hacerlo."
+    },
+    {
+      "start": 42.97,
+      "end": 46.86,
+      "text": "¿Estás ahí, verdad?"
+    },
+    {
+      "start": 47.86,
+      "end": 55.06,
+      "text": "Sí, dejo de las cosas, no se lo tren como tú esperabas."
+    },
+    {
+      "start": 55.06,
+      "end": 58.06,
+      "text": "Solo ocurrirá lo que eres, desea."
+    },
+    {
+      "start": 58.06,
+      "end": 61.85,
+      "text": "¿Por qué se le ditan dataje?"
+    },
+    {
+      "start": 61.85,
+      "end": 68.85,
+      "text": "Pero no sé lo que va a pasar, aunque siendo sincero, nunca me imagino que fuera algo tan espontoso."
+    },
+    {
+      "start": 68.85,
+      "end": 74.86,
+      "text": "Sí, eres tú, de verdad."
+    },
+    {
+      "start": 74.86,
+      "end": 77.86,
+      "text": "¿Cómo es crecido?"
+    },
+    {
+      "start": 78.86,
+      "end": 82.86,
+      "text": "Perdóname, fui un padre terrible contigo."
+    },
+    {
+      "start": 82.86,
+      "end": 95.96,
+      "text": "Te hice sufrir durante mucho, mucho, mucho tiempo hijo."
+    },
+    {
+      "start": 95.96,
+      "end": 101.96,
+      "text": "Ojalá, ojalá hubiera pasado más tiempo jugando contigo hijo."
+    },
+    {
+      "start": 101.96,
+      "end": 131.58,
+      "text": "¿Has sido Irene?"
+    },
+    {
+      "start": 131.58,
+      "end": 133.58,
+      "text": "Irene es el malo."
+    }
+  ]
+}
