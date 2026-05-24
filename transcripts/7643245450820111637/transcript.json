@@ -1,0 +1,138 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 120.5361875,
+  "text": "Esto es una locura. Te voy a enseñar a automatizar tu declaración mensual de IBA en el servicio impuesto internos utilizando cláutil e inteligencia artificial. Para que las personas que nos saben la declaración de IBA es un trámite mensual que debes hacer cuando inicia actividades con una empresa. Es un trámite que tienes que hacerlo incluso si no tienes movimientos. Y de hecho, muchas veces pasa que cuando uno no tiene movimientos se le olvida hacer ese trámite mensual y puede incurrir en multa osanciones por parte del servicio impuesto internos. Por eso, esta forma que te voy a enseñar a automatizar lo que te va a permitir que nunca tengas ese problema y es super simple hacerlo. Para lograr esto, lo único que tenemos que hacer es conectar nuestro cláut con PlayRide utilizando via mcp. Pero para para para, si tú quieres el paso a paso para conectar esta automatización, comenta yo y te lo envío personalmente. Lo primero que vamos a hacer es que vamos a antragull y vamos a buscar PlayRide mcp. Básicamente este mcp nos va a permitir navegar con cláut dentro del propio internet. Una vez que tengamos abierto Cloud Code en nuestro computador, le vamos a pedir que instale el mcp de PlayRide una vez que se la llamo suyo en la carpeta de clara. Una vez que Cloud analice el esquí, le vamos a pegar este prompt secreto, que te lo dejo comentando yo, ente le vamos a decir hazme la declaración de iba a empezar tanto y le mandé también una foto de la empresa para que puedan entrar. Quiero que vean ahora cómo Cloud ya empezó a correr, está corriendo acá en el fondo y ahora va a ingresar a mi servicio importante. Una vez dentro podemos ver que ya encontró la parte declaración de iba y solamente tenemos que dejar que haga lo suyo. Lo último que vamos a hacer es crearle una rutina a Cloud, es decir vamos a decirle que todos los meses, una vez al mes, no salga una declaración de iba. Y si no me acuerdas en mi nombre es Diego Ampüero y me dedico a crear contenido de inteligencia artificial y ayudar a empresarios siempre en deores a crecer sus marcas utilizando marketing que vende y inteligencia artificial. Y si eres nuevo en el canal y quieres aprender este nuevo mundo de la tecnología, recuerda seguirme eso. Chao.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "Esto es una locura. Te voy a enseñar a automatizar tu declaración mensual de IBA en el servicio"
+    },
+    {
+      "start": 5.44,
+      "end": 9.28,
+      "text": "impuesto internos utilizando cláutil e inteligencia artificial. Para que las personas que"
+    },
+    {
+      "start": 9.28,
+      "end": 13.4,
+      "text": "nos saben la declaración de IBA es un trámite mensual que debes hacer cuando inicia"
+    },
+    {
+      "start": 13.4,
+      "end": 17.6,
+      "text": "actividades con una empresa. Es un trámite que tienes que hacerlo incluso si no tienes"
+    },
+    {
+      "start": 17.6,
+      "end": 22.12,
+      "text": "movimientos. Y de hecho, muchas veces pasa que cuando uno no tiene movimientos se le"
+    },
+    {
+      "start": 22.12,
+      "end": 26.52,
+      "text": "olvida hacer ese trámite mensual y puede incurrir en multa osanciones por parte del servicio"
+    },
+    {
+      "start": 26.52,
+      "end": 30.36,
+      "text": "impuesto internos. Por eso, esta forma que te voy a enseñar a automatizar lo que te va a"
+    },
+    {
+      "start": 30.36,
+      "end": 35.28,
+      "text": "permitir que nunca tengas ese problema y es super simple hacerlo. Para lograr esto,"
+    },
+    {
+      "start": 35.28,
+      "end": 40.28,
+      "text": "lo único que tenemos que hacer es conectar nuestro cláut con PlayRide utilizando via mcp."
+    },
+    {
+      "start": 40.28,
+      "end": 44.52,
+      "text": "Pero para para para, si tú quieres el paso a paso para conectar esta automatización,"
+    },
+    {
+      "start": 44.52,
+      "end": 47.52,
+      "text": "comenta yo y te lo envío personalmente. Lo primero que vamos a hacer es que vamos a"
+    },
+    {
+      "start": 47.52,
+      "end": 53.72,
+      "text": "antragull y vamos a buscar PlayRide mcp. Básicamente este mcp nos va a permitir navegar"
+    },
+    {
+      "start": 53.72,
+      "end": 58.96,
+      "text": "con cláut dentro del propio internet. Una vez que tengamos abierto Cloud Code en nuestro"
+    },
+    {
+      "start": 58.96,
+      "end": 63.8,
+      "text": "computador, le vamos a pedir que instale el mcp de PlayRide una vez que se la llamo suyo en la"
+    },
+    {
+      "start": 63.8,
+      "end": 70.28,
+      "text": "carpeta de clara. Una vez que Cloud analice el esquí, le vamos a pegar este prompt secreto,"
+    },
+    {
+      "start": 70.28,
+      "end": 75.72,
+      "text": "que te lo dejo comentando yo, ente le vamos a decir hazme la declaración de iba a empezar"
+    },
+    {
+      "start": 75.72,
+      "end": 80.76,
+      "text": "tanto y le mandé también una foto de la empresa para que puedan entrar. Quiero que vean ahora"
+    },
+    {
+      "start": 80.76,
+      "end": 87.32,
+      "text": "cómo Cloud ya empezó a correr, está corriendo acá en el fondo y ahora va a ingresar a mi"
+    },
+    {
+      "start": 87.32,
+      "end": 90.96,
+      "text": "servicio importante. Una vez dentro podemos ver que ya encontró la parte"
+    },
+    {
+      "start": 90.96,
+      "end": 95.8,
+      "text": "declaración de iba y solamente tenemos que dejar que haga lo suyo. Lo último que vamos a hacer es"
+    },
+    {
+      "start": 95.8,
+      "end": 102.72,
+      "text": "crearle una rutina a Cloud, es decir vamos a decirle que todos los meses, una vez al mes, no"
+    },
+    {
+      "start": 102.72,
+      "end": 107.24,
+      "text": "salga una declaración de iba. Y si no me acuerdas en mi nombre es Diego Ampüero y me dedico"
+    },
+    {
+      "start": 107.24,
+      "end": 111.36,
+      "text": "a crear contenido de inteligencia artificial y ayudar a empresarios siempre en deores a"
+    },
+    {
+      "start": 111.36,
+      "end": 115.8,
+      "text": "crecer sus marcas utilizando marketing que vende y inteligencia artificial. Y si eres nuevo en"
+    },
+    {
+      "start": 115.8,
+      "end": 120.08,
+      "text": "el canal y quieres aprender este nuevo mundo de la tecnología, recuerda seguirme eso."
+    },
+    {
+      "start": 120.08,
+      "end": 120.36,
+      "text": "Chao."
+    }
+  ]
+}
