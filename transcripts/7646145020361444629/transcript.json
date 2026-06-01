@@ -1,0 +1,543 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 257.30175,
+  "text": "quedate porque te voy a mostrar de forma fácil cómo es que yo hoy 26 programo con NIA. El primero que hago cuando tengo una nueva idea o un nuevo proyecto es genero una carpeta, un repositorio en mi computadora. Abro de esa carpeta con lo hizo lo que estoy doy, ahí mismo abro el agente que va a tomar control de esa repositorio. Dentro de ese repositorio, lo primero que hago es generar contexto. Generos muchas documentaciones. Entre ellas, las más importantes son la de qué es el proyecto. En términos funcionales, qué va a resolver el proyecto, cuál es la idea central y lo dejo en un documento, al que le llamo contexto funcional. ¿Qué tengo la idea documentada? Después lo que hago es documentar cómo va a solucionarse. Voy a la arquitectura que voy a usar. Si va a tener un fronzo a la mente, si va a tener un fronco en un vac, si va a tener una base de datos, y documento cómo va a hacer la base de datos, cómo va a hacer el vacan y cómo va a hacer el freno. Obviamente parece tener que tener un negociamiento. Y si por ahí no tenés el conocimiento suficiente, lo que hago también a veces cuando se me escapa del conocimiento es valiarlo con la misma idea. Salgo de ese proyecto, no voy a ese mismo repositorio de esa misma idea, sino que con otra idea o con otra gente lo que hago es indicarle cuál es mi idea, indicarle que me da una documentación de cómo debería hacer la arquitectura de software para que funcione. Todo esto como hace de pongo en el mismo repositorio anterior. Y lo coloco como documentación de arquitectura de software. Esta es la más importante. En este documento de arquitectura tenés que tener absolutamente todos los huecos cubiertos, sino olvidarte de nada, porque la idea llena vacío sola. Cuando no tiene información, lo que hace es completar con lo que estáísticamente mejor le va a salir. El primer paso es documentar y eliminar todos los vacíos de contexto que puedas. Pues arranco con el proceso del desarrollo de software. Para esto lo que hago generalmente es que utilizo el documento de arquitectura y lo dividan fases de implementación. Si vos crees que no solo aprontó el proyecto se resuelva, no lo va a saludar porque la idea, el agente, lo que hace es priorizar las instrucciones recientes por sobre las anteriores. Eigo la idea que me hago un análisis exhaustivo del análisis del producto y el documento de arquitectura de software y lo divida en fases de implementaciones. Y me indique cuánto tiempo le va a demorar y qué costo de desarrollo del software tiene. Ya se la agente generalmente es listarme una lista de fases de implementación con el costo de desarrollo con el nivel de complejidad para desarrollar. Una vez que la agente me indica las fases de implementación, lo que hago con esa respuesta es documentarla también. No documento Mac, Down y ahí mismo, coloco las fases de implementación que le haía misma mándico. Y luego, un nuevo prompt le digo que va a implementando fases por fases. Ahora, antes de que la idea comienza a trabajar en cada fase que le solicito que en comienza a desarrollar, le pido que juntamente con el desarrollo de esa fase me indique cuáles son las pruebas que tengo que realizar para validar que lo que haya hecho es funcione. Como una especie de documento de pruebas de test para que yo pueda ejecutar el proyecto y poder probar qué es lo que hizo en esa fase y si realmente funciona. Ahora, para que esto no se salga de control, si hay algo que no me convence en el medio del proceso, si hay algo que no funciona como debería funcionar o algo que da error, lo que hago es indicarlo y documentarlo. Para esto, hago otro documento a son Mac, Down, en la que hago el registro de decisiones. Este registro de decisiones es el historial para que la idea no vuelvo a cometer los mismos horrores que ya cometieron ese momento. Lo que hago es indicarlo, ahí al olé, lo corrige y luego, si llega a toparse con el mismo problema, lo lee en este documento y lo toma como regla para que no vuelvo a ocurrir. Ahora, acá parece otro problema y el problema es que la idea siempre va a priorizar el primer prompt sobre el anterior. Entonces, esto genera un historial de documentos, un historial de prompts que se va degradando a media que vas conversando con el agente. Entonces, para resolver este problema, lo que hago es gerar quizás las reglas en el documento arquitectura y en el documento de decisiones, lo que le indico al mismo agente es que priorice las reglas de arquitectura del software de más críticas a menos críticas. Para que priorice y siempre vea la regla de arquitectura más importante, no se puede quebrar y que más problemas te puede generar. Esta forma, tienes un proyecto 7% de hecho conía. Y a medida que el proyecto va a desarrollar, no sé, va mejorándose y retroalimentándose solo. Básicamente, este manejo que encontré yo para programar en mi día a día y que me sirve, engloba dos ideas pilares inquebrantales. El agente no decide solo. El que decide es el programador y el que valida es el programador. Ahora, con esto que te estoy diciendo, pues realmente crees que la idea puede reemplazar al programador. La idea va a reemplazar al programador y no sabe todos estos conceptos. Y son cosas que se enseñan desde que la carrera del programador existe. El problema que en el medio, a la ver una alta demanda del programador es surgir unos montón de institutos que te prometieron que iban a enseñar del programar cuando en realidad te enseñaban a ser mecanismos automáticos, a tirar líneas de código sin entender que lo que estaba haciendo. Y hoy la idea es que lo puede resolver.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "quedate porque te voy a mostrar de forma fácil cómo es que yo hoy 26 programo con NIA."
+    },
+    {
+      "start": 4.92,
+      "end": 8.84,
+      "text": "El primero que hago cuando tengo una nueva idea o un nuevo proyecto es genero una carpeta,"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "un repositorio en mi computadora."
+    },
+    {
+      "start": 10.56,
+      "end": 12.4,
+      "text": "Abro de esa carpeta con lo hizo lo que estoy doy,"
+    },
+    {
+      "start": 12.4,
+      "end": 16.16,
+      "text": "ahí mismo abro el agente que va a tomar control de esa repositorio."
+    },
+    {
+      "start": 16.16,
+      "end": 17.24,
+      "text": "Dentro de ese repositorio,"
+    },
+    {
+      "start": 17.24,
+      "end": 19.16,
+      "text": "lo primero que hago es generar contexto."
+    },
+    {
+      "start": 19.16,
+      "end": 20.56,
+      "text": "Generos muchas documentaciones."
+    },
+    {
+      "start": 20.56,
+      "end": 24.28,
+      "text": "Entre ellas, las más importantes son la de qué es el proyecto."
+    },
+    {
+      "start": 24.28,
+      "end": 25.4,
+      "text": "En términos funcionales,"
+    },
+    {
+      "start": 25.4,
+      "end": 26.88,
+      "text": "qué va a resolver el proyecto,"
+    },
+    {
+      "start": 26.88,
+      "end": 29.4,
+      "text": "cuál es la idea central y lo dejo en un documento,"
+    },
+    {
+      "start": 29.4,
+      "end": 31.08,
+      "text": "al que le llamo contexto funcional."
+    },
+    {
+      "start": 31.08,
+      "end": 32.8,
+      "text": "¿Qué tengo la idea documentada?"
+    },
+    {
+      "start": 32.8,
+      "end": 36.44,
+      "text": "Después lo que hago es documentar cómo va a solucionarse."
+    },
+    {
+      "start": 36.44,
+      "end": 37.96,
+      "text": "Voy a la arquitectura que voy a usar."
+    },
+    {
+      "start": 37.96,
+      "end": 39.4,
+      "text": "Si va a tener un fronzo a la mente,"
+    },
+    {
+      "start": 39.4,
+      "end": 42.0,
+      "text": "si va a tener un fronco en un vac, si va a tener una base de datos,"
+    },
+    {
+      "start": 42.0,
+      "end": 43.92,
+      "text": "y documento cómo va a hacer la base de datos,"
+    },
+    {
+      "start": 43.92,
+      "end": 45.84,
+      "text": "cómo va a hacer el vacan y cómo va a hacer el freno."
+    },
+    {
+      "start": 45.84,
+      "end": 47.8,
+      "text": "Obviamente parece tener que tener un negociamiento."
+    },
+    {
+      "start": 47.8,
+      "end": 49.96,
+      "text": "Y si por ahí no tenés el conocimiento suficiente,"
+    },
+    {
+      "start": 49.96,
+      "end": 52.56,
+      "text": "lo que hago también a veces cuando se me escapa del conocimiento"
+    },
+    {
+      "start": 52.56,
+      "end": 54.04,
+      "text": "es valiarlo con la misma idea."
+    },
+    {
+      "start": 54.04,
+      "end": 57.64,
+      "text": "Salgo de ese proyecto, no voy a ese mismo repositorio de esa misma idea,"
+    },
+    {
+      "start": 57.64,
+      "end": 61.12,
+      "text": "sino que con otra idea o con otra gente lo que hago es indicarle"
+    },
+    {
+      "start": 61.12,
+      "end": 63.72,
+      "text": "cuál es mi idea, indicarle que me da una documentación"
+    },
+    {
+      "start": 63.72,
+      "end": 66.44,
+      "text": "de cómo debería hacer la arquitectura de software para que funcione."
+    },
+    {
+      "start": 66.44,
+      "end": 69.56,
+      "text": "Todo esto como hace de pongo en el mismo repositorio anterior."
+    },
+    {
+      "start": 69.56,
+      "end": 72.12,
+      "text": "Y lo coloco como documentación de arquitectura de software."
+    },
+    {
+      "start": 72.12,
+      "end": 73.16,
+      "text": "Esta es la más importante."
+    },
+    {
+      "start": 73.16,
+      "end": 75.6,
+      "text": "En este documento de arquitectura tenés que tener absolutamente"
+    },
+    {
+      "start": 75.6,
+      "end": 78.04,
+      "text": "todos los huecos cubiertos, sino olvidarte de nada,"
+    },
+    {
+      "start": 78.04,
+      "end": 79.68,
+      "text": "porque la idea llena vacío sola."
+    },
+    {
+      "start": 79.68,
+      "end": 81.72,
+      "text": "Cuando no tiene información, lo que hace es completar"
+    },
+    {
+      "start": 81.72,
+      "end": 83.68,
+      "text": "con lo que estáísticamente mejor le va a salir."
+    },
+    {
+      "start": 83.68,
+      "end": 85.52,
+      "text": "El primer paso es documentar"
+    },
+    {
+      "start": 85.52,
+      "end": 88.04,
+      "text": "y eliminar todos los vacíos de contexto que puedas."
+    },
+    {
+      "start": 88.04,
+      "end": 90.48,
+      "text": "Pues arranco con el proceso del desarrollo de software."
+    },
+    {
+      "start": 90.48,
+      "end": 94.2,
+      "text": "Para esto lo que hago generalmente es que utilizo el documento de arquitectura"
+    },
+    {
+      "start": 94.2,
+      "end": 96.2,
+      "text": "y lo dividan fases de implementación."
+    },
+    {
+      "start": 96.2,
+      "end": 99.08,
+      "text": "Si vos crees que no solo aprontó el proyecto se resuelva,"
+    },
+    {
+      "start": 99.08,
+      "end": 101.48,
+      "text": "no lo va a saludar porque la idea, el agente,"
+    },
+    {
+      "start": 101.48,
+      "end": 104.84,
+      "text": "lo que hace es priorizar las instrucciones recientes por sobre las anteriores."
+    },
+    {
+      "start": 104.84,
+      "end": 108.44,
+      "text": "Eigo la idea que me hago un análisis exhaustivo del análisis del producto"
+    },
+    {
+      "start": 108.44,
+      "end": 112.44,
+      "text": "y el documento de arquitectura de software y lo divida en fases de implementaciones."
+    },
+    {
+      "start": 112.44,
+      "end": 114.44,
+      "text": "Y me indique cuánto tiempo le va a demorar"
+    },
+    {
+      "start": 114.44,
+      "end": 116.48,
+      "text": "y qué costo de desarrollo del software tiene."
+    },
+    {
+      "start": 116.48,
+      "end": 120.16,
+      "text": "Ya se la agente generalmente es listarme una lista de fases de implementación"
+    },
+    {
+      "start": 120.16,
+      "end": 123.72,
+      "text": "con el costo de desarrollo con el nivel de complejidad para desarrollar."
+    },
+    {
+      "start": 123.72,
+      "end": 126.24,
+      "text": "Una vez que la agente me indica las fases de implementación,"
+    },
+    {
+      "start": 126.24,
+      "end": 128.68,
+      "text": "lo que hago con esa respuesta es documentarla también."
+    },
+    {
+      "start": 128.68,
+      "end": 131.08,
+      "text": "No documento Mac, Down y ahí mismo,"
+    },
+    {
+      "start": 131.08,
+      "end": 133.96,
+      "text": "coloco las fases de implementación que le haía misma mándico."
+    },
+    {
+      "start": 133.96,
+      "end": 137.08,
+      "text": "Y luego, un nuevo prompt le digo que va a implementando fases por fases."
+    },
+    {
+      "start": 137.08,
+      "end": 139.76,
+      "text": "Ahora, antes de que la idea comienza a trabajar en cada fase"
+    },
+    {
+      "start": 139.76,
+      "end": 142.08,
+      "text": "que le solicito que en comienza a desarrollar,"
+    },
+    {
+      "start": 142.08,
+      "end": 144.8,
+      "text": "le pido que juntamente con el desarrollo de esa fase"
+    },
+    {
+      "start": 144.8,
+      "end": 147.72,
+      "text": "me indique cuáles son las pruebas que tengo que realizar para validar"
+    },
+    {
+      "start": 147.72,
+      "end": 149.52,
+      "text": "que lo que haya hecho es funcione."
+    },
+    {
+      "start": 149.52,
+      "end": 151.6,
+      "text": "Como una especie de documento de pruebas de test"
+    },
+    {
+      "start": 151.6,
+      "end": 154.12,
+      "text": "para que yo pueda ejecutar el proyecto y poder probar"
+    },
+    {
+      "start": 154.12,
+      "end": 156.88,
+      "text": "qué es lo que hizo en esa fase y si realmente funciona."
+    },
+    {
+      "start": 156.88,
+      "end": 158.72,
+      "text": "Ahora, para que esto no se salga de control,"
+    },
+    {
+      "start": 158.72,
+      "end": 161.92,
+      "text": "si hay algo que no me convence en el medio del proceso,"
+    },
+    {
+      "start": 161.92,
+      "end": 165.08,
+      "text": "si hay algo que no funciona como debería funcionar o algo que da error,"
+    },
+    {
+      "start": 165.08,
+      "end": 166.92,
+      "text": "lo que hago es indicarlo y documentarlo."
+    },
+    {
+      "start": 166.92,
+      "end": 169.08,
+      "text": "Para esto, hago otro documento a son Mac, Down,"
+    },
+    {
+      "start": 169.08,
+      "end": 171.08,
+      "text": "en la que hago el registro de decisiones."
+    },
+    {
+      "start": 171.08,
+      "end": 173.24,
+      "text": "Este registro de decisiones es el historial"
+    },
+    {
+      "start": 173.24,
+      "end": 175.4,
+      "text": "para que la idea no vuelvo a cometer los mismos horrores"
+    },
+    {
+      "start": 175.4,
+      "end": 176.64,
+      "text": "que ya cometieron ese momento."
+    },
+    {
+      "start": 176.64,
+      "end": 179.64,
+      "text": "Lo que hago es indicarlo, ahí al olé, lo corrige y luego,"
+    },
+    {
+      "start": 179.64,
+      "end": 181.24,
+      "text": "si llega a toparse con el mismo problema,"
+    },
+    {
+      "start": 181.24,
+      "end": 183.24,
+      "text": "lo lee en este documento y lo toma como regla"
+    },
+    {
+      "start": 183.24,
+      "end": 184.4,
+      "text": "para que no vuelvo a ocurrir."
+    },
+    {
+      "start": 184.4,
+      "end": 186.48,
+      "text": "Ahora, acá parece otro problema y el problema es"
+    },
+    {
+      "start": 186.48,
+      "end": 189.4,
+      "text": "que la idea siempre va a priorizar el primer prompt sobre el anterior."
+    },
+    {
+      "start": 189.4,
+      "end": 191.72,
+      "text": "Entonces, esto genera un historial de documentos,"
+    },
+    {
+      "start": 191.72,
+      "end": 194.4,
+      "text": "un historial de prompts que se va degradando a media que vas"
+    },
+    {
+      "start": 194.4,
+      "end": 195.64,
+      "text": "conversando con el agente."
+    },
+    {
+      "start": 195.64,
+      "end": 197.84,
+      "text": "Entonces, para resolver este problema, lo que hago es gerar"
+    },
+    {
+      "start": 197.84,
+      "end": 200.2,
+      "text": "quizás las reglas en el documento arquitectura"
+    },
+    {
+      "start": 200.2,
+      "end": 203.16,
+      "text": "y en el documento de decisiones, lo que le indico al mismo agente"
+    },
+    {
+      "start": 203.16,
+      "end": 205.96,
+      "text": "es que priorice las reglas de arquitectura del software"
+    },
+    {
+      "start": 205.96,
+      "end": 207.84,
+      "text": "de más críticas a menos críticas."
+    },
+    {
+      "start": 207.84,
+      "end": 210.32,
+      "text": "Para que priorice y siempre vea la regla de arquitectura"
+    },
+    {
+      "start": 210.32,
+      "end": 213.2,
+      "text": "más importante, no se puede quebrar y que más problemas"
+    },
+    {
+      "start": 213.2,
+      "end": 213.96,
+      "text": "te puede generar."
+    },
+    {
+      "start": 213.96,
+      "end": 216.48,
+      "text": "Esta forma, tienes un proyecto 7% de hecho conía."
+    },
+    {
+      "start": 216.48,
+      "end": 218.0,
+      "text": "Y a medida que el proyecto va a desarrollar,"
+    },
+    {
+      "start": 218.0,
+      "end": 220.88,
+      "text": "no sé, va mejorándose y retroalimentándose solo."
+    },
+    {
+      "start": 220.88,
+      "end": 223.36,
+      "text": "Básicamente, este manejo que encontré yo para programar"
+    },
+    {
+      "start": 223.36,
+      "end": 224.92,
+      "text": "en mi día a día y que me sirve,"
+    },
+    {
+      "start": 224.92,
+      "end": 226.96,
+      "text": "engloba dos ideas pilares inquebrantales."
+    },
+    {
+      "start": 226.96,
+      "end": 228.6,
+      "text": "El agente no decide solo."
+    },
+    {
+      "start": 228.6,
+      "end": 231.64,
+      "text": "El que decide es el programador y el que valida es el programador."
+    },
+    {
+      "start": 231.64,
+      "end": 232.96,
+      "text": "Ahora, con esto que te estoy diciendo,"
+    },
+    {
+      "start": 232.96,
+      "end": 236.0,
+      "text": "pues realmente crees que la idea puede reemplazar al programador."
+    },
+    {
+      "start": 236.0,
+      "end": 237.52,
+      "text": "La idea va a reemplazar al programador"
+    },
+    {
+      "start": 237.52,
+      "end": 239.08,
+      "text": "y no sabe todos estos conceptos."
+    },
+    {
+      "start": 239.08,
+      "end": 242.28,
+      "text": "Y son cosas que se enseñan desde que la carrera del programador existe."
+    },
+    {
+      "start": 242.28,
+      "end": 245.12,
+      "text": "El problema que en el medio, a la ver una alta demanda del programador"
+    },
+    {
+      "start": 245.12,
+      "end": 249.12,
+      "text": "es surgir unos montón de institutos que te prometieron que iban a enseñar"
+    },
+    {
+      "start": 249.12,
+      "end": 252.76,
+      "text": "del programar cuando en realidad te enseñaban a ser mecanismos automáticos,"
+    },
+    {
+      "start": 252.76,
+      "end": 255.48,
+      "text": "a tirar líneas de código sin entender que lo que estaba haciendo."
+    },
+    {
+      "start": 255.48,
+      "end": 257.24,
+      "text": "Y hoy la idea es que lo puede resolver."
+    }
+  ]
+}
