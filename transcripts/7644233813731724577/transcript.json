@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 30.6285625,
+  "text": "acaba de salir. Esta mujer creo un chat GPD que responde utilizando únicamente fuentes científicas verificadas. Se llama Cybot y es un asistente de IA conectado a la mayor base de datos de artículos científicos del mundo. Solo tienes que hacer una pregunta y la IA analizará de cenas de millones de estudios. Seleccionará a los más elevantes y generará una respuesta con un enlace al artículo original. En resumen, es perfecto si estás escribiendo una tesis o un trabajo académico. Y para más trucos como este, no olvides suscribirte.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.72,
+      "text": "acaba de salir. Esta mujer creo un chat GPD que responde utilizando únicamente fuentes"
+    },
+    {
+      "start": 5.72,
+      "end": 11.4,
+      "text": "científicas verificadas. Se llama Cybot y es un asistente de IA conectado a la mayor base"
+    },
+    {
+      "start": 11.4,
+      "end": 15.92,
+      "text": "de datos de artículos científicos del mundo. Solo tienes que hacer una pregunta y la IA"
+    },
+    {
+      "start": 15.92,
+      "end": 21.24,
+      "text": "analizará de cenas de millones de estudios. Seleccionará a los más elevantes y generará"
+    },
+    {
+      "start": 21.24,
+      "end": 26.2,
+      "text": "una respuesta con un enlace al artículo original. En resumen, es perfecto si estás escribiendo"
+    },
+    {
+      "start": 26.2,
+      "end": 30.52,
+      "text": "una tesis o un trabajo académico. Y para más trucos como este, no olvides suscribirte."
+    }
+  ]
+}
