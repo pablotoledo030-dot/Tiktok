@@ -1,0 +1,148 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 109.4835,
+  "text": "Les voy a enseñar a crear un video súper realista con ella en menos de 5 minutos. Lo primero que vamos a hacer es crear una foto de nuestra modelo GSE, la cual vamos a estar utilizando para el video, yo creé esta con ChateGPT, pero la puedes hacer con la inteligencia artificial que prefieras. Una vez tengamos la foto de nuestra modelo nos venimos al lafz.bull, que es donde vamos a estar creando el video. Lo primero que vamos a hacer acá es cargar la foto de nuestra modelo, entonces nos venimos al más y acá subimos la foto. Como ven, ya tenemos la foto cargada dentro del lafz.bull, entonces lo que vamos a hacer ahora es generar el prompt para darle vida a esta foto. Yo por ejemplo lo hago con Cloud, pero lo puedes hacer con la inteligencia artificial que prefieras, también como elegiantes. Recomiendo bastante utilizar Cloud, acá me dejó todo el prompt, entonces vamos a copiar esto y pegarlo acá. Ya tenemos el prompt listo, lo que vamos a hacer ahora es arrair la imagen que cargamos antes y arrastrarla hasta abajo para que lo utilice como ingrediente. Ahora nos venimos acá abajo y seleccionamos en esta parte video y puedes usarlo como frame o como ingrediente. La diferencia entre estos dos es que frames va a iniciar el video directamente desde justamente este frame en el que está la imagen que le cargamos y en ingredientes no va a iniciar directamente desde este frame, pero lo va a tomar como referencia de imagen, es decir, todo el contexto de imagen. Yo lo voy a usar como ingrediente en 96 y vamos a generar un video. Ahora tenemos el video ya generado con el prompt que desficamos nosotros. Chicas, no pueden creer lo que acaba de abrir, el nuevo showroom está una locura. Lo que pueden hacer después es descargar el video, meterlo en Cloud Cat y poder ponerle subtítulos unos transiciones lo que quieran y ya queda mucho más clean. Hacer todo esto no nos toma más de 5 minutos y se puede utilizar para ríals, anuncios, historias, lo que sea y claro, a alguien converte muy bien.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Les voy a enseñar a crear un video súper realista con ella en menos de 5 minutos."
+    },
+    {
+      "start": 3.8,
+      "end": 7.08,
+      "text": "Lo primero que vamos a hacer es crear una foto de nuestra modelo GSE,"
+    },
+    {
+      "start": 7.08,
+      "end": 10.32,
+      "text": "la cual vamos a estar utilizando para el video, yo creé esta con ChateGPT,"
+    },
+    {
+      "start": 10.32,
+      "end": 13.12,
+      "text": "pero la puedes hacer con la inteligencia artificial que prefieras."
+    },
+    {
+      "start": 13.12,
+      "end": 16.44,
+      "text": "Una vez tengamos la foto de nuestra modelo nos venimos al lafz.bull,"
+    },
+    {
+      "start": 16.44,
+      "end": 18.24,
+      "text": "que es donde vamos a estar creando el video."
+    },
+    {
+      "start": 18.24,
+      "end": 21.24,
+      "text": "Lo primero que vamos a hacer acá es cargar la foto de nuestra modelo,"
+    },
+    {
+      "start": 21.24,
+      "end": 25.76,
+      "text": "entonces nos venimos al más y acá subimos la foto."
+    },
+    {
+      "start": 25.76,
+      "end": 29.0,
+      "text": "Como ven, ya tenemos la foto cargada dentro del lafz.bull,"
+    },
+    {
+      "start": 29.0,
+      "end": 33.32,
+      "text": "entonces lo que vamos a hacer ahora es generar el prompt para darle vida a esta foto."
+    },
+    {
+      "start": 33.32,
+      "end": 37.16,
+      "text": "Yo por ejemplo lo hago con Cloud, pero lo puedes hacer con la inteligencia artificial que prefieras,"
+    },
+    {
+      "start": 37.16,
+      "end": 38.68,
+      "text": "también como elegiantes."
+    },
+    {
+      "start": 38.68,
+      "end": 42.56,
+      "text": "Recomiendo bastante utilizar Cloud, acá me dejó todo el prompt,"
+    },
+    {
+      "start": 42.56,
+      "end": 45.96,
+      "text": "entonces vamos a copiar esto y pegarlo acá."
+    },
+    {
+      "start": 45.96,
+      "end": 50.04,
+      "text": "Ya tenemos el prompt listo, lo que vamos a hacer ahora es arrair la imagen que cargamos antes"
+    },
+    {
+      "start": 50.04,
+      "end": 54.04,
+      "text": "y arrastrarla hasta abajo para que lo utilice como ingrediente."
+    },
+    {
+      "start": 54.04,
+      "end": 58.48,
+      "text": "Ahora nos venimos acá abajo y seleccionamos en esta parte video"
+    },
+    {
+      "start": 58.52,
+      "end": 61.2,
+      "text": "y puedes usarlo como frame o como ingrediente."
+    },
+    {
+      "start": 61.2,
+      "end": 67.64,
+      "text": "La diferencia entre estos dos es que frames va a iniciar el video directamente desde justamente este frame"
+    },
+    {
+      "start": 67.64,
+      "end": 73.64,
+      "text": "en el que está la imagen que le cargamos y en ingredientes no va a iniciar directamente desde este frame,"
+    },
+    {
+      "start": 73.64,
+      "end": 77.64,
+      "text": "pero lo va a tomar como referencia de imagen, es decir, todo el contexto de imagen."
+    },
+    {
+      "start": 77.64,
+      "end": 82.8,
+      "text": "Yo lo voy a usar como ingrediente en 96 y vamos a generar un video."
+    },
+    {
+      "start": 82.8,
+      "end": 87.64,
+      "text": "Ahora tenemos el video ya generado con el prompt que desficamos nosotros."
+    },
+    {
+      "start": 87.68,
+      "end": 92.2,
+      "text": "Chicas, no pueden creer lo que acaba de abrir, el nuevo showroom está una locura."
+    },
+    {
+      "start": 92.2,
+      "end": 97.16,
+      "text": "Lo que pueden hacer después es descargar el video, meterlo en Cloud Cat y poder ponerle subtítulos"
+    },
+    {
+      "start": 97.16,
+      "end": 100.36,
+      "text": "unos transiciones lo que quieran y ya queda mucho más clean."
+    },
+    {
+      "start": 100.36,
+      "end": 106.6,
+      "text": "Hacer todo esto no nos toma más de 5 minutos y se puede utilizar para ríals, anuncios, historias,"
+    },
+    {
+      "start": 106.6,
+      "end": 109.4,
+      "text": "lo que sea y claro, a alguien converte muy bien."
+    }
+  ]
+}
