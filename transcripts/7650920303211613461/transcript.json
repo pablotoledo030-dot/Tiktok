@@ -1,0 +1,53 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 39.3128125,
+  "text": "Esta semana, Claude me cortó el agua y no fue su culpa. Yo estaba usando mal los tokens y no tenía idea de lo que eso significaba a todos. Mira, los tokens son como los asientos de la micro. Claude tiene una cantidad fíjada, para cada conversación y cada palabra que tú escribes, cada respuesta que la te da, ocupa una asión. Cuando la micro se llena, Claude ya no puede más. Lo bueno es que la micro será nueva cada vez que tú hagas un chat nuevo. Así es. Si quieres aprender esos, los como un aliado y no hay que marte los tokens de una como yo, escribeme acá abajo la palabra aliado.",
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 4.62,
+      "text": "Esta semana, Claude me cortó el agua y no fue su culpa."
+    },
+    {
+      "start": 4.62,
+      "end": 9.62,
+      "text": "Yo estaba usando mal los tokens y no tenía idea de lo que eso significaba a todos."
+    },
+    {
+      "start": 9.62,
+      "end": 12.62,
+      "text": "Mira, los tokens son como los asientos de la micro."
+    },
+    {
+      "start": 12.62,
+      "end": 18.62,
+      "text": "Claude tiene una cantidad fíjada, para cada conversación y cada palabra que tú escribes,"
+    },
+    {
+      "start": 18.62,
+      "end": 21.62,
+      "text": "cada respuesta que la te da, ocupa una asión."
+    },
+    {
+      "start": 21.62,
+      "end": 25.62,
+      "text": "Cuando la micro se llena, Claude ya no puede más."
+    },
+    {
+      "start": 25.62,
+      "end": 29.62,
+      "text": "Lo bueno es que la micro será nueva cada vez que tú hagas un chat nuevo."
+    },
+    {
+      "start": 29.62,
+      "end": 35.62,
+      "text": "Así es. Si quieres aprender esos, los como un aliado y no hay que marte los tokens de una como yo,"
+    },
+    {
+      "start": 35.62,
+      "end": 38.62,
+      "text": "escribeme acá abajo la palabra aliado."
+    }
+  ]
+}
