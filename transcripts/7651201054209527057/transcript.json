@@ -1,0 +1,53 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 35.3189375,
+  "text": "Alguien en GitHub acaba de dejar sin negocio a Anthropic con Cloud Code. Cloud Code te puede costar hasta 1200 euros al mes si lo usas a doble. Y hay un proyecto en GitHub con más de 31.000 estrellas que han encontrado la forma de bajarlo a hacer. Es un proxy que se mete entre Cloud Code y la API de Anthropic y hace que Cloud Code crea que sigue hablando con Anthropic. Pero en realidad está tirando de modelos gratuitos, ModipSync, Kimi o GLM, a través de proveedores como pueden ser OpenRouter o Nvidia NIN. Renden entre 81.90% igual al original. La instalación es solo un comando en terminal y taradas literal 5.2. 30.000 desarrolladores ya lo están utilizando. Marad de este grill, porque...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Alguien en GitHub acaba de dejar sin negocio a Anthropic con Cloud Code."
+    },
+    {
+      "start": 3.6,
+      "end": 6.96,
+      "text": "Cloud Code te puede costar hasta 1200 euros al mes si lo usas a doble."
+    },
+    {
+      "start": 6.96,
+      "end": 11.8,
+      "text": "Y hay un proyecto en GitHub con más de 31.000 estrellas que han encontrado la forma de bajarlo a hacer."
+    },
+    {
+      "start": 11.8,
+      "end": 17.68,
+      "text": "Es un proxy que se mete entre Cloud Code y la API de Anthropic y hace que Cloud Code crea que sigue hablando con Anthropic."
+    },
+    {
+      "start": 17.68,
+      "end": 24.84,
+      "text": "Pero en realidad está tirando de modelos gratuitos, ModipSync, Kimi o GLM, a través de proveedores como pueden ser OpenRouter o Nvidia NIN."
+    },
+    {
+      "start": 24.84,
+      "end": 28.24,
+      "text": "Renden entre 81.90% igual al original."
+    },
+    {
+      "start": 28.24,
+      "end": 31.88,
+      "text": "La instalación es solo un comando en terminal y taradas literal 5.2."
+    },
+    {
+      "start": 31.88,
+      "end": 34.2,
+      "text": "30.000 desarrolladores ya lo están utilizando."
+    },
+    {
+      "start": 34.2,
+      "end": 35.2,
+      "text": "Marad de este grill, porque..."
+    }
+  ]
+}
