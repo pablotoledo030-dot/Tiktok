@@ -1,0 +1,93 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 61.650375,
+  "text": "Ya llevaba meses usando Cloud y le pedía el mismo Brit de marketing tres veces a la semana. Cada vez desde cero, mismo prom, mismo formato, mismo contexto, cada vez copiaba y pegaba como un robot. Hasta que descubrí que Cloud tiene skills. No son prompts, son instrucciones completas que entrenas una vez y son permanentes. Vas a tu menudo de skills, busque el skill para tu tarea, la dejas instalada y en 30 segundos ya la tiene. Escribo en la palabra Brit y Cloud ya sabe tu tono, el tipo de cliente, el formato, sin que les pique nada. Pero este es un error que veo que la gente comete mucho. Llegan instalan un skill genérica y de esa forma Cloud sigue siendo genérica. Lo que realmente funciona es esto. Identificar la tarea que más repites, busca su skill específica para esto, la mapeas, la analizas con Cloud, la ajusta para tu voz y tu flujo de trabajo. No es un skill genérica, es para ti. Sin skills, Cloud funciona como un herramienta cualquiera. Si mapeas y personaliza tu skills, es como una herramienta profesional especializada para tu caso. Comenta la palabra skill y denví el repositorio de toda la skill que hemos creado. No te olvides adaptarla para tu caso particular. Y sí, me para más contenido especializado de inteligencia artificial.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Ya llevaba meses usando Cloud y le pedía el mismo Brit de marketing tres veces a la semana."
+    },
+    {
+      "start": 4.28,
+      "end": 10.56,
+      "text": "Cada vez desde cero, mismo prom, mismo formato, mismo contexto, cada vez copiaba y pegaba como un robot."
+    },
+    {
+      "start": 10.56,
+      "end": 13.0,
+      "text": "Hasta que descubrí que Cloud tiene skills."
+    },
+    {
+      "start": 13.0,
+      "end": 17.2,
+      "text": "No son prompts, son instrucciones completas que entrenas una vez y son permanentes."
+    },
+    {
+      "start": 17.2,
+      "end": 22.08,
+      "text": "Vas a tu menudo de skills, busque el skill para tu tarea, la dejas instalada y en 30 segundos ya la tiene."
+    },
+    {
+      "start": 22.08,
+      "end": 27.52,
+      "text": "Escribo en la palabra Brit y Cloud ya sabe tu tono, el tipo de cliente, el formato, sin que les pique nada."
+    },
+    {
+      "start": 27.52,
+      "end": 29.68,
+      "text": "Pero este es un error que veo que la gente comete mucho."
+    },
+    {
+      "start": 29.68,
+      "end": 33.36,
+      "text": "Llegan instalan un skill genérica y de esa forma Cloud sigue siendo genérica."
+    },
+    {
+      "start": 33.36,
+      "end": 35.32,
+      "text": "Lo que realmente funciona es esto."
+    },
+    {
+      "start": 35.32,
+      "end": 39.28,
+      "text": "Identificar la tarea que más repites, busca su skill específica para esto,"
+    },
+    {
+      "start": 39.28,
+      "end": 43.56,
+      "text": "la mapeas, la analizas con Cloud, la ajusta para tu voz y tu flujo de trabajo."
+    },
+    {
+      "start": 43.56,
+      "end": 45.4,
+      "text": "No es un skill genérica, es para ti."
+    },
+    {
+      "start": 45.4,
+      "end": 47.84,
+      "text": "Sin skills, Cloud funciona como un herramienta cualquiera."
+    },
+    {
+      "start": 47.84,
+      "end": 52.64,
+      "text": "Si mapeas y personaliza tu skills, es como una herramienta profesional especializada para tu caso."
+    },
+    {
+      "start": 52.64,
+      "end": 56.28,
+      "text": "Comenta la palabra skill y denví el repositorio de toda la skill que hemos creado."
+    },
+    {
+      "start": 56.28,
+      "end": 58.44,
+      "text": "No te olvides adaptarla para tu caso particular."
+    },
+    {
+      "start": 58.44,
+      "end": 61.6,
+      "text": "Y sí, me para más contenido especializado de inteligencia artificial."
+    }
+  ]
+}
