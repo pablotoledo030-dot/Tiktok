@@ -1,0 +1,118 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 82.7805625,
+  "text": "los fotógrafos no me lo van a perdonar. ChatGPT recrea cualquier foto que te guste con tu propio rostro de muestros los pasos. El primer paso es que te tome su una foto selfie como esta. El segundo paso es entrar en tu buscador de Google y escribir Pinterest. Si eres nuevo aquí, soy Kenji y en mi red es comparto tips cremosos de inteligencia artificial todos los días. Seleccionas el primer link y lo que tienes que hacer es escoger alguna de las imágenes que te gustaría reproducir con tu propio rostro. El tercer paso es copiar esta imagen o descargarla directamente en tu equipo. El cuarto paso es subir la imagen que descargaste o que guardaste en tu equipo y escribir este prom dame el JSON que describa esta imagen con gran detalle. Y en estos momentos ChatGPT te va a entregar una serie como de texto en código que describe la imagen que tú quieres reproducir. Cuanto termine lo que tienes que hacer es copiar todo este texto que es código JSON. El paso 5 es abrir un nuevo chat y subir la foto que te tomaste. Y escribir este prom adapta la foto a junta al estilo que te comparto y pegas todo el código JSON que te entregó el otro chat y lo envías. Y en estos momentos ya tienes una imagen de muy buen nivel exactamente como tú la querías con tu rostro. Y aquí tenemos el comparativo la original que tomamos de Pinterest contra la mía que ya adaptamos a través de los pasos que te compartí. Guarda este video y compártelo con alguien que quiere reproducir cualquier foto con su rostro.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "los fotógrafos no me lo van a perdonar."
+    },
+    {
+      "start": 2.0,
+      "end": 7.32,
+      "text": "ChatGPT recrea cualquier foto que te guste con tu propio rostro de muestros los pasos."
+    },
+    {
+      "start": 7.32,
+      "end": 11.8,
+      "text": "El primer paso es que te tome su una foto selfie como esta."
+    },
+    {
+      "start": 11.8,
+      "end": 15.68,
+      "text": "El segundo paso es entrar en tu buscador de Google y escribir Pinterest."
+    },
+    {
+      "start": 15.68,
+      "end": 20.8,
+      "text": "Si eres nuevo aquí, soy Kenji y en mi red es comparto tips cremosos de inteligencia artificial"
+    },
+    {
+      "start": 20.8,
+      "end": 21.88,
+      "text": "todos los días."
+    },
+    {
+      "start": 21.88,
+      "end": 26.36,
+      "text": "Seleccionas el primer link y lo que tienes que hacer es escoger alguna de las imágenes que"
+    },
+    {
+      "start": 26.36,
+      "end": 28.96,
+      "text": "te gustaría reproducir con tu propio rostro."
+    },
+    {
+      "start": 28.96,
+      "end": 33.04,
+      "text": "El tercer paso es copiar esta imagen o descargarla directamente en tu equipo."
+    },
+    {
+      "start": 33.04,
+      "end": 38.04,
+      "text": "El cuarto paso es subir la imagen que descargaste o que guardaste en tu equipo y escribir este"
+    },
+    {
+      "start": 38.04,
+      "end": 41.72,
+      "text": "prom dame el JSON que describa esta imagen con gran detalle."
+    },
+    {
+      "start": 41.72,
+      "end": 47.0,
+      "text": "Y en estos momentos ChatGPT te va a entregar una serie como de texto en código que"
+    },
+    {
+      "start": 47.0,
+      "end": 49.88,
+      "text": "describe la imagen que tú quieres reproducir."
+    },
+    {
+      "start": 49.88,
+      "end": 54.24,
+      "text": "Cuanto termine lo que tienes que hacer es copiar todo este texto que es código JSON."
+    },
+    {
+      "start": 54.24,
+      "end": 58.0,
+      "text": "El paso 5 es abrir un nuevo chat y subir la foto que te tomaste."
+    },
+    {
+      "start": 58.0,
+      "end": 62.28,
+      "text": "Y escribir este prom adapta la foto a junta al estilo que te comparto y pegas todo el"
+    },
+    {
+      "start": 62.28,
+      "end": 65.08,
+      "text": "código JSON que te entregó el otro chat y lo envías."
+    },
+    {
+      "start": 65.08,
+      "end": 69.88,
+      "text": "Y en estos momentos ya tienes una imagen de muy buen nivel exactamente como tú la querías"
+    },
+    {
+      "start": 69.88,
+      "end": 70.88,
+      "text": "con tu rostro."
+    },
+    {
+      "start": 70.88,
+      "end": 75.5,
+      "text": "Y aquí tenemos el comparativo la original que tomamos de Pinterest contra la mía que"
+    },
+    {
+      "start": 75.5,
+      "end": 77.96,
+      "text": "ya adaptamos a través de los pasos que te compartí."
+    },
+    {
+      "start": 77.96,
+      "end": 82.56,
+      "text": "Guarda este video y compártelo con alguien que quiere reproducir cualquier foto con su rostro."
+    }
+  ]
+}
