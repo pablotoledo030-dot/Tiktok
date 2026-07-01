@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 32.39325,
+  "text": "Antes me estaba demorando un montón en incrir formulario, Ciclod me mandó a usar esta aplicación que se llama AppStrip, que la estamos usando para hacer formularios para contratación de equipo y la cosa es que uno crea un nuevo proyecto, copia el código que te da clod y rejecuta y te crea el formulario que te lo deja en un drag. O sea, yo me estaba demorando 40 minutos en hacer un formulario en Google Form y con esto, en menos de 5 minutos tengo unos, así que super recomendados.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Antes me estaba demorando un montón en incrir formulario,"
+    },
+    {
+      "start": 2.32,
+      "end": 6.34,
+      "text": "Ciclod me mandó a usar esta aplicación que se llama AppStrip,"
+    },
+    {
+      "start": 6.34,
+      "end": 11.28,
+      "text": "que la estamos usando para hacer formularios para contratación de equipo"
+    },
+    {
+      "start": 11.28,
+      "end": 14.7,
+      "text": "y la cosa es que uno crea un nuevo proyecto,"
+    },
+    {
+      "start": 14.7,
+      "end": 19.8,
+      "text": "copia el código que te da clod y rejecuta y te crea el formulario"
+    },
+    {
+      "start": 19.8,
+      "end": 21.0,
+      "text": "que te lo deja en un drag."
+    },
+    {
+      "start": 21.0,
+      "end": 27.52,
+      "text": "O sea, yo me estaba demorando 40 minutos en hacer un formulario en Google Form"
+    },
+    {
+      "start": 27.52,
+      "end": 32.12,
+      "text": "y con esto, en menos de 5 minutos tengo unos, así que super recomendados."
+    }
+  ]
+}
