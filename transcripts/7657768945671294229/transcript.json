@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 17.811125,
+  "text": "te vengo a recordar, existe esta página donde puede subir pdf libro largos incluso, link no lo tienes que pegarla o a real y si seleccionas el botón de pregunta, puede pedir un resumen el director directamente con el libro del documento y si eres más visual puedes crear incluso tablas, recuerda la página si llamo matapuntoa y todo esto gratis, no olvides seguirme para más",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "te vengo a recordar, existe esta página donde puede subir pdf"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "libro largos incluso, link no lo tienes que pegarla o a real"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "y si seleccionas el botón de pregunta, puede pedir un resumen"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "el director directamente con el libro del documento y si eres más visual"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "puedes crear incluso tablas, recuerda la página si llamo matapuntoa"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "y todo esto gratis, no olvides seguirme para más"
+    }
+  ]
+}
