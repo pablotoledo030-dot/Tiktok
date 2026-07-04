@@ -1,0 +1,78 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 71.7743125,
+  "text": "Antes, para unir placas de acero, hacen una gogeron en metal, metían un remache al rojo vivo y lo golpeaban con un martillo. Al enfriarse y contraerse, el remache sujetaba las placas con fuerza, pero cuanto más vibraban las placas, más se aflojaban los remaches. La gente empezó a pensar, se podrían unir placas de aceros sin remaches, así que empezaron a derretir el acero directamente con fuego. Al aplicar una llama, el metal se derretía y se unía, pero cuando las placas eran más grandes tardaba demasiado. Además el calor se extendía y las deformaba, unir a cero solo con fuego tenía lintes. Entonces surgió una idea, recordaron que al acercar dos varillas con electricidad, saltaban chispas. Así que pasaron electricidad por el acero y se derritó mucho más rápido que con fuego. Cuando había un hueco entre las placas, pasaron corriente por una varilla y al derretirse la varilla, llenó el hueco. Ahora podían unir placas de acero con electricidad en lugar de fuego, pero este método tenía un problema fatal. El voltaje que pasaba por las placas era tan fuerte que podía matar a una persona. Los ingenieros buscaron una solución, finalmente encontraron la respuesta, el transformador. Con un transformador, podían bajar el voltaje y mantener la corriente necesaria para derretir el acero. Por fin, se completó una forma segura de unir placas de acero.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Antes, para unir placas de acero, hacen una gogeron en metal, metían un remache al rojo vivo"
+    },
+    {
+      "start": 5.08,
+      "end": 9.52,
+      "text": "y lo golpeaban con un martillo. Al enfriarse y contraerse, el remache sujetaba las placas"
+    },
+    {
+      "start": 9.52,
+      "end": 15.12,
+      "text": "con fuerza, pero cuanto más vibraban las placas, más se aflojaban los remaches. La gente empezó a pensar,"
+    },
+    {
+      "start": 15.12,
+      "end": 19.92,
+      "text": "se podrían unir placas de aceros sin remaches, así que empezaron a derretir el acero directamente"
+    },
+    {
+      "start": 19.92,
+      "end": 24.48,
+      "text": "con fuego. Al aplicar una llama, el metal se derretía y se unía, pero cuando las placas eran"
+    },
+    {
+      "start": 24.48,
+      "end": 29.08,
+      "text": "más grandes tardaba demasiado. Además el calor se extendía y las deformaba, unir a cero"
+    },
+    {
+      "start": 29.08,
+      "end": 34.48,
+      "text": "solo con fuego tenía lintes. Entonces surgió una idea, recordaron que al acercar dos varillas"
+    },
+    {
+      "start": 34.48,
+      "end": 40.4,
+      "text": "con electricidad, saltaban chispas. Así que pasaron electricidad por el acero y se derritó mucho"
+    },
+    {
+      "start": 40.4,
+      "end": 44.76,
+      "text": "más rápido que con fuego. Cuando había un hueco entre las placas, pasaron corriente por una varilla"
+    },
+    {
+      "start": 44.76,
+      "end": 49.88,
+      "text": "y al derretirse la varilla, llenó el hueco. Ahora podían unir placas de acero con electricidad"
+    },
+    {
+      "start": 49.88,
+      "end": 55.56,
+      "text": "en lugar de fuego, pero este método tenía un problema fatal. El voltaje que pasaba por las placas era"
+    },
+    {
+      "start": 55.56,
+      "end": 61.12,
+      "text": "tan fuerte que podía matar a una persona. Los ingenieros buscaron una solución, finalmente encontraron"
+    },
+    {
+      "start": 61.12,
+      "end": 66.64,
+      "text": "la respuesta, el transformador. Con un transformador, podían bajar el voltaje y mantener la corriente"
+    },
+    {
+      "start": 66.64,
+      "end": 71.56,
+      "text": "necesaria para derretir el acero. Por fin, se completó una forma segura de unir placas de acero."
+    }
+  ]
+}
