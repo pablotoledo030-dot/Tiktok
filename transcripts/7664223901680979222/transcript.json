@@ -1,0 +1,63 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 55.7060625,
+  "text": "Se adjepe te acabas a sacar una funcionalidad que lo cambia todo, que te permite grabar algo, mandarle el vídeo a la IA y que a partir de entonces la IA se encargue de hacer lo que ha visto en el vídeo. Se llama ricordan replay, simplemente lo activas, grabas la pantalla haciendo cualquier cosa, de tal modo que la IA aprenderá a hacerlo y luego lo ejecutará igual, así en el futuro puedes olvidarte de hacer tu esa tarea. Enseño este ejemplo pero antes dale like a este vídeo y sígueme por el que estoy subiendo vídeos como estos todos los días. En este ejemplo podemos ver que se le indica cómo subir un vídeo a Youtube y se le dice que aprenda para que a partir de ahora se encargue la IA de ejecutar esa tarea. ChazGPT va a crear una skill con todo lo aprendido y como vemos luego simplemente le subes una carpeta con la portada con el vídeo y con el archivo de subtítulos, que descargas los archivos y sigue el proceso que ha aprendido y suba el vídeo completo. Es importante saber que esto solo se puede hacer con Codex, que es como el cloud code pero de chazGPT. Seguro que no conocías esta función y gracias a mi lo has descubierto. Creo que me he ganado que me sigas, ¿no?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "Se adjepe te acabas a sacar una funcionalidad que lo cambia todo, que te permite grabar algo,"
+    },
+    {
+      "start": 4.12,
+      "end": 9.24,
+      "text": "mandarle el vídeo a la IA y que a partir de entonces la IA se encargue de hacer lo que ha visto en el vídeo."
+    },
+    {
+      "start": 9.24,
+      "end": 14.08,
+      "text": "Se llama ricordan replay, simplemente lo activas, grabas la pantalla haciendo cualquier cosa,"
+    },
+    {
+      "start": 14.08,
+      "end": 20.48,
+      "text": "de tal modo que la IA aprenderá a hacerlo y luego lo ejecutará igual, así en el futuro puedes olvidarte de hacer tu esa tarea."
+    },
+    {
+      "start": 20.48,
+      "end": 25.56,
+      "text": "Enseño este ejemplo pero antes dale like a este vídeo y sígueme por el que estoy subiendo vídeos como estos todos los días."
+    },
+    {
+      "start": 25.56,
+      "end": 32.96,
+      "text": "En este ejemplo podemos ver que se le indica cómo subir un vídeo a Youtube y se le dice que aprenda para que a partir de ahora se encargue la IA de ejecutar esa tarea."
+    },
+    {
+      "start": 32.96,
+      "end": 40.64,
+      "text": "ChazGPT va a crear una skill con todo lo aprendido y como vemos luego simplemente le subes una carpeta con la portada con el vídeo y con el archivo de subtítulos,"
+    },
+    {
+      "start": 40.64,
+      "end": 45.4,
+      "text": "que descargas los archivos y sigue el proceso que ha aprendido y suba el vídeo completo."
+    },
+    {
+      "start": 45.4,
+      "end": 50.8,
+      "text": "Es importante saber que esto solo se puede hacer con Codex, que es como el cloud code pero de chazGPT."
+    },
+    {
+      "start": 50.8,
+      "end": 54.08,
+      "text": "Seguro que no conocías esta función y gracias a mi lo has descubierto."
+    },
+    {
+      "start": 54.08,
+      "end": 55.6,
+      "text": "Creo que me he ganado que me sigas, ¿no?"
+    }
+  ]
+}
