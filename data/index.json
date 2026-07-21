@@ -2392,5 +2392,11 @@
     "desc": "OpenAI acaba de lanzar Record & Replay en Codex, y esto cambia por completo cómo se puede automatizar tareas repetitivas sin escribir una sola línea de código. La idea es sencilla. Le enseñas a Codex una tarea una sola vez, haciéndola tú mismo en tu Mac, y él la convierte en una skill reutilizable que puede ejecutar solo cada vez que la necesites. Rellenar un gasto, subir un vídeo con su miniatura y subtítulos, descargar un informe recurrente. El problema es que hasta ahora automatizar este tipo de tareas exigía saber programar o configurar un flujo en n8n o Make. Aquí no. Solo grabas, y el modelo interpreta lo que has hecho en lenguaje natural, no en coordenadas de pantalla como las herramientas RPA de siempre. Eso es lo que lo hace mucho más robusto. De momento tiene truquillos: hace falta tener Computer Use activado y todavía no está disponible en la Unión Europea, Reino Unido ni Suiza. Aun así marca una dirección clara: la IA dejando de depender de que sepas describir bien lo que quieres, y empezando a aprender directamente de verte trabajar.",
     "processed_at": "2026-07-20T18:18:28.277328+00:00",
     "url": "https://www.tiktok.com/@jmfusterr/video/7664223901680979222"
+  },
+  "7664429965668060424": {
+    "author": "gradosok",
+    "desc": "Compras que No Devolvería Jamás. Esta vez hice más compras. Esta es la lista de joyas que no se encuentran fácil. Me gusta hacer esta serie, puede ayudar a muchos a descubrir cosas que necesitaban y que no conocían. Una pequeña compra puede hacer la diferencia.",
+    "processed_at": "2026-07-21T03:43:58.005939+00:00",
+    "url": "https://www.tiktok.com/@gradosok/video/7664429965668060424"
   }
 }
