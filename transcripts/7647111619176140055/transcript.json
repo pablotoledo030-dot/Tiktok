@@ -1,0 +1,218 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 178.6789375,
+  "text": "Se acaba de lanzar el nuevo modelo de inteligencia artificial Minimax M3. Es multimodal y viene acompañado de su Minimax Code. Y como de costumbre, nos muestran una gráfica donde lo ponen a competir contra modelos como por ejemplo Opus o ChatGPT. Pero como ya sabemos que a las gráficas uno no le puede hacer mucho caso lo que vamos a hacer es descargarlo en mi caso utilizaré OpenCode y lo probamos. Es tan sencillo como instalar los modelos, venimos aquí y los seleccionamos y empezamos. En mi caso tengo preparadas tres pruebas que hice el día de ayer y la primera de todas es un minijuego de carreras. En estas pruebas no hice ningún tipo de planificación directamente que me hagas el juego en 3D para navegador. La primera vez fue rapidísimo de hecho Tardó dos minutos y medio, dije se habrá olvidado algo y medio algo como esto. Para empezar yo creo que está bastante bien y no he corregido absolutamente nada. Pero claro le falta vida así que le dije que agregar algún tipo de personaje conía o NPC. Aquí la cosa ya se puso más seria casi cinco minutos Tardó y le tuve que decir que arreglen los personajes porque no salían como deberían de salir ni tenían suficiente velocidad. Y siete minutos después vamos a ver cómo ha quedado. A clara que como un hecho infraestructura me lo ha guardado todo en un HTML. Y después de esto de decir que ya sí que parece un juego coherente que esté es compitiendo contra otros coches. Esto es otro nivel. Con esto pasamos a la siguiente prueba le dije que creas un lenguaje inspirado en Python que funcione en mi navegador. De nuevo todo esto sin fase de planificación que tengo una terminal y que pueda ver los resultados directamente desde la web. Por último le dije que organiza el código en una carpeta pero el proceso entero me tardó unos 18 minutos. De nuevo tenemos un HTML y esto sí que no me lo esperé y es que me funcionó a la primera. Por ejemplo aquí nos pone un código de ejemplo le damos a ejecutar y por aquí abajo vemos la ejecución que ha habido. Por ejemplo for in range 10 probamos a concatenar dos strings ejecutamos y aquí está a ver para verlo hecho en la primera no está nada mal y si miramos el código podemos ver que tiene el primero el parcer y después por aquí un interprete que tiene básicamente unas built-ins de como operar. De hecho he visto que tengo la operación incluso soms y la prueba por aquí a pues sí que está funcionando. Y bueno está bastante gracioso pero incluso que tiene un sor para transformarlo esta llamada de aquí de JavaScript. Pero bueno después de ver esto resultados busque algo más pícaro y que le llevase tiempo así que le dije oye transformame una consola en un joystick que puedo usar en el Mac. Básicamente la idea es que me transforme esto en el controlador que utilizaré para jugar a videojuegos. Y como puedes ver en algún punto se dio cuenta de que esto era una pregunta trampa porque no puedes hacerlo si no tienes un certificado. Lo interesante de hacer este tipo de preguntas es que aquí sí que tuvo que entrar en una fase de planificación y aquí podemos ver los tutus. Aquí sí que tuve que intervenir varias veces y me propuso que usasemos el teclado como solución. Y cada vez que se ponía reglar fallos podía tardar perfectamente 8 minutos porque el mismo tiempo estaba enviando por remoto datos a la consola. Y nada por aquí arranca el servidor que me piden y pasamos a arrancar el script. Y aquí un momento de la verdad presiono la tecla de arriba, presiono del lado y puedo ver como el personaje se está moviendo dentro del mapa. Pues la verdad ni tan mal lo único que me preocupas que se pone demasiado filosófico en tareas largas. Ahí sí que te recomiendo que utilices los agentes y que cada uno haga una tarea particular. Por lo tanto punto a mejorar la velocidad a medida que aumenta el contexto de lo que hemos estado haciendo. Por otro lado lo que me ha gustado es que incluso sin fase de planificación ya empiezan a pensar un poco más como arquitectos de código estos modelos. En mi caso utilizado plan max durante un día y no ha habido manera de llegar a ninguno de los límites. Así que en mi caso yo creo que con el plan de 20 iría más que sobrado. Lo que no ha gustado tanto es que el precio del millón de tokens ha aumentado bastante. Eso si los primeros siete días el precio del token estará al 50%. Así que nada si te animas a probarlo tendrás en el hace a minimax code de mi perfil.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Se acaba de lanzar el nuevo modelo de inteligencia artificial Minimax M3."
+    },
+    {
+      "start": 3.04,
+      "end": 5.56,
+      "text": "Es multimodal y viene acompañado de su Minimax Code."
+    },
+    {
+      "start": 5.56,
+      "end": 10.36,
+      "text": "Y como de costumbre, nos muestran una gráfica donde lo ponen a competir contra modelos como por ejemplo Opus o ChatGPT."
+    },
+    {
+      "start": 10.36,
+      "end": 16.04,
+      "text": "Pero como ya sabemos que a las gráficas uno no le puede hacer mucho caso lo que vamos a hacer es descargarlo en mi caso utilizaré OpenCode y lo probamos."
+    },
+    {
+      "start": 16.04,
+      "end": 19.48,
+      "text": "Es tan sencillo como instalar los modelos, venimos aquí y los seleccionamos y empezamos."
+    },
+    {
+      "start": 19.48,
+      "end": 23.88,
+      "text": "En mi caso tengo preparadas tres pruebas que hice el día de ayer y la primera de todas es un minijuego de carreras."
+    },
+    {
+      "start": 23.88,
+      "end": 28.2,
+      "text": "En estas pruebas no hice ningún tipo de planificación directamente que me hagas el juego en 3D para navegador."
+    },
+    {
+      "start": 28.2,
+      "end": 33.76,
+      "text": "La primera vez fue rapidísimo de hecho Tardó dos minutos y medio, dije se habrá olvidado algo y medio algo como esto."
+    },
+    {
+      "start": 33.76,
+      "end": 36.96,
+      "text": "Para empezar yo creo que está bastante bien y no he corregido absolutamente nada."
+    },
+    {
+      "start": 36.96,
+      "end": 40.8,
+      "text": "Pero claro le falta vida así que le dije que agregar algún tipo de personaje conía o NPC."
+    },
+    {
+      "start": 40.8,
+      "end": 48.2,
+      "text": "Aquí la cosa ya se puso más seria casi cinco minutos Tardó y le tuve que decir que arreglen los personajes porque no salían como deberían de salir ni tenían suficiente velocidad."
+    },
+    {
+      "start": 48.2,
+      "end": 50.44,
+      "text": "Y siete minutos después vamos a ver cómo ha quedado."
+    },
+    {
+      "start": 50.44,
+      "end": 53.64,
+      "text": "A clara que como un hecho infraestructura me lo ha guardado todo en un HTML."
+    },
+    {
+      "start": 53.72,
+      "end": 57.96,
+      "text": "Y después de esto de decir que ya sí que parece un juego coherente que esté es compitiendo contra otros coches."
+    },
+    {
+      "start": 57.96,
+      "end": 58.72,
+      "text": "Esto es otro nivel."
+    },
+    {
+      "start": 58.72,
+      "end": 63.4,
+      "text": "Con esto pasamos a la siguiente prueba le dije que creas un lenguaje inspirado en Python que funcione en mi navegador."
+    },
+    {
+      "start": 63.4,
+      "end": 68.28,
+      "text": "De nuevo todo esto sin fase de planificación que tengo una terminal y que pueda ver los resultados directamente desde la web."
+    },
+    {
+      "start": 68.28,
+      "end": 72.92,
+      "text": "Por último le dije que organiza el código en una carpeta pero el proceso entero me tardó unos 18 minutos."
+    },
+    {
+      "start": 72.92,
+      "end": 77.28,
+      "text": "De nuevo tenemos un HTML y esto sí que no me lo esperé y es que me funcionó a la primera."
+    },
+    {
+      "start": 77.28,
+      "end": 82.12,
+      "text": "Por ejemplo aquí nos pone un código de ejemplo le damos a ejecutar y por aquí abajo vemos la ejecución que ha habido."
+    },
+    {
+      "start": 82.12,
+      "end": 88.56,
+      "text": "Por ejemplo for in range 10 probamos a concatenar dos strings ejecutamos y aquí está a ver para verlo hecho en la primera no está nada mal"
+    },
+    {
+      "start": 88.56,
+      "end": 94.72,
+      "text": "y si miramos el código podemos ver que tiene el primero el parcer y después por aquí un interprete que tiene básicamente unas built-ins de como operar."
+    },
+    {
+      "start": 94.72,
+      "end": 98.68,
+      "text": "De hecho he visto que tengo la operación incluso soms y la prueba por aquí a pues sí que está funcionando."
+    },
+    {
+      "start": 98.68,
+      "end": 102.76,
+      "text": "Y bueno está bastante gracioso pero incluso que tiene un sor para transformarlo esta llamada de aquí de JavaScript."
+    },
+    {
+      "start": 102.76,
+      "end": 106.68,
+      "text": "Pero bueno después de ver esto resultados busque algo más pícaro y que le llevase tiempo así que le dije"
+    },
+    {
+      "start": 106.68,
+      "end": 109.8,
+      "text": "oye transformame una consola en un joystick que puedo usar en el Mac."
+    },
+    {
+      "start": 109.8,
+      "end": 114.08,
+      "text": "Básicamente la idea es que me transforme esto en el controlador que utilizaré para jugar a videojuegos."
+    },
+    {
+      "start": 114.08,
+      "end": 119.6,
+      "text": "Y como puedes ver en algún punto se dio cuenta de que esto era una pregunta trampa porque no puedes hacerlo si no tienes un certificado."
+    },
+    {
+      "start": 119.6,
+      "end": 125.08,
+      "text": "Lo interesante de hacer este tipo de preguntas es que aquí sí que tuvo que entrar en una fase de planificación y aquí podemos ver los tutus."
+    },
+    {
+      "start": 125.08,
+      "end": 129.36,
+      "text": "Aquí sí que tuve que intervenir varias veces y me propuso que usasemos el teclado como solución."
+    },
+    {
+      "start": 129.36,
+      "end": 135.36,
+      "text": "Y cada vez que se ponía reglar fallos podía tardar perfectamente 8 minutos porque el mismo tiempo estaba enviando por remoto datos a la consola."
+    },
+    {
+      "start": 135.36,
+      "end": 138.44,
+      "text": "Y nada por aquí arranca el servidor que me piden y pasamos a arrancar el script."
+    },
+    {
+      "start": 138.44,
+      "end": 144.28,
+      "text": "Y aquí un momento de la verdad presiono la tecla de arriba, presiono del lado y puedo ver como el personaje se está moviendo dentro del mapa."
+    },
+    {
+      "start": 144.28,
+      "end": 148.6,
+      "text": "Pues la verdad ni tan mal lo único que me preocupas que se pone demasiado filosófico en tareas largas."
+    },
+    {
+      "start": 148.6,
+      "end": 152.4,
+      "text": "Ahí sí que te recomiendo que utilices los agentes y que cada uno haga una tarea particular."
+    },
+    {
+      "start": 152.4,
+      "end": 156.88,
+      "text": "Por lo tanto punto a mejorar la velocidad a medida que aumenta el contexto de lo que hemos estado haciendo."
+    },
+    {
+      "start": 156.88,
+      "end": 162.44,
+      "text": "Por otro lado lo que me ha gustado es que incluso sin fase de planificación ya empiezan a pensar un poco más como arquitectos de código estos modelos."
+    },
+    {
+      "start": 162.44,
+      "end": 166.64,
+      "text": "En mi caso utilizado plan max durante un día y no ha habido manera de llegar a ninguno de los límites."
+    },
+    {
+      "start": 166.64,
+      "end": 169.4,
+      "text": "Así que en mi caso yo creo que con el plan de 20 iría más que sobrado."
+    },
+    {
+      "start": 169.4,
+      "end": 172.52,
+      "text": "Lo que no ha gustado tanto es que el precio del millón de tokens ha aumentado bastante."
+    },
+    {
+      "start": 172.52,
+      "end": 175.48,
+      "text": "Eso si los primeros siete días el precio del token estará al 50%."
+    },
+    {
+      "start": 175.48,
+      "end": 178.68,
+      "text": "Así que nada si te animas a probarlo tendrás en el hace a minimax code de mi perfil."
+    }
+  ]
+}
