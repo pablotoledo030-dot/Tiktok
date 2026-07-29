@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 22.9195,
+  "text": "Bueno, aquí tengo editando a Cloud Code otro video y lo único que tengo que hacer es darle permítir. Si se puede automatizar eso, diga mejor favor porque tengo que estar pendiente de que este... de darle los permisos, pero que onda lo rápido que se puede hacer todo ahora con la inteligencia artificial.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Bueno, aquí tengo editando a Cloud Code otro video"
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "y lo único que tengo que hacer es darle permítir."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Si se puede automatizar eso, diga mejor favor"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "porque tengo que estar pendiente de que este..."
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "text": "de darle los permisos, pero que onda lo rápido que se puede hacer"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "todo ahora con la inteligencia artificial."
+    }
+  ]
+}
