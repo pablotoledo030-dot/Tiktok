@@ -1,0 +1,153 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 117.4711875,
+  "text": "¿Sabes qué es el WAC? De lo explico en un minuto. WAC significa costo promedio ponderado de capital. Dicho de otra forma, el WAC indica cuánto le cuesta a una empresa financiarse en promedio. Normalmente una empresa se financia de dos formas. Con dinero de los dueños llamado Patrimonio y con dinero prestado por bancos u otros acreedores, llamado Deuda. Entonces, el WAC responde esta pregunta. ¿Cuál es el costo promedio de toda la plata que financiera la empresa? Mira este ejemplo. Una empresa se financia con 40% de financiamiento de bancos, 60% de financiamiento de los dueños. Los dueños exigen una rentabilidad del 12%. El banco cobra una tasa de interés del 8%. Pero te presente que los intereses de un préstamo se reconocen como gasto financiero, que reduce la utilidad afecta en puesta la renta. En este ejemplo, si la tasa de impuesto es 25% entonces el WAC es el costo del financiamiento de terceros, más el costo del financiamiento de los dueños. Es decir, el WAC es 2,4% más 7,2% igual 9,6%. ¿Qué significa esto? Que todo proyecto nuevo debería generar una rentabilidad mínima de 9,6% para que valga la pena. Por eso el WAC se usa para evaluar proyectos, valorar empresas y descontar flujos futuros. Recuerda, el WAC se debe estimar considerando el costo de la deuda, el costo del patrimonio, la estructura de financiamiento y los impuestos. Hay que ganar más de lo que cuesta financiar ese dinero. Dime, si un proyecto rinde 8%, pero el WAC de la empresa es 9,6%. ¿Crea o destruye valor? Comente y sígueme para más contabilidad en un minuto. Te espero en la próxima lección.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "¿Sabes qué es el WAC?"
+    },
+    {
+      "start": 1.54,
+      "end": 3.36,
+      "text": "De lo explico en un minuto."
+    },
+    {
+      "start": 3.36,
+      "end": 7.34,
+      "text": "WAC significa costo promedio ponderado de capital."
+    },
+    {
+      "start": 7.34,
+      "end": 14.04,
+      "text": "Dicho de otra forma, el WAC indica cuánto le cuesta a una empresa financiarse en promedio."
+    },
+    {
+      "start": 14.04,
+      "end": 17.12,
+      "text": "Normalmente una empresa se financia de dos formas."
+    },
+    {
+      "start": 17.12,
+      "end": 22.22,
+      "text": "Con dinero de los dueños llamado Patrimonio y con dinero prestado por bancos u otros acreedores,"
+    },
+    {
+      "start": 22.22,
+      "end": 23.68,
+      "text": "llamado Deuda."
+    },
+    {
+      "start": 23.68,
+      "end": 26.56,
+      "text": "Entonces, el WAC responde esta pregunta."
+    },
+    {
+      "start": 26.56,
+      "end": 30.32,
+      "text": "¿Cuál es el costo promedio de toda la plata que financiera la empresa?"
+    },
+    {
+      "start": 30.32,
+      "end": 31.96,
+      "text": "Mira este ejemplo."
+    },
+    {
+      "start": 31.96,
+      "end": 40.2,
+      "text": "Una empresa se financia con 40% de financiamiento de bancos, 60% de financiamiento de los dueños."
+    },
+    {
+      "start": 40.2,
+      "end": 43.8,
+      "text": "Los dueños exigen una rentabilidad del 12%."
+    },
+    {
+      "start": 43.8,
+      "end": 47.44,
+      "text": "El banco cobra una tasa de interés del 8%."
+    },
+    {
+      "start": 47.44,
+      "end": 52.24,
+      "text": "Pero te presente que los intereses de un préstamo se reconocen como gasto financiero,"
+    },
+    {
+      "start": 52.24,
+      "end": 55.08,
+      "text": "que reduce la utilidad afecta en puesta la renta."
+    },
+    {
+      "start": 55.16,
+      "end": 58.76,
+      "text": "En este ejemplo, si la tasa de impuesto es 25%"
+    },
+    {
+      "start": 58.76,
+      "end": 63.72,
+      "text": "entonces el WAC es el costo del financiamiento de terceros,"
+    },
+    {
+      "start": 63.72,
+      "end": 66.68,
+      "text": "más el costo del financiamiento de los dueños."
+    },
+    {
+      "start": 66.68,
+      "end": 74.28,
+      "text": "Es decir, el WAC es 2,4% más 7,2% igual 9,6%."
+    },
+    {
+      "start": 74.28,
+      "end": 75.72,
+      "text": "¿Qué significa esto?"
+    },
+    {
+      "start": 75.72,
+      "end": 82.72,
+      "text": "Que todo proyecto nuevo debería generar una rentabilidad mínima de 9,6% para que valga la pena."
+    },
+    {
+      "start": 82.8,
+      "end": 87.84,
+      "text": "Por eso el WAC se usa para evaluar proyectos, valorar empresas y descontar flujos futuros."
+    },
+    {
+      "start": 87.84,
+      "end": 93.72,
+      "text": "Recuerda, el WAC se debe estimar considerando el costo de la deuda, el costo del patrimonio,"
+    },
+    {
+      "start": 93.72,
+      "end": 96.84,
+      "text": "la estructura de financiamiento y los impuestos."
+    },
+    {
+      "start": 96.84,
+      "end": 100.08,
+      "text": "Hay que ganar más de lo que cuesta financiar ese dinero."
+    },
+    {
+      "start": 100.08,
+      "end": 106.28,
+      "text": "Dime, si un proyecto rinde 8%, pero el WAC de la empresa es 9,6%."
+    },
+    {
+      "start": 106.28,
+      "end": 108.12,
+      "text": "¿Crea o destruye valor?"
+    },
+    {
+      "start": 108.12,
+      "end": 110.44,
+      "text": "Comente y sígueme para más contabilidad en un minuto."
+    },
+    {
+      "start": 110.44,
+      "end": 111.64,
+      "text": "Te espero en la próxima lección."
+    }
+  ]
+}
