@@ -1,0 +1,183 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 128.3845625,
+  "text": "Bueno, cabros, ¿cómo están? Hoy ven, aquí en una pequeña reflexión sobre la IA, a pesar de que es genial y todo, la estoy comparando últimamente con la construcción. Hacer la mano de obra gruesa de una aplicación, de una obra, no es tan complicado porque tenía el estructura, el plano, seguís todo y pero los detalles son complejos. Me pasa lo mismo con las aplicaciones, estoy desarrollando la PP a la más senc, me está quedando bastante bonita, le metí un poco de belleza al diseño y todo, pero los detalles me están costando aquí siento que por ejemplo lo que hice es programar, y sí, falta aquí la potencia de ser programar para tu meter el código que creo, mejora esos detalles tú mismo porque hay veces que mi input, mi prompt para cloud para la IA, no me lo entiende y he probado con diferentes como inteligencia, pero no he logrado, no he logrado que me entiende el problema, no digo que no es posible, pero en un corto plazo yo pensé que en una semana terminaba la aplicación, pero no efectivamente lo más probable que, así como voy, yo creo que la aplicación la de una de un mes, lo cual lo encontró fantástico, pero nada, es una pequeña reflexión que no, todo es hermoso, pero los detalles son complicados, no es posible pero complicados, así que eso, cuando vayan a desarrollar, hagan un buen diseño, piensen bien los detalles y puta siempre van a encontrar detalles, siempre, siempre van a poder mejorar algo, hay veces que la aplicación funciona bien con esos fallos, con esos errores, por eso que siempre hay updates de la aplicación y mejora, eso, que también no me gusta.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Bueno, cabros, ¿cómo están?"
+    },
+    {
+      "start": 1.48,
+      "end": 6.38,
+      "text": "Hoy ven, aquí en una pequeña reflexión sobre la IA,"
+    },
+    {
+      "start": 6.38,
+      "end": 10.0,
+      "text": "a pesar de que es genial y todo,"
+    },
+    {
+      "start": 10.0,
+      "end": 13.72,
+      "text": "la estoy comparando últimamente con la construcción."
+    },
+    {
+      "start": 13.72,
+      "end": 17.84,
+      "text": "Hacer la mano de obra gruesa de una aplicación,"
+    },
+    {
+      "start": 17.84,
+      "end": 22.96,
+      "text": "de una obra, no es tan complicado porque"
+    },
+    {
+      "start": 22.96,
+      "end": 27.64,
+      "text": "tenía el estructura, el plano, seguís todo"
+    },
+    {
+      "start": 27.64,
+      "end": 31.08,
+      "text": "y pero los detalles son complejos."
+    },
+    {
+      "start": 31.08,
+      "end": 34.08,
+      "text": "Me pasa lo mismo con las aplicaciones, estoy desarrollando"
+    },
+    {
+      "start": 34.08,
+      "end": 39.36,
+      "text": "la PP a la más senc, me está quedando bastante bonita,"
+    },
+    {
+      "start": 39.36,
+      "end": 45.16,
+      "text": "le metí un poco de belleza al diseño y todo,"
+    },
+    {
+      "start": 45.16,
+      "end": 50.12,
+      "text": "pero los detalles me están costando aquí siento"
+    },
+    {
+      "start": 50.12,
+      "end": 52.48,
+      "text": "que por ejemplo lo que hice es programar,"
+    },
+    {
+      "start": 52.48,
+      "end": 57.48,
+      "text": "y sí, falta aquí la potencia de ser programar"
+    },
+    {
+      "start": 57.48,
+      "end": 61.48,
+      "text": "para tu meter el código que creo,"
+    },
+    {
+      "start": 61.48,
+      "end": 65.48,
+      "text": "mejora esos detalles tú mismo porque hay veces que"
+    },
+    {
+      "start": 65.48,
+      "end": 70.0,
+      "text": "mi input, mi prompt para cloud para la IA,"
+    },
+    {
+      "start": 70.0,
+      "end": 72.8,
+      "text": "no me lo entiende y he probado con diferentes"
+    },
+    {
+      "start": 72.8,
+      "end": 77.8,
+      "text": "como inteligencia, pero no he logrado,"
+    },
+    {
+      "start": 78.8,
+      "end": 82.8,
+      "text": "no he logrado que me entiende el problema,"
+    },
+    {
+      "start": 82.8,
+      "end": 86.8,
+      "text": "no digo que no es posible, pero en un corto plazo"
+    },
+    {
+      "start": 86.8,
+      "end": 88.8,
+      "text": "yo pensé que en una semana terminaba la aplicación,"
+    },
+    {
+      "start": 88.8,
+      "end": 90.8,
+      "text": "pero no efectivamente lo más probable que,"
+    },
+    {
+      "start": 90.8,
+      "end": 93.8,
+      "text": "así como voy, yo creo que la aplicación"
+    },
+    {
+      "start": 93.8,
+      "end": 96.8,
+      "text": "la de una de un mes, lo cual lo encontró fantástico,"
+    },
+    {
+      "start": 96.8,
+      "end": 100.8,
+      "text": "pero nada, es una pequeña reflexión que no,"
+    },
+    {
+      "start": 100.8,
+      "end": 104.8,
+      "text": "todo es hermoso, pero los detalles son complicados,"
+    },
+    {
+      "start": 104.8,
+      "end": 106.8,
+      "text": "no es posible pero complicados,"
+    },
+    {
+      "start": 106.8,
+      "end": 109.8,
+      "text": "así que eso, cuando vayan a desarrollar,"
+    },
+    {
+      "start": 109.8,
+      "end": 113.8,
+      "text": "hagan un buen diseño, piensen bien los detalles"
+    },
+    {
+      "start": 113.8,
+      "end": 116.8,
+      "text": "y puta siempre van a encontrar detalles, siempre,"
+    },
+    {
+      "start": 116.8,
+      "end": 118.8,
+      "text": "siempre van a poder mejorar algo,"
+    },
+    {
+      "start": 118.8,
+      "end": 121.8,
+      "text": "hay veces que la aplicación funciona bien con esos fallos,"
+    },
+    {
+      "start": 121.8,
+      "end": 123.8,
+      "text": "con esos errores, por eso que siempre hay updates"
+    },
+    {
+      "start": 123.8,
+      "end": 127.8,
+      "text": "de la aplicación y mejora, eso, que también no me gusta."
+    }
+  ]
+}
