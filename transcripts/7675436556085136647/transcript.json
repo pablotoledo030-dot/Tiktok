@@ -1,0 +1,163 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 127.4093125,
+  "text": "Oigan, me vengo a descargar acá. Estos últimos días me ha tocado trabajar en varias licitaciones y... estaba automatizando skills para que esto sea muchísimo más epicente y más rápido y esa skills man está funcionando súper bien. Sin embargo... se me ocurrió la brillante idea de decir, oye, ¿por qué no automatizamos el proceso de punta a punta? Y es que tengo la maldita obsesión porque voy a utilizar todo. Proceso, pajero que veo, lo quiero mejorar de una. Entonces, empecé a diseñar con Codex el sistema completo. Quieba, haya una gente, varios agentes que hagan distintas cosas. Y empecé a armar el proceso completo con Codex. Estuve todo el fin de semana intentando hacer esta cuestión y Codex no fue capaz. Y después de iterar tanto, ya no me queda 10 por 7 tokens, así que me aburrí y me dije la obligación de contratar nuevamente a Claudio para que me ayude con este tema. Y solo en un par de horas ayer Codex, Claudio, logramos resolverlo y está funcionando súper bien. Ahora estamos afinando detalles pequeños, pero básicamente revisamos los documentos y puf, me produce todos los entregables que necesito de me generar un estatus de todo lo que necesito. Así que por ahora vamos bien, pero no sé por qué Codex para algunas cosas, o ChatGP de Frauda y Claudio funciona perfecto. Y me ha pasado alrededor, ¿están bien? Así que parece que el mejor combo aquí es de utilizar los dos. Pero ahora está funcionando bien, estamos haciendo program, pero les voy contando como prospera esto ya que Codex me decepcionó Claudio bien por ti. Así que eso, les voy contando.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Oigan, me vengo a descargar acá."
+    },
+    {
+      "start": 2.3,
+      "end": 6.56,
+      "text": "Estos últimos días me ha tocado trabajar en varias licitaciones"
+    },
+    {
+      "start": 6.56,
+      "end": 8.46,
+      "text": "y..."
+    },
+    {
+      "start": 8.46,
+      "end": 13.6,
+      "text": "estaba automatizando skills para que esto sea muchísimo más epicente y más rápido"
+    },
+    {
+      "start": 13.6,
+      "end": 17.0,
+      "text": "y esa skills man está funcionando súper bien."
+    },
+    {
+      "start": 17.0,
+      "end": 19.46,
+      "text": "Sin embargo..."
+    },
+    {
+      "start": 19.46,
+      "end": 22.32,
+      "text": "se me ocurrió la brillante idea de decir,"
+    },
+    {
+      "start": 22.32,
+      "end": 25.44,
+      "text": "oye, ¿por qué no automatizamos el proceso de punta a punta?"
+    },
+    {
+      "start": 25.44,
+      "end": 28.5,
+      "text": "Y es que tengo la maldita obsesión"
+    },
+    {
+      "start": 28.5,
+      "end": 30.3,
+      "text": "porque voy a utilizar todo."
+    },
+    {
+      "start": 30.3,
+      "end": 32.26,
+      "text": "Proceso, pajero que veo,"
+    },
+    {
+      "start": 32.26,
+      "end": 34.06,
+      "text": "lo quiero mejorar de una."
+    },
+    {
+      "start": 34.06,
+      "end": 40.74,
+      "text": "Entonces, empecé a diseñar con Codex el sistema completo."
+    },
+    {
+      "start": 40.74,
+      "end": 45.62,
+      "text": "Quieba, haya una gente, varios agentes que hagan distintas cosas."
+    },
+    {
+      "start": 45.62,
+      "end": 48.1,
+      "text": "Y empecé a armar el proceso completo con Codex."
+    },
+    {
+      "start": 48.1,
+      "end": 50.86,
+      "text": "Estuve todo el fin de semana intentando hacer esta cuestión"
+    },
+    {
+      "start": 50.86,
+      "end": 53.14,
+      "text": "y Codex no fue capaz."
+    },
+    {
+      "start": 53.14,
+      "end": 56.9,
+      "text": "Y después de iterar tanto, ya no me queda 10 por 7 tokens,"
+    },
+    {
+      "start": 56.9,
+      "end": 66.5,
+      "text": "así que me aburrí y me dije la obligación de contratar nuevamente a Claudio"
+    },
+    {
+      "start": 66.5,
+      "end": 68.18,
+      "text": "para que me ayude con este tema."
+    },
+    {
+      "start": 68.18,
+      "end": 70.9,
+      "text": "Y solo en un par de horas ayer Codex,"
+    },
+    {
+      "start": 70.9,
+      "end": 76.98,
+      "text": "Claudio, logramos resolverlo y está funcionando súper bien."
+    },
+    {
+      "start": 76.98,
+      "end": 83.42,
+      "text": "Ahora estamos afinando detalles pequeños, pero básicamente revisamos los documentos"
+    },
+    {
+      "start": 83.42,
+      "end": 89.26,
+      "text": "y puf, me produce todos los entregables que necesito de me generar un estatus de todo lo que necesito."
+    },
+    {
+      "start": 89.26,
+      "end": 97.1,
+      "text": "Así que por ahora vamos bien, pero no sé por qué Codex para algunas cosas,"
+    },
+    {
+      "start": 97.1,
+      "end": 103.3,
+      "text": "o ChatGP de Frauda y Claudio funciona perfecto."
+    },
+    {
+      "start": 103.3,
+      "end": 105.1,
+      "text": "Y me ha pasado alrededor, ¿están bien?"
+    },
+    {
+      "start": 105.1,
+      "end": 109.7,
+      "text": "Así que parece que el mejor combo aquí es de utilizar los dos."
+    },
+    {
+      "start": 109.7,
+      "end": 114.86,
+      "text": "Pero ahora está funcionando bien, estamos haciendo program,"
+    },
+    {
+      "start": 114.86,
+      "end": 124.98,
+      "text": "pero les voy contando como prospera esto ya que Codex me decepcionó Claudio bien por ti."
+    },
+    {
+      "start": 124.98,
+      "end": 127.38,
+      "text": "Así que eso, les voy contando."
+    }
+  ]
+}
