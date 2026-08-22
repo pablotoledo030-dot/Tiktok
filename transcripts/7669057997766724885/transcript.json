@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 23.987625,
+  "text": "La palabra del día es... Misanthropo. Significa alguien que desconfía de las personas y prefiere estar solo. En pocas palabras, prefiere la soledad a la gente. Ejemplo. Con el tiempo dejó de confiar en todos. Se volvió un misanthropo. Usa la para describir a quien evita los demás por desconfianza o decepción. Expande tu lenguaje.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.38,
+      "text": "La palabra del día es... Misanthropo."
+    },
+    {
+      "start": 5.38,
+      "end": 9.78,
+      "text": "Significa alguien que desconfía de las personas y prefiere estar solo."
+    },
+    {
+      "start": 9.78,
+      "end": 13.06,
+      "text": "En pocas palabras, prefiere la soledad a la gente."
+    },
+    {
+      "start": 13.06,
+      "end": 14.06,
+      "text": "Ejemplo."
+    },
+    {
+      "start": 14.06,
+      "end": 16.38,
+      "text": "Con el tiempo dejó de confiar en todos."
+    },
+    {
+      "start": 16.38,
+      "end": 18.26,
+      "text": "Se volvió un misanthropo."
+    },
+    {
+      "start": 18.26,
+      "end": 22.46,
+      "text": "Usa la para describir a quien evita los demás por desconfianza o decepción."
+    },
+    {
+      "start": 22.46,
+      "end": 23.62,
+      "text": "Expande tu lenguaje."
+    }
+  ]
+}
