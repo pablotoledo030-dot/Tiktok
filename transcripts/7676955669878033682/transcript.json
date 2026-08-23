@@ -1,0 +1,148 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 111.2946875,
+  "text": "Como instalar Hermes Hagen la mejor inteligencia artilización del momento que combina Cloud Code con Codex. Vamos a venir a Hermes YonEy.net y vamos a instalar a hacer clic en este botón. Bueno, acá elegimos el sistema operativo que tengamos y hacemos clic. Una vez que hacemos eso se nos va a desplegar esta sección para poder instalarlo de forma correcta, vamos a hacer clic en install Hermes y vamos a esperar a que termina hacer este proceso de forma automática sin que yo tenga que hacer nada más. Una vez que terminamos que fueron dos minutos hacemos clic en lanzar a gente. Y acá se me va a descargar la aplicación y se me va a abrir esta pantalla. Automáticamente Hermes empieza a armar todo el setup, empieza a ver todos mis repositorios, todos mis archivos locales, empieza a ver si tengo instalado algunos aplicativos y por si solo lo hace automáticamente, acá ya el terminó y está empezando a lanzar el propio agente. Ok, acá terminó de instalarlo, vamos a ponerle permitir a Hermes y acá te va a dar la opción de cómo conectar tu agente de Hermes una de las suscripciones que hemos elijas. Yo te recomiendo o yo por lo menos la voy a hacer con OpenAID de Chatchipit. Y la vamos a conectar. Una vez que hago clic en Chatchipit, se me va a abrir una sección para conectarlo con mi Chatchipit. Vamos a darle los permisos. Bien, una vez que le puedo continuar, Hermes me va a dar un código que lo voy a venir a copiar. Acá vamos a hacer clic, creo que ahí se copió. Está. Pegamos el código y ya Hermes está conectado a mi Chatchipit. Venimos, hacemos OpenAID de vuelta, se abre la sección. Y listo en menos de cinco minutos, ya tengo a mi Hermes conectado mi computadora, tiene acceso a toda mi computadora, a todo mi repositorio en GitHub y ya puedo empezar a trabajar con él.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.48,
+      "text": "Como instalar Hermes Hagen la mejor inteligencia artilización del momento que combina Cloud Code con Codex."
+    },
+    {
+      "start": 5.48,
+      "end": 10.92,
+      "text": "Vamos a venir a Hermes YonEy.net y vamos a instalar a hacer clic en este botón."
+    },
+    {
+      "start": 10.92,
+      "end": 15.24,
+      "text": "Bueno, acá elegimos el sistema operativo que tengamos y hacemos clic."
+    },
+    {
+      "start": 15.24,
+      "end": 20.76,
+      "text": "Una vez que hacemos eso se nos va a desplegar esta sección para poder instalarlo de forma correcta,"
+    },
+    {
+      "start": 20.76,
+      "end": 26.84,
+      "text": "vamos a hacer clic en install Hermes y vamos a esperar a que termina hacer este proceso de forma automática"
+    },
+    {
+      "start": 26.84,
+      "end": 28.72,
+      "text": "sin que yo tenga que hacer nada más."
+    },
+    {
+      "start": 28.8,
+      "end": 33.96,
+      "text": "Una vez que terminamos que fueron dos minutos hacemos clic en lanzar a gente."
+    },
+    {
+      "start": 33.96,
+      "end": 37.36,
+      "text": "Y acá se me va a descargar la aplicación y se me va a abrir esta pantalla."
+    },
+    {
+      "start": 39.44,
+      "end": 42.48,
+      "text": "Automáticamente Hermes empieza a armar todo el setup,"
+    },
+    {
+      "start": 42.48,
+      "end": 45.76,
+      "text": "empieza a ver todos mis repositorios, todos mis archivos locales,"
+    },
+    {
+      "start": 45.76,
+      "end": 51.4,
+      "text": "empieza a ver si tengo instalado algunos aplicativos y por si solo lo hace automáticamente,"
+    },
+    {
+      "start": 51.4,
+      "end": 56.4,
+      "text": "acá ya el terminó y está empezando a lanzar el propio agente."
+    },
+    {
+      "start": 56.44,
+      "end": 60.68,
+      "text": "Ok, acá terminó de instalarlo, vamos a ponerle permitir a Hermes"
+    },
+    {
+      "start": 60.68,
+      "end": 64.36,
+      "text": "y acá te va a dar la opción de cómo conectar tu agente de Hermes"
+    },
+    {
+      "start": 64.36,
+      "end": 66.84,
+      "text": "una de las suscripciones que hemos elijas."
+    },
+    {
+      "start": 66.84,
+      "end": 70.48,
+      "text": "Yo te recomiendo o yo por lo menos la voy a hacer con OpenAID de Chatchipit."
+    },
+    {
+      "start": 70.48,
+      "end": 71.64,
+      "text": "Y la vamos a conectar."
+    },
+    {
+      "start": 72.64,
+      "end": 77.28,
+      "text": "Una vez que hago clic en Chatchipit, se me va a abrir una sección para conectarlo con mi Chatchipit."
+    },
+    {
+      "start": 77.28,
+      "end": 79.0,
+      "text": "Vamos a darle los permisos."
+    },
+    {
+      "start": 79.0,
+      "end": 81.28,
+      "text": "Bien, una vez que le puedo continuar,"
+    },
+    {
+      "start": 81.28,
+      "end": 85.12,
+      "text": "Hermes me va a dar un código que lo voy a venir a copiar."
+    },
+    {
+      "start": 85.16,
+      "end": 88.4,
+      "text": "Acá vamos a hacer clic, creo que ahí se copió."
+    },
+    {
+      "start": 89.4,
+      "end": 90.24,
+      "text": "Está."
+    },
+    {
+      "start": 90.24,
+      "end": 96.24,
+      "text": "Pegamos el código y ya Hermes está conectado a mi Chatchipit."
+    },
+    {
+      "start": 96.24,
+      "end": 100.6,
+      "text": "Venimos, hacemos OpenAID de vuelta, se abre la sección."
+    },
+    {
+      "start": 100.6,
+      "end": 105.08,
+      "text": "Y listo en menos de cinco minutos, ya tengo a mi Hermes conectado mi computadora,"
+    },
+    {
+      "start": 105.08,
+      "end": 109.2,
+      "text": "tiene acceso a toda mi computadora, a todo mi repositorio en GitHub"
+    },
+    {
+      "start": 109.2,
+      "end": 111.2,
+      "text": "y ya puedo empezar a trabajar con él."
+    }
+  ]
+}
