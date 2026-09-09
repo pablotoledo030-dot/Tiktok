@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 47.0218125,
+  "text": "La primera, vamos a Blocko a una lesta alimentaria. Vamos a cortar este material de tu cara. El siguiente lente de la base es un primer sol que están cocinando. En este caso, los herbaceos también quedan volviendo al curbio. Luego, después de los montañones, la serie de plios biblioteces, se facilita también de cocinar el acorde y seleccionar el adentro. En la siguiente, la resultado de la base es una torre de búsqueda. estáis haciendo ennio.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "La primera, vamos a Blocko a una lesta alimentaria."
+    },
+    {
+      "start": 6.06,
+      "end": 8.72,
+      "text": "Vamos a cortar este material de tu cara."
+    },
+    {
+      "start": 9.12,
+      "end": 12.4,
+      "text": "El siguiente lente de la base es un primer sol que están cocinando."
+    },
+    {
+      "start": 12.4,
+      "end": 16.2,
+      "text": "En este caso, los herbaceos también quedan volviendo al curbio."
+    },
+    {
+      "start": 16.2,
+      "end": 19.5,
+      "text": "Luego, después de los montañones, la serie de plios biblioteces,"
+    },
+    {
+      "start": 20.1,
+      "end": 23.72,
+      "text": "se facilita también de cocinar el acorde y seleccionar el adentro."
+    },
+    {
+      "start": 23.96,
+      "end": 27.64,
+      "text": "En la siguiente, la resultado de la base es una torre de búsqueda."
+    },
+    {
+      "start": 27.64,
+      "end": 47.3,
+      "text": "estáis haciendo ennio."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 44.4211875,
+  "text": "He estado probando la inteligencia artificial, especialmente con Cloud y me he puesto a ser un parte cosa nueva, como un RPG, un juego, en donde me puse a hacer unos personajes y también un mapa acá con el Cloud, y estoy aprovechando porque en verdad lo hace Cloud, yo solo le digo lo que quiero y él maneja el software, en este caso el code, que es pasar juego. Lo mismo uno lo puede hacer con el Unreal Engine, incluso con Blender, es pasar diseño o pasar animaciones. Los detalles los he ido arreglando en Fotopia, que es un fotochoponline, que anda bastante bien. En la gracia es que en verdad voy a combinar el juego con algo de música, con algo de historia, así que hay más adelante cuando lo tengan poco más avanzado, voy a ir suyendo actualizaciones más entretenidas, tal vez.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "He estado probando la inteligencia artificial, especialmente con Cloud"
+    },
+    {
+      "start": 3.42,
+      "end": 7.56,
+      "text": "y me he puesto a ser un parte cosa nueva, como un RPG, un juego,"
+    },
+    {
+      "start": 7.56,
+      "end": 12.76,
+      "text": "en donde me puse a hacer unos personajes y también un mapa acá con el Cloud,"
+    },
+    {
+      "start": 12.76,
+      "end": 15.42,
+      "text": "y estoy aprovechando porque en verdad lo hace Cloud,"
+    },
+    {
+      "start": 15.42,
+      "end": 19.26,
+      "text": "yo solo le digo lo que quiero y él maneja el software,"
+    },
+    {
+      "start": 19.26,
+      "end": 22.22,
+      "text": "en este caso el code, que es pasar juego."
+    },
+    {
+      "start": 22.22,
+      "end": 24.32,
+      "text": "Lo mismo uno lo puede hacer con el Unreal Engine,"
+    },
+    {
+      "start": 24.32,
+      "end": 27.44,
+      "text": "incluso con Blender, es pasar diseño o pasar animaciones."
+    },
+    {
+      "start": 27.44,
+      "end": 30.14,
+      "text": "Los detalles los he ido arreglando en Fotopia,"
+    },
+    {
+      "start": 30.14,
+      "end": 33.36,
+      "text": "que es un fotochoponline, que anda bastante bien."
+    },
+    {
+      "start": 33.36,
+      "end": 36.66,
+      "text": "En la gracia es que en verdad voy a combinar el juego con algo de música,"
+    },
+    {
+      "start": 36.66,
+      "end": 41.12,
+      "text": "con algo de historia, así que hay más adelante cuando lo tengan poco más avanzado,"
+    },
+    {
+      "start": 41.12,
+      "end": 44.32,
+      "text": "voy a ir suyendo actualizaciones más entretenidas, tal vez."
+    }
+  ]
+}
