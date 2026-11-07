@@ -1,0 +1,33 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 35.969125,
+  "text": "En cuanto a separatos eléctricos, crees que caben en una furgo de 2 metros cuadrados. Tengo nevera compresor de 15 litros, unas martiví de 25 pulgadas, ventiladores, lamparantimos quitos, más lamparas y lucesled. Hasta mi cafeteras eléctrica también llevó una batidora, el portátil, porque desde aquí también trabajo, el drone y mi cámara para grabar los viajes. Incluso llevo Starlink para tener internet cuando no tengo cobertura y obviamente una aspiradora. Y como cargo todo esto con una estación de energía y placasolares, ¿cuál te sorprende más que lleve un aforgo?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "En cuanto a separatos eléctricos, crees que caben en una furgo de 2 metros cuadrados."
+    },
+    {
+      "start": 4.2,
+      "end": 13.88,
+      "text": "Tengo nevera compresor de 15 litros, unas martiví de 25 pulgadas, ventiladores, lamparantimos quitos, más lamparas y lucesled."
+    },
+    {
+      "start": 13.88,
+      "end": 23.4,
+      "text": "Hasta mi cafeteras eléctrica también llevó una batidora, el portátil, porque desde aquí también trabajo, el drone y mi cámara para grabar los viajes."
+    },
+    {
+      "start": 23.4,
+      "end": 29.36,
+      "text": "Incluso llevo Starlink para tener internet cuando no tengo cobertura y obviamente una aspiradora."
+    },
+    {
+      "start": 29.36,
+      "end": 35.92,
+      "text": "Y como cargo todo esto con una estación de energía y placasolares, ¿cuál te sorprende más que lleve un aforgo?"
+    }
+  ]
+}
