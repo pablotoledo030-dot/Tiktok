@@ -1,0 +1,43 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 47.0218125,
+  "text": "si quieres que el master tiene tu computador simplemente pídezelo en un texto tú le escribes que tome tu computador via terminal y preocupate de tener un modelo conectado con tokens ahí voy a subir un vídeo tenemos ese modelo gratis el lapse tenemos open code free una capa importante tenemos en vidia gratis no necesitas pagarle toque en sanay y no es técnico porque no soy ingeniero formático ni soy programador sólo pídele a la idea de manera conversacional",
+  "segments": [
+    {
+      "start": 1.07,
+      "end": 8.39,
+      "text": "si quieres que el master tiene tu computador simplemente pídezelo en un texto"
+    },
+    {
+      "start": 8.39,
+      "end": 16.47,
+      "text": "tú le escribes que tome tu computador via terminal y preocupate de tener un modelo"
+    },
+    {
+      "start": 16.47,
+      "end": 22.67,
+      "text": "conectado con tokens ahí voy a subir un vídeo"
+    },
+    {
+      "start": 22.67,
+      "end": 31.11,
+      "text": "tenemos ese modelo gratis el lapse tenemos open code free una capa importante"
+    },
+    {
+      "start": 31.11,
+      "end": 39.31,
+      "text": "tenemos en vidia gratis no necesitas pagarle toque en sanay y no es técnico"
+    },
+    {
+      "start": 39.31,
+      "end": 44.23,
+      "text": "porque no soy ingeniero formático ni soy programador sólo pídele a la"
+    },
+    {
+      "start": 44.23,
+      "end": 51.23,
+      "text": "idea de manera conversacional"
+    }
+  ]
+}

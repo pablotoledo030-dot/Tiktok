@@ -1,0 +1,158 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 176.8678125,
+  "text": "Bueno gente, hemos hecho el corazón a través de acá, que hace favor de escuchar van a cozar vengo acá a darme opinión con todo el tema que hay del tema de los Arneces, ven y que pasa con los Arneces en el mundo de la IA en la época actual y te voy a hacer muy fácil de esto haber un vídeo enorme, bien compro de bajas documentaciones y demás pero voy a darme opinión lo más rápido posible, empecemos con el tema de Ankle Bob, quiero que le dan su tweet, él dice, desde que dejé de usar mi conjunto de Arneces, ahora gastó mucho menos tokens, acto seguido dice, ese Arnez era muy ineficiente, quiero que entregar a su repositor y se van a dar cuenta que él hizo una bifurucación en su sistema de Arneces, en su arm forch, que es lo que hizo, en vez de tener ahora seis agentes, dándole durísimo, lo ha acotado para otro tipo de tareas, resumen ha hecho una categorización y dependiendo de eso ahora trabaja gastando menos, bien empezamos por ahí, segundo, una Arnez es muy muy importante y sí, voy a reducir los tokens y los explicar cómo y con un ejemplo muy rápido, vamos a empezar con GVT Luna, pero se acuerdan de GVT Luna, hizo un descuento de los 80% de su coste y aumentó un poco de performance, ¿por qué? ¿por qué hicieron? Aparte, muchos otras cosas también, un cambio dentro de sus Arneces, bien, que mejoro muchísimo, muchísimo la performance, además de eso, una de las tareas más complejas y más cansadores y que gastan más tokens es el uso repetitivo de contexto, quiero que vean por qué están difíciles en benchmarks y por qué no pueden no hay que confiar tanto los benchmarks y es porque una cosa es llegar al objetivo y otra cosa es cuántos tokens gastó para llegar al objetivo, pero eso no se valoró también en el tiempo, ustedes piensen un one-shot, pero duró 27 horas ejecutando para hacer ese one-shot, ¿caso vas a tener tokens? O no, ahora si yo no hubiera usado Arnez y hubiera estado 37 horas ejecutando para poder llegar al objetivo, ¿por qué? Porque me dijo, ¿ya está listo? Había problemas, ¿ya está listo? Había problemas, eso es un tipo de medición, por ella llegar al objetivo es bastante subjetivo, ¿viene? Entonces, gente, lo que tienen que saber acá es que sean críticos, ven y que no les ven nada más, justamente muchas de estas cosas que yo estoy hablando es el porque estamos prácticamente sacando ese de gente lea y lo vamos a seguir ofreciendo, pero no es de manera, y introducimos el concepto de ODD o organic driving development, porque gente, los modelos son distintos, la burocracia ya es demasiado y no vale la pena, entonces ODD lo que trata de hacer es categorizar y según justamente la criticidad de lo que estamos implementando, es como se va a comportar, no de mojante éxito, ¡huuuu!",
+  "segments": [
+    {
+      "start": 1.23,
+      "end": 5.07,
+      "text": "Bueno gente, hemos hecho el corazón a través de acá, que hace favor de escuchar"
+    },
+    {
+      "start": 5.07,
+      "end": 9.07,
+      "text": "van a cozar vengo acá a darme opinión con todo el tema que hay del tema de los"
+    },
+    {
+      "start": 9.07,
+      "end": 14.11,
+      "text": "Arneces, ven y que pasa con los Arneces en el mundo de la IA en la época actual y"
+    },
+    {
+      "start": 14.11,
+      "end": 18.63,
+      "text": "te voy a hacer muy fácil de esto haber un vídeo enorme, bien compro de bajas"
+    },
+    {
+      "start": 18.63,
+      "end": 21.99,
+      "text": "documentaciones y demás pero voy a darme opinión lo más rápido posible,"
+    },
+    {
+      "start": 21.99,
+      "end": 28.35,
+      "text": "empecemos con el tema de Ankle Bob, quiero que le dan su tweet, él dice, desde que dejé de usar mi"
+    },
+    {
+      "start": 28.35,
+      "end": 35.55,
+      "text": "conjunto de Arneces, ahora gastó mucho menos tokens, acto seguido dice, ese Arnez"
+    },
+    {
+      "start": 35.55,
+      "end": 40.35,
+      "text": "era muy ineficiente, quiero que entregar a su repositor y se van a dar cuenta que él hizo una"
+    },
+    {
+      "start": 40.35,
+      "end": 45.63,
+      "text": "bifurucación en su sistema de Arneces, en su arm forch, que es lo que hizo, en vez de tener"
+    },
+    {
+      "start": 45.63,
+      "end": 49.99,
+      "text": "ahora seis agentes, dándole durísimo, lo ha acotado para otro tipo de tareas,"
+    },
+    {
+      "start": 49.99,
+      "end": 56.03,
+      "text": "resumen ha hecho una categorización y dependiendo de eso ahora trabaja gastando menos,"
+    },
+    {
+      "start": 56.03,
+      "end": 64.03,
+      "text": "bien empezamos por ahí, segundo, una Arnez es muy muy importante y sí, voy a reducir los tokens y"
+    },
+    {
+      "start": 64.03,
+      "end": 70.35,
+      "text": "los explicar cómo y con un ejemplo muy rápido, vamos a empezar con GVT Luna, pero se"
+    },
+    {
+      "start": 70.35,
+      "end": 76.79,
+      "text": "acuerdan de GVT Luna, hizo un descuento de los 80% de su coste y aumentó un poco de performance,"
+    },
+    {
+      "start": 76.79,
+      "end": 82.43,
+      "text": "¿por qué? ¿por qué hicieron? Aparte, muchos otras cosas también, un cambio dentro de sus Arneces,"
+    },
+    {
+      "start": 82.43,
+      "end": 90.95,
+      "text": "bien, que mejoro muchísimo, muchísimo la performance, además de eso, una de las tareas más complejas y"
+    },
+    {
+      "start": 90.95,
+      "end": 97.79,
+      "text": "más cansadores y que gastan más tokens es el uso repetitivo de contexto, quiero que vean por qué"
+    },
+    {
+      "start": 97.79,
+      "end": 101.67,
+      "text": "están difíciles en benchmarks y por qué no pueden no hay que confiar tanto los benchmarks y es"
+    },
+    {
+      "start": 101.67,
+      "end": 108.95,
+      "text": "porque una cosa es llegar al objetivo y otra cosa es cuántos tokens gastó para llegar al objetivo,"
+    },
+    {
+      "start": 109.51,
+      "end": 116.99,
+      "text": "pero eso no se valoró también en el tiempo, ustedes piensen un one-shot, pero duró 27 horas"
+    },
+    {
+      "start": 116.99,
+      "end": 122.79,
+      "text": "ejecutando para hacer ese one-shot, ¿caso vas a tener tokens? O no, ahora si yo no hubiera"
+    },
+    {
+      "start": 122.79,
+      "end": 128.55,
+      "text": "usado Arnez y hubiera estado 37 horas ejecutando para poder llegar al objetivo, ¿por qué? Porque me dijo,"
+    },
+    {
+      "start": 128.55,
+      "end": 135.35,
+      "text": "¿ya está listo? Había problemas, ¿ya está listo? Había problemas, eso es un tipo de medición,"
+    },
+    {
+      "start": 136.07,
+      "end": 142.47,
+      "text": "por ella llegar al objetivo es bastante subjetivo, ¿viene? Entonces, gente, lo que tienen que saber"
+    },
+    {
+      "start": 142.47,
+      "end": 147.47,
+      "text": "acá es que sean críticos, ven y que no les ven nada más, justamente muchas de estas cosas que"
+    },
+    {
+      "start": 147.47,
+      "end": 153.91,
+      "text": "yo estoy hablando es el porque estamos prácticamente sacando ese de gente lea y lo vamos a seguir ofreciendo,"
+    },
+    {
+      "start": 153.91,
+      "end": 160.75,
+      "text": "pero no es de manera, y introducimos el concepto de ODD o organic driving development, porque gente,"
+    },
+    {
+      "start": 161.71,
+      "end": 168.47,
+      "text": "los modelos son distintos, la burocracia ya es demasiado y no vale la pena, entonces ODD lo que"
+    },
+    {
+      "start": 168.47,
+      "end": 174.15,
+      "text": "trata de hacer es categorizar y según justamente la criticidad de lo que estamos implementando, es como"
+    },
+    {
+      "start": 174.15,
+      "end": 176.07,
+      "text": "se va a comportar, no de mojante éxito, ¡huuuu!"
+    }
+  ]
+}

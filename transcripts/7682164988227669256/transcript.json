@@ -1,0 +1,88 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 41.959875,
+  "text": "Si está creando proyectos en Cloud Code, hay algo que probar a la mente está dejando para el final. La seguridad, este SQL está enfugada justamente para revisar un proyecto antes de publicarlo o lanzarlo a la producción. Puede ayudarte a buscar cosas como la de las expuestas, datos sensibles, trabajos que no están validando dependencias riegozas o problemas de autenticación. La gracia que no tiene que acordarte de revisar 20 cosas manualmente. Le da a Saklao un procedimiento específico para hacer esa revisión. Cloud puede escribir código muy rápido, pero eso no significa que el primer código que genere este listo para lanzarlo. Yo lo utilizo en todos mis proyectos. Dejo la esquila en el primer comentario o arreglado porque te aseguro que esta esquila va a querer utilizar al final de cada proyecto. Y de eso, utiliza esta información. Ayúdame con un comentario. Saludos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "Si está creando proyectos en Cloud Code, hay algo que probar a la mente está dejando"
+    },
+    {
+      "start": 3.92,
+      "end": 4.92,
+      "text": "para el final."
+    },
+    {
+      "start": 4.92,
+      "end": 9.32,
+      "text": "La seguridad, este SQL está enfugada justamente para revisar un proyecto antes de publicarlo"
+    },
+    {
+      "start": 9.32,
+      "end": 10.4,
+      "text": "o lanzarlo a la producción."
+    },
+    {
+      "start": 10.4,
+      "end": 14.08,
+      "text": "Puede ayudarte a buscar cosas como la de las expuestas, datos sensibles, trabajos que"
+    },
+    {
+      "start": 14.08,
+      "end": 18.32,
+      "text": "no están validando dependencias riegozas o problemas de autenticación."
+    },
+    {
+      "start": 18.32,
+      "end": 21.72,
+      "text": "La gracia que no tiene que acordarte de revisar 20 cosas manualmente."
+    },
+    {
+      "start": 21.72,
+      "end": 24.84,
+      "text": "Le da a Saklao un procedimiento específico para hacer esa revisión."
+    },
+    {
+      "start": 24.84,
+      "end": 28.6,
+      "text": "Cloud puede escribir código muy rápido, pero eso no significa que el primer código que"
+    },
+    {
+      "start": 28.6,
+      "end": 30.28,
+      "text": "genere este listo para lanzarlo."
+    },
+    {
+      "start": 30.28,
+      "end": 31.8,
+      "text": "Yo lo utilizo en todos mis proyectos."
+    },
+    {
+      "start": 31.8,
+      "end": 36.12,
+      "text": "Dejo la esquila en el primer comentario o arreglado porque te aseguro que esta esquila"
+    },
+    {
+      "start": 36.12,
+      "end": 38.72,
+      "text": "va a querer utilizar al final de cada proyecto."
+    },
+    {
+      "start": 38.72,
+      "end": 39.92,
+      "text": "Y de eso, utiliza esta información."
+    },
+    {
+      "start": 39.92,
+      "end": 41.2,
+      "text": "Ayúdame con un comentario."
+    },
+    {
+      "start": 41.2,
+      "end": 41.72,
+      "text": "Saludos."
+    }
+  ]
+}

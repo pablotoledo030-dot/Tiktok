@@ -1,0 +1,118 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 59.0033125,
+  "text": "¡Cloz ha matado a los Motion Designers! Ahora puedes crear las animaciones de tus vídeos desde cero sin salir de Cloth, te enseño como. Abre Cloth Code y pega este comando. Instala las Esquils Obiciales de Remotion. Remotion es una herramienta para hacer vídeo con código. Y escribir código es justo lo que mejor hace Cloth, además es gratis y trabaja solo. Después pidele que te cree una esquil con tu estilo. ¡Tus colores, tu tipografía y tu ritmo! Así todas tus animaciones parecen de la misma marca. Y ahora lo que casi nadie cuenta, yo hice la misma animación 5 veces. Unas con ojo 5.5. Otras con sonet 5.5. Y ganos sonet, que es el barato, porque el truco no es el modelo. Es como se lo pides. Al de tres cosas, pasale un vídeo que te guste como referencia. Describete la escena paso a paso como un director. Y pídele que mire sus propios fotogramas y se corrijan. Lo que estás viendo ahora mismo, lo ha hecho sonet. He juntado el comando los prompts y mi esquil de estilo en una guía. ¿Tú crees que esto dejas sin trabajo a los Motion Designers? La guía está en mi perfil.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Cloz ha matado a los Motion Designers!"
+    },
+    {
+      "start": 2.0,
+      "end": 6.8,
+      "text": "Ahora puedes crear las animaciones de tus vídeos desde cero sin salir de Cloth, te enseño como."
+    },
+    {
+      "start": 6.8,
+      "end": 8.8,
+      "text": "Abre Cloth Code y pega este comando."
+    },
+    {
+      "start": 8.8,
+      "end": 11.0,
+      "text": "Instala las Esquils Obiciales de Remotion."
+    },
+    {
+      "start": 11.0,
+      "end": 13.8,
+      "text": "Remotion es una herramienta para hacer vídeo con código."
+    },
+    {
+      "start": 13.8,
+      "end": 17.8,
+      "text": "Y escribir código es justo lo que mejor hace Cloth, además es gratis y trabaja solo."
+    },
+    {
+      "start": 17.8,
+      "end": 20.4,
+      "text": "Después pidele que te cree una esquil con tu estilo."
+    },
+    {
+      "start": 20.4,
+      "end": 23.0,
+      "text": "¡Tus colores, tu tipografía y tu ritmo!"
+    },
+    {
+      "start": 23.0,
+      "end": 25.6,
+      "text": "Así todas tus animaciones parecen de la misma marca."
+    },
+    {
+      "start": 25.6,
+      "end": 27.4,
+      "text": "Y ahora lo que casi nadie cuenta,"
+    },
+    {
+      "start": 27.4,
+      "end": 29.4,
+      "text": "yo hice la misma animación 5 veces."
+    },
+    {
+      "start": 29.4,
+      "end": 31.2,
+      "text": "Unas con ojo 5.5."
+    },
+    {
+      "start": 31.2,
+      "end": 33.0,
+      "text": "Otras con sonet 5.5."
+    },
+    {
+      "start": 33.0,
+      "end": 36.0,
+      "text": "Y ganos sonet, que es el barato, porque el truco no es el modelo."
+    },
+    {
+      "start": 36.0,
+      "end": 37.4,
+      "text": "Es como se lo pides."
+    },
+    {
+      "start": 37.4,
+      "end": 40.6,
+      "text": "Al de tres cosas, pasale un vídeo que te guste como referencia."
+    },
+    {
+      "start": 40.6,
+      "end": 43.2,
+      "text": "Describete la escena paso a paso como un director."
+    },
+    {
+      "start": 43.2,
+      "end": 46.0,
+      "text": "Y pídele que mire sus propios fotogramas y se corrijan."
+    },
+    {
+      "start": 46.0,
+      "end": 48.6,
+      "text": "Lo que estás viendo ahora mismo, lo ha hecho sonet."
+    },
+    {
+      "start": 48.6,
+      "end": 52.0,
+      "text": "He juntado el comando los prompts y mi esquil de estilo en una guía."
+    },
+    {
+      "start": 52.0,
+      "end": 55.2,
+      "text": "¿Tú crees que esto dejas sin trabajo a los Motion Designers?"
+    },
+    {
+      "start": 55.2,
+      "end": 56.8,
+      "text": "La guía está en mi perfil."
+    }
+  ]
+}

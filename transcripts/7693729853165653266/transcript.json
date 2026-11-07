@@ -1,0 +1,48 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 34.436625,
+  "text": "Hola, soy Rob y creé esta cuenta para conectar con gente como tú, a la que probablemente le interesa la inteligencia artificial los datos y la tecnología. Llevo más de 10 años trabajando en esto, tanto en Chile como en Australia y quiero compartir contigo el proceso, lo que he aprendido y para que podamos juntos entender mejor cómo funcionan este tipo de tecnologías. ¿Cómo usarlas en el trabajo o en tu día a día? Y también conocer cómo otras personas la están utilizando. Así que si te interesan estos datos, darle al botón de seguir y sigamos aprendiendo juntos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hola, soy Rob y creé esta cuenta para conectar con gente como tú,"
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "a la que probablemente le interesa la inteligencia artificial los datos y la tecnología."
+    },
+    {
+      "start": 9.0,
+      "end": 13.4,
+      "text": "Llevo más de 10 años trabajando en esto, tanto en Chile como en Australia"
+    },
+    {
+      "start": 13.4,
+      "end": 18.6,
+      "text": "y quiero compartir contigo el proceso, lo que he aprendido y para que podamos juntos"
+    },
+    {
+      "start": 18.6,
+      "end": 21.8,
+      "text": "entender mejor cómo funcionan este tipo de tecnologías."
+    },
+    {
+      "start": 21.8,
+      "end": 24.7,
+      "text": "¿Cómo usarlas en el trabajo o en tu día a día?"
+    },
+    {
+      "start": 24.7,
+      "end": 28.3,
+      "text": "Y también conocer cómo otras personas la están utilizando."
+    },
+    {
+      "start": 28.3,
+      "end": 33.3,
+      "text": "Así que si te interesan estos datos, darle al botón de seguir y sigamos aprendiendo juntos."
+    }
+  ]
+}

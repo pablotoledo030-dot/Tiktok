@@ -1,0 +1,78 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 71.40275,
+  "text": "Te la puedo arreglar, claro que puedo, soy mecánico, hayan de mecániker, pero... Te puedo hacer presupuesto, te lo tienes que pagar aparte Federico. Vamos a ver, vamos a ver cara al fombra, escucha una cosa. ¿Escucham? Escucham una cosa. Tú me traes esta tarde del coche, yo te arreglo el aire y le echamos un vistacito a la radio, ¿de acuerdo? Pero esto te voy a tener que cobrar la hora de trabajo. No, sí que lo voy a hacer, sí que lo voy a hacer. Me da yo traigo del coche y a pierdo mi tiempo. ¿Escucham una cosa? No me grites. Bueno yo por ahí no paso, no sé cuánta vez este lo tengo que decir. Yo sé que no paso. Escúchame, ya me estás cabreando. ¿Vale? Ya me estás cabreando.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Te la puedo arreglar, claro que puedo, soy mecánico, hayan de mecániker, pero..."
+    },
+    {
+      "start": 6.4,
+      "end": 10.1,
+      "text": "Te puedo hacer presupuesto, te lo tienes que pagar aparte Federico."
+    },
+    {
+      "start": 15.79,
+      "end": 18.59,
+      "text": "Vamos a ver, vamos a ver cara al fombra, escucha una cosa."
+    },
+    {
+      "start": 18.69,
+      "end": 19.59,
+      "text": "¿Escucham?"
+    },
+    {
+      "start": 23.74,
+      "end": 24.94,
+      "text": "Escucham una cosa."
+    },
+    {
+      "start": 26.88,
+      "end": 32.08,
+      "text": "Tú me traes esta tarde del coche, yo te arreglo el aire y le echamos un vistacito a la radio, ¿de acuerdo?"
+    },
+    {
+      "start": 33.08,
+      "end": 36.68,
+      "text": "Pero esto te voy a tener que cobrar la hora de trabajo."
+    },
+    {
+      "start": 40.96,
+      "end": 43.16,
+      "text": "No, sí que lo voy a hacer, sí que lo voy a hacer."
+    },
+    {
+      "start": 43.66,
+      "end": 46.06,
+      "text": "Me da yo traigo del coche y a pierdo mi tiempo."
+    },
+    {
+      "start": 46.36,
+      "end": 49.16,
+      "text": "¿Escucham una cosa? No me grites."
+    },
+    {
+      "start": 52.06,
+      "end": 55.56,
+      "text": "Bueno yo por ahí no paso, no sé cuánta vez este lo tengo que decir."
+    },
+    {
+      "start": 56.06,
+      "end": 65.88,
+      "text": "Yo sé que no paso."
+    },
+    {
+      "start": 66.18,
+      "end": 69.38,
+      "text": "Escúchame, ya me estás cabreando. ¿Vale?"
+    },
+    {
+      "start": 69.88,
+      "end": 71.38,
+      "text": "Ya me estás cabreando."
+    }
+  ]
+}

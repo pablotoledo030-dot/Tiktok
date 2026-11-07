@@ -1,0 +1,118 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 76.5111875,
+  "text": "Me retiro de cloud, oficialmente dejo de pagar los 100 dólares de cloud de max y solo voy a pagar la su t20. Este mes vamos a probar cloud de pro para planificar y otros modelos para codificar, así que probemos. Primero que todo un cafecito y ya saben que mi arte tecta los pagos con Apple Pie y lo registra por mi. Los que quieran saber como se hace, escribanme. Vamos a desarrollar una función que registra rápidamente un gasto al dar dos golpesitos en la parte trasera del teléfono. Vamos a pedirle a cloud con opus 5 que analice y planelo que debemos considerar para desarrollar esta funcionalidad. Nuestra documentación es bastante extensa. Esto facilita que nuestros prompts no sean tan largos y el modelo sepaya del contexto de la app. Tenemos el plan. Lo analizamos y pinta bien así que vamos a ejecutar. Mandamos a codificar con oponcódig.3.8 max. Tardón unos 15 minutos. Compilamos y probamos. Que dicen, funcionará la primera, le tienen fe. Primero configuramos las acciones a realizarse cuando se acción el doble tip. Y ahora, el momento de la verdad y al final un éxito. Funcionó y a la primera. Ahora queda revisar bien el código generado por el modelo. Ver un poco de agregarte y subir versión con este cambio. Recuerden que la app ya está disponible en las tiendas de IOC Android y estoy escuchando y leyendo atentamente los comentarios acerca de lo que quieran saber. Hasta la próxima.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.62,
+      "text": "Me retiro de cloud, oficialmente dejo de pagar los 100 dólares de cloud de max y solo voy a pagar la su t20."
+    },
+    {
+      "start": 5.62,
+      "end": 11.3,
+      "text": "Este mes vamos a probar cloud de pro para planificar y otros modelos para codificar, así que probemos."
+    },
+    {
+      "start": 11.3,
+      "end": 16.8,
+      "text": "Primero que todo un cafecito y ya saben que mi arte tecta los pagos con Apple Pie y lo registra por mi."
+    },
+    {
+      "start": 16.8,
+      "end": 19.34,
+      "text": "Los que quieran saber como se hace, escribanme."
+    },
+    {
+      "start": 19.34,
+      "end": 25.4,
+      "text": "Vamos a desarrollar una función que registra rápidamente un gasto al dar dos golpesitos en la parte trasera del teléfono."
+    },
+    {
+      "start": 25.4,
+      "end": 31.9,
+      "text": "Vamos a pedirle a cloud con opus 5 que analice y planelo que debemos considerar para desarrollar esta funcionalidad."
+    },
+    {
+      "start": 31.9,
+      "end": 34.4,
+      "text": "Nuestra documentación es bastante extensa."
+    },
+    {
+      "start": 34.4,
+      "end": 39.5,
+      "text": "Esto facilita que nuestros prompts no sean tan largos y el modelo sepaya del contexto de la app."
+    },
+    {
+      "start": 39.5,
+      "end": 40.6,
+      "text": "Tenemos el plan."
+    },
+    {
+      "start": 40.6,
+      "end": 43.3,
+      "text": "Lo analizamos y pinta bien así que vamos a ejecutar."
+    },
+    {
+      "start": 43.3,
+      "end": 46.6,
+      "text": "Mandamos a codificar con oponcódig.3.8 max."
+    },
+    {
+      "start": 46.6,
+      "end": 48.1,
+      "text": "Tardón unos 15 minutos."
+    },
+    {
+      "start": 48.1,
+      "end": 49.3,
+      "text": "Compilamos y probamos."
+    },
+    {
+      "start": 49.3,
+      "end": 52.3,
+      "text": "Que dicen, funcionará la primera, le tienen fe."
+    },
+    {
+      "start": 52.3,
+      "end": 56.1,
+      "text": "Primero configuramos las acciones a realizarse cuando se acción el doble tip."
+    },
+    {
+      "start": 56.1,
+      "end": 59.5,
+      "text": "Y ahora, el momento de la verdad y al final un éxito."
+    },
+    {
+      "start": 59.5,
+      "end": 61.0,
+      "text": "Funcionó y a la primera."
+    },
+    {
+      "start": 61.0,
+      "end": 64.0,
+      "text": "Ahora queda revisar bien el código generado por el modelo."
+    },
+    {
+      "start": 64.0,
+      "end": 67.4,
+      "text": "Ver un poco de agregarte y subir versión con este cambio."
+    },
+    {
+      "start": 67.4,
+      "end": 70.8,
+      "text": "Recuerden que la app ya está disponible en las tiendas de IOC Android"
+    },
+    {
+      "start": 70.8,
+      "end": 75.0,
+      "text": "y estoy escuchando y leyendo atentamente los comentarios acerca de lo que quieran saber."
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "text": "Hasta la próxima."
+    }
+  ]
+}

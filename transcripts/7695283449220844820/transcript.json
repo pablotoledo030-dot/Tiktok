@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 234.9859375,
+  "text": "Señor, aquí estoy cansado de mis propias batallas Mi voluntad se agota, mi alma te busca Ya no quiero ser yo, quiero ser un reflejo",
+  "segments": [
+    {
+      "start": 3.15,
+      "end": 6.79,
+      "text": "Señor, aquí estoy"
+    },
+    {
+      "start": 7.95,
+      "end": 10.39,
+      "text": "cansado de mis propias batallas"
+    },
+    {
+      "start": 11.87,
+      "end": 15.83,
+      "text": "Mi voluntad se agota, mi alma te busca"
+    },
+    {
+      "start": 17.43,
+      "end": 51.32,
+      "text": "Ya no quiero ser yo, quiero ser un reflejo"
+    }
+  ]
+}

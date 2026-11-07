@@ -1,0 +1,168 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 75.0250625,
+  "text": "La policía está fuera ahora mismo, orgando en mi negocio y si descubren algo que tengo que ver conmigo, mis amigos, te aseguro que lo vas a pasar mal. Mal, mal como que? Tú sácame de aquí. Hoy, ¿estás muerto? Oh, oh, oh, oh, por qué mi cliente está esposado? Este hombre es inocente. Es una víctima. ¿Por qué rayos está esposado? Tendremos los ojos en ti, entiendes, un resbalón. Solo uno. Bueno, yo creo que hice más de lo que pediste. Así que creo que estamos a mano. ¿Te llevo? Campamento. Y esperas que me crea eso. Sí, lo sé. Cosas qué hace la gente, ¿no? A alguien desijo que se fueran de campamento. A alguien desabirtió. No les gusta del aire libre. Sí. Tú me de la paz te y habrá consecuencias. Escuchas si alguien advirtió los que te mandó, tal vez fue porque le preocupaban los niños. Oye, no me necesitas de para que te atrapen. Mecino, identificó, fuiste descuillado. Si alguien tuvo la culpa, ¿no? ¿Ese fuiste tú? Y por cierto, ¿quién sea que haya advertido o los que? El mal lo sacó de aquí antes de quinceeras algo más estupido?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "La policía está fuera ahora mismo,"
+    },
+    {
+      "start": 1.8,
+      "end": 6.12,
+      "text": "orgando en mi negocio y si descubren algo que tengo que ver conmigo, mis amigos,"
+    },
+    {
+      "start": 6.12,
+      "end": 9.0,
+      "text": "te aseguro que lo vas a pasar mal."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Mal, mal como que?"
+    },
+    {
+      "start": 11.0,
+      "end": 12.8,
+      "text": "Tú sácame de aquí."
+    },
+    {
+      "start": 12.8,
+      "end": 14.6,
+      "text": "Hoy, ¿estás muerto?"
+    },
+    {
+      "start": 14.6,
+      "end": 17.0,
+      "text": "Oh, oh, oh, oh, por qué mi cliente está esposado?"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "Este hombre es inocente."
+    },
+    {
+      "start": 18.0,
+      "end": 19.6,
+      "text": "Es una víctima."
+    },
+    {
+      "start": 19.6,
+      "end": 21.6,
+      "text": "¿Por qué rayos está esposado?"
+    },
+    {
+      "start": 21.6,
+      "end": 24.6,
+      "text": "Tendremos los ojos en ti, entiendes, un resbalón."
+    },
+    {
+      "start": 24.6,
+      "end": 25.8,
+      "text": "Solo uno."
+    },
+    {
+      "start": 25.8,
+      "end": 29.6,
+      "text": "Bueno, yo creo que hice más de lo que pediste."
+    },
+    {
+      "start": 29.6,
+      "end": 32.0,
+      "text": "Así que creo que estamos a mano."
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "text": "¿Te llevo?"
+    },
+    {
+      "start": 33.0,
+      "end": 34.2,
+      "text": "Campamento."
+    },
+    {
+      "start": 34.2,
+      "end": 36.2,
+      "text": "Y esperas que me crea eso."
+    },
+    {
+      "start": 36.2,
+      "end": 38.0,
+      "text": "Sí, lo sé."
+    },
+    {
+      "start": 38.0,
+      "end": 40.6,
+      "text": "Cosas qué hace la gente, ¿no?"
+    },
+    {
+      "start": 40.6,
+      "end": 46.1,
+      "text": "A alguien desijo que se fueran de campamento."
+    },
+    {
+      "start": 46.1,
+      "end": 48.6,
+      "text": "A alguien desabirtió."
+    },
+    {
+      "start": 48.6,
+      "end": 50.4,
+      "text": "No les gusta del aire libre."
+    },
+    {
+      "start": 50.4,
+      "end": 51.2,
+      "text": "Sí."
+    },
+    {
+      "start": 51.2,
+      "end": 54.8,
+      "text": "Tú me de la paz te y habrá consecuencias."
+    },
+    {
+      "start": 54.8,
+      "end": 56.8,
+      "text": "Escuchas si alguien advirtió los que te mandó,"
+    },
+    {
+      "start": 56.8,
+      "end": 59.0,
+      "text": "tal vez fue porque le preocupaban los niños."
+    },
+    {
+      "start": 59.0,
+      "end": 61.4,
+      "text": "Oye, no me necesitas de para que te atrapen."
+    },
+    {
+      "start": 61.4,
+      "end": 64.6,
+      "text": "Mecino, identificó, fuiste descuillado."
+    },
+    {
+      "start": 64.6,
+      "end": 66.4,
+      "text": "Si alguien tuvo la culpa, ¿no?"
+    },
+    {
+      "start": 66.4,
+      "end": 67.4,
+      "text": "¿Ese fuiste tú?"
+    },
+    {
+      "start": 67.4,
+      "end": 70.8,
+      "text": "Y por cierto, ¿quién sea que haya advertido o los que?"
+    },
+    {
+      "start": 70.8,
+      "end": 74.8,
+      "text": "El mal lo sacó de aquí antes de quinceeras algo más estupido?"
+    }
+  ]
+}

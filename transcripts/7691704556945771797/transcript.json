@@ -1,0 +1,43 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 39.3128125,
+  "text": "hoy acabo a me cuenta que están regalando sonet5.5 para usarlo gratis e ilimitado hoy antes del dato de emeseir, ahí está la comunidad de escúl y si necesitan implementaría déjenme un mensajito, yo los ayudo hoy en algún minuto yo recomiendo esta página porque tenía disponible el modelo más potente de chat gptj y ahora liberaron sonet5.5 gratis, ustedes pueden utilizar este modelo como paratarea de texto, para páginas como software para crear MVP",
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 6.73,
+      "text": "hoy acabo a me cuenta que están regalando sonet5.5 para usarlo gratis e ilimitado"
+    },
+    {
+      "start": 6.73,
+      "end": 11.97,
+      "text": "hoy antes del dato de emeseir, ahí está la comunidad de escúl y si necesitan"
+    },
+    {
+      "start": 11.97,
+      "end": 15.53,
+      "text": "implementaría déjenme un mensajito, yo los ayudo"
+    },
+    {
+      "start": 15.53,
+      "end": 20.73,
+      "text": "hoy en algún minuto yo recomiendo esta página porque tenía disponible el modelo"
+    },
+    {
+      "start": 20.73,
+      "end": 27.17,
+      "text": "más potente de chat gptj y ahora liberaron sonet5.5"
+    },
+    {
+      "start": 27.17,
+      "end": 33.81,
+      "text": "gratis, ustedes pueden utilizar este modelo como paratarea de texto, para"
+    },
+    {
+      "start": 33.81,
+      "end": 40.13,
+      "text": "páginas como software para crear MVP"
+    }
+  ]
+}
