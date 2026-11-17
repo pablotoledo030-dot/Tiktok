@@ -1,0 +1,108 @@
+{
+  "language": "es",
+  "language_probability": 1,
+  "duration": 44.653375,
+  "text": "$725 al mes. A esta hace poco, si querías conseguir clientes por tu cuenta, tenías que armarte un stack de herramientas, tenías que entrar a Apollo.io para encontrar la persona, usa Hunter para sacar su correo, a Bify para escrepear, usa clay para juntarlos todo y para limpiarlo. Y cada una tenía un plan mensual. Tract, por eso mismo me llamo la atención. Hace otra cosa, es una especie de router. Si usas open router para los modelos, ya entiendes leeda. Una sola cuenta y tienes acceso a todo. Tract, hace lo mismo, pero con herramientas de más de 4.000, de 118 empresas que ya hacen esto. O sea, Apollo, Hunter, People, Data Labs y muchas, muchas más. Yo lo provee con una prueba chica y fueron 50 clínicas por 1.2 centavos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "$725 al mes."
+    },
+    {
+      "start": 2.5,
+      "end": 5.5,
+      "text": "A esta hace poco, si querías conseguir clientes por tu cuenta,"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "tenías que armarte un stack de herramientas,"
+    },
+    {
+      "start": 7.5,
+      "end": 11.5,
+      "text": "tenías que entrar a Apollo.io"
+    },
+    {
+      "start": 11.5,
+      "end": 13.18,
+      "text": "para encontrar la persona,"
+    },
+    {
+      "start": 13.18,
+      "end": 15.24,
+      "text": "usa Hunter para sacar su correo,"
+    },
+    {
+      "start": 15.24,
+      "end": 16.5,
+      "text": "a Bify para escrepear,"
+    },
+    {
+      "start": 16.5,
+      "end": 19.0,
+      "text": "usa clay para juntarlos todo y para limpiarlo."
+    },
+    {
+      "start": 19.0,
+      "end": 21.2,
+      "text": "Y cada una tenía un plan mensual."
+    },
+    {
+      "start": 21.2,
+      "end": 23.1,
+      "text": "Tract, por eso mismo me llamo la atención."
+    },
+    {
+      "start": 23.1,
+      "end": 25.5,
+      "text": "Hace otra cosa, es una especie de router."
+    },
+    {
+      "start": 25.5,
+      "end": 27.5,
+      "text": "Si usas open router para los modelos,"
+    },
+    {
+      "start": 27.5,
+      "end": 28.8,
+      "text": "ya entiendes leeda."
+    },
+    {
+      "start": 28.8,
+      "end": 30.5,
+      "text": "Una sola cuenta y tienes acceso a todo."
+    },
+    {
+      "start": 30.5,
+      "end": 31.5,
+      "text": "Tract, hace lo mismo,"
+    },
+    {
+      "start": 31.5,
+      "end": 33.7,
+      "text": "pero con herramientas de más de 4.000,"
+    },
+    {
+      "start": 33.7,
+      "end": 36.1,
+      "text": "de 118 empresas que ya hacen esto."
+    },
+    {
+      "start": 36.1,
+      "end": 37.8,
+      "text": "O sea, Apollo, Hunter,"
+    },
+    {
+      "start": 37.8,
+      "end": 40.3,
+      "text": "People, Data Labs y muchas, muchas más."
+    },
+    {
+      "start": 40.3,
+      "end": 44.3,
+      "text": "Yo lo provee con una prueba chica y fueron 50 clínicas por 1.2 centavos."
+    }
+  ]
+}
